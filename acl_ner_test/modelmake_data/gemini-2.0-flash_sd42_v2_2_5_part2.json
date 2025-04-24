@@ -1,0 +1,1021 @@
+[
+    {
+        "id": "Economy_5",
+        "domain": "Economy",
+        "title": "Economic_consulting",
+        "doc": "Economic consulting is the practice of providing advanced economic, financial, and statistical analysis for use in litigation, regulatory, and commercial environments. Law firms, state institutions, and other organizations may rely on economic consultants to produce research, analyses, reports, and testimony to be used in trial. Economic consulting also deals with various matters that require data-intensive analyses, such as macroeconomics research, program evaluation, policymaking, and commercial strategies. Economic consultants are typically required to possess knowledge of statistics, econometrics, and computer programming, given the data-oriented nature of economic consulting caseworks.  \nEconomic consulting consists of providing economic expertise in a variety of areas, including but not limited to antitrust; valuation; bankruptcy; energy; finance; healthcare; insurance; intellectual property; labor and employment; life sciences; cybersecurity; media and entertainment; and securities. Economic consulting firms often provide the support team when a client hires a law firm or economic expert. The expert—typically a professor or a senior member of an economic consulting firm—will provide economic consulting by, for example, analyzing competitive effects, calculating damages, and testifying to one’s expert opinion before a judge, jury, arbiter, or government enforcement agency.\nEconomic consulting began growing in the United States when, in 1936, the Department of Justice (DOJ) began employing economists to assist with its investigations and litigations of mergers and anti-competitive behavior. Economic consulting firms began providing assistance to the companies being investigated and being sued by government agencies and their economists, and they soon began providing assistance to government agencies as well.By the turn of the 21st century, economic consultancies had gained prominence, and their reports were often part of the court record and the basis for the court’s opinions. In the late 1990s, the DOJ, direct action plaintiffs, and class action plaintiffs sued an international cartel of vitamin manufacturers, accusing them of conspiring to inflate prices in what became the largest price-fixing case in US history at that time.  In the class certification phase, the judge’s opinion cited evidence from both plaintiff and defendant economic experts regarding common impact of damages, price trends, and the structure of the vitamins industry. This case was the first successful US prosecution of an international cartel. Within a few years, even the Supreme Court was considering economic consulting work products to decide its cases.\nEconomic consulting services are generally divided into four types of services: conducting research; performing statistical and empirical economic analysis; responding to the opposing expert’s work; and preparing an expert report and supporting the expert during trial. Consultants often begin by conducting research: they review materials provided in discovery, depositions, news articles, industry reports, and economic literature to gain industry knowledge and identify relevant information like the structure of the industry (e.g., competitors, relevant market size, competing products) and available data. This work may occur at the beginning of litigation or in a consulting or pre-litigation phase.Consultants perform empirical analysis, often developing complex regression models to determine factors such as the impact of a proposed merger or price increases due to anticompetitive behavior. Consultants further review the work of the other party in litigation, analyzing the validity of the opposing expert’s economic theory and analysis and often summarizing their expert’s work and opinions in an expert report. Finally, if the case goes to trial, consultants support the expert during trial.\nEconomic consultants are sometimes accused of using “junk science” to help their clients. In a 2016 speech, former Deputy Assistant Attorney General David Gelfand stated that economic consultancies often help him understand the complex economic issues underlying his cases. However, Gelfand also observed that some economic consulting presentations and reports rely on p-hacking (misusing data analysis to find patterns in data that can be presented as statistically significant) or misrepresent the evidence to support their client’s goals.A 2016 ProPublica article noted that economic consulting is a million-dollar industry, with top economic experts billing at over $1,000 an hour. Yet the experts’ reports are often confidential—meaning the public cannot scrutinize them—and their predictions often do not prove true. The article’s authors credit the economic consulting industry with the decline in merger enforcement and the rise in market concentration. Additional scrutiny has occurred when economic consulting firms have been found to be working on both sides of the same case.\n",
+        "label_set": [
+            "applies to jurisdiction",
+            "different from",
+            "follows",
+            "continent",
+            "board member",
+            "writing language",
+            "native language",
+            "influenced by",
+            "language of work or name",
+            "contains the administrative territorial entity",
+            "studied in",
+            "has effect",
+            "part of",
+            "chief executive officer",
+            "instance of",
+            "taxon range",
+            "main subject",
+            "named after",
+            "opposite of",
+            "shares border with",
+            "diplomatic relation",
+            "indigenous to",
+            "official language",
+            "significant event",
+            "time period",
+            "located in/on physical feature",
+            "currency",
+            "field of work",
+            "country of citizenship",
+            "followed by",
+            "capital",
+            "highest judicial authority",
+            "discoverer or inventor",
+            "capital of",
+            "subclass of",
+            "headquarters location",
+            "country",
+            "languages spoken, written or signed",
+            "occupation",
+            "has part(s)",
+            "country of origin",
+            "author",
+            "language used",
+            "developer"
+        ],
+        "entity_label_set": [
+            "facility",
+            "type of business",
+            "period",
+            "academic discipline",
+            "area of mathematics",
+            "biblical concept",
+            "scholarly article",
+            "buzzword",
+            "economic theory",
+            "work of art",
+            "common year",
+            "financial activity",
+            "hypothesis",
+            "profession",
+            "century",
+            "class of chemical substances by use",
+            "lifestyle",
+            "quantity",
+            "religious movement",
+            "language",
+            "event",
+            "role",
+            "age",
+            "television series episode",
+            "location",
+            "historical country",
+            "scientific journal",
+            "law",
+            "date",
+            "currency",
+            "syndrome",
+            "geographic region",
+            "literary work",
+            "economic activity",
+            "percent",
+            "economic indicator",
+            "nationality or religious or political group",
+            "economic sector",
+            "economic system",
+            "business",
+            "area of law",
+            "farming system",
+            "social class",
+            "geo-political entity",
+            "review aggregator",
+            "person",
+            "interdisciplinary science",
+            "taxon",
+            "concept",
+            "asset type",
+            "congressional research service report",
+            "money",
+            "chemical element",
+            "time",
+            "political ideology",
+            "decade",
+            "legal status",
+            "position",
+            "misc",
+            "organization",
+            "experiment",
+            "calendar year",
+            "material",
+            "doctoral thesis",
+            "essentially contested concept",
+            "product",
+            "industry",
+            "economic concept",
+            "collection",
+            "economic policy",
+            "human activity",
+            "written work",
+            "branch of science"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\n                \"economic consulting\"\n            ],\n            \"type\": \"economic activity\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\n                \"litigation\"\n            ],\n            \"type\": \"human activity\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\n                \"regulatory\"\n            ],\n            \"type\": \"economic policy\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\n                \"commercial environments\"\n            ],\n            \"type\": \"industry\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\n                \"Law firms\"\n            ],\n            \"type\": \"business\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\n                \"state institutions\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\n                \"trial\"\n            ],\n            \"type\": \"event\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\n                \"macroeconomics\"\n            ],\n            \"type\": \"academic discipline\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\n                \"policymaking\"\n            ],\n            \"type\": \"human activity\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\n                \"econometrics\"\n            ],\n            \"type\": \"academic discipline\"\n        },\n        {\n            \"id\": 10,\n            \"mentions\": [\n                \"antitrust\"\n            ],\n            \"type\": \"area of law\"\n        },\n        {\n            \"id\": 11,\n            \"mentions\": [\n                \"valuation\"\n            ],\n            \"type\": \"economic activity\"\n        },\n        {\n            \"id\": 12,\n            \"mentions\": [\n                \"bankruptcy\"\n            ],\n            \"type\": \"area of law\"\n        },\n        {\n            \"id\": 13,\n            \"mentions\": [\n                \"energy\"\n            ],\n            \"type\": \"economic sector\"\n        },\n        {\n            \"id\": 14,\n            \"mentions\": [\n                \"finance\"\n            ],\n            \"type\": \"economic sector\"\n        },\n        {\n            \"id\": 15,\n            \"mentions\": [\n                \"healthcare\"\n            ],\n            \"type\": \"economic sector\"\n        },\n        {\n            \"id\": 16,\n            \"mentions\": [\n                \"insurance\"\n            ],\n            \"type\": \"economic sector\"\n        },\n        {\n            \"id\": 17,\n            \"mentions\": [\n                \"intellectual property\"\n            ],\n            \"type\": \"area of law\"\n        },\n        {\n            \"id\": 18,\n            \"mentions\": [\n                \"labor and employment\"\n            ],\n            \"type\": \"area of law\"\n        },\n        {\n            \"id\": 19,\n            \"mentions\": [\n                \"life sciences\"\n            ],\n            \"type\": \"economic sector\"\n        },\n        {\n            \"id\": 20,\n            \"mentions\": [\n                \"cybersecurity\"\n            ],\n            \"type\": \"economic sector\"\n        },\n        {\n            \"id\": 21,\n            \"mentions\": [\n                \"media and entertainment\"\n            ],\n            \"type\": \"economic sector\"\n        },\n        {\n            \"id\": 22,\n            \"mentions\": [\n                \"securities\"\n            ],\n            \"type\": \"economic sector\"\n        },\n        {\n            \"id\": 23,\n            \"mentions\": [\n                \"professor\"\n            ],\n            \"type\": \"profession\"\n        },\n        {\n            \"id\": 24,\n            \"mentions\": [\n                \"judge\"\n            ],\n            \"type\": \"profession\"\n        },\n        {\n            \"id\": 25,\n            \"mentions\": [\n                \"jury\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 26,\n            \"mentions\": [\n                \"government enforcement agency\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 27,\n            \"mentions\": [\n                \"United States\"\n            ],\n            \"type\": \"geo-political entity\"\n        },\n        {\n            \"id\": 28,\n            \"mentions\": [\n                \"1936\"\n            ],\n            \"type\": \"calendar year\"\n        },\n        {\n            \"id\": 29,\n            \"mentions\": [\n                \"Department of Justice (DOJ)\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 30,\n            \"mentions\": [\n                \"mergers\"\n            ],\n            \"type\": \"economic activity\"\n        },\n        {\n            \"id\": 31,\n            \"mentions\": [\n                \"21st century\"\n            ],\n            \"type\": \"century\"\n        },\n        {\n            \"id\": 32,\n            \"mentions\": [\n                \"late 1990s\"\n            ],\n            \"type\": \"decade\"\n        },\n        {\n            \"id\": 33,\n            \"mentions\": [\n                \"international cartel of vitamin manufacturers\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 34,\n            \"mentions\": [\n                \"US history\"\n            ],\n            \"type\": \"historical country\"\n        },\n        {\n            \"id\": 35,\n            \"mentions\": [\n                \"Supreme Court\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 36,\n            \"mentions\": [\n                \"Deputy Assistant Attorney General David Gelfand\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 37,\n            \"mentions\": [\n                \"2016\"\n            ],\n            \"type\": \"calendar year\"\n        },\n        {\n            \"id\": 38,\n            \"mentions\": [\n                \"ProPublica\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 39,\n            \"mentions\": [\n                \"$1,000 an hour\"\n            ],\n            \"type\": \"money\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"economic consulting\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"practice\"\n        },\n        {\n            \"head\": \"Law firms\",\n            \"relation\": \"instance of\",\n            \"tail\": \"business\"\n        },\n        {\n            \"head\": \"state institutions\",\n            \"relation\": \"instance of\",\n            \"tail\": \"organization\"\n        },\n        {\n            \"head\": \"macroeconomics\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"academic discipline\"\n        },\n        {\n            \"head\": \"econometrics\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"academic discipline\"\n        },\n        {\n            \"head\": \"antitrust\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"area of law\"\n        },\n        {\n            \"head\": \"bankruptcy\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"area of law\"\n        },\n        {\n            \"head\": \"energy\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"economic sector\"\n        },\n        {\n            \"head\": \"finance\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"economic sector\"\n        },\n        {\n            \"head\": \"healthcare\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"economic sector\"\n        },\n        {\n            \"head\": \"insurance\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"economic sector\"\n        },\n        {\n            \"head\": \"intellectual property\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"area of law\"\n        },\n        {\n            \"head\": \"labor and employment\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"area of law\"\n        },\n        {\n            \"head\": \"life sciences\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"economic sector\"\n        },\n        {\n            \"head\": \"cybersecurity\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"economic sector\"\n        },\n        {\n            \"head\": \"media and entertainment\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"economic sector\"\n        },\n        {\n            \"head\": \"securities\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"economic sector\"\n        },\n        {\n            \"head\": \"Department of Justice (DOJ)\",\n            \"relation\": \"located in/on physical feature\",\n            \"tail\": \"United States\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "economic consulting"
+                ],
+                "type": "economic activity"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "litigation"
+                ],
+                "type": "human activity"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "regulatory"
+                ],
+                "type": "economic policy"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "commercial environments"
+                ],
+                "type": "industry"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Law firms"
+                ],
+                "type": "business"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "state institutions"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "trial"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "macroeconomics"
+                ],
+                "type": "academic discipline"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "policymaking"
+                ],
+                "type": "human activity"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "econometrics"
+                ],
+                "type": "academic discipline"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "antitrust"
+                ],
+                "type": "area of law"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "valuation"
+                ],
+                "type": "economic activity"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "bankruptcy"
+                ],
+                "type": "area of law"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "energy"
+                ],
+                "type": "economic sector"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "finance"
+                ],
+                "type": "economic sector"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "healthcare"
+                ],
+                "type": "economic sector"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "insurance"
+                ],
+                "type": "economic sector"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "intellectual property"
+                ],
+                "type": "area of law"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "labor and employment"
+                ],
+                "type": "area of law"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "life sciences"
+                ],
+                "type": "economic sector"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "cybersecurity"
+                ],
+                "type": "economic sector"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "media and entertainment"
+                ],
+                "type": "economic sector"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "securities"
+                ],
+                "type": "economic sector"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "professor"
+                ],
+                "type": "profession"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "judge"
+                ],
+                "type": "profession"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "jury"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "government enforcement agency"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "United States"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "1936"
+                ],
+                "type": "calendar year"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "Department of Justice (DOJ)"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "mergers"
+                ],
+                "type": "economic activity"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "21st century"
+                ],
+                "type": "century"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "late 1990s"
+                ],
+                "type": "decade"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "international cartel of vitamin manufacturers"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "US history"
+                ],
+                "type": "historical country"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "Supreme Court"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "Deputy Assistant Attorney General David Gelfand"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "2016"
+                ],
+                "type": "calendar year"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "ProPublica"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "$1,000 an hour"
+                ],
+                "type": "money"
+            }
+        ],
+        "triples": [
+            {
+                "head": "economic consulting",
+                "relation": "subclass of",
+                "tail": "practice"
+            },
+            {
+                "head": "Law firms",
+                "relation": "instance of",
+                "tail": "business"
+            },
+            {
+                "head": "state institutions",
+                "relation": "instance of",
+                "tail": "organization"
+            },
+            {
+                "head": "macroeconomics",
+                "relation": "subclass of",
+                "tail": "academic discipline"
+            },
+            {
+                "head": "econometrics",
+                "relation": "subclass of",
+                "tail": "academic discipline"
+            },
+            {
+                "head": "antitrust",
+                "relation": "subclass of",
+                "tail": "area of law"
+            },
+            {
+                "head": "bankruptcy",
+                "relation": "subclass of",
+                "tail": "area of law"
+            },
+            {
+                "head": "energy",
+                "relation": "subclass of",
+                "tail": "economic sector"
+            },
+            {
+                "head": "finance",
+                "relation": "subclass of",
+                "tail": "economic sector"
+            },
+            {
+                "head": "healthcare",
+                "relation": "subclass of",
+                "tail": "economic sector"
+            },
+            {
+                "head": "insurance",
+                "relation": "subclass of",
+                "tail": "economic sector"
+            },
+            {
+                "head": "intellectual property",
+                "relation": "subclass of",
+                "tail": "area of law"
+            },
+            {
+                "head": "labor and employment",
+                "relation": "subclass of",
+                "tail": "area of law"
+            },
+            {
+                "head": "life sciences",
+                "relation": "subclass of",
+                "tail": "economic sector"
+            },
+            {
+                "head": "cybersecurity",
+                "relation": "subclass of",
+                "tail": "economic sector"
+            },
+            {
+                "head": "media and entertainment",
+                "relation": "subclass of",
+                "tail": "economic sector"
+            },
+            {
+                "head": "securities",
+                "relation": "subclass of",
+                "tail": "economic sector"
+            },
+            {
+                "head": "Department of Justice (DOJ)",
+                "relation": "located in/on physical feature",
+                "tail": "United States"
+            }
+        ]
+    },
+    {
+        "id": "History_8",
+        "domain": "History",
+        "title": "National_History_Day",
+        "doc": "National History Day is a competition that educates young children in College Park, Maryland that operates an annual project-based contest for students in grades 6-12. It has affiliates in all fifty states, Washington, D.C., Puerto Rico, Guam, American Samoa, South Korea, China, South Asia, and Central America. It started as a local program in Cleveland, Ohio, headed by Dr. David Van Tassel, a history professor at Case Western Reserve University. It grew from 129 students in 1974 to over 500,000 students in 48 states in 1991, and 700,000 students and 40,000 teachers in 2001. Today, more than half a million students enter through local contests. They construct entries as an individual or a group in one of five categories: documentary, exhibit board, paper, performance, or website. Students then compete in a series of regional contests with top three entries advancing to affiliate, then state contests. At state contests, the top two entries in each category and division are invited to compete at the National History Day contest. State winners then go to Maryland for a final competition, held in June for a prize of money.\nNational History Day started in Cleveland, Ohio in 1974. Members of the History Department at Case Western Reserve University developed the initial idea for a history contest akin to a Science Fair. In 1978, they incorporated the project and hired Lois Scharf as executive director. She worked to raise grant funds and recruit state historical organizations to join the program. She served until 1992.  Students gathered on campus to devote one day to history calling it \"National History Day.\" Over the next few years, the contest expanded throughout Ohio and into surrounding Midwestern states. By 1980, with the help of the National Endowment for the Humanities, National History Day had grown into a national non-profit organization. In 1992 National History Day moved its headquarters from Cleveland to College Park, Maryland in the Washington, D.C., area. National History Day now runs multiple educational programs but the National Contest is still the largest of these.The annual theme frames students’ research within a historical theme. It is chosen for its broad application to world, national, or state history and its relevance to ancient history or the recent past. Themes are rotated each year and prior themes can be used after approximately twelve years. For example, the 2023 theme was \"Turning Points in History.\"  Projects are judged in part on their connection to the annual theme.As of 2024, the theme for NHD is Rights & Responsibilities in History\nStudents, either individually or as a group, can submit a project from one of the following categories: paper, exhibit, performance, documentary, or website. After reviewing the year's theme, the submission handbook, and choosing a topic, the student(s) should gather primary and secondary sources about their research. All sources need to be clearly cited in the annotated bibliography that is required for all projects. Additionally, a title page and a process paper must be submitted with each project. The process paper should include how the project's topic was chosen, how the research was conducted, how the actual project was created, the historical significance of the research, and the historical argument made in the project.National History Day projects are judged using an evaluation form with two categories: Historical Quality (accounting for 80% of the score) and Clarity of Presentation (20% of the score). The Historical Quality category includes judging based on the strength historical arguments, research, quality of primary sources, historical accuracy, multiple perspectives, and relevant connections to the historical context.In some regions, students who reach enough points in their judging advance to state competitions, and any number of students at regional competitions can advance to states. In other states, such as California, Connecticut, and Pennsylvania, the top three projects at the regional competition advance to the state competition. Regions can be divided by geographic area, population, or by county.At the affiliate, then state level contests, students compete for a variety of prizes.  Some states may have additional categories which do not proceed to nationals, such as California which has a Podcast category.  At state level competitions, the top two entries in each category and division are invited to the National Contest, held each June at the University of Maryland, College Park.\nIn the preliminary rounds, each entry presents its project before a panel of three judges. In the case of the paper and website categories, the projects are reviewed by the judges before the presentations, while performances, documentaries, and exhibits are seen by the judges for the first time at the presentation. The top 2 entries in the senior, and junior division advance to the national contest. Judges in each room advance one entry to the final round of judging. Each room reviews approximately 9-10 entries.Competitors that have advanced to the final round have their projects judged by a panel of three new judges, but the students are not interviewed in this round. Their project then has to stand alone for the final judging. \nThe awards for first, second, and third place at the national level are $1000, $500, and $250, respectively. \"Outstanding Entry\" awards are also given to two projects from each state: one junior entry and one senior entry. There are also more than a dozen special prizes awarded worth between $250 and $10,000.\nIn 2011 several researchers from Rockman et al published a study examining the competition's impact on participating students. Funded by the National History Day organization and an independent funder, the study focused on students from New Jersey, Texas, South Carolina, and Colorado, examining both students who participated in the contest and those who did not. Findings indicated that participating students were more likely to outperform the non-participating students scholastically; researchers noted that \"Although it is difficult to credit any single program with student success, there are clear and consistent indications that academic performance improves with successive years of NHD participation.\"Arnita Jones, executive director of the American Historical Association, wrote in 2001:Perhaps the greatest impact of National History Day...was on the historical profession itself. I truly believe that never have so many historians enjoyed engaging in the pursuit of history outside their offices, their regular classrooms, and their academic research as have the thousands who have participated in National History Day as teachers, mentors, consultants, and judges over more than two decades.\n",
+        "label_set": [
+            "award received",
+            "diplomatic relation",
+            "manifestation of",
+            "subclass of",
+            "owned by",
+            "twinned administrative body",
+            "parent organization",
+            "country",
+            "family name",
+            "founded by",
+            "separated from",
+            "applies to jurisdiction",
+            "notable work",
+            "replaces",
+            "religion or worldview",
+            "has effect",
+            "child",
+            "publisher",
+            "foundational text",
+            "studied in",
+            "contains the administrative territorial entity",
+            "has characteristic",
+            "located in the administrative territorial entity",
+            "continent",
+            "follows",
+            "presenter",
+            "different from",
+            "partially coincident with",
+            "replaced by",
+            "conflict",
+            "instance of",
+            "place of birth",
+            "official religion",
+            "operator",
+            "named after",
+            "next higher rank",
+            "place of death",
+            "main regulatory text",
+            "basin country",
+            "official observer status in organisation",
+            "has part(s)",
+            "headquarters location",
+            "country of origin",
+            "official language",
+            "military branch",
+            "capital of",
+            "partnership with",
+            "followed by",
+            "is the study of",
+            "main subject",
+            "language used",
+            "located in time zone",
+            "maintained by",
+            "field of work",
+            "part of",
+            "indigenous to",
+            "member of",
+            "model item",
+            "language of work or name",
+            "located in the present-day administrative territorial entity",
+            "shares border with",
+            "country of citizenship",
+            "grants",
+            "facet of"
+        ],
+        "entity_label_set": [
+            "branch of astronomy",
+            "academic work",
+            "historical entity",
+            "metadata standard",
+            "facility",
+            "event",
+            "mathematical theory",
+            "state",
+            "date",
+            "research",
+            "academic discipline",
+            "occurrence",
+            "location",
+            "nationality or religious or political group",
+            "concept",
+            "calendar year",
+            "ethnoreligious group",
+            "academic major",
+            "isolated human group",
+            "cosmology",
+            "geo-political entity",
+            "astronomical object type",
+            "language",
+            "continent",
+            "branch of physics",
+            "economic theory",
+            "profession",
+            "major religious groups",
+            "online database",
+            "time",
+            "fundamental interaction",
+            "scholarly article",
+            "review aggregator",
+            "industry",
+            "religious group",
+            "branch of science",
+            "misc",
+            "academic degree",
+            "national museum",
+            "study type",
+            "human",
+            "religious identity",
+            "male given name",
+            "application programming interface",
+            "document type definition",
+            "cosmological model",
+            "organization",
+            "natural language",
+            "collection",
+            "person",
+            "professional association",
+            "product",
+            "type of educational institution",
+            "quantity",
+            "decade",
+            "historical ethnic group",
+            "language family",
+            "persian empire",
+            "branch of history",
+            "islamic denomination",
+            "law",
+            "branch of geography",
+            "human race",
+            "product category",
+            "bachelor's degree",
+            "method",
+            "universe",
+            "album",
+            "technical standard",
+            "type of publication",
+            "work of art",
+            "ethnic group"
+        ],
+        "res": "```json\n{\n\"entities\": [\n{\n\"id\": 0,\n\"mentions\": [\n\"National History Day\"\n],\n\"type\": \"event\"\n},\n{\n\"id\": 1,\n\"mentions\": [\n\"College Park, Maryland\"\n],\n\"type\": \"location\"\n},\n{\n\"id\": 2,\n\"mentions\": [\n\"grades 6-12\"\n],\n\"type\": \"academic major\"\n},\n{\n\"id\": 3,\n\"mentions\": [\n\"Washington, D.C.\"\n],\n\"type\": \"location\"\n},\n{\n\"id\": 4,\n\"mentions\": [\n\"Puerto Rico\"\n],\n\"type\": \"geo-political entity\"\n},\n{\n\"id\": 5,\n\"mentions\": [\n\"Guam\"\n],\n\"type\": \"geo-political entity\"\n},\n{\n\"id\": 6,\n\"mentions\": [\n\"American Samoa\"\n],\n\"type\": \"geo-political entity\"\n},\n{\n\"id\": 7,\n\"mentions\": [\n\"South Korea\"\n],\n\"type\": \"geo-political entity\"\n},\n{\n\"id\": 8,\n\"mentions\": [\n\"China\"\n],\n\"type\": \"geo-political entity\"\n},\n{\n\"id\": 9,\n\"mentions\": [\n\"South Asia\"\n],\n\"type\": \"location\"\n},\n{\n\"id\": 10,\n\"mentions\": [\n\"Central America\"\n],\n\"type\": \"location\"\n},\n{\n\"id\": 11,\n\"mentions\": [\n\"Cleveland, Ohio\"\n],\n\"type\": \"location\"\n},\n{\n\"id\": 12,\n\"mentions\": [\n\"Dr. David Van Tassel\"\n],\n\"type\": \"person\"\n},\n{\n\"id\": 13,\n\"mentions\": [\n\"history professor\"\n],\n\"type\": \"profession\"\n},\n{\n\"id\": 14,\n\"mentions\": [\n\"Case Western Reserve University\"\n],\n\"type\": \"organization\"\n},\n{\n\"id\": 15,\n\"mentions\": [\n\"1974\"\n],\n\"type\": \"calendar year\"\n},\n{\n\"id\": 16,\n\"mentions\": [\n\"1991\"\n],\n\"type\": \"calendar year\"\n},\n{\n\"id\": 17,\n\"mentions\": [\n\"2001\"\n],\n\"type\": \"calendar year\"\n},\n{\n\"id\": 18,\n\"mentions\": [\n\"Maryland\"\n],\n\"type\": \"state\"\n},\n{\n\"id\": 19,\n\"mentions\": [\n\"June\"\n],\n\"type\": \"time\"\n},\n{\n\"id\": 20,\n\"mentions\": [\n\"Science Fair\"\n],\n\"type\": \"event\"\n},\n{\n\"id\": 21,\n\"mentions\": [\n\"Lois Scharf\"\n],\n\"type\": \"person\"\n},\n{\n\"id\": 22,\n\"mentions\": [\n\"executive director\"\n],\n\"type\": \"profession\"\n},\n{\n\"id\": 23,\n\"mentions\": [\n\"1992\"\n],\n\"type\": \"calendar year\"\n},\n{\n\"id\": 24,\n\"mentions\": [\n\"Midwestern states\"\n],\n\"type\": \"location\"\n},\n{\n\"id\": 25,\n\"mentions\": [\n\"National Endowment for the Humanities\"\n],\n\"type\": \"organization\"\n},\n{\n\"id\": 26,\n\"mentions\": [\n\"the Washington, D.C., area\"\n],\n\"type\": \"location\"\n},\n{\n\"id\": 27,\n\"mentions\": [\n\"2023\"\n],\n\"type\": \"calendar year\"\n},\n{\n\"id\": 28,\n\"mentions\": [\n\"Turning Points in History\"\n],\n\"type\": \"event\"\n},\n{\n\"id\": 29,\n\"mentions\": [\n\"2024\"\n],\n\"type\": \"calendar year\"\n},\n{\n\"id\": 30,\n\"mentions\": [\n\"NHD\"\n],\n\"type\": \"organization\"\n},\n{\n\"id\": 31,\n\"mentions\": [\n\"Rights & Responsibilities in History\"\n],\n\"type\": \"concept\"\n},\n{\n\"id\": 32,\n\"mentions\": [\n\"California\"\n],\n\"type\": \"state\"\n},\n{\n\"id\": 33,\n\"mentions\": [\n\"Connecticut\"\n],\n\"type\": \"state\"\n},\n{\n\"id\": 34,\n\"mentions\": [\n\"Pennsylvania\"\n],\n\"type\": \"state\"\n},\n{\n\"id\": 35,\n\"mentions\": [\n\"University of Maryland, College Park\"\n],\n\"type\": \"type of educational institution\"\n},\n{\n\"id\": 36,\n\"mentions\": [\n\"Rockman et al\"\n],\n\"type\": \"organization\"\n},\n{\n\"id\": 37,\n\"mentions\": [\n\"New Jersey\"\n],\n\"type\": \"state\"\n},\n{\n\"id\": 38,\n\"mentions\": [\n\"Texas\"\n],\n\"type\": \"state\"\n},\n{\n\"id\": 39,\n\"mentions\": [\n\"South Carolina\"\n],\n\"type\": \"state\"\n},\n{\n\"id\": 40,\n\"mentions\": [\n\"Colorado\"\n],\n\"type\": \"state\"\n},\n{\n\"id\": 41,\n\"mentions\": [\n\"Arnita Jones\"\n],\n\"type\": \"person\"\n},\n{\n\"id\": 42,\n\"mentions\": [\n\"American Historical Association\"\n],\n\"type\": \"organization\"\n}\n],\n\"triples\": [\n{\n\"head\": \"National History Day\",\n\"relation\": \"located in\",\n\"tail\": \"College Park, Maryland\"\n},\n{\n\"head\": \"National History Day\",\n\"relation\": \"located in\",\n\"tail\": \"Washington, D.C.\"\n},\n{\n\"head\": \"National History Day\",\n\"relation\": \"has part(s)\",\n\"tail\": \"annual project-based contest\"\n},\n{\n\"head\": \"Case Western Reserve University\",\n\"relation\": \"founded by\",\n\"tail\": \"Dr. David Van Tassel\"\n},\n{\n\"head\": \"Lois Scharf\",\n\"relation\": \"field of work\",\n\"tail\": \"executive director\"\n},\n{\n\"head\": \"National History Day\",\n\"relation\": \"headquarters location\",\n\"tail\": \"Cleveland, Ohio\"\n},\n{\n\"head\": \"National History Day\",\n\"relation\": \"headquarters location\",\n\"tail\": \"College Park, Maryland\"\n},\n{\n\"head\": \"National History Day\",\n\"relation\": \"member of\",\n\"tail\": \"National Endowment for the Humanities\"\n},\n{\n\"head\": \"NHD\",\n\"relation\": \"facet of\",\n\"tail\": \"Rights & Responsibilities in History\"\n},\n{\n\"head\": \"University of Maryland, College Park\",\n\"relation\": \"located in\",\n\"tail\": \"Maryland\"\n},\n{\n\"head\": \"Arnita Jones\",\n\"relation\": \"field of work\",\n\"tail\": \"executive director\"\n},\n{\n\"head\": \"Arnita Jones\",\n\"relation\": \"member of\",\n\"tail\": \"American Historical Association\"\n},\n{\n\"head\": \"Rockman et al\",\n\"relation\": \"part of\",\n\"tail\": \"research\"\n}\n]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "National History Day"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "College Park, Maryland"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "grades 6-12"
+                ],
+                "type": "academic major"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Washington, D.C."
+                ],
+                "type": "location"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Puerto Rico"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Guam"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "American Samoa"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "South Korea"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "China"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "South Asia"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Central America"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Cleveland, Ohio"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Dr. David Van Tassel"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "history professor"
+                ],
+                "type": "profession"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Case Western Reserve University"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "1974"
+                ],
+                "type": "calendar year"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "1991"
+                ],
+                "type": "calendar year"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "2001"
+                ],
+                "type": "calendar year"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Maryland"
+                ],
+                "type": "state"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "June"
+                ],
+                "type": "time"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Science Fair"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "Lois Scharf"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "executive director"
+                ],
+                "type": "profession"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "1992"
+                ],
+                "type": "calendar year"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "Midwestern states"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "National Endowment for the Humanities"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "the Washington, D.C., area"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "2023"
+                ],
+                "type": "calendar year"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "Turning Points in History"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "2024"
+                ],
+                "type": "calendar year"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "NHD"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "Rights & Responsibilities in History"
+                ],
+                "type": "concept"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "California"
+                ],
+                "type": "state"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "Connecticut"
+                ],
+                "type": "state"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "Pennsylvania"
+                ],
+                "type": "state"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "University of Maryland, College Park"
+                ],
+                "type": "type of educational institution"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "Rockman et al"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "New Jersey"
+                ],
+                "type": "state"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "Texas"
+                ],
+                "type": "state"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "South Carolina"
+                ],
+                "type": "state"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "Colorado"
+                ],
+                "type": "state"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "Arnita Jones"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "American Historical Association"
+                ],
+                "type": "organization"
+            }
+        ],
+        "triples": [
+            {
+                "head": "National History Day",
+                "relation": "located in",
+                "tail": "College Park, Maryland"
+            },
+            {
+                "head": "National History Day",
+                "relation": "located in",
+                "tail": "Washington, D.C."
+            },
+            {
+                "head": "National History Day",
+                "relation": "has part(s)",
+                "tail": "annual project-based contest"
+            },
+            {
+                "head": "Case Western Reserve University",
+                "relation": "founded by",
+                "tail": "Dr. David Van Tassel"
+            },
+            {
+                "head": "Lois Scharf",
+                "relation": "field of work",
+                "tail": "executive director"
+            },
+            {
+                "head": "National History Day",
+                "relation": "headquarters location",
+                "tail": "Cleveland, Ohio"
+            },
+            {
+                "head": "National History Day",
+                "relation": "headquarters location",
+                "tail": "College Park, Maryland"
+            },
+            {
+                "head": "National History Day",
+                "relation": "member of",
+                "tail": "National Endowment for the Humanities"
+            },
+            {
+                "head": "NHD",
+                "relation": "facet of",
+                "tail": "Rights & Responsibilities in History"
+            },
+            {
+                "head": "University of Maryland, College Park",
+                "relation": "located in",
+                "tail": "Maryland"
+            },
+            {
+                "head": "Arnita Jones",
+                "relation": "field of work",
+                "tail": "executive director"
+            },
+            {
+                "head": "Arnita Jones",
+                "relation": "member of",
+                "tail": "American Historical Association"
+            },
+            {
+                "head": "Rockman et al",
+                "relation": "part of",
+                "tail": "research"
+            }
+        ]
+    }
+]

@@ -1,0 +1,3312 @@
+[
+    {
+        "domain": "Communication",
+        "title": "Automatic_curb_sender",
+        "doc": "The  automatic curb sender was a kind of telegraph key, invented by William Thomson, 1st Baron Kelvin for sending messages on a submarine communications cable, as the well-known Wheatstone transmitter sends them on a land line.\nIn both instruments, the signals are sent by means of a perforated ribbon of paper but the cable sender was the more complicated, because the cable signals are formed by both positive and negative currents, and not merely by a single current, whether positive or negative.  Moreover, to curb the prolongation of the signals due to electromagnetic induction, each signal was made by two opposite currents in succession: a positive followed by a negative, or a negative followed by a positive. The aftercurrent had the effect of \"curbing\" its precursor.\nFor some time, it was the only instrument delicate enough to receive the signals transmitted through a long cable.\nThis self-acting cable key was brought out in 1876, and tried on the lines of the Eastern Telegraph Company.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "William Thomson, 1st Baron Kelvin",
+                    "William Thomson",
+                    "1st Baron Kelvin",
+                    "Kelvin",
+                    "Baron Kelvin"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "1st"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "cable signals",
+                    "Wheatstone transmitter",
+                    "land line",
+                    "long cable",
+                    "cable"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "1876"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Eastern Telegraph Company"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "self-acting cable key",
+                    "telegraph key",
+                    "cable sender",
+                    "automatic curb sender"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Eastern Telegraph Company"
+                ],
+                "type": "ORG"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Wheatstone transmitter",
+                "relation": "LocatedIn",
+                "tail": "land line"
+            },
+            {
+                "head": "automatic curb sender",
+                "relation": "PartOf",
+                "tail": "telegraph key"
+            },
+            {
+                "head": "automatic curb sender",
+                "relation": "UsedBy",
+                "tail": "Eastern Telegraph Company"
+            },
+            {
+                "head": "automatic curb sender",
+                "relation": "UsedBy",
+                "tail": "Eastern Telegraph Company"
+            },
+            {
+                "head": "William Thomson",
+                "relation": "Creator",
+                "tail": "automatic curb sender"
+            },
+            {
+                "head": "automatic curb sender",
+                "relation": "LocatedIn",
+                "tail": "submarine communications cable"
+            },
+            {
+                "head": "cable signals",
+                "relation": "InfluencedBy",
+                "tail": "currents"
+            },
+            {
+                "head": "prolongation of the signals",
+                "relation": "InfluencedBy",
+                "tail": "electromagnetic induction"
+            }
+        ],
+        "label_set": [
+            "HasQuality",
+            "InfluencedBy",
+            "Continent",
+            "NominatedFor",
+            "AppliesToPeople",
+            "LocatedIn",
+            "Founded",
+            "Uses",
+            "OfficialLanguage",
+            "MemberOf",
+            "UsedBy",
+            "PartOf",
+            "Studies",
+            "HasWorksInTheCollection",
+            "Affiliation",
+            "HasEffect",
+            "OwnerOf",
+            "Country",
+            "Creator",
+            "DiplomaticRelation",
+            "ApprovedBy",
+            "HasPart"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Communication",
+        "title": "Biocommunication_(science)",
+        "doc": "In the study of the biological sciences,  biocommunication is any specific type of communication within (intraspecific) or between (interspecific) species of plants, animals, fungi, protozoa and microorganisms. Communication means sign-mediated interactions following three levels of rules (syntactic, pragmatic and semantic). Signs in most cases are chemical molecules (semiochemicals), but also tactile, or as in animals also visual and auditive. Biocommunication of animals may include vocalizations (as between competing bird species), or pheromone production (as between various species of insects), chemical signals between plants and animals (as in tannin production used by vascular plants to warn away insects), and chemically mediated communication between plants and within plants.\nBiocommunication of fungi demonstrates that mycelia communication integrates interspecific sign-mediated interactions between fungal organisms, soil bacteria and plant root cells without which plant nutrition could not be organized. Biocommunication of Ciliates identifies the various levels and motifs of communication in these unicellular eukaryotes. Biocommunication of Archaea represents key levels of sign-mediated interactions in the evolutionarily oldest akaryotes. Biocommunication of phages demonstrates that the most abundant living agents on this planet coordinate and organize by sign-mediated interactions. Biocommunication is the essential tool to coordinate behavior of various cell types of immune systems.\nBiocommunication theory may be considered to be a branch of biosemiotics. Whereas biosemiotics studies the production and interpretation of signs and codes, biocommunication theory investigates concrete interactions mediated by signs. Accordingly, syntactic, semantic, and pragmatic aspects of biocommunication processes are distinguished. Biocommunication specific to animals (animal communication) is considered a branch of zoosemiotics. The semiotic study of molecular genetics, can be considered a study of biocommunication at its most basic level.Interpreting stimuli from the environment is an essential part of life for any organism. Abiotic things that an organism must interpret include climate (weather, temperature, rainfall), geology (rocks, soil type), and geography (location of vegetation communities, exposure to elements, location of food and water sources relative to shelter sites).Birds, for example, migrate using cues such as the approaching weather or seasonal day length cues. Birds also migrate from areas of low or decreasing resources to areas of high or increasing resources, most commonly food or nesting locations. Birds that nest in the Northern Hemisphere tend to migrate north in the spring due to the increase in insect population, budding plants and the abundance of nesting locations. During the winter birds will migrate south to not only escape the cold, but find a sustainable food source.\nSome plants will bloom and attempt to reproduce when they sense days getting shorter. If they cannot fertilize before the seasons change and they die then they do not pass on their genes. Their ability to recognize a change in abiotic factors allow them to ensure reproduction.\nTrans-organismic communication is when organisms of different species interact. In biology the relationships formed between different species is known as symbiosis. These relationships come in two main forms - mutualistic and parasitic. Mutualistic relationships are when both species benefit from their interactions. For example, pilot fish gather around sharks, rays, and sea turtles to eat various parasites from the surface of the larger organism. The fish obtain food from following the sharks, and the sharks receive a cleaning in return.Parasitic relationships are where one organism benefits off of the other organism at a cost. For example, in order for mistletoe to grow it must leach water and nutrients from a tree or shrub.  \nCommunication between species is not limited to securing sustenance. Many flowers rely on bees to spread their pollen and facilitate floral reproduction. To allow this, many flowers evolved bright, attractive petals and sweet nectar to attract bees. In a 2010 study, researchers at the University of Buenos Aires examined a possible relationship between fluorescence and attraction. The study concluded that reflected light was much more important in pollinator attraction than fluorescence. \nCommunicating with other species allows organisms to form relationships that are advantageous in survival, and all of these relationships are all based on some form of trans-organismic communication.\nInter-organismic communication is communication between organisms of the same species (conspecifics). Inter-organismic communication includes human speech, which is key to maintaining social structures.Dolphins communicate with one another in a number of ways by creating sounds, making physical contact with one another and through the use of body language. Dolphins communicate vocally through clicking sounds and pitches of whistling specific to only one individual. The whistling helps communicate the individual's location to other dolphins. For example, if a mother loses sight of her offspring, or when two familiar individuals cannot find each other, their individual pitches help navigate back into a group.  Body language can be used to indicate numerous things such as a nearby predator, to indicate to others that food has been found, and to demonstrate their level of attractiveness in order to find a mating partner, and even more.\nHowever, mammals such as dolphins and humans are not alone communicating within their own species. Peacocks can fan their feathers in order to communicate a territorial warning. Bees can tell other bees when they have found nectar by performing a dance when they return to the hive. Deer may flick their tails to warn others in their trail that danger is approaching.\nIntra-organismic communication is not solely the passage of information within an organism, but also concrete interaction between and within cells of an organism, mediated by signs. This could be on a cellular and molecular level. An organism's ability to interpret its own biotic information is extremely important. If the organism is injured, falls ill, or must respond to danger, it needs to be able to process that physiological information and adjust its behavior.For example, when the human body starts to overheat, specialized glands release sweat, which absorbs the heat and then evaporates.\nThis communication is imperative to survival in many species including plant life. Plants lack a central nervous system so they rely on a decentralized system of chemical messengers. This allows them to grow in response to factors such as wind, light and plant architecture. Using these chemical messengers, they can react to the environment and assess the best growth pattern.  Essentially, plants grow to optimize their metabolic efficiency.\nHumans also rely on chemical messengers for survival. Epinephrine, also known as adrenaline, is a hormone that is secreted during times of great stress. It binds to receptors on the surface of cells and activates a pathway that alters the structure of glucose. This causes a rapid increase in blood sugar. Adrenaline also activates the central nervous system increasing heart rate and breathing rate. This prepares the muscles for the body's natural fight-or-flight response.  \nOrganisms rely on many different means of intra-organismic communication. Whether it is through neural connections, chemical messengers, or hormones, these all evolved to respond to threats, maintain homeostasis and ensure self preservation.\nGiven the complexity and range of biological organisms and the further complexity within the neural organization of any particular animal organism, a variety of biocommunication languages exists.A hierarchy of biocommunication languages in animals has been proposed by Subhash Kak: these languages, in order of increasing generality, are associative, re-organizational, and quantum. The three types of formal languages of the Chomsky hierarchy map into the associative language class, although context-free languages as proposed by Chomsky do not exist in real life interactions.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Biocommunication of animals",
+                    "Biocommunication of Ciliates",
+                    "Biocommunication of Archaea",
+                    "Biocommunication of phages",
+                    "Biocommunication of fungi"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Archaea"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "seasonal day"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Northern Hemisphere"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "winter"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "2010"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "a 2010 study"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "University of Buenos Aires"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Subhash Kak"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Chomsky"
+                ],
+                "type": "PERSON"
+            }
+        ],
+        "triples": [
+            {
+                "head": "communication",
+                "relation": "HasPart",
+                "tail": "biocommunication"
+            },
+            {
+                "head": "Signs",
+                "relation": "HasPart",
+                "tail": "chemical molecules"
+            },
+            {
+                "head": "Biocommunication",
+                "relation": "HasPart",
+                "tail": "Biocommunication of animals"
+            },
+            {
+                "head": "Biocommunication",
+                "relation": "HasPart",
+                "tail": "Biocommunication of fungi"
+            },
+            {
+                "head": "Biocommunication",
+                "relation": "HasPart",
+                "tail": "Biocommunication of Ciliates"
+            },
+            {
+                "head": "Biocommunication",
+                "relation": "HasPart",
+                "tail": "Biocommunication of Archaea"
+            },
+            {
+                "head": "Biocommunication",
+                "relation": "HasPart",
+                "tail": "Biocommunication of phages"
+            }
+        ],
+        "label_set": [
+            "HasQuality",
+            "InfluencedBy",
+            "Continent",
+            "NominatedFor",
+            "AppliesToPeople",
+            "LocatedIn",
+            "Founded",
+            "Uses",
+            "OfficialLanguage",
+            "MemberOf",
+            "UsedBy",
+            "PartOf",
+            "Studies",
+            "HasWorksInTheCollection",
+            "Affiliation",
+            "HasEffect",
+            "OwnerOf",
+            "Country",
+            "Creator",
+            "DiplomaticRelation",
+            "ApprovedBy",
+            "HasPart"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Communication",
+        "title": "China_Internet_Network_Information_Center",
+        "doc": "The China Internet Network Information Center (CNNIC; 中国互联网络信息中心) is a public institution affiliated with the Ministry of Industry and Information Technology. Founded on 3 June 1997 and based in Zhongguancun, Beijing, the center manages the country code top-level domain name of the People's Republic of China, namely the .cn domain name.\nCNNIC is responsible for operating and administering China’s domain name registry. CNNIC manages both the \".cn\" country code top level domain and the Chinese domain name system (internationalized domain names that contain Chinese characters). As of April 2017, the total number of Chinese domain names was about 21 million.As of January 2017, CNNIC only opened the CN domain to registered businesses, required supporting documentations for domain registration such as business license or personal ID, and suspended overseas registrars even for domestic registrants. CNNIC denied that it mandated existing personal domain names to be transferred to businesses. Trend Micro suggested this move was still not enough to stop modern security threats from the .cn domain.\nCNNIC allocates Internet Protocol (IP) addresses and AS Numbers to domestic ISPs and users. CNNIC is a National Internet Registry (NIR) acknowledged by the Asia-Pacific Network Information Center (APNIC). In late 2004 CNNIC launched an “IP Allocation Alliance” which simplified the procedures for obtaining IP addresses.CNNIC is responsible for the creation and maintenance of the state top-level network catalog database. This database provides information on Internet users, web addresses, domain names, and AS numbers.CNNIC conducts technical research and undertakes state technical projects based on its administrative and practical network technology experience.CNNIC has conducted, and continues to conduct, surveys of Internet information resources. CNNIC maintains statistics on topics such as Internet bandwidth in China, Domain Name registrations, and Internet Development in China.As the national Network Information Center (NIC), CNNIC maintains cooperative relationships with other International Internet Communities, and works closely with NICs of other countries.CNNIC serves as the Secretariat of the Internet Society of China’s Internet Policy and Resource Committee. The Policy and Resource committee is in charge of tasks such as providing policy and legislation oriented suggestions to promote the growth of China’s internet, facilitating the development and application of Internet resources and relevant technologies, and actively participating in the research work of domestic Internet development and administration policies.In July 2008, a broad alliance of Chinese online commerce stakeholders, including CNNIC, all major Chinese commercial banks and web hosting companies, founded the Anti-Phishing Alliance of China (APAC) in order to tackle phishing activities that abuse .cn sub-domain names. CNNIC also functions as the secretariat of APAC.In 2015, Google discovered that CNNIC had issued an intermediate CA certificate to an Egypt-based firm that used CNNIC's keys to impersonate Google domains. Google responded by removing CNNIC's root certificate from the certificate store in Google Chrome and all of Google's products.Mozilla responded to the incident, stating that \"The Mozilla CA team believes that CNNIC’s actions amount to egregious behaviour, and the violations of policy are greater in severity than those in previous incidents. CNNIC’s decision to violate their own Certification Practice Statement is especially serious, and raises concerns that go beyond the immediate scope of the misissued intermediate certificate.  After public discussion... we are planning to change Firefox’s certificate validation code such that it refuses to trust any certificate issued by a CNNIC root with a notBefore date on or after 1 April 2015.\"\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "national Network Information Center",
+                    "China Internet Network Information Center",
+                    "CNNIC"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Chinese online commerce stakeholders",
+                    "Anti-Phishing Alliance of China (APAC)",
+                    "Anti-Phishing Alliance of China",
+                    "national Network Information Center (NIC)",
+                    "Chinese commercial banks",
+                    "APAC",
+                    "National Internet Registry",
+                    "a National Internet Registry"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    ".cn",
+                    "Chinese domain name system",
+                    ".cn domain name",
+                    "state top-level network catalog database",
+                    "Internet bandwidth in China",
+                    "Internet Development in China",
+                    "Internet Development",
+                    ".cn domain",
+                    "IP",
+                    "China’s domain name registry"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "country",
+                    "People's Republic of China"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Ministry of Industry and Information Technology"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "3 June 1997"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "April 2017"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "July 2008"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "January 2017"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Zhongguancun",
+                    "Beijing",
+                    "China",
+                    "Zhongguancun, Beijing",
+                    "People's Republic of China"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Chinese online commerce",
+                    "Chinese characters",
+                    "Chinese domain names",
+                    "Chinese domain name system"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "about 21 million"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Trend Micro"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "APNIC",
+                    "Asia-Pacific Network Information Center"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "late 2004"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "International Internet Communities"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "Secretariat",
+                    "secretariat"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "Internet Society of China"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Policy and Resource Committee",
+                    "Internet Policy and Resource Committee",
+                    "Policy and Resource committee"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Policy and Resource committee"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "2015"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "Google Chrome"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "Google domains"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "Google"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "Egypt"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "Egypt-based firm"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "Mozilla"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "Firefox"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "1 April 2015"
+                ],
+                "type": "DATE"
+            }
+        ],
+        "triples": [
+            {
+                "head": "China Internet Network Information Center",
+                "relation": "LocatedIn",
+                "tail": "Zhongguancun, Beijing"
+            },
+            {
+                "head": "The China Internet Network Information Center",
+                "relation": "Affiliation",
+                "tail": "the Ministry of Industry and Information Technology"
+            },
+            {
+                "head": "China Internet Network Information Center",
+                "relation": "MemberOf",
+                "tail": "Anti-Phishing Alliance of China"
+            },
+            {
+                "head": "The China Internet Network Information Center",
+                "relation": "Founded",
+                "tail": "the Anti-Phishing Alliance of China"
+            },
+            {
+                "head": "China Internet Network Information Center",
+                "relation": "OwnerOf",
+                "tail": ".cn domain name"
+            }
+        ],
+        "label_set": [
+            "HasQuality",
+            "InfluencedBy",
+            "Continent",
+            "NominatedFor",
+            "AppliesToPeople",
+            "LocatedIn",
+            "Founded",
+            "Uses",
+            "OfficialLanguage",
+            "MemberOf",
+            "UsedBy",
+            "PartOf",
+            "Studies",
+            "HasWorksInTheCollection",
+            "Affiliation",
+            "HasEffect",
+            "OwnerOf",
+            "Country",
+            "Creator",
+            "DiplomaticRelation",
+            "ApprovedBy",
+            "HasPart"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Communication",
+        "title": "Environmental_communication",
+        "doc": "Environmental communication is \"the dissemination of information and the implementation of communication practices that are related to the environment. In the beginning, environmental communication was a narrow area of communication; however, nowadays, it is a broad field that includes research and practices regarding how different actors (e.g., institutions, states, people) interact with regard to topics related to the environment and how cultural products influence society toward environmental issues\".\nEnvironmental communication also includes human interactions with the environment. This includes a wide range of possible interactions, from interpersonal communication and virtual communities to participatory decision-making and environmental media coverage. From the perspective of practice, Alexander Flor defines environmental communication as the application of communication approaches, principles, strategies, and techniques to environmental management and protection.\nEnvironmental Communication, breaking off from traditional rhetorical theory, emerged in the United States around the 1980s. Researchers began studying environmental communication as a stand-alone theory because of the way environmental activists used images and wording to persuade their public's. Since then, environmental communication theory has reached multiple milestones including the creation of the journal of environmental communication in 2007.As an academic field, environmental communication emerged from interdisciplinary work involving communication, environmental studies, environmental science, risk analysis and management, sociology, and political ecology.In his 2004 textbook, Alexander Flor considers environmental communication to be a significant element in the environmental sciences, which he believes to be transdisciplinary. He begins his textbook on environmental communication with a declarative statement: \"Environmentalism as we know it today began with environmental communication. The environmental movement was ignited by a spark from a writer’s pen, or more specifically and accurately, Rachel Carson’s typewriter.\" According to Flor, environmental communication has six essentials: knowledge of ecological laws; sensitivity to the cultural dimension; ability to network effectively; efficiency in using media for social agenda setting; appreciation and practice of environmental ethics; and conflict resolution, mediation and arbitration. In an earlier book published in 1993, Flor and colleague Ely Gomez explore the development of an environmental communication curriculum from the perspectives of practitioners from the government, the private sector, and the academe.\nThe role of Environmental Communication in education and academia is centered around goals through pedagogy. These are aimed at trying to increase ecological wakefulness,  support a variety of practice-based ways of learning and building a relationship of being environmental change advocates.\nIn general, Environmental skepticism is an increasing challenge for environmental rhetoric.\nThe technological breakthroughs empowered by the appearance of the Internet are also contributing to environmental problems. Air pollution, acid rain, global warming, and the reduction of natural sources are also an outcome of online technologies. Netcraft argued that in the world, there are 7,290,968 web-facing computers, 214,036,874 unique domain names, and  1,838,596,056 websites leading to significant power consumption.  Therefore, notions such as “Green Websites” have emerged for helping to tackle this issue. “Green Websites” is “associated with the climate-friendly policies and aims to improve the natural habitat of Earth. Renewable sources, the use of black color, and the highlight of the environmental news are some of the easiest and cheapest ways to contribute positively to climate issues”. The aforementioned term is under the umbrella of “Green Computing,” which is aiming to limit the carbon footprints, energy consumption and benefit the computing performance. Information and Communications technology aka ICT, has an obsessive amount of environment impacts through different types of disposal of devices and equipment that have been portrayed to give off harmful gasses and Bluetooth waves into the atmosphere that increase the carbon emissions. This has also shown that the technology has been used to  minimize energy use, society always wants new technology no matter if it affects the environment good or not, but ICT has been cutting back and putting out better technology for our environment while still being able to communicate through society.\nEnvironmental communication is also a type of symbolic action that serves two functions: Environmental human communication is pragmatic because it helps individuals and organizations to accomplish goals and do things through communication. Examples include educating, alerting, persuading, and collaborating. Environmental human communication is constitutive because it helps shape human understanding of environmental issues, themselves, and nature. Examples include values, attitudes, and ideologies regarding nature and environmental issues.In the book Pragmatic Environmentalism: Towards a Rhetoric of Eco-Justice, environmental philosopher Shane Ralston criticizes Cox's pragmatic function of environmental communication for being too shallow and instrumental, recommending instead a deeper account borrowed from Pragmatism: \"[A]n even better way to move beyond a conception of pragmatic rhetoric as shallow instrumentalism and deepen the meaning of pragmatic[...] is to look instead to philosophical pragmatism’s other rich resources, for instance, to its fallibilism, experimentalism, and meliorism.\"\nEnvironmental nature communication occurs when plants actually communicate within ecosystems: \"A plant injured on one leaf by a nibbling insect can alert its other leaves to begin anticipatory defense responses.\" Furthermore, \"plant biologists have discovered that when a leaf gets eaten, it warns other leaves by using some of the same signals as animals\". The biologists are \"starting to unravel a long-standing mystery about how different parts of a plant communicate with one another.\"\nAll beings are connected by the Systems Theory, which submits that one of the three critical functions of living systems is the exchange of information with its environment and with other living systems (the other two being the exchange of materials and the exchange of energy). Flor extends this argument, saying: \"All living systems, from the simplest to the most complex, are equipped to perform these critical functions. They are called critical because they are necessary for the survival of the living system. Communication is nothing more than the exchange of information. Hence, at its broadest sense, environmental communication is necessary for the survival of every living system, be it an organism, an ecosystem, or (even) a social system.\"\nEnvironmental Communication plays an integral role in sustainability science. By taking knowledge and putting it into action.  Since Environmental Communication is focused on everyday practices of speaking and collaborating, it has a deep understanding in the public discussion of environmental policy. Something that sustainability science has a shortcoming of.  Sustainability science requires cooperation between stakeholders and thus requires constructive communication between those stakeholders to create sustainable change.\nRobert Cox is a leader in the discipline of environmental communication and its role in the public sphere. Cox covers the importance of Environmental Communication and the role it plays in policy-making processes, advocacy campaigns, journalism, and environmental movements.  Something that Cox overlooks in the importance of Environmental communication in the Public Sphere is the role visual and aural communication, electronic and digital media, and perhaps most glaringly, popular culture. Along with the aforementioned limitations the media plays a major role in the conversation around the environment because of the framing effect and the impact that it has on the overall perception of the environment and the discussion surrounding it. Framing is something that has been important to many movements in the past but it is more than just creating slogans and the like. George Lakoff argues in favor of a social movement approach similar to the feminist movement or the civil rights movement.The field of Environmental Communication also faces challenges of being silenced and invalidated by governments. Environmental communication like many disciplines had challenges with people with opposing views points that make it difficult to spread a certain message. Environmental Communication like many highly polarized topics is prone to confirmation bias which makes it difficult to have compromises in the world of policy making for the environmental crisis. Along with confirmation bias, Echo chambers do much the same thing and are discussed by Christel van Eck who says with respect to environmental communication that echo chambers can reinforce preexisting climate change perceptions. which serve to make it more difficult to engage in real conversations about the topic. Another reason that it can be difficult to communicate about these things is that many people try to use directional motivated reasoning in which they try to find evidence to push a specific narrative on the topic. The effect that this has had on communicating this idea is examined by Robin Bayes and others who say that it can be very detrimental and divisive. One of the things that makes environmental narratives so dangerous is that it changes so often that it is very difficult to keep the information the same as it travels. This according to Miyase Christensen makes it so that the spreading of these narratives can be dangerous.\nEnvironmental Communication faces a variety of challenges in the political environment due to increased polarization. People often feel threatened by arguments that do not align with their beliefs (boomerang effect). These can lead to psychological reactance, counter-arguing, and anxiety. This can cause difficulty in making progress in political change regarding environmental issues. When it comes to the increased polarization of movements regarding the environment some people point to the impact of identity campaigns because of the argument that fear is counterproductive. Robert Brulle argues this point and calls for a shift away from these identity campaigns and moving towards challenge campaigns.\nAnother limitation of the conversation regarding the environment is the fact that there are multiple agendas being set by different groups in China and the fact that they are different from one another. Along with this the idea that these two different groups are in some sort of a discussion is presented by Xiaohui Wang et. al.\nA culture centered approach has been suggested by some like Debashish Munshi. These people argue for enacting change based on the knowledge of older cultures however it has to exist in a way that does not abuse the relationship between the older cultures and our current one which according to Munshi makes it very difficult to enact.\nTo understand the ways in which environmental communication has an effect on individuals, researchers believe that one's view on the environment shapes their views in a variety of ways. The overall study of environmental communication consists of the idea that nature \"speaks.\" In this field, theories exist in an effort to understand the basis of environmental communication.Researchers view environmental communication as symbolic and material. They argue that the material world helps shape communication as communication helps shape the world. The word environment, a primary symbol in western culture, is used to shape cultural understandings of the material world. This understanding gives researchers the ability to study how cultures react to the environment around them.Humans react and form opinions based on the environment around them. Nature plays a role in human relations.  This theory strives to make a connection between human and nature relations. This belief is at the core of environmental communication because it seeks to understand how nature affects human behavior and identity. Researchers point out that there can be a connection made with this theory and phenomenology.It is difficult to avoid the \"call to action\" when talking about environmental communication because it is directly linked with issues such as climate change, endangered animals, and pollution. Scholars find it difficult to publish objective studies in this field. However, others argue that it is their ethical duty to inform the public on environmental change while providing solutions to these issues. This idea that it can be damaging to a scientist's reputation to offer up opinions or solutions to the problem of Climate Change has been furthered by research done by Doug Cloud who had findings affirming this idea.As the following section suggests, there are many divisions of studies and practices in the field of environmental communication, one of which being social marketing and advocacy campaigns. Though this is a broad topic, a key aspect of successful environmental campaigns is the language used in campaign material. Researchers have found that when individuals are concerned & interested about environmental actions, they take well to messages with assertive language; However, individuals who are less concerned & interested about environmental stances, are more receptive to less assertive messages. Although communications on environmental issues often aim to push into action consumers who already perceive the issue being promoted as important, it is important for such message producers to analyze their target audience and tailor messages accordingly.\nWhile there are some findings that there is a problem with scientists advocating for certain positions in a study conducted by John Kotcher and others it was found that there was no real difference between the credibility of scientists regardless of their advocacy unless they directly tried to argue in favor a specific solution to the problem.",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Flor and colleague Ely Gomez",
+                    "Flor",
+                    "Alexander Flor",
+                    "Ely Gomez",
+                    "Robert Cox",
+                    "Robert Brulle",
+                    "George Lakoff",
+                    "Cox"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Environmental communication",
+                    "Environmental Communication",
+                    "environmental communication",
+                    "environmental communication curriculum",
+                    "environmental movement",
+                    "public sphere",
+                    "environmental sciences",
+                    "environmental communication theory",
+                    "Public Sphere"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "environmental sciences"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "United States"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "around the 1980s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "1980s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "2007"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "1980s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "2004"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "1993"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Carson",
+                    "Rachel Carson"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Netcraft"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "7,290,968"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "214,036,874"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "1,838,596,056"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Green Websites"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "Earth",
+                    "natural habitat of Earth"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "Green Computing"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Information and Communications",
+                    "Information and Communications technology",
+                    "ICT"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Pragmatic Environmentalism: Towards a Rhetoric of Eco-Justice",
+                    "book Pragmatic Environmentalism: Towards a Rhetoric of Eco-Justice"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Shane Ralston"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "Systems Theory"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "Doug Cloud",
+                    "John Kotcher",
+                    "Christel van Eck",
+                    "Kotcher"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "Robin Bayes"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "Miyase Christensen"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "China"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "Xiaohui Wang et. al.",
+                    "Xiaohui Wang"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "Debashish Munshi",
+                    "Munshi"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "climate change",
+                    "Climate Change",
+                    "climate-friendly policies",
+                    "environmental problems",
+                    "climate issues",
+                    "environmental change",
+                    "environmental crisis"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "the United States",
+                "relation": "DiplomaticRelation",
+                "tail": "China"
+            },
+            {
+                "head": "human interactions with the environment",
+                "relation": "HasPart",
+                "tail": "a wide range of possible interactions"
+            },
+            {
+                "head": "Environmental skepticism",
+                "relation": "HasEffect",
+                "tail": "Environmental Communication"
+            },
+            {
+                "head": "Internet",
+                "relation": "HasEffect",
+                "tail": "environmental problems"
+            },
+            {
+                "head": "sustainability science",
+                "relation": "HasPart",
+                "tail": "Environmental Communication"
+            },
+            {
+                "head": "governments",
+                "relation": "HasEffect",
+                "tail": "environmental Communication"
+            },
+            {
+                "head": "political environment",
+                "relation": "HasEffect",
+                "tail": "Environmental Communication"
+            }
+        ],
+        "label_set": [
+            "HasQuality",
+            "InfluencedBy",
+            "Continent",
+            "NominatedFor",
+            "AppliesToPeople",
+            "LocatedIn",
+            "Founded",
+            "Uses",
+            "OfficialLanguage",
+            "MemberOf",
+            "UsedBy",
+            "PartOf",
+            "Studies",
+            "HasWorksInTheCollection",
+            "Affiliation",
+            "HasEffect",
+            "OwnerOf",
+            "Country",
+            "Creator",
+            "DiplomaticRelation",
+            "ApprovedBy",
+            "HasPart"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Communication",
+        "title": "Facial_Action_Coding_System",
+        "doc": "The Facial Action Coding System (FACS) is a system to taxonomize human facial movements by their appearance on the face,  based on a system originally developed by a Swedish anatomist named Carl-Herman Hjortsjö. It was later adopted by Paul Ekman and Wallace V. Friesen, and published in 1978. Ekman, Friesen, and Joseph C. Hager published a significant update to FACS in 2002. Movements of individual facial muscles are encoded by the FACS from slight different instant changes in facial appearance. It has proven useful to psychologists and to animators.\nIn 2009, a study was conducted to study spontaneous facial expressions in sighted and blind judo athletes. They discovered that many facial expressions are innate and not visually learned.Using the FACS human coders can manually code nearly any anatomically possible facial expression, deconstructing it into the specific \"action units\" (AU) and their temporal segments that produced the expression. As AUs are independent of any interpretation, they can be used for any higher order decision making process including recognition of basic emotions,  or pre-programmed commands for an ambient intelligent environment. The FACS manual is over 500 pages in length and provides the AUs, as well as Ekman's interpretation of their meanings.The FACS defines AUs,  as contractions or relaxations of one or more muscles. It also defines a number of \"action descriptors\", which differ from AUs in that the authors of the FACS have not specified the muscular basis for the action and have not distinguished specific behaviors as precisely as they have for the AUs.\nFor example, the FACS can be used to distinguish two types of smiles as follows:\nthe insincere and voluntary Pan-Am smile: contraction of zygomatic major alone\nthe sincere and involuntary Duchenne smile: contraction of zygomatic major and inferior part of orbicularis oculi.\nThe FACS is designed to be self-instructional. People can learn the technique from a number of sources including manuals and workshops, and obtain certification through testing.\nAlthough the labeling of expressions currently requires trained experts, researchers have had some success in using computers to automatically identify the FACS codes. One obstacle to automatic FACS code recognition is a shortage of manually coded ground truth data.\nThe use of the FACS has been proposed for use in the analysis of depression, and the measurement of pain in patients unable to express themselves verbally.The original FACS has been modified to analyze facial movements in several non-human primates, namely chimpanzees, rhesus macaques, gibbons and siamangs, and orangutans. More recently, it was developed also for domestic species, including dogs, horses and cats. Similarly to the human FACS, the animal FACS has manuals available online for each species with the respective certification tests.Thus, the FACS can be used to compare facial repertoires across species due to its anatomical basis. A study conducted by Vick and others (2006) suggests that the FACS can be modified by taking differences in underlying morphology into account. Such considerations enable a comparison of the homologous facial movements present in humans and chimpanzees, to show that the facial expressions of both species result from extremely notable appearance changes. The development of FACS tools for different species allows the objective and anatomical study of facial expressions in communicative and emotional contexts. Furthermore, a cross-species analysis of facial expressions can help to answer interesting questions, such as which emotions are uniquely human.\nThe  Emotional Facial Action Coding System (EMFACS) and the  Facial Action Coding System Affect Interpretation Dictionary (FACSAID) consider only emotion-related facial actions. Examples of these are:\nFACS coding is also used extensively in computer animation, in particular for computer facial animation, with facial expressions being expressed as vector graphics of AUs. FACS vectors are used as weights for  blend shapes corresponding to each AU, with the resulting face mesh then being used to render the finished face. Deep learning techniques can be used to determine the FACS vectors from face images obtained during motion capture acting, facial motion capture or other performances.For clarification, the FACS is an index of facial expressions, but does not actually provide any bio-mechanical information about the degree of muscle activation. Though muscle activation is not part of the FACS, the main muscles involved in the facial expression have been added here.Action units (AUs) are the fundamental actions of individual muscles or groups of muscles.\nAction descriptors (ADs) are unitary movements that may involve the actions of several muscle groups (e.g., a forward‐thrusting movement of the jaw). The muscular basis for these actions has not been specified and specific behaviors have not been distinguished as precisely as for the AUs.\nFor the most accurate annotation, the FACS suggests agreement from at least two independent certified FACS encoders.\nIntensities of the FACS are annotated by appending letters A:E (for minimal-maximal intensity) to the action unit number (e.g. AU 1A is the weakest trace of AU 1 and AU 1E is the maximum intensity possible for the individual person).",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "FACS coding",
+                    "original FACS",
+                    "FACS",
+                    "Facial Action Coding System (FACS)",
+                    "animal FACS",
+                    "Facial Action Coding System",
+                    "Emotional Facial Action Coding System",
+                    "FACSAID",
+                    "Facial Action Coding System Affect Interpretation Dictionary (FACSAID)"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Carl-Herman Hjortsjö",
+                    "Joseph C. Hager",
+                    "anatomist",
+                    "Ekman, Friesen",
+                    "Wallace V. Friesen",
+                    "Friesen"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Paul Ekman",
+                    "Ekman"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "1978"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "2006"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "2009"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "2002"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "500"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "AU"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Action units (AUs)",
+                    "AUs",
+                    "action units",
+                    "Action units"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Duchenne",
+                    "Duchenne smile"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "siamangs",
+                    "gibbons",
+                    "orangutans",
+                    "chimpanzees",
+                    "rhesus macaques"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Vick"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "AU 1A",
+                    "AU 1E"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "1E"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "psychologists",
+                    "researchers",
+                    "animators",
+                    "experts"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "computer facial animation",
+                    "computer animation",
+                    "facial expressions"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "judo athletes"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "certification tests",
+                    "certification"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Emotional Facial Action Coding System (EMFACS)"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Deep learning techniques"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "ADs",
+                    "Action descriptors",
+                    "action descriptors",
+                    "Action descriptors (ADs)"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "FACS",
+                "relation": "NominatedFor",
+                "tail": "Emotional Facial Action Coding System (EMFACS)"
+            },
+            {
+                "head": "FACS",
+                "relation": "UsedBy",
+                "tail": "psychologists"
+            },
+            {
+                "head": "FACS",
+                "relation": "PartOf",
+                "tail": "computer animation"
+            },
+            {
+                "head": "FACS",
+                "relation": "AppliesToPeople",
+                "tail": "judo athletes"
+            },
+            {
+                "head": "FACS",
+                "relation": "HasQuality",
+                "tail": "certification tests"
+            },
+            {
+                "head": "FACS",
+                "relation": "UsedBy",
+                "tail": "animators"
+            },
+            {
+                "head": "FACS",
+                "relation": "NominatedFor",
+                "tail": "Facial Action Coding System Affect Interpretation Dictionary (FACSAID)"
+            },
+            {
+                "head": "smiles",
+                "relation": "HasPart",
+                "tail": "Pan-Am smile"
+            },
+            {
+                "head": "smiles",
+                "relation": "HasPart",
+                "tail": "Duchenne smile"
+            }
+        ],
+        "label_set": [
+            "HasQuality",
+            "InfluencedBy",
+            "Continent",
+            "NominatedFor",
+            "AppliesToPeople",
+            "LocatedIn",
+            "Founded",
+            "Uses",
+            "OfficialLanguage",
+            "MemberOf",
+            "UsedBy",
+            "PartOf",
+            "Studies",
+            "HasWorksInTheCollection",
+            "Affiliation",
+            "HasEffect",
+            "OwnerOf",
+            "Country",
+            "Creator",
+            "DiplomaticRelation",
+            "ApprovedBy",
+            "HasPart"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Communication",
+        "title": "Global_information_system",
+        "doc": "Global information system is an information system which is developed and / or used in a global context. Some examples of GIS are SAP,  The Global Learning Objects Brokered Exchange and other systems.\nThere are a variety of definitions and understandings of a global information system (GIS, GLIS), such asA global information system (GIS) is an information system which is developed and / or used in a global context.\nA global information system (GIS) is any information system which attempts to deliver the totality of measurable data worldwide within a defined context.\nCommon to this class of information systems is that the context is a global setting, either for its use or development process. This means that it highly relates to distributed systems / distributed computing where the distribution is global. The term also incorporates aspects of global software development and there outsourcing (when the outsourcing locations are globally distributed) and offshoring aspects. A specific aspect of global information systems is the case (domain) of global software development. A main research aspect in this field concerns the coordination of and collaboration between virtual teams. Further important aspects are the internationalization and language localization of system components.\nCritical tasks in designing global information systems are Process and system design: How are the processes between distributed actors organized, how are the systems distributed / integrated.\nTechnical architecture: What is the technical infrastructure enabling actors to collaborate?\nSupport mechanisms: How are actors in the process of communication, collaboration, and cooperation supported?\nA variety of examples can be given. Basically every multi-lingual website can be seen as a global information system. However, mostly the term GLIS is used to refer to a specific system developed or used in a global context.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "GIS",
+                    "GLIS",
+                    "SAP",
+                    "Global Learning Objects Brokered Exchange"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "distributed systems"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "distributed computing"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "GIS",
+                "relation": "HasPart",
+                "tail": "SAP"
+            },
+            {
+                "head": "GIS",
+                "relation": "HasPart",
+                "tail": "The Global Learning Objects Brokered Exchange"
+            }
+        ],
+        "label_set": [
+            "HasQuality",
+            "InfluencedBy",
+            "Continent",
+            "NominatedFor",
+            "AppliesToPeople",
+            "LocatedIn",
+            "Founded",
+            "Uses",
+            "OfficialLanguage",
+            "MemberOf",
+            "UsedBy",
+            "PartOf",
+            "Studies",
+            "HasWorksInTheCollection",
+            "Affiliation",
+            "HasEffect",
+            "OwnerOf",
+            "Country",
+            "Creator",
+            "DiplomaticRelation",
+            "ApprovedBy",
+            "HasPart"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Communication",
+        "title": "History_of_the_concept_of_creativity",
+        "doc": "The ways in which societies have perceived the concept of creativity have changed throughout history, as has the term itself.  The ancient Greek concept of art (in Greek, \"techne\"—the root of \"technique\" and \"technology\"), with the exception of poetry, involved not freedom of action but subjection to rules.  In Rome, the Greek concept was partly shaken, and visual artists were viewed as sharing, with poets, imagination and inspiration.\nUnder medieval Christianity, the Latin \"creatio\" came to designate God's act of \"creatio ex nihilo\" (\"creation from nothing\"); thus \"creatio\" ceased to apply to human activities.  The Middle Ages, however, went even further than antiquity, when they revoked poetry's exceptional status:  it, too, was an art and therefore craft and not creativity.\nRenaissance men sought to voice their sense of their freedom and creativity.  The first to apply the word \"creativity\", however, was the 17th-century Polish poet Maciej Kazimierz Sarbiewski—but he applied it only to poetry.  For over a century and a half, the idea of human creativity met with resistance, because the term \"creation\" was reserved for creation \"from nothing\".\nNineteenth century religious skepticism allowed for a change in definition: now not only was art recognized as creativity, but it alone was.  And at the turn of the 20th century, when there began to be discussion as well of creativity in the sciences and in nature, this was taken as the transference, to the sciences and to nature, of concepts that were proper to art.\nThe ancient Greeks had no terms corresponding to \"to create\" or \"creator.\"  The expression \"poiein\" (\"to make\") was applied specifically to poiesis (poetry) and to the poietes (poet, or \"maker\") who made it rather than to art in general in its modern understanding.  For example, Plato asks in The Republic, \"Will we say, of a painter, that he makes something?\" and answers, \"Certainly not, he merely imitates.\"  To the ancient Greeks, the concept of a creator and of creativity implied freedom of action, whereas the Greeks' concept of art involved subjection to laws and rules.  Art (in Greek, \"techne\") was \"the making of things, according to rules.\"  It contained no creativity, and it would have been—in the Greeks' view—a bad state of affairs if it had.This understanding of art had a distinct premise:  Nature is perfect and is subject to laws, therefore man ought to discover its laws and submit to them, and not seek freedom, which will deflect him from that optimum which he can attain.  The artist was a discoverer, not an inventor.\nThe sole exception to this Greek view—a great exception—was poetry.  The poet made new things—brought to life a new world—while the artist merely imitated.  And the poet, unlike the artist, was not bound by laws.  There were no terms corresponding to \"creativity\" or \"creator,\" but in reality the poet was understood to be one who creates.  And only he was so understood.  In music, there was no freedom:  melodies were prescribed, particularly for ceremonies and entertainments, and were known tellingly as \"nomoi\" (\"laws\").  In the visual arts, freedom was limited by the proportions that Polyclitus had established for the human frame, and which he called \"the canon\" (meaning, \"measure\").  Plato argued in Timaeus that, to execute a good work, one must contemplate an eternal model.  Later the Roman, Cicero, would write that art embraces those things \"of which we have knowledge\" (\"quae sciuntur\").\nPoets saw things differently.  Book I of the Odyssey asks, \"Why forbid the singer to please us with singing as he himself will?\"  Aristotle had doubts as to whether poetry was imitation of reality, and as to whether it required adherence to truth:  it was, rather, the realm of that \"which is neither true nor false.\"\nIn the Roman era, these Greek concepts were partly challenged.  Horace wrote that not only poets but painters as well were entitled to the privilege of daring whatever they wished to (\"quod libet audendi\").  In the declining period of antiquity, Philostratus wrote that \"one can discover a similarity between poetry and art and find that they have imagination in common.\"  Callistratos averred that \"Not only is the art of the poets and prosaists inspired, but likewise the hands of sculptors are gifted with the blessing of divine inspiration.\"  This was something new:  classical Greeks had not applied the concepts of imagination and inspiration to the visual arts but had restricted them to poetry.  Latin was richer than Greek:  it had a term for \"creating\" (\"creatio\") and for \"creator,\" and had two expressions—\"facere\" and \"creare\"—where Greek had but one, \"poiein.\"  Still, the two Latin terms meant much the same thing.A fundamental change, however, came in the Christian period:  \"creatio\" came to designate God's act of \"creation from nothing\" (\"creatio ex nihilo\").  \"Creatio\" thus took on a different meaning than \"facere\" (\"to make\"), and ceased to apply to human functions.  As the 6th-century Roman official and literary figure Cassiodorus wrote, \"things made and created differ, for we can make, who cannot create.\"\nAlongside this new, religious interpretation of the expression, there persisted the ancient view that art is not a domain of creativity. This is seen in two early and influential Christian writers, Pseudo-Dionysius and St. Augustine. Later medieval men such as Hraban the Moor, and Robert Grosseteste in the 13th century, thought much the same way.  The Middle Ages here went even further than antiquity; they made no exception of poetry:  it too had its rules, was an art, and was therefore craft and not creativity.\nThe Renaissance saw a change in perspective. The philosopher Marsilio Ficino wrote that the artist \"thinks up\" (\"excogitatio\") his works; the theoretician of architecture and painting, Leon Battista Alberti, that he \"preordains\" (\"preordinazione\"); Raphael, that he shapes a painting according to his idea; Leonardo da Vinci, that he employs \"shapes that do not exist in nature\"; Michelangelo, that the artist realizes his vision rather than imitating nature; Giorgio Vasari, that \"nature is conquered by art\"; the Venetian art theoretician, Paolo Pino, that painting is \"inventing what is not\"; Paolo Veronese, that painters avail themselves of the same liberties as do poets and madmen; Federico Zuccari (1542:1609), that the artist shapes \"a new world, new paradises\"; Cesare Cesariano (1483:1541), that architects are \"demi-gods.\"  Among musicians, the Flemish composer and musicologist Johannes Tinctoris (1446:1511) demanded novelty in what a composer did, and defined a composer as \"one who produces new songs.\"Still more emphatic were those who wrote about poetry:  G.P. Capriano held (1555) that the poet's invention springs \"from nothing.\"  Francesco Patrizi (1586) saw poetry as \"fiction,\" \"shaping,\" \"transformation.\"\nPossibly the first to recognisably use the word \"creation\" in terms of human creativity was the 17th-century Polish poet and theoretician of poetry, Maciej Kazimierz Sarbiewski (1595:1640), known as \"the last Latin poet.\"  In his treatise, De perfecta poesi, he not only wrote that a poet \"invents,\" \"after a fashion builds,\" but also that the poet \"creates anew\" (\"de novo creat\").  Sarbiewski even added:  \"in the manner of God\" (\"instar Dei\").Sarbiewski, however, regarded creativity as the exclusive privilege of poetry; creativity was not open to visual artists.  \"Other arts merely imitate and copy but do not create, because they assume the existence of the material from which they create or of the subject.\"  As late as the end of the 17th century, André Félibien (1619:75) would write that the painter is \"so to speak [a] creator.\"  The Spanish Jesuit Baltasar Gracián (1601:58) wrote similarly as Sarbiewski:  \"Art is the completion of nature, as it were a second Creator...\"\nBy the 18th century, the concept of creativity was appearing more often in art theory.  It was linked with the concept of imagination, which was on all lips. Joseph Addison wrote that the imagination \"has something in it like creation.\"  Voltaire declared (1740) that \"the true poet is creative.\"  With both these authors, however, this was rather only a comparison of poet with creator.Other writers took a different view.  Denis Diderot felt that imagination is merely \"the memory of forms and contents,\" and \"creates nothing\" but only combines, magnifies or diminishes.  It was precisely in 18th-century France, indeed, that the idea of man's creativity met with resistance.  Charles Batteux wrote that \"The human mind cannot create, strictly speaking; all its products bear the stigmata of their model; even monsters invented by an imagination unhampered by laws can only be composed of parts taken from nature.\"  Luc de Clapiers, marquis de Vauvenargues (1715:47), and Étienne Bonnot de Condillac (1715:80) spoke to a similar effect.\nTheir resistance to the idea of human creativity had a triple source.  The expression, \"creation,\" was then reserved for creation ex nihilo (Latin: from nothing), which was inaccessible to man.  Second, creation is a mysterious act, and Enlightenment psychology did not admit of mysteries.  Third, artists of the age were attached to their rules, and creativity seemed irreconcilable with rules.  The latter objection was the weakest, as it was already beginning to be realized (e.g., by Houdar de la Motte, 1715) that rules ultimately are a human invention.\nIn the 19th century, art took its compensation for the resistance of preceding centuries against recognizing it as creativity.  Now not only was art regarded as creativity, but it alone was. The art critic John Ruskin has often been referred to in the context of the transition to self-expression in the history of art education, though some scholars believe this to be a misreading.\nAt the turn of the 20th century, when there began to be discussion as well of creativity in the sciences (e.g., Jan Łukasiewicz, 1878:1956) and in nature (e.g., Henri Bergson), this was generally taken as the transference, to the sciences and to nature, of concepts proper to art.\nThe start of the scientific study of creativity is sometimes taken as J. P. Guilford's 1950 address to the American Psychological Association, which helped popularize the subject.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Greeks"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "ancient Greek",
+                    "Greek"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Cicero",
+                    "Roman",
+                    "Roman, Cicero",
+                    "Rome"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Roman era"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Middle Ages"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "17th-century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "20th century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "19th century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Roman era"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "18th century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "19th century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Nineteenth century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Christian period"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "preceding centuries",
+                    "Christianity",
+                    "Christian period",
+                    "medieval Christianity",
+                    "declining period of antiquity",
+                    "ancient view",
+                    "centuries"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "ancient Greeks",
+                    "medieval men"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Renaissance"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "18th-century France"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "Latin"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Renaissance"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "end of the 17th century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "17th-century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "17th century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "18th century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "20th century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "18th-century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "17th-century Polish poet",
+                    "17th-century Polish poet Maciej Kazimierz Sarbiewski"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "Polish"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "17th-century Polish poet",
+                    "Polish poet and theoretician of poetry, Maciej Kazimierz Sarbiewski",
+                    "Polish poet Maciej Kazimierz Sarbiewski"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "Marsilio Ficino",
+                    "Luc de Clapiers",
+                    "Maciej Kazimierz Sarbiewski",
+                    "Baltasar Gracián",
+                    "Leon Battista Alberti",
+                    "St. Augustine",
+                    "Horace",
+                    "17th-century Polish poet and theoretician of poetry, Maciej Kazimierz Sarbiewski",
+                    "6th-century Roman official and literary figure Cassiodorus",
+                    "Denis Diderot",
+                    "Voltaire",
+                    "Paolo Veronese",
+                    "Pseudo-Dionysius",
+                    "Félibien",
+                    "Maciej Kazimierz Sarbiewski (1595:1640)",
+                    "Sarbiewski",
+                    "Callistratos",
+                    "Francesco Patrizi",
+                    "Raphael",
+                    "J. P. Guilford",
+                    "Flemish composer and musicologist Johannes Tinctoris",
+                    "Johannes Tinctoris",
+                    "Robert Grosseteste",
+                    "Philostratus",
+                    "Étienne Bonnot de Condillac (1715:80)",
+                    "Leonardo da Vinci",
+                    "Cassiodorus",
+                    "Cesare Cesariano",
+                    "Charles Batteux",
+                    "17th-century Polish poet Maciej Kazimierz Sarbiewski",
+                    "Hraban the Moor",
+                    "Federico Zuccari (1542:1609)",
+                    "Diderot",
+                    "Étienne Bonnot de Condillac",
+                    "Joseph Addison",
+                    "Giorgio Vasari",
+                    "André Félibien",
+                    "John Ruskin",
+                    "Spanish Jesuit Baltasar Gracián",
+                    "Henri Bergson",
+                    "Paolo Pino",
+                    "Michelangelo",
+                    "Jan Łukasiewicz",
+                    "philosopher Marsilio Ficino",
+                    "G.P. Capriano",
+                    "theoretician of architecture and painting, Leon Battista Alberti",
+                    "Aristotle",
+                    "Jan Łukasiewicz, 1878:1956",
+                    "Federico Zuccari",
+                    "art critic John Ruskin"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "turn of the 20th century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "Plato"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "Republic"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "Polyclitus"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "Timaeus"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "quae sciuntur",
+                    "quod libet audendi",
+                    "quae"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "Creatio"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "6th-century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "6th-century Roman official"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "13th century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "13th century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "Venetian"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "Venetian art theoretician"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "1483:1541"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 43,
+                "mentions": [
+                    "Flemish composer"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 44,
+                "mentions": [
+                    "1446:1511"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 45,
+                "mentions": [
+                    "1555"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 46,
+                "mentions": [
+                    "1586"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 47,
+                "mentions": [
+                    "De perfecta poesi"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 48,
+                "mentions": [
+                    "Spanish Jesuit Baltasar Gracián"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 49,
+                "mentions": [
+                    "1601:58"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 50,
+                "mentions": [
+                    "1740"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 51,
+                "mentions": [
+                    "France"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 52,
+                "mentions": [
+                    "marquis de Vauvenargues"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 53,
+                "mentions": [
+                    "1715:47"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 54,
+                "mentions": [
+                    "Houdar de la Motte"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 55,
+                "mentions": [
+                    "1715"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 56,
+                "mentions": [
+                    "1950"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 57,
+                "mentions": [
+                    "American Psychological Association"
+                ],
+                "type": "ORG"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Roman",
+                "relation": "HasEffect",
+                "tail": "Flemish"
+            },
+            {
+                "head": "The Republic",
+                "relation": "HasEffect",
+                "tail": "Spanish"
+            },
+            {
+                "head": "quae",
+                "relation": "Country",
+                "tail": "France"
+            },
+            {
+                "head": "history",
+                "relation": "HasEffect",
+                "tail": "the concept of creativity"
+            },
+            {
+                "head": "religious skepticism",
+                "relation": "HasEffect",
+                "tail": "the concept of creativity"
+            },
+            {
+                "head": "the concept creativity",
+                "relation": "ApprovedBy",
+                "tail": "The Renaissance"
+            }
+        ],
+        "label_set": [
+            "HasQuality",
+            "InfluencedBy",
+            "Continent",
+            "NominatedFor",
+            "AppliesToPeople",
+            "LocatedIn",
+            "Founded",
+            "Uses",
+            "OfficialLanguage",
+            "MemberOf",
+            "UsedBy",
+            "PartOf",
+            "Studies",
+            "HasWorksInTheCollection",
+            "Affiliation",
+            "HasEffect",
+            "OwnerOf",
+            "Country",
+            "Creator",
+            "DiplomaticRelation",
+            "ApprovedBy",
+            "HasPart"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Communication",
+        "title": "Regulatory_focus_theory",
+        "doc": "Regulatory focus theory (RFT) is a theory of goal pursuit  formulated by Columbia University psychology professor and researcher E. Tory Higgins regarding people's motivations and perceptions in judgment and decision making processes. RFT examines the relationship between the motivation of a person and the way in which they go about achieving their goal. RFT posits two separate and independent self-regulatory orientations: prevention and promotion (Higgins, 1997).\nThis psychological theory, like many others, is applied in communication, specifically in the subfields of nonverbal communication and persuasion. Chronic regulatory focus is measured using the Regulatory Focus Questionnaire (Higgins et al., 2001) or the Regulatory Strength measure. Momentary regulatory focus can be primed or induced.\nTo understand RFT, it is important to understand another of E. Tory Higgins' theories: regulatory fit theory. When a person believes that there is \"fit\", they will involve themselves more in what they are doing and \"feel right\" about it.   Regulatory fit should not directly affect the hedonic occurrence of a thing or occasion, but should influence a person's assurance in their reaction to the object or event.Regulatory fit theory suggests that a match between orientation to a goal and the means used to approach that goal produces a state of regulatory fit that both creates a feeling of rightness about the goal pursuit and increases task engagement (Higgins, 2001, 2005). Regulatory fit intensifies responses, such as the value of a chosen object, persuasion, and job satisfaction.\nRegulatory fit does not increase the assessment of a decision; instead when someone feels \"right\" about their decision, the experience of \"correctness and importance\" is transferred to the ensuing assessment of the chosen object, increasing its superficial worth. Research suggests that the \"feeling right\" experience can then sway retrospective or prospective evaluations. Regulatory fit can be manipulated incidentally (outside the context of interest) or integrally (within the context of interest).\nRFT refers to when a person pursues a goal in a way that maintains the person's own personal values and beliefs, also known as regulatory orientation. This theory operates on the basic principle that people embrace pleasure but avoid pain, and they then maintain their regulatory fit based on this standard.The regulatory focus is basically the way in which someone approaches pleasure but avoids pain. An individual's regulatory focus concentrates on desired end-states, and the approach motivation used to go from the current state to the desired end-state. This theory differentiates between a promotion-focus on hopes and accomplishments, also known as gains. This focus is more concerned with higher level gains such as advancement and accomplishment.\nAnother focus is the prevention-focus based on safety and responsibilities, also known as non-losses. This focus emphasizes security and safety by following the guidelines and the rules.\nThese two regulatory focuses regulate the influences that a person would be exposed to in the decision-making process, and determine the different ways they achieve their goal, as discussed by RFT. An individual's regulatory orientation is not necessarily fixed. While individuals have chronic tendencies towards either promotion or prevention, these preferences may not hold for all situations. Furthermore, a specific regulatory focus can be induced.\nThe value taken from interaction and goal attainment can be either positive or negative. The decision has positive value when people attempt to attain their goal in a way that fits their regulatory orientation and it will have negative value when people attempt to attain their goal in a way that does not fit their regulatory orientation. Regulatory fit allows value to be created by intensifying the commitment, based on one of the regulatory focus orientations. Making choices and fulfilling objectives are considered as activities, and with any activity, people can be more or less involved. When this involvement is strong, it can intensify the feelings and values about this activity, and the approach to the activity determines whether they are or are not satisfied with the outcome and method of achieving the outcome.\nThis theory has noteworthy implications for increasing the value of life. For example, in interpersonal conflict, if each person experiences \"fit\", each one will be satisfied with and committed to the outcome. In the broad sense, for people to appreciate their own lives, they need to be satisfied and \"feel right\" about what they are doing, and the way they are doing it.  If it is not satisfying, it is known as \"non-fit\", and they will not reach their desired goal.\nRegulatory focus theory, according to Higgins, views motivation in a way that allows an understanding of the foundational ways we approach a task or a goal. Different factors can motivate people during goal pursuit, and we self-regulate our methods and processes during our goal pursuit. RFT proposes that motivational strength is enhanced when the manner in which people work toward a goal sustains their regulatory orientation. Achieving a goal in a way that is consistent to a person's regulatory orientation leads to an individual sense of importance to the event. The impact of motivation is considered calculated and this creates a greater sense of commitment to the goal. The more strongly an individual is engaged (i.e., involved, occupied, fully engrossed) in an activity, the more intense the motivational force experienced. Engagement is of great importance to attain and motivate in order to reach a goal. Engagement serves as intensifier of the directional component of the value experience. An individual who is strongly engaged in a goal pursuits will experience a positive target more positively and a negative target more negatively.Individuals can pursue different goals with diverse regulatory orientations and in unlike ways. There are two different kinds of regulatory orientations that people use to obtain their goals: promotion-focus orientation and prevention-focus orientation. These terms are derived from E. Tory Higgins's Theory of Regulatory Focus. In which, he adds to the notion that people regulate their goal-oriented behavior in two very distinct ways, coined promotion-focus orientation and prevention-focus orientation\nE. Tory Higgins uses this example: there is Student A and Student B, and they both have the shared goal to make an A in a class they are both taking in college. Student A uses a promotion-focus orientation which slants them towards achieving their goal and towards advancement, growth and life accomplishment. This would cause Student A to view the goal as an ideal that satisfies their need for accomplishment. Student B uses a prevention-focus orientation where the goal is something that should be realized because it fulfills their need for security, protection and prevention of negative outcomes. Student A uses an eager approach where they read extra materials to obtain their goal of an A. Student B uses a vigilant approach where they become more detail oriented and pay careful attention to completing all of the course requirements.\nBoth forms of regulatory orientation can work to fulfill goals, but the choice of orientation is based on individual preferences and style. When a person pursues their goal in the focus that fits their regulatory orientation, they are more likely to pursue their goal more eagerly and aggressively than if they were using the other focus. In this case each student has different styles. They both feel more comfortable in persuading their goal. The outcome in this experiment would have been different if the students were given an undesirable choice.\nWhen people make decisions, they often envision the possible \"pleasure or pain\" of the possible outcomes that the focus orientation will produce.  A person imagining making a pleasing choice is more likely to engage in promotion-focus orientation because envisioning the possible outcome of success maintains eagerness about the outcome but does not place importance on vigilance. A person imagining the possible pain by making an undesirable choice maintains more vigilance but less eagerness.\nA person with promotion-focus orientation is more likely to remember the occasions where the goal is pursued by using eagerness approaches and less likely to remember occasions where the goal is pursued by vigilance approaches. A person with prevention-focus orientation is more likely to remember events where the goal is pursued by means of vigilance than if it was pursued using eagerness approaches.\nWhen relating regulatory focus theory to persuasion, it is important to remember that RFT is a goal-attainment theory, and that RFT can spawn feelings of rightness/wrongness which in turn may produce formulations for judgments.The feelings of rightness give an individual more commitment to the information coming in and therefore can avoid endangering their regulatory fit which in turn changes their regulatory focus and accepting a probable motive to change. If a person experiences feelings of wrongness they will suffer negative emotions and deem the experience \nand information as a threat to their regulatory fit and therefore a threat to their regulatory focus and their goal.\nStudies have been done where fit and focus have been applied to show their applicability to consumer purchasing, health advisories, and social policy issues.  To be persuaded is to change your prior feelings, actions, and/or beliefs on a matter to where you agree with the persuader.\nThe \"fit\" involved in RFT plays a large role in such issues and stories because it can be a device to help an individual receive and review the experience during a particular message delivery. Positive reinforcement and feelings of rightness while decoding the message creates a stronger engagement and relationship with processing the message, and negative reinforcement and feelings of wrongness lessens the engagement and attachment. \nResearchers found that targeting the two different regulatory focus orientations, and their coinciding types of fit, works as an effective process to aid in persuasive charm or pull when they introduced a manner of persuasion where the framing of the message was everything and the content was irrelevant to uphold or interrupt a person's regulatory fit and follow the pattern of logic used in regulatory orientation. \nLee and Aaker (2004) conducted an experiment that involved whether or not to give their information in a prevention-focus- or promotion-focus-concerning way. The study involved an advertisement for a grape juice drink, which they split into two to create prevention-focus concerns (disease-preventing) and then promotion-focus concerns (energy enhancement).  In doing so, they demonstrated that rather than trying to know each individual recipient's qualities, one needs only to start by nailing the focus (prevention/promotion) and then framing the message so that it creates that \"rightness\".\nSome may confuse RFT with regulatory fit, regulatory relevance, message matching, and source attractiveness in such an example. The extent of similarities between closely related theories of RFT, such as ones stated above, make it hard to clarify when this theory is applicable or apparent in respect to the persuasion process.\nRFT can be a useful outline for a better understanding of the effects of nonverbal cues in persuasion and impression formation. Regulatory Fit Theory suggests that the effect of a cue cannot be understood without remembering what the cue means given a recipient's focus orientation. Nonverbal cues can be used by the message source to vary delivery style, more specifically to convey eagerness or vigilance, of a given message in a way that will produce regulatory fit in message recipients of different focus orientations.\nAdvancement implies eager movement forward, so eagerness is conveyed by gestures that involve animated, broad opening movements such as hand movements projecting outward, forward leaning body positions, fast body movement, and fast speech rate. Caution implies vigilant carefulness, so vigilance should be conveyed by gestures that show precision like slightly backward-leaning body positions, slower body movement, and slower speech rate.\nAn eager nonverbal delivery style will result in greater message effectiveness for promotion-focus recipients than for prevention-focus recipients, while the opposite is true for a vigilant nonverbal style.\nThere are various aspects, which may contribute to whether or not a message's persuasive element is successful. One aspect is the effect of nonverbal cues and their association with persuasive appeals based on the message recipient's motivational regulatory orientation. This determines the recipient's impression of the source during impression formation.\nResearch has found that nonverbal cues are an essential element of most persuasive appeals. RFT creates the background that allows a prediction for when and for whom a nonverbal cue can have an effect on persuasion. When nonverbal cues and signals are used appropriately, they increase the effectiveness of persuasion.\nRFT has also been applied within moral psychology to the topic of moral judgment, contrasting the notions of \"oughts\" and \"ideals.\"",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "theory of goal pursuit",
+                    "regulatory fit theory",
+                    "regulatory fit",
+                    "regulatory orientations",
+                    "promotion-focus",
+                    "regulatory orientation",
+                    "This psychological theory",
+                    "prevention-focus",
+                    "Regulatory fit intensifies responses",
+                    "promotion-focus orientation",
+                    "This theory",
+                    "this theory",
+                    "fit and focus",
+                    "prevention-focus orientation",
+                    "Theory of Regulatory Focus",
+                    "regulatory focus orientations",
+                    "Momentary regulatory focus",
+                    "Regulatory fit allows value",
+                    "Theory",
+                    "regulatory focus theory",
+                    "Regulatory focus theory",
+                    "promotion",
+                    "Regulatory fit theory",
+                    "feeling of rightness",
+                    "E. Tory Higgins's Theory of Regulatory Focus",
+                    "state of regulatory fit",
+                    "Regulatory Fit Theory",
+                    "theory",
+                    "Chronic regulatory focus",
+                    "prevention",
+                    "regulatory focus",
+                    "Regulatory focus",
+                    "regulatory focuses",
+                    "Regulatory Focus",
+                    "RFT"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Columbia University"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Columbia University psychology professor"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "1997"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Higgins's Theory of Regulatory Focus",
+                    "E. Tory Higgins' theories",
+                    "Lee",
+                    "Higgins et al."
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Higgins",
+                    "E. Tory Higgins",
+                    "E. Tory Higgins'"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "2001"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "2005"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "2004"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Higgins et al., 2001"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Regulatory Strength",
+                    "Regulatory Strength measure"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Student A",
+                    "Student B",
+                    "Student A and Student B"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Lee and Aaker",
+                    "Aaker"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "goal pursuit",
+                    "goal pursuits",
+                    "goal attainment",
+                    "goal-oriented behavior",
+                    "shared goal",
+                    "goal"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "eager approach",
+                    "eager nonverbal delivery style"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "vigilant carefulness",
+                    "vigilant approach",
+                    "vigilance",
+                    "vigilant nonverbal style"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Student A",
+                "relation": "Uses",
+                "tail": "promotion-focus orientation"
+            },
+            {
+                "head": "Student B",
+                "relation": "Uses",
+                "tail": "prevention-focus orientation"
+            },
+            {
+                "head": "Student A",
+                "relation": "Uses",
+                "tail": "promotion-focus orientation"
+            },
+            {
+                "head": "E. Tory Higgins",
+                "relation": "Creator",
+                "tail": "Regulatory focus theory"
+            },
+            {
+                "head": "Lee and Aaker",
+                "relation": "Studies",
+                "tail": "regulatory focus orientations"
+            },
+            {
+                "head": "Regulatory focus theory",
+                "relation": "HasWorksInTheCollection",
+                "tail": "E. Tory Higgins"
+            },
+            {
+                "head": "Regulatory focus theory",
+                "relation": "InfluencedBy",
+                "tail": "regulatory fit theory"
+            },
+            {
+                "head": "Student B",
+                "relation": "Uses",
+                "tail": "prevention-focus orientation"
+            },
+            {
+                "head": "E. Tory Higgins",
+                "relation": "Affiliation",
+                "tail": "Columbia University"
+            },
+            {
+                "head": "psychological theory",
+                "relation": "HasPart",
+                "tail": "RFT"
+            },
+            {
+                "head": "Regulatory focus theory",
+                "relation": "ApprovedBy",
+                "tail": "Regulatory fit theory"
+            }
+        ],
+        "label_set": [
+            "HasQuality",
+            "InfluencedBy",
+            "Continent",
+            "NominatedFor",
+            "AppliesToPeople",
+            "LocatedIn",
+            "Founded",
+            "Uses",
+            "OfficialLanguage",
+            "MemberOf",
+            "UsedBy",
+            "PartOf",
+            "Studies",
+            "HasWorksInTheCollection",
+            "Affiliation",
+            "HasEffect",
+            "OwnerOf",
+            "Country",
+            "Creator",
+            "DiplomaticRelation",
+            "ApprovedBy",
+            "HasPart"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Communication",
+        "title": "Safety_sign",
+        "doc": "A safety sign is a sign designed to warn of hazards, indicate mandatory actions or required use of personal protective equipment, prohibit actions or objects, identify the location of firefighting or safety equipment, or marking of exit routes.\nIn addition to being encountered in industrial facilities; safety signs are also found in public places and communities, at electrical pylons and electrical substations, cliffs, beaches, bodies of water, on motorized equipment, such as lawn mowers, and areas closed for construction or demolition.\nOne of the earliest attempts to standardize safety signage in the United States was the 1914 Universal Safety Standards. The signs were fairly simple in nature, consisting of an illuminated board with \"DANGER\" in white letters on a red field. An arrow was added to draw attention to the danger if it was less obvious. Signs indicating exits, first aid kits consisted of a green board, with white letters. The goal with signs was to inform briefly.\nThe next major standards to follow were ASA Z35.1 in 1941, revised in 1959, 1968, and 1972.\nThe Occupational Safety and Health Administration devised their requirements from ASA Z35.1-1968 in the development of their rules, OSHA §1910.145 for the usage of safety signage in workplaces.\nIn the 1980s, American National Standards Institute formed a committee to update the Z53 and Z35 standards. In 1991, ANSI Z535 was introduced, which was intended to modernize signage through increased use of symbols, the introduction of a new header, 'Warning' and requiring that wording not just state the hazard, but also the possible harm the hazard could inflict and how to avoid the hazard. Until 2013, OSHA regulations technically required usage of signage prescribed in OSHA §1910.145, based on the standard ASA Z35.1-1968. Regulation changes and clarification of the law now allow usage of signs complying with either OSHA §1910.145 or ANSI Z535 designs.Prior to widespread globalization and adoption of standards from the ISO, most countries developed their own standards for safety signage. Text only signs were common prior to introduction of European Council Directive 77/576/EEC on 25 July 1977, which required member states to have policies in place to ensure that \"safety signs at all places of work conform to the principles laid down in Annex I\", which required color coding and symbols.In 1992, the European Council Directive 92/58/EEC replaced EEC 77/576/EEC. The new directive included improved information on how to utilize safety signage effectively. Beyond safety signs, EEC Directive 92/58/EEC standardize markings for fire equipment, acoustic signals, verbal and hand signals for vehicle movements.\nIn 2013, the European Union adopted ISO 7010 to replace the symbols provided previously, adopting them as European Norm (EN) ISO 7010, standardizing symbols among the EU countries. Prior to this, while symbols were provided, symbols were permitted to vary in appearance \"provided that they convey the same meaning and that no difference or adaptation obscures the meaning\".\nAustralian safety signage started in 1952 as CZ4-1952: Safety signs for the occupational environment. It revised and redesignated as AS1319-1972 in 1972, with further revisions taking place in 1979, 1983 and 1994. In August 2018, AS1319-1994 was reconfirmed as still being valid and not in need of major revisions.Japanese safety signage is notable for its clear visual differences from international norms, such as use of square 'no symbols', vertical formatting of sign text. Safety sign standards are regulated by Japanese Industrial Standards through standards JIS Z9101 (Workplace and public area safety signs) JIS Z 9103 (Safety sign colors) and JIS Z 9104 (Safety signs - General specifications). While design trends have been moving towards international norms of ISO standards, differences are still present such as the use of symbols unique to the JIS standards, using colors differently from ISO standards.In addition to typical safety sign standards, Japan introduced JIS Z 9098 in 2016 specifically addressing emergency management needs: informing people of areas susceptible to natural disasters, evacuation routes and safe shelters from disasters. The standard's more unique aspect is the usage of maps and diagrams to provide more detailed information about the area's hazards, shelters and evacuation routes.\nChinese safety signage is regulated by Standardization Administration of China using GB standards 2893-2008 and 2894-2008, which all safety signs are legally required to comply with. Designs are similar to ISO 3864 and uses older ISO 7010 symbols, while adding several additional symbols covering a wider range of prohibitions and hazards.Modern signage design typically consists of a symbol, warning text, and in the United States, Canada, Australia a header consisting of a signal word.North American and some Australian safety signage utilize distinctive headers to draw attention to the risk of harm from a hazard. Headers have guidelines for usage, where conditions must be met to dictate which header must be used for a sign.The 2007 revisions to ANSI Z353.4 allowed for the 'safety alert symbol' found on 'Danger', Warning' and 'Caution' headers to be replaced with the ISO 7010 \"W001 - General warning\" symbol to enable compliance with ISO 3864-1 for signs used in international situations or equipment being exported abroad. \nAdditional headers designs exist, Z53.1-1968 prescribed a magenta and yellow 'Radiation' header for radiation hazards. Other headers have been created by sign manufacturers for various situations not covered Z53.1 standard, such as \"Security Notice\", \"Biohazard\", \"Restricted Area\".\nAs a means of overcoming language and literacy barriers, symbols depicting the hazards, required action or equipment, prohibited actions or items and safety equipment were introduced to safety signage during the 1990s. Globalization and increased international trade helped push this development, as a means of reducing costs associated with needing signage multiple languages. Increasingly, countries are adopting symbols used by ISO 7010 and UN Globally Harmonized System of Classification and Labelling of Chemicals, that harmonizes symbols internationally to reduce confusion, and bring themselves into compliance with international standards.For temporary situations such as wet floors, portable signs are used. They are designed to be self supporting and relatively easy to move once the task is complete. The 1914 Universal Safety Standards provided for a portable 'Danger' sign suitable for both hard floors and soft dirt. Portable signs can take a variety of forms, from a traffic cone with stick on letters, plastic a-frame signs, to safety signs mounted on poles with bases that enable movement.Wet floor signs are also intended to avoid legal liability from injury due failing to warn of an unsafe condition. They are usually yellow. The warning is sometimes enhanced with new technology to provide audible warnings.  Robotic cleaning equipment can use wet floor signs with sonar gadgetry to know when its job is finished.\nSince the late 1980s, more emphasis has been put on testing signage for clarity and to eliminate possible misunderstandings. Researchers have examined the impacts of using different signal words, inclusion of borders and color contrast with text and symbols against sign backgrounds.  In 1999, a group of designers were tasked with creating standardized warning labels for personal watercraft. The group devised several versions of the same warning label using different symbols, wording and emphasis of key phrases through use of underlining, bold fonts and capitalizing. The label designs were reviewed by the United States Coast Guard, United States Power Squadron, industry representatives and subjected to ease of comprehension and readability tests. Results of these reviews and tests lead to further revisions of words and redesigning of some symbols. The resulting labels are still applied to personal watercraft nearly 20 years after their initial design.Placement of signs also affects the effectiveness of signs. A 1993 study tested compliance with a warning against loading the top drawer of a filing cabinet first. The warning was least effective when it was only placed on the shipping box, but most effective when placed as part of a removable cardboard sleeve that physically obstructed the top drawer, interfering with adding files to the drawer.\nSign effectiveness can be reduced from a number of factors, including information overload, where the sheer amount of information is presented in a manner that a reader is unable process it adequately, such as being confronted by a sign consisting of dozens of words with no paragraph breaks, or excessive amounts of unnecessary information. This can be prevented through simplifying warnings down to their key points, with supplementary manuals or training covering the more nuanced and minor information. Overwarning is a related problem, where warnings are overlooked by people due to the sheer number of warnings, such as placing many safety signs together, redundant or obvious warnings. Effectiveness can be reduced through conditions such as poor maintenance, placing a sign too high or low, or in a way that requires excessive effort to read.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "United States"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "1914"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "1914 Universal Safety Standards",
+                    "Universal Safety Standards"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "ASA Z35.1",
+                    "ASA",
+                    "ASA Z35.1-1968"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "1941"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "1959"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "1994"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "2018"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "1972"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "1979"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "2013"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "1983"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "1979, 1983"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "1968"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Occupational Safety and Health Administration",
+                    "OSHA"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "OSHA §1910.145",
+                    "OSHA regulations"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "late 1980s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "1980s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "ANSI",
+                    "American National Standards Institute"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "ANSI Z535",
+                    "ANSI Z353.4"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "1991"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "1992"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "1910.145"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "7010"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "ISO standards",
+                    "ISO 3864",
+                    "ISO 7010",
+                    "ISO 3864-1",
+                    "ISO 7010 symbols"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "ISO"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "European Council"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "European Council Directive 92/58/EEC",
+                    "European Council Directive 77/576/EEC"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "EEC Directive 92/58/EEC",
+                    "EEC 77/576/EEC",
+                    "European Norm (EN) ISO 7010"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "EEC"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "European",
+                    "EU",
+                    "European Union"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "25 July 1977"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "92/58"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "Australia"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "1952"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "AS1319-1972"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "AS1319-1994"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "August 2018"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "Japanese"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "JIS Z 9104"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "JIS Z 9098",
+                    "JIS Z 9103"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "JIS Z",
+                    "JIS",
+                    "JIS Z9101",
+                    "Japanese Industrial Standards"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "Workplace"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 43,
+                "mentions": [
+                    "Japan"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 44,
+                "mentions": [
+                    "2016"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 45,
+                "mentions": [
+                    "Chinese"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 46,
+                "mentions": [
+                    "Standardization Administration of China"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 47,
+                "mentions": [
+                    "GB"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 48,
+                "mentions": [
+                    "2893-2008"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 49,
+                "mentions": [
+                    "2894-2008"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 50,
+                "mentions": [
+                    "Canada"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 51,
+                "mentions": [
+                    "North American"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 52,
+                "mentions": [
+                    "2007"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 53,
+                "mentions": [
+                    "W001"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 54,
+                "mentions": [
+                    "Security Notice"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 55,
+                "mentions": [
+                    "1990s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 56,
+                "mentions": [
+                    "UN"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 57,
+                "mentions": [
+                    "1999"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 58,
+                "mentions": [
+                    "United States Coast Guard",
+                    "United States Power Squadron"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 59,
+                "mentions": [
+                    "nearly 20 years"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 60,
+                "mentions": [
+                    "1993"
+                ],
+                "type": "DATE"
+            }
+        ],
+        "triples": [
+            {
+                "head": "the United States",
+                "relation": "DiplomaticRelation",
+                "tail": "Japan"
+            },
+            {
+                "head": "the United States",
+                "relation": "DiplomaticRelation",
+                "tail": "GB"
+            },
+            {
+                "head": "the United States",
+                "relation": "DiplomaticRelation",
+                "tail": "Canada"
+            },
+            {
+                "head": "the United States",
+                "relation": "Continent",
+                "tail": "North American"
+            },
+            {
+                "head": "the United States",
+                "relation": "PartOf",
+                "tail": "North American"
+            },
+            {
+                "head": "Japanese Industrial Standards",
+                "relation": "Country",
+                "tail": "Japan"
+            },
+            {
+                "head": "Japan",
+                "relation": "DiplomaticRelation",
+                "tail": "Canada"
+            },
+            {
+                "head": "GB",
+                "relation": "DiplomaticRelation",
+                "tail": "Canada"
+            },
+            {
+                "head": "Canada",
+                "relation": "Continent",
+                "tail": "North American"
+            },
+            {
+                "head": "Canada",
+                "relation": "PartOf",
+                "tail": "North American"
+            },
+            {
+                "head": "Canada",
+                "relation": "LocatedIn",
+                "tail": "North American"
+            }
+        ],
+        "label_set": [
+            "HasQuality",
+            "InfluencedBy",
+            "Continent",
+            "NominatedFor",
+            "AppliesToPeople",
+            "LocatedIn",
+            "Founded",
+            "Uses",
+            "OfficialLanguage",
+            "MemberOf",
+            "UsedBy",
+            "PartOf",
+            "Studies",
+            "HasWorksInTheCollection",
+            "Affiliation",
+            "HasEffect",
+            "OwnerOf",
+            "Country",
+            "Creator",
+            "DiplomaticRelation",
+            "ApprovedBy",
+            "HasPart"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Communication",
+        "title": "Video_feedback",
+        "doc": "Video feedback is the process that starts and continues when a video camera is pointed at its own playback video monitor. The loop delay from camera to display back to camera is at least one video frame time, due to the input and output scanning processes; it can be more if there is more processing in the loop.\nFirst discovered shortly after Charlie Ginsburg invented the first video recorder for Ampex in 1956, video feedback was considered a nuisance and unwanted noise. Technicians and studio camera operators were chastised for allowing a video camera to see its own monitor as the overload of self-amplified video signal caused significant problems with the 1950s video pickup, often ruining the pickup. It could also cause screen burn-in on television screens and monitors of the time as well, by generating static brightly illuminated display patterns.In the 1960s early examples of video feedback art became introduced into the psychedelic art scene in New York City. Nam June Paik is often cited as the first video artist; he had clips of video feedback on display in New York City at the Greenwich Cafe in the mid 1960s. \nEarly video feedback works were produced by media artist experimenters on the East and West Coasts of North America in the late 1960s and early 1970s. Video feedback artists Steina and Woody Vasulka, with Richard Lowenberg and others, formed The Kitchen, which was located in the kitchen of a broken-down hotel in lower Manhattan; while Skip Sweeney and others founded Video Free America in San Francisco, to nurture their video art and feedback experiments.\nDavid Sohn mentions video feedback in his 1970 book Film, the Creative Eye. This book was part of the base curriculum for Richard Lederer of St. Paul's School in Concord, New Hampshire, when he made video feedback part of an English curriculum in his 1970s course Creative Eye in Film. Several students in this class participated regularly in the making and recording of video feedback. Sony had released the VuMax series of recording video cameras and manually \"hand-looped\" video tape decks by this time which did two things: it increased the resolution of the video image, which improved picture quality, and it made video tape recording technology available to the general public for the first time and allowed for such video experimentation by anyone.\nDuring the 1980s and into the 1990s video technology became enhanced and evolved into high quality, high definition video recording. Michael C. Andersen generated the first known mathematical formula of the video feedback process,  and he has also generated a Mendeleev's square to show the gradual progressive formulaic change of the video image as certain parameters are adjusted.\nIn the 1990s the rave scene and a social return to art of a more psychedelic nature brought back displays of video feedback on large disco dance floor video screens around the world. There are filters for Adobe Photoshop and non-linear video editors that often have video feedback as the filter description, or as a setting on a filter. These filter types either mimic or directly utilize video feedback for its result effect and can be recognized by its vortex, phantasmagoric manipulation of the original recorded image.\nMany artists have used optical feedback. A famous example is Queen's music video for \"Bohemian Rhapsody\" (1975). The effect (in this simple case) can be compared to looking at oneself between two mirrors.This technique—under the name \"howl-around\"—was employed for the opening titles sequence for the British science fiction series Doctor Who, which employed this technique from 1963 to 1973.Initially this was in black and white, and redone in 1967 to showcase the show's new 625-line broadcast resolution and feature the Doctor's face (Patrick Troughton at that time). It was redone again, in colour this time, in 1970. The next title sequence for the show, which debuted in 1973, abandoned this technique in favour of slit-scan photography.\nAn example of optical feedback in science is the optical cavity found in almost every laser, which typically consists of two mirrors between which light is amplified. In the late 1990s it was found that so-called unstable-cavity lasers produce light beams whose cross-section present a fractal pattern.Optical feedback in science is often closely related to video feedback, so an understanding of video feedback can be useful for other applications of optical feedback. Video feedback has been used to explain the essence of fractal structure of unstable-cavity laser beams. \nVideo feedback is also useful as an experimental-mathematics tool.  Examples of its use include the making of Fractal patterns using multiple monitors, and multiple images produced using mirrors.\nOptical feedback is also found in the image intensifier tube and its variants. Here the feedback is usually an undesirable phenomenon, where the light generated by the phosphor screen \"feeds back\" to the photocathode, causing the tube to oscillate, and ruining the image. This is typically suppressed by an aluminum reflective screen deposited on the back of the phosphor screen, or by incorporating a microchannel plate detector.\nOptical feedback has been used experimentally in these tubes to amplify an image, in the manner of the cavity laser, but this technique has had limited use.\nOptical feedback has also been experimented with as an electron source, since a photocathode-phosphor cell will 'latch' when triggered, providing a steady stream of electrons. See US Patent 4,531,122 for a typical application.\nDouglas Hofstadter discusses video feedback in his book I Am a Strange Loop about the human mind and consciousness. He devotes a chapter to describing his experiments with video feedback.At some point during the session, I accidentally stuck my hand momentarily in front of the camera's lens. Of course the screen went all dark, but when I removed my hand, the previous pattern did not just pop right back onto the screen, as expected. Instead I saw a different pattern on the screen, but this pattern, unlike anything I'd seen before, was not stationary.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Charlie Ginsburg"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "first video recorder for Ampex"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "in 1973"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "1980s and into the 1990s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "1950s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "1956"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "1970s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "1990s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "mid 1960s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "in 1967"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "in 1970"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "1970"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "1960s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "1973"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "1963"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "1967"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "1980s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "1950s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "1990s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "1960s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "late 1960s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "late 1960s and early 1970s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "1980s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "early 1970s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "late 1960s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "1975"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "mid 1960s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "late 1990s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "In the 1990s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "New York City"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "first video artist",
+                    "Nam June Paik",
+                    "Nam"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "Greenwich Cafe"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "East and West Coasts of North America",
+                    "West Coasts",
+                    "North America"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "Steina"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "Woody",
+                    "Woody Vasulka",
+                    "Video feedback artists Steina and Woody Vasulka",
+                    "Steina and Woody Vasulka"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "Richard Lowenberg"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "Manhattan",
+                    "lower Manhattan"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "Skip Sweeney"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "Video Free America"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "San Francisco"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "David Sohn"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "Film, the Creative Eye"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "Richard Lederer",
+                    "St. Paul's School"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 43,
+                "mentions": [
+                    "St. Paul's School in Concord, New Hampshire"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 44,
+                "mentions": [
+                    "New Hampshire",
+                    "Concord, New Hampshire",
+                    "Concord"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 45,
+                "mentions": [
+                    "English"
+                ],
+                "type": "LANGUAGE"
+            },
+            {
+                "id": 46,
+                "mentions": [
+                    "English curriculum"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 47,
+                "mentions": [
+                    "Creative Eye in Film",
+                    "Creative Eye"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 48,
+                "mentions": [
+                    "Sony"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 49,
+                "mentions": [
+                    "VuMax"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 50,
+                "mentions": [
+                    "Michael C. Andersen"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 51,
+                "mentions": [
+                    "Mendeleev"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 52,
+                "mentions": [
+                    "Mendeleev's square"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 53,
+                "mentions": [
+                    "Adobe"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 54,
+                "mentions": [
+                    "Adobe Photoshop"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 55,
+                "mentions": [
+                    "Queen's music video"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 56,
+                "mentions": [
+                    "Bohemian Rhapsody"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 57,
+                "mentions": [
+                    "British"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 58,
+                "mentions": [
+                    "625"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 59,
+                "mentions": [
+                    "Doctor Who",
+                    "Doctor's face",
+                    "Patrick Troughton"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 60,
+                "mentions": [
+                    "Fractal patterns"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 61,
+                "mentions": [
+                    "Douglas Hofstadter"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 62,
+                "mentions": [
+                    "I Am a Strange Loop"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 63,
+                "mentions": [
+                    "first video artist",
+                    "media artist",
+                    "Video feedback artists",
+                    "video artist"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 64,
+                "mentions": [
+                    "video feedback art",
+                    "video feedback works",
+                    "displays of video feedback",
+                    "Video feedback",
+                    "video feedback"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 65,
+                "mentions": [
+                    "first video recorder for Ampex"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 66,
+                "mentions": [
+                    "nuisance and unwanted noise"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 67,
+                "mentions": [
+                    "significant problems with the 1950s video pickup"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 68,
+                "mentions": [
+                    "Kitchen",
+                    "kitchen"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 69,
+                "mentions": [
+                    "VuMax series",
+                    "VuMax series of recording video cameras"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 70,
+                "mentions": [
+                    "Optical feedback in science",
+                    "optical feedback in science",
+                    "Optical feedback",
+                    "optical feedback"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 71,
+                "mentions": [
+                    "almost every laser",
+                    "unstable-cavity lasers"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "New York City",
+                "relation": "HasPart",
+                "tail": "Manhattan"
+            },
+            {
+                "head": "New York City",
+                "relation": "OfficialLanguage",
+                "tail": "English"
+            },
+            {
+                "head": "San Francisco",
+                "relation": "OfficialLanguage",
+                "tail": "English"
+            }
+        ],
+        "label_set": [
+            "HasQuality",
+            "InfluencedBy",
+            "Continent",
+            "NominatedFor",
+            "AppliesToPeople",
+            "LocatedIn",
+            "Founded",
+            "Uses",
+            "OfficialLanguage",
+            "MemberOf",
+            "UsedBy",
+            "PartOf",
+            "Studies",
+            "HasWorksInTheCollection",
+            "Affiliation",
+            "HasEffect",
+            "OwnerOf",
+            "Country",
+            "Creator",
+            "DiplomaticRelation",
+            "ApprovedBy",
+            "HasPart"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    }
+]

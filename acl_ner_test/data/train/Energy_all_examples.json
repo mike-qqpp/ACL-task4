@@ -1,0 +1,4118 @@
+[
+    {
+        "domain": "Energy",
+        "title": "Advanced_thermal_recycling_system",
+        "doc": "An advanced thermal recycling system (or an ATR system) is the commercial brand name of the waste-to-energy incineration offering by Klean Power, which has been implemented in a single plant in Germany in 1999. WtE facilities such as the ATR transforms municipal solid waste (MSW) into electricity or steam for district heating or industrial customers. The combustion bottom ash, and the combustion fly ash, along with the air pollution control system fly ash, are treated to produce products that can be beneficially reused. Specifically, ATR systems consist of the following:\nSolid waste combustion, boiler and combustion control system, energy recovery and air pollution control equipment;\nCombustion bottom ash and fly ash treatment systems that produce commercially reusable products; and\nAn optional pre-processing system to recover recyclable materials contained in the MSW delivered to the facility before the MSW enters the thermal processing area of the facility.\nOne commercially operating ATR facility has been built so far. It is the Müllverwertung Rugenberger Damm WtE plant in Hamburg, Germany, commissioned in 1999. The German Green Party has endorsed the specific features of this facility in its \"Concept 2020\" initiative to cease all landfilling of waste by 2020 as an essential part of an integrated waste management system achieving the highest standards in the energy-from-waste industry. No landfilling of unprocessed waste has been allowed in Germany since 2005.Overhead refuse cranes are used to hold approximately five tons of garbage each. The waste is then mixed in the bunker to create a homogeneous mixture to ensure that the bottom ash byproduct has good combustion, and low carbon content. These cranes then deliver the mixed waste into the feeding hopper, which leads down onto stoker grates. These grates control the rate at which the waste travels through the boiler. The heat ignites the trash as it moves along the forward feeding grates until only the byproduct bottom ash remains at the end of the grate. Each combustion line feeds a boiler that operates above 1,560 °F (850 °C) for two seconds. The temperature in the combustion zone is measured through acoustic monitoring. A computer controls the temperature, the grate speed, the amount of air used, and all other aspects of the process that enable complete combustion and minimization of emissions.\nMaintaining the furnace's high temperature is essential to rid the waste and the resulting combustion gases of complex organic compounds such as dioxins and furans. To prevent the reformulation of pollutants, fly ash is separated from the flue gas downstream of the superheaters to reduce the fly ash content, which could act as a catalyst in the critical reformulation temperature range of 600 to 400 °F (316 to 204 °C). At the exit of the boiler, the flue gas is cooled down to a level of 340 °F (171 °C).\nAs the waste is combusted, heat is released in the boiler. This heat produces high-pressure, high-temperature steam, which generates electrical energy when passed through a turbine generator. The electricity is fed into the public power grid or sold directly to a customer. The steam can also be exported directly for use in district heating or industrial processes.\nEach unit has an independent air pollution control system. Flue gas cleaning begins in the boiler, where oxides of nitrogen are reduced by injecting ammonia water into the combustion chamber. Lightly loaded absorbents (activated carbon from the second bag house) are injected into the flue gas downstream of the first bag house to separate any contaminants that have reformed (such as organic compounds), any condensed heavy metals, salts and other gaseous contaminants, as well as residue fly ash.\nThe first baghouse makes it possible to produce reusable by-products such as hydrochloric acid and gypsum from the consecutive air pollution control process steps. Acid gases are removed from the flue gases by passing through a two-stage scrubber to remove acid components, especially halogen compounds such as hydrochloric acid and hydrofluoric acid. A counter-flow neutral scrubber follows, using a lime slurry to remove sulphur oxides. The pollutant gases are either dissolved in water droplets (acids) or bound as calcium salts and thereby removed from the flue gas. A second baghouse acts as a polishing filter to capture any remaining aerosols, organic compounds and heavy metals, which thereby are reduced to levels usually below detection.\nFollowing combustion, the material left consists of the non-combustible components of the waste and the inert materials produced during combustion. This is known as bottom ash. The bottom ash is washed to eliminate soluble salts. Iron scrap and non-ferrous metals such as aluminium, copper and brass are separated and sold in secondary metals markets. The bottom ash is then screened, crushed and sold for use as a construction material.\nGypsum is created when the oxides of sulphur (SO2 and SO3) are separated by the single stage scrubber. It is purified, then sold to the construction industry.\nThe acid scrubbing process in the flue gas treatment system also produces a raw hydrochloric acid at a concentration of 10% to 12%. The acid is distilled (rectified) to yield commercial-grade (30% concentration) hydrochloric acid.\nFly ash, separated in the boiler and baghouses and constituting up to 5% by weight of the combusted MSW, is treated to recover metals and minerals for reuse, resulting in an overall ATR process landfill diversion rate of approximately 98.5%.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Müllverwertung Rugenberger Damm WtE plant",
+                    "ATR systems",
+                    "ATR system",
+                    "ATR facility",
+                    "advanced thermal recycling system"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Klean Power"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Germany"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "1999"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "unprocessed waste",
+                    "waste",
+                    "MSW",
+                    "garbage",
+                    "municipal solid waste",
+                    "mixed waste",
+                    "landfilling of waste"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "One"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Hamburg",
+                    "Hamburg, Germany"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "German Green Party"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "2020"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "approximately five tons"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "1,560 °"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "850"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "two seconds"
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "600"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "316"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "204"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "340"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "second"
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "first"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Gypsum",
+                    "gypsum"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "10% to 12%"
+                ],
+                "type": "PERCENT"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "30%"
+                ],
+                "type": "PERCENT"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "up to 5%"
+                ],
+                "type": "PERCENT"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "approximately 98.5%"
+                ],
+                "type": "PERCENT"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "combustion bottom ash",
+                    "Combustion bottom ash",
+                    "bottom ash"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "Fly ash",
+                    "combustion fly ash",
+                    "residue fly ash",
+                    "fly ash"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "high-pressure, high-temperature steam"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "electrical energy"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "public power grid"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "hydrochloric acid"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "two-stage scrubber"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "acid scrubbing process",
+                    "acid scrubbing process in the flue gas treatment system"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Klean Power",
+                "relation": "OwnerOf",
+                "tail": "advanced thermal recycling system"
+            },
+            {
+                "head": "Müllverwertung Rugenberger Damm WtE plant",
+                "relation": "LocatedIn",
+                "tail": "Hamburg, Germany"
+            },
+            {
+                "head": "advanced thermal recycling system",
+                "relation": "SaidToBeTheSameAs",
+                "tail": "waste-to-energy incineration offering"
+            },
+            {
+                "head": "Müllverwertung Rugenberger Damm WtE plant",
+                "relation": "LocatedIn",
+                "tail": "Hamburg, Germany"
+            }
+        ],
+        "label_set": [
+            "Promoted",
+            "Replaces",
+            "Partner",
+            "NominatedFor",
+            "InterestedIn",
+            "NamedAfter",
+            "HasPart",
+            "SignificantEvent",
+            "MemberOf",
+            "InfluencedBy",
+            "ContainsAdministrativeTerritorialEntity",
+            "InOppositionTo",
+            "Country",
+            "SaidToBeTheSameAs",
+            "WorkLocation",
+            "DifferentFrom",
+            "LocatedIn",
+            "HasWorksInTheCollection",
+            "PartOf",
+            "Creator",
+            "AcademicDegree",
+            "UsedBy",
+            "EducatedAt",
+            "CountryOfCitizenship",
+            "Author",
+            "DiplomaticRelation",
+            "OwnerOf",
+            "Follows",
+            "FollowedBy",
+            "OwnedBy"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Energy",
+        "title": "Anne_Korin",
+        "doc": "Anne Korin is co-director of the Institute for the Analysis of Global Security, a think tank focused on energy and security, and chairs the Set America Free Coalition, an alliance of national security, environmental, labor and religious groups promoting ways to reduce America's dependence on foreign oil. She is co-author of Energy Security Challenges for the 21st Century (2009) and Turning Oil into Salt (2009). She appears in the media frequently and has written articles for Foreign Affairs, MIT Innovations, The American Interest and National Review.\nIn May 2008, Korin testified before the House Committee on Foreign Affairs.\nKorin is adviser to the United States Energy Security Council.\nIn July 2023, Gal Luft, with whom Korin co-authored Turning Oil into Salt, and Energy Security Challenges for the 21st Century, along with several other books and articles, was indicted in the United States for acting as unregistered foreign agent, trafficking in arms, violating U.S. sanctions against Iran, and making false statements to federal Agents. Korin and Luft are co-directors of The Institute for the Analysis of Global Security.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Korin",
+                    "Anne Korin"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Institute for the Analysis of Global Security"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Set America Free Coalition"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "U.S.",
+                    "United States",
+                    "America"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Energy Security Challenges for the 21st Century"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "2009"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Turning Oil into Salt"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Foreign Affairs"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "MIT Innovations"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "American Interest and National Review"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "May 2008"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "House Committee on Foreign Affairs"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "United States Energy Security Council"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "July 2023"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Luft",
+                    "Gal Luft"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Iran"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "House Committee on Foreign Affairs"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "United States Energy Security Council"
+                ],
+                "type": "ORG"
+            }
+        ],
+        "triples": [
+            {
+                "head": "United States",
+                "relation": "SaidToBeTheSameAs",
+                "tail": "the United States"
+            },
+            {
+                "head": "The American Interest",
+                "relation": "PartOf",
+                "tail": "the United States"
+            }
+        ],
+        "label_set": [
+            "Promoted",
+            "Replaces",
+            "Partner",
+            "NominatedFor",
+            "InterestedIn",
+            "NamedAfter",
+            "HasPart",
+            "SignificantEvent",
+            "MemberOf",
+            "InfluencedBy",
+            "ContainsAdministrativeTerritorialEntity",
+            "InOppositionTo",
+            "Country",
+            "SaidToBeTheSameAs",
+            "WorkLocation",
+            "DifferentFrom",
+            "LocatedIn",
+            "HasWorksInTheCollection",
+            "PartOf",
+            "Creator",
+            "AcademicDegree",
+            "UsedBy",
+            "EducatedAt",
+            "CountryOfCitizenship",
+            "Author",
+            "DiplomaticRelation",
+            "OwnerOf",
+            "Follows",
+            "FollowedBy",
+            "OwnedBy"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Energy",
+        "title": "Association_for_Decentralised_Energy",
+        "doc": "The Association for Decentralised Energy (ADE), formerly the Combined Heat and Power Association, is an advocate of an integrated approach to delivering energy locally. The ADE was founded in 1967 as the District Heating Association, becoming the Combined Heat and Power Association in 1983, and was then renamed to the Association for Decentralised Energy on 12 January 2015. The ADE has over 100 members.\nThe Association merged with the Association for the Conservation of Energy in 2018.\nThe ADE acts as an advocate for its members by engaging with Government and key decision makers to support cost effective and efficient solutions to industry, businesses and householders by:\nDeveloping a policy which puts the energy user's needs first\nDelivering a local, low carbon energy system at lowest cost\nEnsuring an understanding of heat, which makes up half of our energy use\nTaking an integrated and 'systems thinking' approach\nHelping users manage energy demand to limit the need for new generation capacity\nStrengthening the sector's reputation through industry standards and best practice\nThe Association also provide secretariat for the Independent Heat Customer Protection Scheme.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Association for the Conservation of Energy",
+                    "Combined Heat and Power Association",
+                    "Association for Decentralised Energy",
+                    "District Heating Association",
+                    "ADE"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "1967"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "12 January 2015"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "100"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "2018"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "first"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "half"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Independent Heat Customer Protection Scheme"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Independent Heat Customer Protection Scheme"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [],
+        "label_set": [
+            "Promoted",
+            "Replaces",
+            "Partner",
+            "NominatedFor",
+            "InterestedIn",
+            "NamedAfter",
+            "HasPart",
+            "SignificantEvent",
+            "MemberOf",
+            "InfluencedBy",
+            "ContainsAdministrativeTerritorialEntity",
+            "InOppositionTo",
+            "Country",
+            "SaidToBeTheSameAs",
+            "WorkLocation",
+            "DifferentFrom",
+            "LocatedIn",
+            "HasWorksInTheCollection",
+            "PartOf",
+            "Creator",
+            "AcademicDegree",
+            "UsedBy",
+            "EducatedAt",
+            "CountryOfCitizenship",
+            "Author",
+            "DiplomaticRelation",
+            "OwnerOf",
+            "Follows",
+            "FollowedBy",
+            "OwnedBy"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Energy",
+        "title": "Electric_power_industry",
+        "doc": "The electric power industry covers the generation, transmission, distribution and sale of electric power to the general public and industry. The commercial distribution of electric power started in 1882 when electricity was produced for electric lighting. In the 1880s and 1890s, growing economic and safety concerns lead to the regulation of the industry. What was once an expensive novelty limited to the most densely populated areas, reliable and economical electric power has become an essential aspect for normal operation of all elements of developed economies.\nBy the middle of the 20th century, electricity was seen as a \"natural monopoly\", only efficient if a restricted number of organizations participated in the market; in some areas, vertically-integrated companies provide all stages from generation to retail, and only governmental supervision regulated the rate of return and cost structure.\nSince the 1990s, many regions have broken up the generation and distribution of electric power. While such markets can be abusively manipulated with consequent adverse price and reliability impact to consumers, generally competitive production of electrical energy leads to worthwhile improvements in efficiency. However, transmission and distribution are harder problems since returns on investment are not as easy to find.\nAlthough electricity had been known to be produced as a result of the chemical reactions that take place in an electrolytic cell since Alessandro Volta developed the voltaic pile in 1800, its production by this means was, and still is, expensive. In 1831, Michael Faraday devised a machine that generated electricity from rotary motion, but it took almost 50 years for the technology to reach a commercially viable stage. In 1878, in the United States, Thomas Edison developed and sold a commercially viable replacement for gas lighting and heating using locally generated and distributed direct current electricity.Robert Hammond, in December 1881, demonstrated the new electric light in the Sussex town of Brighton in the UK for a trial period. The ensuing success of this installation enabled Hammond to put this venture on both a commercial and legal footing, as a number of shop owners wanted to use the new electric light. Thus the Hammond Electricity Supply Co. was launched.\nIn early 1882, Edison opened the world's first steam-powered electricity generating station at Holborn Viaduct in London, where he had entered into an agreement with the City Corporation for a period of three months to provide street lighting. In time he had supplied a number of local consumers with electric light. The method of supply was direct current (DC). Whilst the Godalming and the 1882 Holborn Viaduct Scheme closed after a few years the Brighton Scheme continued on, and supply was in 1887 made available for 24 hours per day.\nIt was later on in the year in September 1882 that Edison opened the Pearl Street Power Station in New York City and again it was a DC supply. It was for this reason that the generation was close to or on the consumer's premises as Edison had no means of voltage conversion. The voltage chosen for any electrical system is a compromise. For a given amount of power transmitted, increasing the voltage reduces the current and therefore reduces the required wire thickness. Unfortunately it also increases the danger from direct contact and increases the required insulation thickness. Furthermore, some load types were difficult or impossible to make work with higher voltages. The overall effect was that Edison's system required power stations to be within a mile of the consumers. While this could work in city centres, it would be unable to economically supply suburbs with power.\nThe mid to late 1880s saw the introduction of alternating current (AC) systems in Europe and the U.S. AC power had an advantage in that transformers, installed at power stations, could be used to raise the voltage from the generators, and transformers at local substations could reduce voltage to supply loads. Increasing the voltage reduced the current in the transmission and distribution lines and hence the size of conductors and distribution losses. This made it more economical to distribute power over long distances. Generators (such as hydroelectric sites) could be located far from the loads. AC and DC competed for a while, during a period called the war of the currents. The DC system was able to claim slightly greater safety, but this difference was not great enough to overwhelm the enormous technical and economic advantages of alternating current which eventually won out.\nThe AC power system used today developed rapidly, backed by industrialists such as George Westinghouse with Mikhail Dolivo-Dobrovolsky, Galileo Ferraris, Sebastian Ziani de Ferranti, Lucien Gaulard, John Dixon Gibbs, Carl Wilhelm Siemens, William Stanley Jr., Nikola Tesla, and others contributed to this field.\nPower electronics is the application of solid-state electronics to the control and conversion of electric power. Power electronics started with the development of the mercury arc rectifier in 1902, used to convert AC into DC. From the 1920s on, research continued on applying thyratrons and grid-controlled mercury arc valves to power transmission. Grading electrodes made them suitable for high voltage direct current (HVDC) power transmission. In 1933, selenium rectifiers were invented. Transistor technology dates back to 1947, with the invention of the point-contact transistor, which was followed by the bipolar junction transistor (BJT) in 1948. By the 1950s, higher power semiconductor diodes became available and started replacing vacuum tubes. In 1956, the silicon controlled rectifier (SCR) was introduced, increasing the range of power electronic applications.\nA breakthrough in power electronics came with the invention of the MOSFET (metal-oxide-semiconductor field-effect transistor) in 1959. Generations of MOSFETs enabled power designers to achieve performance and density levels not possible with bipolar transistors. In 1969, Hitachi introduced the first vertical power MOSFET, which would later be known as the VMOS (V-groove MOSFET). The power MOSFET has since become the most common power device in the world, due to its low gate drive power, fast switching speed, easy advanced paralleling capability, wide bandwidth, ruggedness, easy drive, simple biasing, ease of application, and ease of repair.\nWhile HVDC is increasingly being used to transmit large quantities of electricity over long distances or to connect adjacent asynchronous power systems, the bulk of electricity generation, transmission, distribution and retailing takes place using alternating current.\nThe electric power industry is commonly split up into four processes. These are electricity generation such as a power station, electric power transmission, electricity distribution and electricity retailing. In many countries, electric power companies own the whole infrastructure from generating stations to transmission and distribution infrastructure. For this reason, electric power is viewed as a natural monopoly. The industry is generally heavily regulated, often with price controls and is frequently government-owned and operated. However, the modern trend has been growing deregulation in at least the latter two processes.The nature and state of market reform of the electricity market often determines whether electric companies are able to be involved in just some of these processes without having to own the entire infrastructure, or citizens choose which components of infrastructure to patronise. In countries where electricity provision is deregulated, end-users of electricity may opt for more costly green electricity.\nGeneration is the conversion of some primary energy source into electric power suitable for commercial use on an electrical grid. Most commercial electric power is produced by rotating electrical machines, \"generators\", which move conductors through a magnetic field to produce electric current.  The generator is rotated by some other prime mover machine; in typical grid-connected generators this is a steam turbine, a gas turbine, or a hydraulic turbine. Primary energy sources for these machine are often fossil fuels (coal, oil, natural gas), nuclear fission, geothermal steam, or falling water. Renewable sources such as wind and solar energy are increasingly of commercial importance.Since electrical generation must be closely matched with electrical consumption, enough generation capacity must be installed to meet peak demands.  At the same time, primary energy sources must be selected to minimize the cost of produced electrical energy. Generally the lowest-incremental-cost source of electrical energy will be the next unit connected to meet rising demand.  Electrical generators have automatic controls to regulate the power fed into the electrical transmission system, adjusting generator output moment by moment to balance with electrical demand.  For a large grid with scores or hundreds of generators connected and thousands of loads, management of stable generator supply is a problem with significant challenges, to meet economic, environmental and reliability requirements.  For example, low-incremental-cost generation sources such as nuclear power plants may be run continually to meet the average \"base load\" of the connected system, whereas more costly peaking power plants such as natural gas turbines may be run for brief times during the day to meet peak loads. Alternatively, load management strategies may encourage more even demand for electrical power and reduce costly peaks. Designated generator units for a particular electrical grid may be run at partial output only, to provide \"spinning reserve\" for sudden increases in demand or faults with other generating units.\nIn addition to electrical power production, electrical generation units may provide other ancillary services to the electrical grid, such as frequency control, reactive power, and black start of a collapsed power grid. These ancillary services may be commercially valuable when the generation, transmission, and distribution electrical companies are separate commercial entities.\nElectric power transmission is the bulk movement of electrical energy from a generating site, such as a power plant, to an electrical substation. The interconnected  lines which facilitate this movement are known as a transmission network. This is distinct from the local wiring between high-voltage substations and customers, which is typically referred to as electric power distribution. The combined transmission and distribution network is known as the \"power grid\" in North America, or just \"the grid\". In the United Kingdom, India, Malaysia and New Zealand, the network is known as the National Grid.A  wide area synchronous grid, also known as an \"interconnection\" in North America, directly connects many generators delivering AC power with the same relative frequency numerous consumers. For example, there are four major interconnections in North America (the Western Interconnection, the Eastern Interconnection, the Quebec Interconnection and the Electric Reliability Council of Texas (ERCOT) grid). In Europe one large grid connects most of continental Europe.\nHistorically, transmission and distribution lines were owned by the same company, but starting in the 1990s, many countries have liberalized the regulation of the electricity market in ways that have led to the separation of the electricity transmission business from the distribution business.\nElectric power distribution is the final stage in the delivery of electric power; it carries electricity from the transmission system to individual consumers. Distribution substations connect to the transmission system and lower the transmission voltage to medium voltage ranging between 2 kV and 35 kV with the use of transformers. Primary distribution lines carry this medium voltage power to distribution transformers located near the customer's premises. Distribution transformers again lower the voltage to the utilization voltage used by lighting, industrial equipment or household appliances. Often several customers are supplied from one transformer through secondary distribution lines. Commercial and residential customers are connected to the secondary distribution lines through service drops. Customers demanding a much larger amount of power may be connected directly to the primary distribution level or the subtransmission level.Electricity retailing is the final sale of electricity from generation to the end-use consumer.The organization of the electrical sector of a country or region varies depending on the economic system of the country.  In some places, all electric power generation, transmission and distribution is provided by a government controlled organization.  Other regions have private or investor-owned utility companies, city or municipally owned companies, cooperative companies owned by their own customers, or combinations. Generation, transmission and distribution may be offered by a single company, or different organizations may provide each of these portions of the system.Not everyone has access to grid electricity. About 840 million people (mostly in Africa) had no access in 2017, down from 1.2 billion in 2010.\nThe business model behind the electric utility has changed over the years playing a vital role in shaping the electricity industry into what it is today; from generation, transmission, distribution, to the final local retailing. This has occurred prominently since the reform of the electricity supply industry in England and Wales in 1990.In 1996 : 1999 the Federal Energy Regulatory Commission (FERC) made a series of decisions which were intended to open the U.S. wholesale power market to new players, with the hope that spurring competition would save consumers $4 to $5 billion per year and encourage technical innovation in the industry. Steps were taken to give all market participants open access to existing interstate transmission lines.   Order No. 888 ordered vertically integrated electric utilities to functionally separate their transmission, power generation and marketing businesses to prevent self-dealing.\nOrder No. 889 set up a system to provide all participants with timely access to information about available transmission capacity and prices.\nThe FERC also endorsed the concept of appointing independent system operators (ISOs) to manage the electric power grid : a function that was traditionally the responsibility of vertically integrated electric utility companies. The concept of an independent system operator evolved into that of regional transmission organizations (RTOs). FERC's intention was that all U.S. companies owning interstate electric transmission lines would place those facilities under the control of an RTO. In its Order No. 2000 (Regional Transmission Organizations), issued in 1999, FERC specified the minimum capabilities that an RTO should possess.\nThese decisions, which were intended to create a fully interconnected grid and an integrated national power market, resulted in the restructuring of the U.S. electricity industry. That process was soon dealt two setbacks: the California energy crisis of 2000, and the Enron scandal and collapse. Although industry restructuring proceeded, these events made clear that competitive markets could be manipulated and thus must be properly designed and monitored. Furthermore, the Northeast blackout of 2003 highlighted the need for a dual focus on competitive pricing and strong reliability standards.\nIn some countries, wholesale electricity markets operate, with generators and retailers trading electricity in a similar manner to shares and currency. As deregulation continues further, utilities are driven to sell their assets as the energy market follows in line with the gas market in use of the futures and spot markets and other financial arrangements. Even globalization with foreign purchases are taking place. One such purchase was when the UK's National Grid, the largest private electric utility in the world, bought several electric utilities in New England for $3.2 billion. Between 1995 and 1997, seven of the 12 Regional Electric Companies (RECs) in England and Wales were bought by U.S. energy companies. Domestically, local electric and gas firms have merged operations as they saw the advantages of joint affiliation, especially with the reduced cost of joint-metering. Technological advances will take place in the competitive wholesale electric markets, such examples already being utilized include fuel cells used in space flight; aeroderivative gas turbines used in jet aircraft; solar engineering and photovoltaic systems; off-shore wind farms; and the communication advances spawned by the digital world, particularly with microprocessing which aids in monitoring and dispatching.Electricity is expected to see growing demand in the future. The Information Revolution is highly reliant on electric power. Other growth areas include emerging new electricity-exclusive technologies, developments in space conditioning, industrial processes, and transportation (for example  hybrid vehicles, locomotives).",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "year in September 1882"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "1882"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "in 1882"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "early 1882"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "in September 1882"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "1831"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "1881"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "1887"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "1878"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "In 1878"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "December 1881"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "September 1882"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "1880s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "1890s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "In 1956"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "in 1959"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "In 1831"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "in 1887"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "in the year in September 1882"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "mid to late 1880s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "1880s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "1880s and 1890s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "In early 1882"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "in 2010"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "in 2017"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "in December 1881"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "in the 1990s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "In the 1880s and 1890s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "middle of the 20th century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "20th century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "1990s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "Alessandro Volta"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "1800"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "in 1800"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "Michael Faraday",
+                    "Faraday"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "almost 50 years"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "U.S.",
+                    "United States",
+                    "America"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "Edison",
+                    "Thomas Edison"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "Robert Hammond",
+                    "Hammond"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "Brighton",
+                    "Sussex",
+                    "Sussex town of Brighton"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "UK",
+                    "United Kingdom",
+                    "England and Wales",
+                    "England",
+                    "Wales"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "first"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "Holborn Viaduct Scheme",
+                    "1882 Holborn Viaduct Scheme"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 43,
+                "mentions": [
+                    "City Corporation"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 44,
+                "mentions": [
+                    "three months"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 45,
+                "mentions": [
+                    "Godalming"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 46,
+                "mentions": [
+                    "24 hours"
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 47,
+                "mentions": [
+                    "New York City"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 48,
+                "mentions": [
+                    "direct current electricity",
+                    "DC",
+                    "direct current",
+                    "direct current (DC)"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 49,
+                "mentions": [
+                    "a mile"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 50,
+                "mentions": [
+                    "U.S. energy companies"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 51,
+                "mentions": [
+                    "today"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 52,
+                "mentions": [
+                    "George Westinghouse"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 53,
+                "mentions": [
+                    "Mikhail Dolivo-Dobrovolsky"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 54,
+                "mentions": [
+                    "Ferranti",
+                    "Galileo Ferraris",
+                    "Galileo",
+                    "Sebastian Ziani de Ferranti",
+                    "Ferraris"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 55,
+                "mentions": [
+                    "Lucien Gaulard"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 56,
+                "mentions": [
+                    "John Dixon Gibbs",
+                    "Gibbs"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 57,
+                "mentions": [
+                    "Carl Wilhelm Siemens",
+                    "Siemens"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 58,
+                "mentions": [
+                    "William Stanley Jr.",
+                    "Stanley Jr."
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 59,
+                "mentions": [
+                    "Nikola",
+                    "Tesla",
+                    "Nikola Tesla"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 60,
+                "mentions": [
+                    "1902"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 61,
+                "mentions": [
+                    "From the 1920s on"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 62,
+                "mentions": [
+                    "1920s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 63,
+                "mentions": [
+                    "1933"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 64,
+                "mentions": [
+                    "1948"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 65,
+                "mentions": [
+                    "1947"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 66,
+                "mentions": [
+                    "1956"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 67,
+                "mentions": [
+                    "1959"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 68,
+                "mentions": [
+                    "1950s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 69,
+                "mentions": [
+                    "1920s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 70,
+                "mentions": [
+                    "1990s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 71,
+                "mentions": [
+                    "2010"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 72,
+                "mentions": [
+                    "2003"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 73,
+                "mentions": [
+                    "1996"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 74,
+                "mentions": [
+                    "2017"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 75,
+                "mentions": [
+                    "1999"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 76,
+                "mentions": [
+                    "1969"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 77,
+                "mentions": [
+                    "1996 : 1999"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 78,
+                "mentions": [
+                    "1997"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 79,
+                "mentions": [
+                    "Between 1995 and 1997"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 80,
+                "mentions": [
+                    "1995"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 81,
+                "mentions": [
+                    "BJT",
+                    "bipolar transistors",
+                    "bipolar junction transistor"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 82,
+                "mentions": [
+                    "1950s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 83,
+                "mentions": [
+                    "SCR",
+                    "silicon controlled rectifier (SCR)"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 84,
+                "mentions": [
+                    "metal-oxide-semiconductor field-effect transistor",
+                    "MOSFET"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 85,
+                "mentions": [
+                    "Hitachi"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 86,
+                "mentions": [
+                    "HVDC",
+                    "high voltage direct current (HVDC)",
+                    "high voltage direct current"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 87,
+                "mentions": [
+                    "four"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 88,
+                "mentions": [
+                    "two"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 89,
+                "mentions": [
+                    "hundreds"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 90,
+                "mentions": [
+                    "thousands"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 91,
+                "mentions": [
+                    "North America"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 92,
+                "mentions": [
+                    "Western Interconnection"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 93,
+                "mentions": [
+                    "Electric Reliability Council of Texas (ERCOT)",
+                    "ERCOT"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 94,
+                "mentions": [
+                    "35"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 95,
+                "mentions": [
+                    "About 840 million"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 96,
+                "mentions": [
+                    "Africa"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 97,
+                "mentions": [
+                    "1.2 billion"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 98,
+                "mentions": [
+                    "$3.2 billion"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 99,
+                "mentions": [
+                    "$4 to $5 billion"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 100,
+                "mentions": [
+                    "$4 to $5 billion per year"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 101,
+                "mentions": [
+                    "Order No. 888",
+                    "Order No. 889",
+                    "Order No. 2000"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 102,
+                "mentions": [
+                    "California"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 103,
+                "mentions": [
+                    "Enron"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 104,
+                "mentions": [
+                    "One"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 105,
+                "mentions": [
+                    "New England"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 106,
+                "mentions": [
+                    "seven"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 107,
+                "mentions": [
+                    "12"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 108,
+                "mentions": [
+                    "Information Revolution"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 109,
+                "mentions": [
+                    "consumers",
+                    "customers",
+                    "Customers",
+                    "individual consumers",
+                    "end-users of electricity"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 110,
+                "mentions": [
+                    "natural monopoly"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 111,
+                "mentions": [
+                    "Pearl Street Power Station"
+                ],
+                "type": "FAC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "electric power industry",
+                "relation": "InfluencedBy",
+                "tail": "Michael Faraday"
+            },
+            {
+                "head": "electric power",
+                "relation": "UsedBy",
+                "tail": "general public"
+            },
+            {
+                "head": "electricity",
+                "relation": "NominatedFor",
+                "tail": "natural monopoly"
+            },
+            {
+                "head": "electric power industry",
+                "relation": "HasPart",
+                "tail": "generation"
+            },
+            {
+                "head": "electric power industry",
+                "relation": "HasPart",
+                "tail": "distribution"
+            },
+            {
+                "head": "Edison",
+                "relation": "OwnerOf",
+                "tail": "Pearl Street Power Station"
+            },
+            {
+                "head": "electric power industry",
+                "relation": "HasPart",
+                "tail": "transmission"
+            },
+            {
+                "head": "electric power industry",
+                "relation": "InfluencedBy",
+                "tail": "Alessandro Volta"
+            },
+            {
+                "head": "electric power industry",
+                "relation": "HasPart",
+                "tail": "sale"
+            },
+            {
+                "head": "electric power",
+                "relation": "UsedBy",
+                "tail": "industry"
+            },
+            {
+                "head": "electric power industry",
+                "relation": "InfluencedBy",
+                "tail": "George Westinghouse"
+            },
+            {
+                "head": "electric power industry",
+                "relation": "InfluencedBy",
+                "tail": "Thomas Edison"
+            },
+            {
+                "head": "electric power",
+                "relation": "SaidToBeTheSameAs",
+                "tail": "electricity"
+            },
+            {
+                "head": "electric power industry",
+                "relation": "InfluencedBy",
+                "tail": "Nikola Tesla"
+            },
+            {
+                "head": "the U.S.",
+                "relation": "ContainsAdministrativeTerritorialEntity",
+                "tail": "California"
+            },
+            {
+                "head": "New York City",
+                "relation": "LocatedIn",
+                "tail": "North America"
+            }
+        ],
+        "label_set": [
+            "Promoted",
+            "Replaces",
+            "Partner",
+            "NominatedFor",
+            "InterestedIn",
+            "NamedAfter",
+            "HasPart",
+            "SignificantEvent",
+            "MemberOf",
+            "InfluencedBy",
+            "ContainsAdministrativeTerritorialEntity",
+            "InOppositionTo",
+            "Country",
+            "SaidToBeTheSameAs",
+            "WorkLocation",
+            "DifferentFrom",
+            "LocatedIn",
+            "HasWorksInTheCollection",
+            "PartOf",
+            "Creator",
+            "AcademicDegree",
+            "UsedBy",
+            "EducatedAt",
+            "CountryOfCitizenship",
+            "Author",
+            "DiplomaticRelation",
+            "OwnerOf",
+            "Follows",
+            "FollowedBy",
+            "OwnedBy"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Energy",
+        "title": "Energy_management_software",
+        "doc": "Energy Management Software (EMS) is a general term and category referring to a variety of energy-related software applications, which provide energy management including utility bill tracking, real-time energy metering, consumption control (building HVAC and lighting control systems), generation control (solar PV and ESS), building simulation and modeling, carbon and sustainability reporting, IT equipment management, grid services (demand response, virtual power plant, etc), and/or energy audits. Managing energy can require a system of systems approach.\nEnergy management software often provides tools for reducing energy costs and consumption for buildings, communities or industries. EMS collects energy data and uses it for three main purposes: Reporting, Monitoring and Engagement. Reporting may include verification of energy data, benchmarking, and setting high-level energy use reduction targets. Monitoring may include trend analysis and tracking energy consumption to identify cost-saving opportunities. Engagement can mean real-time responses (automated or manual), or the initiation of a dialogue between occupants and building managers to promote energy conservation. One engagement method that has recently gained popularity is the real-time energy consumption display available in web applications or an onsite energy dashboard/display.\nEnergy Management Software collects historic and/or real-time interval data, with intervals varying from quarterly billing statements to minute-by-minute smart meter readings. In addition to energy consumption, an EMS collects data related to variables that impact energy consumption such as number of people in the building, outside temperature, number of produced units, and more. The data are collected from interval meters, Building Automation Systems (BAS), directly from utilities, directly from sensors on electrical circuits, or other sources. Past bills can be used to provide a comparison between pre- and post-EMS energy consumption.Through Energy Data Analytics, EMS assists the users in the composition of mathematical formulas for analyzing, forecasting and tracking energy conservation measures to quantify the success of the measure, once implemented. Energy analytics help energy managers combine across energy and non-energy data to create key performance indicators, calculate carbon footprint, greenhouse gas, renewable heat incentives and energy efficiency certifications to meet local climate change policies, directives, regulation and certifications. Energy analytics also include intelligent algorithms such as classification and machine learning to analyse the energy consumption of buildings and/or its equipment that build up a memory of energy use patterns, learn the good and bad energy consumption behaviours and notify in case of abnormal energy use.Reporting tools are targeted at owners and executives who want to automate energy and emissions auditing. Cost and consumption data from a number of buildings can be aggregated or compared with the software, saving time relative to manual reporting. EMS offers more detailed energy information than utility billing can provide; another advantage is that outside factors affecting energy use, such as weather condition or building occupancy, can be accounted for as part of the reporting process. This information can be used to prioritize energy savings initiatives and balance energy savings against energy-related capital expenditures.Bill verification can be used to compare metered consumption against billed consumption. Bill analysis can also demonstrate the impact of different energy costs, for example by comparing electrical demand charges to consumption costs.\nGreenhouse gas (GHG) accounting can calculate direct or indirect GHG emissions, which may be used for internal reporting or enterprise carbon accounting.\nMonitoring tools track and display real-time and historical data. Often, EMS includes various benchmarking tools, such as energy consumption per square foot, weather normalization or more advanced analysis using energy modelling algorithms to identify anomalous consumption. Seeing exactly when energy is used, combined with anomaly recognition, can allow Facility or Energy Managers to identify savings opportunities.Initiatives such as demand shaving, replacement of malfunctioning equipment, retrofits of inefficient equipment, and removal of unnecessary loads can be discovered and coordinated using the EMS. For example, an unexpected energy spike at a specific time each day may indicate an improperly set or malfunctioning timer. These tools can also be used for Energy Monitoring and Targeting. EMS uses models to correct for variable factors such as weather when performing historical comparisons to verify the effect of conservation and efficiency initiatives.\nEMS may offer alerts, via text or email messages, when consumption values exceed pre-defined thresholds based on consumption or cost. These thresholds may be set at absolute levels, or use an energy model to determine when consumption is abnormally high or low. More recently, smartphones and tablets are becoming mainstream platforms for EMS.\nEngagement can refer to automated or manual responses to collected and analyzed energy data. Building control systems can respond as readily to energy fluctuation as a heating system can respond to temperature variation. Demand spikes can trigger equipment power-down processes, with or without human intervention.Another objective of Engagement is to connect occupants’ daily choices with building energy consumption. By displaying real-time consumption information, occupants see the immediate impact of their actions. The software can be used to promote energy conservation initiatives, offer advice to the occupants, or provide a forum for feedback on sustainability initiatives.\nPeople-driven energy conservation programs, such as those sponsored by Energy Education, can be highly effective in reducing energy use and cost.\nLetting occupants know their real-time consumption alone can be responsible for a 7% reduction in energy consumption.\nMonitoring the flows of energy in building allows the users to directly monitor part of the sustainable goals of companies. Allowing them to affect them indirectly. Thats reason why EMS are becoming tool for Sustainability Managers in corporate sphere. Developing new branch of Sustainability Management System (SMS), that can direct part of EMS.Monitoring the energy flows allow Scope 1 and Scope 2 emissions to be calculated based on EMS data.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "real-time energy metering",
+                    "grid services",
+                    "utility bill tracking",
+                    "Energy Management Software",
+                    "generation control",
+                    "carbon and sustainability reporting",
+                    "consumption control",
+                    "building simulation and modeling",
+                    "Energy Management Software (EMS)",
+                    "IT equipment management",
+                    "EMS",
+                    "energy-related software applications",
+                    "energy audits",
+                    "Energy management software"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "solar PV",
+                    "PV"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "three"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "One"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "quarterly billing statements"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Building Automation Systems",
+                    "BAS"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "billing statements",
+                    "Bill",
+                    "utility billing"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Greenhouse gas",
+                    "greenhouse gas",
+                    "GHG"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "energy managers",
+                    "Energy Managers"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "7%"
+                ],
+                "type": "PERCENT"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "real-time consumption information",
+                    "real-time interval data"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Energy Management Software (EMS)",
+                "relation": "HasPart",
+                "tail": "real-time energy metering"
+            },
+            {
+                "head": "Energy Management Software (EMS)",
+                "relation": "HasPart",
+                "tail": "generation control"
+            },
+            {
+                "head": "Energy Management Software (EMS)",
+                "relation": "HasPart",
+                "tail": "energy audits"
+            },
+            {
+                "head": "Energy Management Software (EMS)",
+                "relation": "Promoted",
+                "tail": "energy conservation initiatives"
+            },
+            {
+                "head": "Energy Management Software (EMS)",
+                "relation": "UsedBy",
+                "tail": "Sustainability Managers"
+            },
+            {
+                "head": "Energy Management Software (EMS)",
+                "relation": "HasPart",
+                "tail": "consumption control"
+            },
+            {
+                "head": "Energy Management Software (EMS)",
+                "relation": "HasPart",
+                "tail": "building simulation and modeling"
+            },
+            {
+                "head": "Energy Management Software (EMS)",
+                "relation": "HasPart",
+                "tail": "grid services"
+            },
+            {
+                "head": "Energy Management Software (EMS)",
+                "relation": "HasPart",
+                "tail": "carbon and sustainability reporting"
+            },
+            {
+                "head": "Energy Management Software (EMS)",
+                "relation": "HasPart",
+                "tail": "IT equipment management"
+            },
+            {
+                "head": "Energy Management Software (EMS)",
+                "relation": "HasPart",
+                "tail": "utility bill tracking"
+            }
+        ],
+        "label_set": [
+            "Promoted",
+            "Replaces",
+            "Partner",
+            "NominatedFor",
+            "InterestedIn",
+            "NamedAfter",
+            "HasPart",
+            "SignificantEvent",
+            "MemberOf",
+            "InfluencedBy",
+            "ContainsAdministrativeTerritorialEntity",
+            "InOppositionTo",
+            "Country",
+            "SaidToBeTheSameAs",
+            "WorkLocation",
+            "DifferentFrom",
+            "LocatedIn",
+            "HasWorksInTheCollection",
+            "PartOf",
+            "Creator",
+            "AcademicDegree",
+            "UsedBy",
+            "EducatedAt",
+            "CountryOfCitizenship",
+            "Author",
+            "DiplomaticRelation",
+            "OwnerOf",
+            "Follows",
+            "FollowedBy",
+            "OwnedBy"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Energy",
+        "title": "ExxonMobil_Beaumont_Refinery",
+        "doc": "The ExxonMobil Refinery in Beaumont, Texas was built along the banks of the Neches River in 1903. The refinery is currently one of the largest in the world with a nameplate capacity of 634,000 bpd. The plant is also highly integrated with petrochemicals production and lubricants and is a critical part of the Texas-Louisiana gulf coast energy infrastructure. The site encompasses more than 2,700 acres and is staffed by 2,000 employees daily plus another 3,000 contractors to support maintenance and construction activities.\nIn 1903, construction started on the Burt Refining Company to capitalize on the prolific Spindletop field located just south of Beaumont. Little was known of Burt Refining's origins other than George A. Burts was the owner and was rumored to have been an agent of John D. Rockefeller. In 1909, the State of Texas seized the refinery as an illegal affiliate of Standard Oil and sold in an auction to Magnolia Petroleum Co. The refinery became Texas's third largest by 1920 under Magnolia as the company expanded throughout the region. As Magnolia Petroleum Company expanded its influence in the southwestern United States, Standard Oil Company of New York (SOCONY Mobil) began acquiring shares in the company. In December 1925, all Magnolia stock was exchanged for Standard Oil of New York shares, and the Texas assets were subsequently transferred to Magnolia Petroleum Company. The Magnolia Refinery played a key role during World War II as it stepped up production and shipped oil globally. By 1959, the operations of the Magnolia Oil Company had been merged entirely into SOCONY Mobil. The refinery further in the ensuing decades to becomes Beaumont's largest employer and eventually Mobil's largest refinery by 1980. In 1999, Exxon and Mobil merged to form the largest oil company in the world and the Beaumont Refinery became one of the 5 largest refineries in the combined company's portfolio. Following a $2 billion major capital investment program twenty five years later, including a new 250,000 bpd crude unit, Beaumont became the third largest oil refinery in North America and the largest of any of ExxonMobil's plants.According to ExxonMobil's filings with the US DOE's Energy Information Agency, the unit capacities for the Beaumont Refinery are presented below:       The refinery has a Nelson complexity index of 9.0, making it moderately complex.\nThe refinery has three crude trains. The smallest is CDU A110,000 bpd. The second crude unit is CDU B 274,000 bpd. The newest CDU C was designed for lighter crude oils produced by shale crudes and light tight oils and is of 250,000 bpd of capacity.\nStarting in 2019, the refinery underwent a major expansion with a 65% increase in its nameplate capacity as part of a $2 billion program. KBR was contracted to lead the work with a scope that covered offsite facilities and interconnecting units within the expansion This followed ExxonMobil's earlier contract with TechnipFMC PLC for EPC services on four new units, including an atmospheric pipe still, hydrotreater units, and a benzene recovery system.\nThe refinery has a large lubricants plant located on 27 acres within the refinery. The lubes plant produces 160 million gallons of lubricants across 275 product types and employs 175 employees and 163 contractors.\nThe refinery has three power plants that are integrated to provide steam and thermal heating to the refinery, in addition to selling electricity to the grid. These are:The refinery is also integrated with a large ExxonMobil petrochemical facility that is collocated on the same plot. Total ethylene cracking capacity for the site is currently 816,000 tons per year according to the Oil & Gas Journal Survey of Steam Crackers.As a major emitting facility, the ExxonMobil Beaumont Refinery and Petrochemical Site must report its complete greenhouse gas emissions to the EPA every year subject to the EPA's Greenhouse Gas Reporting Program. The Baytown site's Refinery Facility ID is 110041990913 and the Chemical Plant's is 110000464131.Statutory reporting data is in the table below:\nThe refinery is represented by USW Local 13-243. Labor relations have been contentious at times The U.S. National Labor Relations Board (NLRB) determined that ExxonMobil's 10-month lockout of over 600 workers at the refinery and lube plant was an unlawful attempt to remove the United Steelworkers union as the workers' representative. The NLRB asked an administrative law judge to issue remedies, including back pay, potentially costing Exxon tens of millions. The lockout, which lasted from May 2021 to March 2022, continued while replacements were hired. The NLRB found that Exxon's actions, including messages to workers offering job reinstatement if they voted to decertify the union, undermined federal employee rights. Despite the company's efforts, workers voted to retain USW local 13:243 as their representative.On April 17, 2013, an explosion and fire at ExxonMobil's Beaumont, Texas refinery injured at least 12 people and killed two. The incident was caused by a hydrotreater heat exchanger, releasing hydrocarbons that ignited. Following the event, multiple negligence-based personal injury lawsuits were filed. ExxonMobil attributed the fire to the actions of Clean Harbors, a subcontractor responsible for cleaning operations. ExxonMobil was fined $616,000 by the U.S. Department of Justice and the Environmental Protection Agency for the fire. After a trial, a jury awarded damages to the families of the workers who died of $44 million.In 2016, a 37-year old contract worker named Migual Barron was killed during a turnaround at the refinery when struck by a heat exchanger on the 110,000 bpd crude unit.\nIn 2017, a female contractor named Yesenia Espinoza was killed on while working on the same crude unit when a pipe fell and landed on her. After the accident, a judge issued a temporary restraining order to cease work on the crude unit until an investigation could be completed. The family of Espinoza sued ExxonMobil for medical, burial, funeral expenses plus damages.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "ExxonMobil Beaumont Refinery and Petrochemical Site",
+                    "ExxonMobil",
+                    "ExxonMobil Refinery",
+                    "ExxonMobil's Beaumont, Texas refinery",
+                    "Beaumont Refinery"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Neches River"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "1903"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "In 1903"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "in 1903"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "2016"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "2017"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "2013"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "1909"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "1920"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "634,000"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "more than 2,700 acres"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "2,000"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "3,000"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Burt Refining Company"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Spindletop field",
+                    "Spindletop"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "Standard Oil Company of New York",
+                    "Standard Oil of New York"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "third"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "United States",
+                    "US",
+                    "U.S."
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "December 1925"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "World War II"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "1959"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "1980"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "1999"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "one"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "$2 billion"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "$616,000"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "616,000"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "twenty five years later"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "250,000"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "US DOE's Energy Information Agency"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "Nelson"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "9.0"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "three"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "second"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "274,000"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "2019"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "Starting in 2019"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "65%"
+                ],
+                "type": "PERCENT"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "four"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "27 acres"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "160 million gallons"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "275"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 43,
+                "mentions": [
+                    "175"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 44,
+                "mentions": [
+                    "163"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 45,
+                "mentions": [
+                    "816,000 tons"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 46,
+                "mentions": [
+                    "Oil & Gas Journal Survey"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 47,
+                "mentions": [
+                    "U.S. Department of Justice"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 48,
+                "mentions": [
+                    "Greenhouse Gas Reporting Program",
+                    "EPA's Greenhouse Gas Reporting Program"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 49,
+                "mentions": [
+                    "110041990913"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 50,
+                "mentions": [
+                    "U.S. National Labor Relations Board",
+                    "NLRB",
+                    "National Labor Relations Board"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 51,
+                "mentions": [
+                    "10-month"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 52,
+                "mentions": [
+                    "over 600"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 53,
+                "mentions": [
+                    "tens of millions"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 54,
+                "mentions": [
+                    "May 2021"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 55,
+                "mentions": [
+                    "May 2021 to March 2022"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 56,
+                "mentions": [
+                    "March 2022"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 57,
+                "mentions": [
+                    "April 17, 2013"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 58,
+                "mentions": [
+                    "at least 12"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 59,
+                "mentions": [
+                    "two"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 60,
+                "mentions": [
+                    "Clean Harbors"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 61,
+                "mentions": [
+                    "Environmental Protection Agency",
+                    "EPA"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 62,
+                "mentions": [
+                    "$44 million"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 63,
+                "mentions": [
+                    "37-year old"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 64,
+                "mentions": [
+                    "Migual Barron"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 65,
+                "mentions": [
+                    "110,000"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 66,
+                "mentions": [
+                    "Espinoza",
+                    "Yesenia Espinoza"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 67,
+                "mentions": [
+                    "lube plant",
+                    "lubes plant",
+                    "lubricants plant"
+                ],
+                "type": "FAC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Burt Refining Company",
+                "relation": "OwnerOf",
+                "tail": "Spindletop field"
+            },
+            {
+                "head": "Magnolia Petroleum Co.",
+                "relation": "OwnerOf",
+                "tail": "the refinery"
+            },
+            {
+                "head": "ExxonMobil Refinery",
+                "relation": "LocatedIn",
+                "tail": "Beaumont, Texas"
+            },
+            {
+                "head": "ExxonMobil Beaumont Refinery",
+                "relation": "HasPart",
+                "tail": "lubricants plant"
+            },
+            {
+                "head": "ExxonMobil Beaumont Refinery",
+                "relation": "PartOf",
+                "tail": "largest oil company in the world"
+            },
+            {
+                "head": "The ExxonMobil Refinery",
+                "relation": "LocatedIn",
+                "tail": "Beaumont, Texas"
+            },
+            {
+                "head": "ExxonMobil",
+                "relation": "NamedAfter",
+                "tail": "Standard Oil Company of New York"
+            },
+            {
+                "head": "ExxonMobil",
+                "relation": "Follows",
+                "tail": "Standard Oil Company of New York"
+            },
+            {
+                "head": "ExxonMobil",
+                "relation": "Replaces",
+                "tail": "Standard Oil Company of New York"
+            },
+            {
+                "head": "ExxonMobil",
+                "relation": "Country",
+                "tail": "U.S."
+            },
+            {
+                "head": "Neches River",
+                "relation": "Country",
+                "tail": "U.S."
+            },
+            {
+                "head": "Spindletop",
+                "relation": "Country",
+                "tail": "U.S."
+            },
+            {
+                "head": "Standard Oil Company of New York",
+                "relation": "Country",
+                "tail": "U.S."
+            },
+            {
+                "head": "U.S.",
+                "relation": "SignificantEvent",
+                "tail": "World War II"
+            }
+        ],
+        "label_set": [
+            "Promoted",
+            "Replaces",
+            "Partner",
+            "NominatedFor",
+            "InterestedIn",
+            "NamedAfter",
+            "HasPart",
+            "SignificantEvent",
+            "MemberOf",
+            "InfluencedBy",
+            "ContainsAdministrativeTerritorialEntity",
+            "InOppositionTo",
+            "Country",
+            "SaidToBeTheSameAs",
+            "WorkLocation",
+            "DifferentFrom",
+            "LocatedIn",
+            "HasWorksInTheCollection",
+            "PartOf",
+            "Creator",
+            "AcademicDegree",
+            "UsedBy",
+            "EducatedAt",
+            "CountryOfCitizenship",
+            "Author",
+            "DiplomaticRelation",
+            "OwnerOf",
+            "Follows",
+            "FollowedBy",
+            "OwnedBy"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Energy",
+        "title": "Maksim_Sonin",
+        "doc": "Maksim Sonin (born May 1986) is a thought leader in the energy industry. He is known for his work on humanitarian and global sustainability concerns.\nMaksim Sonin has held executive roles and served on the Boards of UCC, Silleno, KMG Petrochem, and other organizations. This includes contributing to the development of the large-scale industrial plants for producing ammonia and fertilizers, designed for high capacity and efficiency, supporting efforts toward a cost-effective and environmentally sustainable transition to a low-carbon economy.Maksim is a regular speaker at various energy-related  international events including World Hydrogen by S&P Global, Reuters, the Ammonia Symposium by Stanford, Global Clean Hydrogen, and other prominent global venues. He is also frequently cited in leading publications and outlets, including Nikkei Business Publications, International Business Times, Inc, Forbes, Power etc.\nMaksim holds an MS in Management from Stanford Graduate School of Business as a Sloan Fellow, a PhD in Engineering from Scientific Research Institute of Natural Gases and Gas Technologies, and an MS in Finance. He is a member of Stanford University Hydrogen Initiative and Hydrogen Projects Fellow at Stanford University.",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Maksim Sonin",
+                    "Maksim"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "May 1986"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Boards of UCC"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Silleno"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "KMG Petrochem"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "World Hydrogen",
+                    "Global Clean Hydrogen",
+                    "Ammonia Symposium"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "S&P Global"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Reuters"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Ammonia Symposium",
+                    "Ammonia Symposium by Stanford"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Stanford Graduate School of Business",
+                    "Stanford",
+                    "Stanford University"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Stanford University Hydrogen Initiative"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Global Clean Hydrogen"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Nikkei Business Publications"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "International Business Times"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Forbes"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "PhD",
+                    "MS in Finance",
+                    "PhD in Engineering"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "Scientific Research Institute of Natural Gases and Gas Technologies"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "UCC"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "large-scale industrial plants for producing ammonia and fertilizers",
+                    "industrial plants for producing ammonia and fertilizers",
+                    "large-scale industrial plants"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "MS in Management"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Silleno"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "KMG Petrochem"
+                ],
+                "type": "ORG"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Maksim Sonin",
+                "relation": "AcademicDegree",
+                "tail": "PhD in Engineering"
+            },
+            {
+                "head": "Maksim Sonin",
+                "relation": "InterestedIn",
+                "tail": "Stanford University Hydrogen Initiative"
+            },
+            {
+                "head": "Maksim Sonin",
+                "relation": "AcademicDegree",
+                "tail": "MS in Management"
+            },
+            {
+                "head": "Maksim Sonin",
+                "relation": "AcademicDegree",
+                "tail": "MS in Finance"
+            },
+            {
+                "head": "Maksim Sonin",
+                "relation": "MemberOf",
+                "tail": "Stanford University Hydrogen Initiative"
+            },
+            {
+                "head": "Maksim Sonin",
+                "relation": "NominatedFor",
+                "tail": "Sloan Fellow"
+            },
+            {
+                "head": "Maksim Sonin",
+                "relation": "WorkLocation",
+                "tail": "Stanford University"
+            },
+            {
+                "head": "Maksim Sonin",
+                "relation": "NominatedFor",
+                "tail": "Hydrogen Projects Fellow"
+            }
+        ],
+        "label_set": [
+            "Promoted",
+            "Replaces",
+            "Partner",
+            "NominatedFor",
+            "InterestedIn",
+            "NamedAfter",
+            "HasPart",
+            "SignificantEvent",
+            "MemberOf",
+            "InfluencedBy",
+            "ContainsAdministrativeTerritorialEntity",
+            "InOppositionTo",
+            "Country",
+            "SaidToBeTheSameAs",
+            "WorkLocation",
+            "DifferentFrom",
+            "LocatedIn",
+            "HasWorksInTheCollection",
+            "PartOf",
+            "Creator",
+            "AcademicDegree",
+            "UsedBy",
+            "EducatedAt",
+            "CountryOfCitizenship",
+            "Author",
+            "DiplomaticRelation",
+            "OwnerOf",
+            "Follows",
+            "FollowedBy",
+            "OwnedBy"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Energy",
+        "title": "Planetary_civilization",
+        "doc": "A planetary civilization or global civilization is a civilization of Type I on the Kardashev scale. This type of civilization is likely to be reliant on renewable energy sources such as stellar power, as well as powerful non-renewable sources such as nuclear fusion. A Type I civilization's energy consumption level is roughly equivalent to the solar insolation on Earth (between 1016 and 1017 watts) : around 3 orders of magnitude higher than that of contemporary humanity (around 2×1013 as of 2020).\nSoviet astronomer Nikolai Kardashev, in his 1964 paper titled \"Transmission of Information by Extraterrestrial Civilizations\", proposed a scale intended to measure the level of technological development of civilizations based on the amount of energy that they are able to utilize, eponymously named the Kardashev scale.A Type I civilization is planetary, consuming all energy that reaches its home planet from its parent star, equivalent to about 1017 watts in the case of Earth.\nCarl Sagan suggested defining intermediate values (not considered in Kardashev's original scale) by interpolating and extrapolating the commonly used values for the energy consumption levels of types I (1016 W), II (1026 W) and III (1036 W). According to Sagan's extended model, modern-day humanity is describable as a Type 0.73 civilization as of 2020.\nTheoretical physicist Michio Kaku, in his book Physics of the Future, published in 2011, stated that, assuming sustained economic growth, humanity may attain planetary civilization status in 100 years.But where is all this technological change leading? Where is the final destination in this long voyage into science and technology?\nThe culmination of all these upheavals is the formation of planetary civilization, what physicists call a Type I civilization. This transition is perhaps the greatest transition in history, marking a sharp departure from all civilizations of the past. Every headline that dominates the news reflects, in some way, the birth pangs of the planetary civilization. Commerce, trade, culture, language, entertainment, leisure activities, and even war are all being revolutionized by the emergence of this planetary civilization.\nMichio Kaku, in his interview \"Will Mankind Destroy Itself?\" for \"Big Think\", discussed one possible danger of the transition to a planetary civilization:So whenever I open the newspaper every headline I see in the newspaper points to the birth pangs of a type one civilization information. However, every time I open the newspaper I also see the opposite trend as well. What is terrorism? Terrorism in some sense is a reaction against the creation of a type one civilization. Now most terrorists cannot articulate this. They don’t even know what the hell I’m talking about, but what they’re reacting to is not modernism. What they’re reacting to is the fact that we’re headed toward a multicultural tolerant scientific society and that is what they don’t want. They don’t want science. They want a theocracy. They don’t want multiculturalism. They want monoculturalism. So instinctively they don’t like the march toward a type one civilization. Now which tendency will win? I don’t know, but I hope that we emerge as a type one civilization.\nMany futuristic civilizations seen in science fiction are planetary civilizations. According to Michio Kaku, a typicalType I civilization would be that of Buck Rogers or Flash Gordon, where an entire planet's energy resources have been developed. They can control all the planetary sources of energy, so they might be able to control or modify weather at will, harness the power of a hurricane, and build cities on oceans. Nonetheless, their energy output is still largely confined to their home planet.\nOn the Kardashev scale, the next status (Type II) is a stellar civilization, a civilization that consumes all the energy that its parent star emits, or about 1027 watts. Michio Kaku suggests in the book \"Physics of the Future\" that humanity may attain stellar civilization status in a few thousand years.",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Soviet astronomer Nikolai Kardashev",
+                    "Nikolai Kardashev",
+                    "Kardashev"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Earth"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "around 3"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "as of 2020"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "2020"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Soviet"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "1964"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "\"Transmission of Information by Extraterrestrial Civilizations\""
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "about 1017"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Carl Sagan",
+                    "Sagan"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "1016"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "1026"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "1036"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "Michio Kaku"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Physics of the Future"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "published in 2011"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "2011"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "in 100 years"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "100 years"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "entertainment",
+                    "culture",
+                    "trade",
+                    "leisure activities",
+                    "Commerce"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "war"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "language"
+                ],
+                "type": "LANGUAGE"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "Will Mankind Destroy Itself",
+                    "Will Mankind Destroy Itself?"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "one"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "Flash Gordon",
+                    "Buck Rogers",
+                    "Buck Rogers or Flash Gordon"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "about 1027 watts"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "a few thousand years"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "Type 0.73 civilization",
+                    "Type I civilization",
+                    "planetary civilizations",
+                    "global civilization",
+                    "planetary civilization",
+                    "type one civilization"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "Transmission of Information by Extraterrestrial Civilizations"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "Terrorism",
+                    "terrorism"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "stellar civilization"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "terrorism",
+                "relation": "InOppositionTo",
+                "tail": "type one civilization"
+            },
+            {
+                "head": "Kardashev scale",
+                "relation": "HasWorksInTheCollection",
+                "tail": "Transmission of Information by Extraterrestrial Civilizations"
+            },
+            {
+                "head": "Type 0.73 civilization",
+                "relation": "DifferentFrom",
+                "tail": "Type I civilization"
+            },
+            {
+                "head": "Type I civilization",
+                "relation": "HasPart",
+                "tail": "planetary civilization"
+            },
+            {
+                "head": "Nikolai Kardashev",
+                "relation": "Creator",
+                "tail": "Kardashev scale"
+            },
+            {
+                "head": "Type I civilization",
+                "relation": "HasPart",
+                "tail": "planetary civilization"
+            },
+            {
+                "head": "Michio Kaku",
+                "relation": "Author",
+                "tail": "Physics of the Future"
+            },
+            {
+                "head": "Nikolai Kardashev",
+                "relation": "CountryOfCitizenship",
+                "tail": "Soviet"
+            },
+            {
+                "head": "planetary civilization",
+                "relation": "FollowedBy",
+                "tail": "stellar civilization"
+            }
+        ],
+        "label_set": [
+            "Promoted",
+            "Replaces",
+            "Partner",
+            "NominatedFor",
+            "InterestedIn",
+            "NamedAfter",
+            "HasPart",
+            "SignificantEvent",
+            "MemberOf",
+            "InfluencedBy",
+            "ContainsAdministrativeTerritorialEntity",
+            "InOppositionTo",
+            "Country",
+            "SaidToBeTheSameAs",
+            "WorkLocation",
+            "DifferentFrom",
+            "LocatedIn",
+            "HasWorksInTheCollection",
+            "PartOf",
+            "Creator",
+            "AcademicDegree",
+            "UsedBy",
+            "EducatedAt",
+            "CountryOfCitizenship",
+            "Author",
+            "DiplomaticRelation",
+            "OwnerOf",
+            "Follows",
+            "FollowedBy",
+            "OwnedBy"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Energy",
+        "title": "Thomas_W._Walde",
+        "doc": "Thomas W. Wälde (9 January 1949 : 11 October 2008), former United Nations (UN) Inter-regional Adviser on Petroleum and Mineral Legislation, was Professor & Jean-Monnet Chair at the Centre for Energy, Petroleum and Mineral Law and Policy (CEPMLP), Dundee.\nThomas Wälde died on 11 October 2008 in the south of France.Thomas Wälde grew up in Heidelberg (Germany) and went to school at the Kurfuerst-Friedrich-Gymnasium. He was from a South-West German family; his great uncle, Reinhold Maier, was the first Ministerpraesident of Baden-Wuerttemberg; another uncle, Heinz Maier-Leibnitz, a well known German professor of nuclear physics, director of German and French nuclear physics research laboratories and President of the German National Science Foundation (DFG).\nThomas Wälde lived and worked from his home/offices outside St Andrews, Scotland, Heidelberg and Bormes-Les-Mimosas. His second wife, Professor Charlotte Wälde, has served as co-director of the AHRC Centre on Intellectual Property Law at Edinburgh University. His son Max works as an attorney in Vienna, and his daughter Olivia is a student in London.\nHe studied law, in the traditional German way, at the Universities of Heidelberg, Lausanne-Geneva, Berlin and Frankfurt, with his law degree (Referendar) and doctorate (Juristische Folgenorientierung - a study on decision theory as an interpretative tool for international economic law) - in Frankfurt.He did his professional legal training in Frankfurt (including as an intern at the UN Centre on Transnational Corporations in New York) and obtained his \"Assessor\" grade there. He also worked as Associate Officer and resident consultant with the UN/CTC in New York and UNIDO in Vienna and was fellow at the Institute for International Economic Law in Frankfurt (founded by Heinrich Kronstein who was also professor at Georgetown Law School in the US and founder of the Washington-based International Law Institute).\nWälde was at Harvard Law School (1972:74) as LL.M. and subsequent visiting scholar. His Harvard LL.M. dissertation - on comparative company law - was published in 1974. Detlev Vagts was his academic mentor and teacher at Harvard Law School; he also worked as research assistant for the late Professor and ICJ Judge Richard Baxter. In 1978, he obtained the now prestigious price by the German Research Foundation (DFG) for a publication on transnational investment agreements (published in Rabelz Zeitschrift) which was, a decade later, named after Heinz Maier-Leibnitz, at one time the President of DFG.\nICJ president Roslyn Higgins had served as an academic mentor for Thomas Wälde since he moved from the United Nations in New York to the University of Dundee, Scotland in 1991.\nWälde started in 1980 as UN interregional adviser on mineral law - with the remit to provide rapid ad hoc advisory services to developing country governments throughout the world. He later became responsible for energy/petroleum and international investment policy as well. At the UN, he advised over 60 governments on legislative reform and contract negotiations with international investors mainly. He was also, from 1981 to 1983, UN investigator on occupation practices in Palestinian territories and responsible for the Secretary General's reports on \"Permanent Sovereignty over Natural resources\" and the Permanent Sovereignty in Occupied Palestinian territories reports. Wälde set up numerous investment advisory projects - combining legal, financial and technical expertise - to support investment project negotiations; organised training seminars and international UN conferences in the field of mining and oil and gas. He initiated the UN project for environmental guidelines in mining and was chair of the drafting group that produced the first version of the \"Berlin Guidelines\" in 1990.At Dundee, Wälde, as Professor and Executive Director,  developed the Centre for Petroleum and Mineral Law into the world's largest graduate school in its field - with four students in 1991 growing to well over 140 LL.M., MBA, MSC, MBA and PHD students in 2002/2003 (when he gave up the directorship). Student numbers went up, from 1991 to 2002, by a factor of about 40 and fees were raised by a factor of 4.  The centre obtained as a recognition for its spectacular growth the prestigious Queen's Award for Enterprise in 2004.\nFollowing his directorship of CEPMLP/Dundee, Wälde developed academic and professional expertise in international dispute resolution, both mediation and arbitration for large, complex, cross-border transnational disputes, primarily (but not exclusively) in the field of oil, gas, energy, infrastructure and mining (but also gaming and private equity) based on contract and investment treaties. He set up OGEMID, the mainly international electronic discussion and intelligence forum which is by now a \"must\" for anybody seriously engaged in international investment disputes, but also in complex commercial disputes in the energy and resources field. He acted as co-arbitrator in the NAFTA Chapter XI arbitration Thunderbird v Mexico; as co-arbitrator in the BIT-based arbitration of K+ v Czech Republic; and, in 2008, as co-arbitrator in a CAFTA dispute. He has also been appointed to international disputes in the field of mining and energy (electricity). He frequently acts as expert witness and (expert) co-counsel in international arbitrations relating to oil, gas, energy, mining and infrastructure, including Glamis v US, Duke v Peru, Nykomb v Latvia plus commercial, BIT, ECT and NAFTA-based arbitrations under UNCITRAL, ICSID, NAFTA and CAFTA procedural rules. He has also mediated commercial disputes between international oil companies and the SwePol dispute concerning an electricity interconnector between Poland and Sweden.\nHe was a frequent expert, but also counsel, mediator and arbitrator in international energy and investment disputes (International Centre for Settlement of Investment Disputes (ICSID), the North American Free Trade Agreement (NAFTA), Energy Charter Treaty, Bilateral Investment Treaty (BIT) and commercial contract disputes). Special member of AIPN, member of several int'l arbitral institutions, Rechtsanwalt (Frankfurt) & barrister (Lincoln's Inn - Essex Court Chambers, London). Adviser to the international institutions in the oil and gas field (the Organization of Petroleum Exporting Countries, International Energy Agency (IEA), UN, APEC, European Union, World Bank). Identified as leading international energy lawyer in a Euromoney survey, leading international lawyer in a Cambridge-sponsored Who's Who in International law and one of three international arbitrators resident in Scotland. Formerly (up to 1990) Interregional Adviser on Mineral and Petroleum law and International Investment Policy, United Nations, New York; staff and consultant for UN Centre on Transnational Corporations and United Nations Industrial Development Organization (1976:1980); Reporter for International Law Association Foreign Investment Law Committee (damages and tax-related investment disputes). Frequent speaker and author on international investment law, natural resources, mineral, energy and oil and gas law, including renegotiation, taxation, indirect expropriation, de-commissioning (abandonment) of offshore operations; state enterprise privatisation, investment treaties, environmental regulation; arbitration; Energy Charter Treaty.\nThomas Wälde was a prolific writer and speaker, and spoke at conferences around the world. He served as visiting professor at Panthéon-Assas University and American University. He is fellow of the investment programme at the British Institute of International & Comparative Law, at Columbia University's Law School and other EU-law focused institutions. He obtained a Jean-Monnet Chair in an EU-wide competition from the EU Commission in 1995 - on EU Energy and Economic Law. He was a \"Special Member\" of the Association of Int'l Petroleum Negotiators (AIPN), panel of energy/resources arbitrators of the Permanent court of Int'l Arbitration; Member of the Institut pour l'Arbitrage International; member of the IBA, LCIA, DIS; ICDR, ILA; ASIL, ITA (Academic Council). He was named in several professional guides as a leading international energy lawyers and one of three international arbitrators in Scotland. He was formerly the Chair, Energy, Petroleum and Mineral Law and Policy Trust; Director of the 2004 Hague Academy for Int'l Law Research Seminar on Int'l Investment Law. He was on the IUCN Energy Working Group and the World Energy Council's Task force on Energy Investment & Trade.\nHe could write and speak in English, German, French and Spanish, with some knowledge of Italian, Russian and Arabic.  He worked in all corners of the world.  He developed and led negotiation assistance inter alia in several investment projects related to coal (Colombia), gold (Mali), Guyana (uranium), Dominican Republic (nickel, oil), Cayman Islands (oil) : all led to completed transaction.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Wälde",
+                    "Thomas Wälde",
+                    "Thomas W. Wälde"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "11 October 2008"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "9 January 1949"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "UN",
+                    "United Nations",
+                    "United Nations (UN)"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "CEPMLP/Dundee",
+                    "Centre for Energy, Petroleum and Mineral Law and Policy (CEPMLP)",
+                    "CEPMLP",
+                    "Centre for Energy, Petroleum and Mineral Law and Policy",
+                    "Centre for Petroleum and Mineral Law"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Dundee",
+                    "University of Dundee",
+                    "University of Dundee, Scotland",
+                    "Dundee, Scotland"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "German and French nuclear physics research laboratories"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "German National Science Foundation (DFG)",
+                    "German National Science Foundation",
+                    "DFG",
+                    "German Research Foundation"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Kurfuerst-Friedrich-Gymnasium"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Reinhold Maier",
+                    "first Ministerpraesident of Baden-Wuerttemberg"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "first"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Bormes-Les-Mimosas"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "second"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "Charlotte Wälde"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "AHRC Centre on Intellectual Property Law"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Centre for Energy, Petroleum and Mineral Law and Policy (CEPMLP)"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "Edinburgh University"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "Max"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Vienna"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Olivia"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Institute for International Economic Law"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "Heinrich Kronstein"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "Georgetown Law School"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "Harvard Law School"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "1978"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "1974"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "2002/2003"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "2004"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "1991"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "2008"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "1983"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "1995"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "1981"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "1980"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "1972:74"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "2002"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "1991 to 2002"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "1990"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "1949"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "Detlev Vagts"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "Richard Baxter"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "Rabelz Zeitschrift"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "a decade later"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 43,
+                "mentions": [
+                    "one"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 44,
+                "mentions": [
+                    "ICJ president Roslyn Higgins",
+                    "Roslyn Higgins"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 45,
+                "mentions": [
+                    "60"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 46,
+                "mentions": [
+                    "Permanent Sovereignty over Natural resources"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 47,
+                "mentions": [
+                    "\"Berlin Guidelines\""
+                ],
+                "type": "LAW"
+            },
+            {
+                "id": 48,
+                "mentions": [
+                    "four"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 49,
+                "mentions": [
+                    "140"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 50,
+                "mentions": [
+                    "about 40"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 51,
+                "mentions": [
+                    "Queen's Award for Enterprise",
+                    "prestigious Queen's Award for Enterprise"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 52,
+                "mentions": [
+                    "Thunderbird v Mexico",
+                    "NAFTA Chapter XI arbitration Thunderbird v Mexico"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 53,
+                "mentions": [
+                    "K+ v Czech Republic"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 54,
+                "mentions": [
+                    "Glamis"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 55,
+                "mentions": [
+                    "Nykomb"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 56,
+                "mentions": [
+                    "Latvia"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 57,
+                "mentions": [
+                    "SwePol dispute"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 58,
+                "mentions": [
+                    "Poland"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 59,
+                "mentions": [
+                    "Sweden"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 60,
+                "mentions": [
+                    "Rechtsanwalt",
+                    "Rechtsanwalt (Frankfurt)"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 61,
+                "mentions": [
+                    "Lincoln's Inn"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 62,
+                "mentions": [
+                    "Essex Court Chambers"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 63,
+                "mentions": [
+                    "Organization of Petroleum Exporting Countries"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 64,
+                "mentions": [
+                    "Euromoney"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 65,
+                "mentions": [
+                    "three"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 66,
+                "mentions": [
+                    "International Investment Policy",
+                    "international investment policy"
+                ],
+                "type": "LAW"
+            },
+            {
+                "id": 67,
+                "mentions": [
+                    "Panthéon-Assas University"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 68,
+                "mentions": [
+                    "American University"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 69,
+                "mentions": [
+                    "British Institute of International & Comparative Law"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 70,
+                "mentions": [
+                    "Columbia University's Law School"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 71,
+                "mentions": [
+                    "Jean-Monnet Chair"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 72,
+                "mentions": [
+                    "EU Commission"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 73,
+                "mentions": [
+                    "Institut pour l'Arbitrage International"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 74,
+                "mentions": [
+                    "ITA (Academic Council)"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 75,
+                "mentions": [
+                    "2004 Hague Academy for Int'l Law Research Seminar on Int'l Investment Law"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 76,
+                "mentions": [
+                    "IUCN Energy Working Group"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 77,
+                "mentions": [
+                    "World Energy Council's Task force on Energy Investment & Trade"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 78,
+                "mentions": [
+                    "Italian"
+                ],
+                "type": "LANGUAGE"
+            },
+            {
+                "id": 79,
+                "mentions": [
+                    "Russian"
+                ],
+                "type": "LANGUAGE"
+            },
+            {
+                "id": 80,
+                "mentions": [
+                    "Arabic"
+                ],
+                "type": "LANGUAGE"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Thomas W. Wälde",
+                "relation": "WorkLocation",
+                "tail": "Bormes-Les-Mimosas"
+            },
+            {
+                "head": "Thomas W. Wälde",
+                "relation": "Follows",
+                "tail": "Detlev Vagts"
+            },
+            {
+                "head": "Thomas W. Wälde",
+                "relation": "WorkLocation",
+                "tail": "Institute for International Economic Law in Frankfurt"
+            },
+            {
+                "head": "Thomas W. Wälde",
+                "relation": "LocatedIn",
+                "tail": "Dundee, Scotland"
+            },
+            {
+                "head": "Thomas W. Wälde",
+                "relation": "Author",
+                "tail": "publication on transnational investment agreements"
+            },
+            {
+                "head": "Thomas W. Wälde",
+                "relation": "Follows",
+                "tail": "ICJ president Roslyn Higgins"
+            },
+            {
+                "head": "Thomas W. Wälde",
+                "relation": "LocatedIn",
+                "tail": "University of Dundee"
+            },
+            {
+                "head": "Thomas W. Wälde",
+                "relation": "WorkLocation",
+                "tail": "Bormes-Les-Mimosas"
+            },
+            {
+                "head": "Thomas W. Wälde",
+                "relation": "EducatedAt",
+                "tail": "Harvard Law School"
+            },
+            {
+                "head": "SwePol",
+                "relation": "Country",
+                "tail": "Poland"
+            },
+            {
+                "head": "SwePol",
+                "relation": "Country",
+                "tail": "Sweden"
+            },
+            {
+                "head": "Poland",
+                "relation": "DiplomaticRelation",
+                "tail": "Sweden"
+            }
+        ],
+        "label_set": [
+            "Promoted",
+            "Replaces",
+            "Partner",
+            "NominatedFor",
+            "InterestedIn",
+            "NamedAfter",
+            "HasPart",
+            "SignificantEvent",
+            "MemberOf",
+            "InfluencedBy",
+            "ContainsAdministrativeTerritorialEntity",
+            "InOppositionTo",
+            "Country",
+            "SaidToBeTheSameAs",
+            "WorkLocation",
+            "DifferentFrom",
+            "LocatedIn",
+            "HasWorksInTheCollection",
+            "PartOf",
+            "Creator",
+            "AcademicDegree",
+            "UsedBy",
+            "EducatedAt",
+            "CountryOfCitizenship",
+            "Author",
+            "DiplomaticRelation",
+            "OwnerOf",
+            "Follows",
+            "FollowedBy",
+            "OwnedBy"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Energy",
+        "title": "Uganda_Energy_Credit_Capitalisation_Company",
+        "doc": "The Uganda Energy Credit Capitalisation Company (UECCC) is a company owned by the government of Uganda. It is responsible for coordinating funding from the Ugandan government, international development partners and the private sector, to invest in renewable energy infrastructure in Uganda, with emphasis on the promotion of private sector participation.\nUECCC's headquarters is located in Amber House, at 29-33 Kampala Road, in the centre of Kampala, Uganda's capital and largest city. The coordinates of the company headquarters are 00°18'48.0\"N, 32°34'55.0\"E (Latitude.313340; Longitude.581949).The company was established in 2009 and coordinates investment into renewable energy sources in the country. The company offers technical, financial, and advisory services to the lending financial institution and to the renewable energy project developer. Services offered include the following: (a) Liquidity refinance option (b) Cash reserving (c) Partial risk guarantee (d) Solar refinance facility to participating microfinance institutions (e) Bridge financing facility (f) Subordinated debt finance (g) Interest rate buy down and (h) Transaction advisory services. Participating international development partners include the World Bank and KfW.The company is jointly owned by the Uganda Ministry of Energy and Mineral Development and the Uganda Ministry of Finance, Planning and Economic Development. As of June 2022, the company's total assets were USh58.4 billion (US$15.257 million). At that time the company was involved in developing nine mini-hydroelectric power stations in the country, that were yet to come online.In July 2024, UECCC signed contracts for the construction of the ORIO Mini Hydropower Project, in the  Western Region of Uganda. The project involves the construction of 9 mini-grid dams with total capacity of 6.7 MW. The project will benefit up to 71,081 households and 2,300 small and medium enterprises (SMEs) in the districts of Kasese, Bushenyi, Mitooma, Hoima, Kabarole, Bunyangabu and  Bundibugyo. The construction is budgeted at USh53.3 billion (approx. US$14.4 million).HNAC Technology Company Limited from China will be responsible for the civil and hydro-mechanical works. Ossberger GmbH from Germany will be responsible for the design, manufacture, supply, and installation of the electromechanical components. The project is co-financed by the Government of Uganda and the ORIO Infrastructure Fund. The government of the Netherlands provided a grant of €13.1 million towards this project.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Uganda Energy Credit Capitalisation Company",
+                    "Uganda Energy Credit Capitalisation Company (UECCC)",
+                    "UECCC"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "company headquarters",
+                    "Amber House"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "UECCC's headquarters"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "29-33"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "00°18'48.0\"N"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "32°34'55.0\"E"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "2009"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "international development partners",
+                    "KfW",
+                    "World Bank"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "June 2022"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "July 2024"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "USh58.4 billion (US$15.257 million)"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "US$15.257 million"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "nine"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "6.7"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "71,081"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "2,300"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "Kasese"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "Mitooma"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Hoima"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Kabarole"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Bunyangabu"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "USh53.3 billion"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "USh58.4 billion"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "Ossberger GmbH"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "ORIO Infrastructure Fund"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "renewable energy project developer"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "renewable energy infrastructure",
+                    "renewable energy sources"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "Transaction advisory services",
+                    "technical, financial, and advisory services"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "World Bank"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "mini-hydroelectric power stations",
+                    "Hydropower Project",
+                    "mini-grid dams"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "civil and hydro-mechanical works"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "government of Uganda",
+                    "Ugandan government"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "Uganda Ministry of Energy and Mineral Development"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "Uganda Ministry of Finance, Planning and Economic Development"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "China"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "Netherlands"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "Germany"
+                ],
+                "type": "GPE"
+            }
+        ],
+        "triples": [
+            {
+                "head": "UECCC",
+                "relation": "Partner",
+                "tail": "World Bank"
+            },
+            {
+                "head": "The Uganda Energy Credit Capitalisation Company",
+                "relation": "OwnedBy",
+                "tail": "the government of Uganda"
+            },
+            {
+                "head": "Uganda Energy Credit Capitalisation Company (UECCC)",
+                "relation": "OwnedBy",
+                "tail": "government of Uganda"
+            }
+        ],
+        "label_set": [
+            "Promoted",
+            "Replaces",
+            "Partner",
+            "NominatedFor",
+            "InterestedIn",
+            "NamedAfter",
+            "HasPart",
+            "SignificantEvent",
+            "MemberOf",
+            "InfluencedBy",
+            "ContainsAdministrativeTerritorialEntity",
+            "InOppositionTo",
+            "Country",
+            "SaidToBeTheSameAs",
+            "WorkLocation",
+            "DifferentFrom",
+            "LocatedIn",
+            "HasWorksInTheCollection",
+            "PartOf",
+            "Creator",
+            "AcademicDegree",
+            "UsedBy",
+            "EducatedAt",
+            "CountryOfCitizenship",
+            "Author",
+            "DiplomaticRelation",
+            "OwnerOf",
+            "Follows",
+            "FollowedBy",
+            "OwnedBy"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    }
+]

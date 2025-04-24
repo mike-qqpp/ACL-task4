@@ -1,0 +1,1151 @@
+[
+    {
+        "id": "Geography_0",
+        "domain": "Geography",
+        "title": "Age_of_Sail",
+        "doc": "The Age of Sail is a period in European history that lasted at the latest from the mid-16th (or mid-15th) to the mid-19th centuries, in which the dominance of sailing ships in global trade and warfare culminated, particularly marked by the introduction of naval artillery, and ultimately reached its highest extent at the advent of steam power. Enabled by the advances of the related Age of Navigation, it is identified as a distinctive element of the early modern period and the Age of Discovery.\nLike most periodic eras, defining the age is inexact and serves only as a general description. The term is used differently for warships and merchant vessels.By the 14th century naval artillery was employed in Europe, documented at the Battle of Arnemuiden (1338). The 15th century saw the Iberian naval ventures all the way along the African Atlantic coast and across the Atlantic Ocean, starting the Age of Discovery.\nFor warships, the age of sail runs roughly from the Battle of Lepanto in 1571, the last significant engagement in which oar-propelled galleys played a major role, to the development of steam-powered warships.\nThe period between the mid-19th century to the early 20th century, when sailing vessels reached their peak of size and complexity (e.g. clippers and windjammers), is sometimes referred to as the \"Golden Age of Sail\".The second sea-going steamboat was Richard Wright's first steamboat Experiment, an ex-French lugger; she steamed from Leeds to Yarmouth in July 1813. The first iron steamship to go to sea was the 116-ton Aaron Manby, built in 1821 by Aaron Manby at the Horseley Ironworks, and became the first iron-built vessel to put to sea when she crossed the English Channel in 1822, arriving in Paris on 22 June. She carried passengers and freight to Paris in 1822 at an average speed of 8 knots (9 mph, 14 km/h). The first purpose-built steam battleship was the 90-gun Napoléon in 1850. Multiple steam battleships saw action during the Crimean War, especially the Allied (British, French and Ottoman) fleet Bombardment of Sevastopol as part of the Siege of Sevastopol (1854:1855). The first ironclad battleship, Gloire, was launched by the French Navy in November 1859. In the March 1862 Battle of Hampton Roads, the ironclad CSS Virginia fought USS Monitor, making this the first fight between ironclads.\nThe Suez Canal in the Middle East, which opened in 1869, was more practical for steamships than for sailing ships, achieving a much shorter European-Asian sea route, which coincided with more fuel-efficient steamships, starting with Agamemnon in 1865.\nBy 1873, the Age of Sail for warships had ended, with HMS Devastation commissioned in 1871. Devastation was the first class of ocean-going battleships that did not carry sails.\nSailing ships continued to be an economical way to transport bulk cargo on long voyages into the 1920s and 1930s, though steamships soon pushed them out of those trades as well. Sailing ships do not require fuel or complex engines to be powered; thus they tended to be more independent from sophisticated dedicated support bases on land. Crucially though, steam-powered ships held a speed advantage and were rarely hindered by adverse winds, freeing steam-powered vessels from the necessity of following trade winds. As a result, cargo and supplies could reach a foreign port in a fraction of the time it took a sailing ship.\nSailing vessels were pushed into narrower and narrower economic niches and gradually disappeared from commercial trade. Today, sailing vessels are only economically viable for small-scale coastal fishing, along with recreational uses such as yachting and passenger sail excursion ships.\nIn recent decades, the commercial shipping industry has been reviving interest in wind assisted ships as a way to conserve fuel in the interest of sustainability.\nA New Age of Sail has been predicted by some experts to occur by 2030, driven by a revolution in energy technology and a desire to reduce carbon emissions from maritime shipping through wind-assisted propulsion. The book Trade Winds: A Voyage to a Sustainable Future for Shipping discusses the potential of a return to wind propulsion through the firsthand experiences of Christiaan De Beukelaer, who spent five months aboard a sailing cargo ship in 2020.",
+        "label_set": [
+            "diplomatic relation",
+            "lowest point",
+            "country",
+            "family name",
+            "contains",
+            "history of topic",
+            "located in or next to body of water",
+            "contains the administrative territorial entity",
+            "located in the administrative territorial entity",
+            "continent",
+            "follows",
+            "different from",
+            "place of birth",
+            "basin country",
+            "capital",
+            "place of death",
+            "has part(s)",
+            "endemic to",
+            "opposite of",
+            "official language",
+            "capital of",
+            "language used",
+            "field of work",
+            "country of origin",
+            "shares border with",
+            "country of citizenship",
+            "mountain range",
+            "facet of"
+        ],
+        "entity_label_set": [
+            "natural number",
+            "facility",
+            "academic discipline",
+            "non-urban municipality in germany",
+            "scholarly article",
+            "work of art",
+            "century",
+            "study type",
+            "type of policy",
+            "field of work",
+            "ship type",
+            "quantity",
+            "human population",
+            "language",
+            "event",
+            "branch of geography",
+            "location",
+            "school of education",
+            "scientific journal",
+            "law",
+            "date",
+            "feature type",
+            "state in the holy roman empire",
+            "document",
+            "percent",
+            "nationality or religious or political group",
+            "business",
+            "scholarly chapter",
+            "organisms known by a particular common name",
+            "geo-political entity",
+            "ship element",
+            "person",
+            "taxon",
+            "track gauge",
+            "web browser",
+            "time",
+            "school subject",
+            "topic",
+            "blockhouse",
+            "country",
+            "natural language",
+            "misc",
+            "era",
+            "extinct language",
+            "organization",
+            "product",
+            "geographic coordinate system",
+            "genre",
+            "aircraft lift-power class"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\n                \"Age of Sail\"\n            ],\n            \"type\": \"era\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\n                \"European\"\n            ],\n            \"type\": \"nationality or religious or political group\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\n                \"mid-16th\"\n            ],\n            \"type\": \"century\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\n                \"mid-15th\"\n            ],\n            \"type\": \"century\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\n                \"mid-19th centuries\"\n            ],\n            \"type\": \"century\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\n                \"Age of Navigation\"\n            ],\n            \"type\": \"era\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\n                \"Age of Discovery\"\n            ],\n            \"type\": \"era\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\n                \"14th century\"\n            ],\n            \"type\": \"century\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\n                \"Europe\"\n            ],\n            \"type\": \"geo-political entity\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\n                \"Battle of Arnemuiden\"\n            ],\n            \"type\": \"event\"\n        },\n        {\n            \"id\": 10,\n            \"mentions\": [\n                \"1338\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 11,\n            \"mentions\": [\n                \"15th century\"\n            ],\n            \"type\": \"century\"\n        },\n        {\n            \"id\": 12,\n            \"mentions\": [\n                \"Iberian\"\n            ],\n            \"type\": \"nationality or religious or political group\"\n        },\n        {\n            \"id\": 13,\n            \"mentions\": [\n                \"African Atlantic coast\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 14,\n            \"mentions\": [\n                \"Atlantic Ocean\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 15,\n            \"mentions\": [\n                \"Battle of Lepanto\"\n            ],\n            \"type\": \"event\"\n        },\n        {\n            \"id\": 16,\n            \"mentions\": [\n                \"1571\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 17,\n            \"mentions\": [\n                \"mid-19th century\",\n                \"early 20th century\"\n            ],\n            \"type\": \"century\"\n        },\n        {\n            \"id\": 18,\n            \"mentions\": [\n                \"Golden Age of Sail\"\n            ],\n            \"type\": \"era\"\n        },\n        {\n            \"id\": 19,\n            \"mentions\": [\n                \"Richard Wright\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 20,\n            \"mentions\": [\n                \"Leeds\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 21,\n            \"mentions\": [\n                \"Yarmouth\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 22,\n            \"mentions\": [\n                \"July 1813\"\n            ],\n            \"type\": \"date\"\n        },\n         {\n            \"id\": 23,\n            \"mentions\": [\n                \"Aaron Manby\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 24,\n            \"mentions\": [\n                \"116-ton Aaron Manby\"\n            ],\n            \"type\": \"product\"\n        },\n        {\n            \"id\": 25,\n            \"mentions\": [\n                \"1821\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 26,\n            \"mentions\": [\n                \"Horseley Ironworks\"\n            ],\n            \"type\": \"facility\"\n        },\n        {\n            \"id\": 27,\n            \"mentions\": [\n                \"English Channel\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 28,\n            \"mentions\": [\n                \"1822\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 29,\n            \"mentions\": [\n                \"Paris\"\n            ],\n            \"type\": \"geo-political entity\"\n        },\n        {\n            \"id\": 30,\n            \"mentions\": [\n                \"22 June\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 31,\n            \"mentions\": [\n                \"9 mph\"\n            ],\n            \"type\": \"quantity\"\n        },\n        {\n            \"id\": 32,\n            \"mentions\": [\n                \"14 km/h\"\n            ],\n            \"type\": \"quantity\"\n        },\n        {\n            \"id\": 33,\n            \"mentions\": [\n                \"90-gun Napoléon\"\n            ],\n            \"type\": \"ship type\"\n        },\n        {\n            \"id\": 34,\n            \"mentions\": [\n                \"1850\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 35,\n            \"mentions\": [\n                \"Crimean War\"\n            ],\n            \"type\": \"event\"\n        },\n        {\n            \"id\": 36,\n            \"mentions\": [\n                \"Allied\",\n                \"British\",\n                \"French\",\n                \"Ottoman\"\n            ],\n            \"type\": \"nationality or religious or political group\"\n        },\n        {\n            \"id\": 37,\n            \"mentions\": [\n                \"Bombardment of Sevastopol\"\n            ],\n            \"type\": \"event\"\n        },\n        {\n            \"id\": 38,\n            \"mentions\": [\n                \"Siege of Sevastopol\"\n            ],\n            \"type\": \"event\"\n        },\n        {\n            \"id\": 39,\n            \"mentions\": [\n                \"1854:1855\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 40,\n            \"mentions\": [\n                \"Gloire\"\n            ],\n            \"type\": \"ship type\"\n        },\n        {\n            \"id\": 41,\n            \"mentions\": [\n                \"French Navy\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 42,\n            \"mentions\": [\n                \"November 1859\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 43,\n            \"mentions\": [\n                \"March 1862 Battle of Hampton Roads\"\n            ],\n            \"type\": \"event\"\n        },\n        {\n            \"id\": 44,\n            \"mentions\": [\n                \"CSS Virginia\"\n            ],\n            \"type\": \"ship type\"\n        },\n        {\n            \"id\": 45,\n            \"mentions\": [\n                \"USS Monitor\"\n            ],\n            \"type\": \"ship type\"\n        },\n        {\n            \"id\": 46,\n            \"mentions\": [\n                \"Suez Canal\"\n            ],\n            \"type\": \"facility\"\n        },\n        {\n            \"id\": 47,\n            \"mentions\": [\n                \"Middle East\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 48,\n            \"mentions\": [\n                \"1869\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 49,\n            \"mentions\": [\n                \"European-Asian\"\n            ],\n            \"type\": \"nationality or religious or political group\"\n        },\n        {\n            \"id\": 50,\n            \"mentions\": [\n                \"Agamemnon\"\n            ],\n            \"type\": \"ship type\"\n        },\n        {\n            \"id\": 51,\n            \"mentions\": [\n                \"1865\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 52,\n            \"mentions\": [\n                \"1873\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 53,\n            \"mentions\": [\n                \"HMS Devastation\"\n            ],\n            \"type\": \"ship type\"\n        },\n        {\n            \"id\": 54,\n            \"mentions\": [\n                \"1871\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 55,\n            \"mentions\": [\n                \"1920s\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 56,\n            \"mentions\": [\n                \"1930s\"\n            ],\n            \"type\": \"date\"\n        },\n         {\n            \"id\": 57,\n            \"mentions\": [\n                \"2030\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 58,\n            \"mentions\": [\n                \"Trade Winds: A Voyage to a Sustainable Future for Shipping\"\n            ],\n            \"type\": \"document\"\n        },\n        {\n            \"id\": 59,\n            \"mentions\": [\n                \"Christiaan De Beukelaer\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 60,\n            \"mentions\": [\n                \"2020\"\n            ],\n            \"type\": \"date\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"Suez Canal\",\n            \"relation\": \"located in the administrative territorial entity\",\n            \"tail\": \"Middle East\"\n        },\n        {\n            \"head\": \"CSS Virginia\",\n            \"relation\": \"different from\",\n            \"tail\": \"USS Monitor\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Age of Sail"
+                ],
+                "type": "era"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "European"
+                ],
+                "type": "nationality or religious or political group"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "mid-16th"
+                ],
+                "type": "century"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "mid-15th"
+                ],
+                "type": "century"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "mid-19th centuries"
+                ],
+                "type": "century"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Age of Navigation"
+                ],
+                "type": "era"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Age of Discovery"
+                ],
+                "type": "era"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "14th century"
+                ],
+                "type": "century"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Europe"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Battle of Arnemuiden"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "1338"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "15th century"
+                ],
+                "type": "century"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Iberian"
+                ],
+                "type": "nationality or religious or political group"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "African Atlantic coast"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Atlantic Ocean"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Battle of Lepanto"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "1571"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "mid-19th century",
+                    "early 20th century"
+                ],
+                "type": "century"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Golden Age of Sail"
+                ],
+                "type": "era"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Richard Wright"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Leeds"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "Yarmouth"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "July 1813"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "Aaron Manby"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "116-ton Aaron Manby"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "1821"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "Horseley Ironworks"
+                ],
+                "type": "facility"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "English Channel"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "1822"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "Paris"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "22 June"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "9 mph"
+                ],
+                "type": "quantity"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "14 km/h"
+                ],
+                "type": "quantity"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "90-gun Napoléon"
+                ],
+                "type": "ship type"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "1850"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "Crimean War"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "Allied",
+                    "British",
+                    "French",
+                    "Ottoman"
+                ],
+                "type": "nationality or religious or political group"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "Bombardment of Sevastopol"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "Siege of Sevastopol"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "1854:1855"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "Gloire"
+                ],
+                "type": "ship type"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "French Navy"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "November 1859"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 43,
+                "mentions": [
+                    "March 1862 Battle of Hampton Roads"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 44,
+                "mentions": [
+                    "CSS Virginia"
+                ],
+                "type": "ship type"
+            },
+            {
+                "id": 45,
+                "mentions": [
+                    "USS Monitor"
+                ],
+                "type": "ship type"
+            },
+            {
+                "id": 46,
+                "mentions": [
+                    "Suez Canal"
+                ],
+                "type": "facility"
+            },
+            {
+                "id": 47,
+                "mentions": [
+                    "Middle East"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 48,
+                "mentions": [
+                    "1869"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 49,
+                "mentions": [
+                    "European-Asian"
+                ],
+                "type": "nationality or religious or political group"
+            },
+            {
+                "id": 50,
+                "mentions": [
+                    "Agamemnon"
+                ],
+                "type": "ship type"
+            },
+            {
+                "id": 51,
+                "mentions": [
+                    "1865"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 52,
+                "mentions": [
+                    "1873"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 53,
+                "mentions": [
+                    "HMS Devastation"
+                ],
+                "type": "ship type"
+            },
+            {
+                "id": 54,
+                "mentions": [
+                    "1871"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 55,
+                "mentions": [
+                    "1920s"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 56,
+                "mentions": [
+                    "1930s"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 57,
+                "mentions": [
+                    "2030"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 58,
+                "mentions": [
+                    "Trade Winds: A Voyage to a Sustainable Future for Shipping"
+                ],
+                "type": "document"
+            },
+            {
+                "id": 59,
+                "mentions": [
+                    "Christiaan De Beukelaer"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 60,
+                "mentions": [
+                    "2020"
+                ],
+                "type": "date"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Suez Canal",
+                "relation": "located in the administrative territorial entity",
+                "tail": "Middle East"
+            },
+            {
+                "head": "CSS Virginia",
+                "relation": "different from",
+                "tail": "USS Monitor"
+            }
+        ]
+    },
+    {
+        "id": "People_3",
+        "domain": "People",
+        "title": "Favorite_son",
+        "doc": "Favorite son (or favorite daughter) is a political term.\nAt the quadrennial American national political party conventions, a state delegation sometimes nominates a presidential candidate from the state, or less often from the state's region, who is not a viable candidate in the view of other delegations, and votes for this candidate in the initial ballot. The technique allows state leaders to negotiate with leading candidates in exchange for the delegation's support in subsequent ballots.\nSerious candidates usually, but not always, avoided campaigning in favorite sons' states. If a party's leader in a state, usually the governor, was unsure of whom to support, as the favorite son the state party could avoid disputes. Conversely, a party leader who has chosen a candidate might become a favorite son to keep other candidates' campaigns out of the state, or prevent a rival local politician from becoming a favorite son. The favorite son may explicitly state that the candidacy is not viable, or that the favorite son is not a candidate at all. The favorite son may hope to receive the vice-presidential nomination, Cabinet post or other job, increase support for the favorite son's region or policies, or just the publicity from being nominated at the convention.\nThe technique was widely used in the 19th and early 20th centuries. Since nationwide campaigns by candidates and binding primary elections have replaced brokered conventions, the technique has fallen out of use, as party rule changes in the early 1970s required candidates to have nominations from more than one state.\nA politician whose electoral appeal derives from their native state, rather than their political views is called a \"favorite son\". For example, in the United States, a presidential candidate will usually win the support of their home state(s). A particularly notable instance of this occurred in 1984, when challenger Walter Mondale lost 49 of 50 states against popular incumbent Ronald Reagan, winning only his home state of Minnesota.\n",
+        "label_set": [
+            "connects with",
+            "said to be the same as",
+            "operating area",
+            "family",
+            "allegiance",
+            "applies to jurisdiction",
+            "part of",
+            "conflict",
+            "language of work or name",
+            "subclass of",
+            "owned by",
+            "instance of",
+            "language used",
+            "replaced by",
+            "contains the administrative territorial entity",
+            "influenced by",
+            "member of",
+            "given name",
+            "father",
+            "award received",
+            "military branch",
+            "country",
+            "country of citizenship",
+            "shares border with",
+            "replaces",
+            "country of origin",
+            "author",
+            "child",
+            "coat of arms",
+            "diplomatic relation",
+            "position held",
+            "languages spoken, written or signed",
+            "industry",
+            "family name",
+            "depicted by",
+            "has effect",
+            "depicts",
+            "noble title",
+            "sibling",
+            "has part(s)",
+            "different from",
+            "sponsor",
+            "has characteristic",
+            "work location",
+            "mother",
+            "founded by"
+        ],
+        "entity_label_set": [
+            "coat of arms",
+            "manner of death",
+            "music award",
+            "taxon",
+            "hereditary title",
+            "position",
+            "protective device",
+            "wikimedia list article",
+            "scholarly article",
+            "type of chemical entity",
+            "grade of an order",
+            "role",
+            "social phenomenon",
+            "product",
+            "tiara",
+            "heraldic badge",
+            "united states patent",
+            "internet meme",
+            "female given name",
+            "person",
+            "facility",
+            "color",
+            "concept",
+            "non-standard language",
+            "part of speech",
+            "event",
+            "film",
+            "geo-political entity",
+            "philosophical concept",
+            "constitutive treaty",
+            "cause of death",
+            "sex of humans",
+            "organization",
+            "work of art",
+            "request for comments",
+            "term",
+            "property",
+            "law",
+            "national coat of arms",
+            "organisms known by a particular common name",
+            "musical group",
+            "date",
+            "phase of human life",
+            "jewelry",
+            "misc",
+            "language",
+            "economic activity",
+            "legal fiction",
+            "activity",
+            "philosophical theory",
+            "constitution",
+            "article of constitution",
+            "social networking service",
+            "group",
+            "recording medium",
+            "human rights",
+            "crown"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\n                \"Favorite son\",\n                \"favorite daughter\"\n            ],\n            \"type\": \"term\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\n                \"American\"\n            ],\n            \"type\": \"geo-political entity\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\n                \"state delegation\"\n            ],\n            \"type\": \"group\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\n                \"presidential candidate\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\n                \"governor\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\n                \"Cabinet post\"\n            ],\n            \"type\": \"position\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\n                \"19th century\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\n                \"early 20th centuries\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\n                \"1970s\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\n                \"United States\"\n            ],\n            \"type\": \"geo-political entity\"\n        },\n        {\n            \"id\": 10,\n            \"mentions\": [\n                \"1984\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 11,\n            \"mentions\": [\n                \"Walter Mondale\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 12,\n            \"mentions\": [\n                \"Ronald Reagan\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 13,\n            \"mentions\": [\n                \"Minnesota\"\n            ],\n            \"type\": \"geo-political entity\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"Favorite son\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"term\"\n        },\n        {\n            \"head\": \"state delegation\",\n            \"relation\": \"member of\",\n            \"tail\": \"American national political party\"\n        },\n        {\n            \"head\": \"governor\",\n            \"relation\": \"position held\",\n            \"tail\": \"state leader\"\n        },\n        {\n            \"head\": \"Cabinet post\",\n            \"relation\": \"instance of\",\n            \"tail\": \"position\"\n        },\n        {\n            \"head\": \"United States\",\n            \"relation\": \"contains the administrative territorial entity\",\n            \"tail\": \"state\"\n        },\n        {\n            \"head\": \"Walter Mondale\",\n            \"relation\": \"country of citizenship\",\n            \"tail\": \"United States\"\n        },\n         {\n            \"head\": \"Ronald Reagan\",\n            \"relation\": \"country of citizenship\",\n            \"tail\": \"United States\"\n        },\n        {\n            \"head\": \"Minnesota\",\n            \"relation\": \"part of\",\n            \"tail\": \"United States\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Favorite son",
+                    "favorite daughter"
+                ],
+                "type": "term"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "American"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "state delegation"
+                ],
+                "type": "group"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "presidential candidate"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "governor"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Cabinet post"
+                ],
+                "type": "position"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "19th century"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "early 20th centuries"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "1970s"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "United States"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "1984"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Walter Mondale"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Ronald Reagan"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "Minnesota"
+                ],
+                "type": "geo-political entity"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Favorite son",
+                "relation": "subclass of",
+                "tail": "term"
+            },
+            {
+                "head": "state delegation",
+                "relation": "member of",
+                "tail": "American national political party"
+            },
+            {
+                "head": "governor",
+                "relation": "position held",
+                "tail": "state leader"
+            },
+            {
+                "head": "Cabinet post",
+                "relation": "instance of",
+                "tail": "position"
+            },
+            {
+                "head": "United States",
+                "relation": "contains the administrative territorial entity",
+                "tail": "state"
+            },
+            {
+                "head": "Walter Mondale",
+                "relation": "country of citizenship",
+                "tail": "United States"
+            },
+            {
+                "head": "Ronald Reagan",
+                "relation": "country of citizenship",
+                "tail": "United States"
+            },
+            {
+                "head": "Minnesota",
+                "relation": "part of",
+                "tail": "United States"
+            }
+        ]
+    },
+    {
+        "id": "People_4",
+        "domain": "People",
+        "title": "Grammar_Nazi",
+        "doc": "Grammar nazi/spelling nazi or grammar pedant/spelling pedant is a term for a pedant who compulsively criticizes or corrects others' grammar mistakes, typos, misspellings, and other errors in speech or writing. The term originated in 1990s discussion forums as a way to insult those who overly correct others' grammar. \"Grammar Nazis\" often correct mistakes humorously, though this can reinforce arbitrary standards of linguistic correctness. These corrections often reflect literacy privilege. The term is often criticized for being a lighthearted use of the word Nazi. Grammar nazis are often criticized themselves for being rude or harsh.\nThe Nazis were the German government and military responsible for the Holocaust during World War II. They were extremely authoritarian. By the 1950s-60s, \"nazi,\" when written in lowercase, became a term for anyone seen as extremely authoritarian. Early examples include \"surf nazis\" who were fanatical about surfing. The term \"grammar nazi\" appeared on a Usenet forum as early as 1990, and gained wider recognition after the \"Soup Nazi\" character on Seinfeld in 1995.With the spread of social media, grammar nazis have become more common, as it is easier than ever to correct typos and misspellings. Grammar nazis are particularly prevalent on Facebook, Reddit, and X (Twitter).In 2016, Reese Lansangan released the song Grammar Nazi about a woman upset with her love interest's grammar. The song went viral and is even used to teach English. The song Word Crimes by \"Weird Al\" Yankovic highlights the issues with grammar policing through humor, though it also sparks debate about literacy privilege and social inequality. Grammar nazis have even been found to be helpful to English learners.One aspect of grammar nazis that is often criticized is their insistence on grammatical \"purism.\" Grammar nazis strictly adhere to traditional grammar rules. However, their focus on minute details detracts from effective communication. These pedants fail to recognize the many dialects of English, such as African American English, as correct. This can exhibit racism or classism. They fail to acknowledge the difference between standard and linguistic grammar. Grammar nazis strictly adhere to etymological fallacy, and fail to recognize that words can have separate informal meanings.Many grammar pedants will rely on incorrect or outdated grammatical rules. Languages change over time, and formal grammar is not the only correct manner of speaking and writing. Conversational grammar is incredibly different. For example, a grammar nazi would be against using split infinitives, even though they are grammatically correct, and perfectly acceptable conversationally.Calling a grammar nazi a \"nazi\" is giving the word nazi a more lighthearted meaning in that context. Many argue that this is not an ethical practice, regarding the atrocities committed by the Nazis during WW2. Additionally, correcting people's grammar compulsively is oftentimes rude. These pedants can also be racist by not recognizing ethnic dialects.",
+        "label_set": [
+            "connects with",
+            "said to be the same as",
+            "operating area",
+            "family",
+            "allegiance",
+            "applies to jurisdiction",
+            "part of",
+            "conflict",
+            "language of work or name",
+            "subclass of",
+            "owned by",
+            "instance of",
+            "language used",
+            "replaced by",
+            "contains the administrative territorial entity",
+            "influenced by",
+            "member of",
+            "given name",
+            "father",
+            "award received",
+            "military branch",
+            "country",
+            "country of citizenship",
+            "shares border with",
+            "replaces",
+            "country of origin",
+            "author",
+            "child",
+            "coat of arms",
+            "diplomatic relation",
+            "position held",
+            "languages spoken, written or signed",
+            "industry",
+            "family name",
+            "depicted by",
+            "has effect",
+            "depicts",
+            "noble title",
+            "sibling",
+            "has part(s)",
+            "different from",
+            "sponsor",
+            "has characteristic",
+            "work location",
+            "mother",
+            "founded by"
+        ],
+        "entity_label_set": [
+            "coat of arms",
+            "manner of death",
+            "music award",
+            "taxon",
+            "hereditary title",
+            "position",
+            "protective device",
+            "wikimedia list article",
+            "scholarly article",
+            "type of chemical entity",
+            "grade of an order",
+            "role",
+            "social phenomenon",
+            "product",
+            "tiara",
+            "heraldic badge",
+            "united states patent",
+            "internet meme",
+            "female given name",
+            "person",
+            "facility",
+            "color",
+            "concept",
+            "non-standard language",
+            "part of speech",
+            "event",
+            "film",
+            "geo-political entity",
+            "philosophical concept",
+            "constitutive treaty",
+            "cause of death",
+            "sex of humans",
+            "organization",
+            "work of art",
+            "request for comments",
+            "term",
+            "property",
+            "law",
+            "national coat of arms",
+            "organisms known by a particular common name",
+            "musical group",
+            "date",
+            "phase of human life",
+            "jewelry",
+            "misc",
+            "language",
+            "economic activity",
+            "legal fiction",
+            "activity",
+            "philosophical theory",
+            "constitution",
+            "article of constitution",
+            "social networking service",
+            "group",
+            "recording medium",
+            "human rights",
+            "crown"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\n                \"Grammar nazi\",\n                \"spelling nazi\",\n                \"grammar pedant\",\n                \"spelling pedant\"\n            ],\n            \"type\": \"term\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\n                \"1990s\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\n                \"Nazis\"\n            ],\n            \"type\": \"group\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\n                \"German government\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\n                \"World War II\"\n            ],\n            \"type\": \"event\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\n                \"Holocaust\"\n            ],\n            \"type\": \"event\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\n                \"1950s-60s\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\n                \"surf nazis\"\n            ],\n            \"type\": \"group\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\n                \"Usenet\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\n                \"1990\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 10,\n            \"mentions\": [\n                \"Soup Nazi\"\n            ],\n            \"type\": \"term\"\n        },\n        {\n            \"id\": 11,\n            \"mentions\": [\n                \"Seinfeld\"\n            ],\n            \"type\": \"work of art\"\n        },\n        {\n            \"id\": 12,\n            \"mentions\": [\n                \"1995\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 13,\n            \"mentions\": [\n                \"social media\"\n            ],\n            \"type\": \"social networking service\"\n        },\n        {\n            \"id\": 14,\n            \"mentions\": [\n                \"Facebook\"\n            ],\n            \"type\": \"social networking service\"\n        },\n        {\n            \"id\": 15,\n            \"mentions\": [\n                \"Reddit\"\n            ],\n            \"type\": \"social networking service\"\n        },\n        {\n            \"id\": 16,\n            \"mentions\": [\n                \"X (Twitter)\"\n            ],\n            \"type\": \"social networking service\"\n        },\n        {\n            \"id\": 17,\n            \"mentions\": [\n                \"2016\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 18,\n            \"mentions\": [\n                \"Reese Lansangan\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 19,\n            \"mentions\": [\n                \"Grammar Nazi\"\n            ],\n            \"type\": \"work of art\"\n        },\n        {\n            \"id\": 20,\n            \"mentions\": [\n                \"English\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 21,\n            \"mentions\": [\n                \"Word Crimes\"\n            ],\n            \"type\": \"work of art\"\n        },\n        {\n            \"id\": 22,\n            \"mentions\": [\n                \"Weird Al\\\" Yankovic\"\n            ],\n            \"type\": \"person\"\n        },\n         {\n            \"id\": 23,\n            \"mentions\": [\n                \"African American English\"\n            ],\n            \"type\": \"language\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"Grammar nazi\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"term\"\n        },\n        {\n            \"head\": \"spelling nazi\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"term\"\n        },\n         {\n            \"head\": \"grammar pedant\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"term\"\n        },\n         {\n            \"head\": \"spelling pedant\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"term\"\n        },\n        {\n            \"head\": \"Nazis\",\n            \"relation\": \"instance of\",\n            \"tail\": \"German government\"\n        },\n        {\n            \"head\": \"Nazis\",\n            \"relation\": \"has part(s)\",\n            \"tail\": \"military\"\n        },\n        {\n            \"head\": \"German government\",\n            \"relation\": \"has characteristic\",\n            \"tail\": \"authoritarian\"\n        },\n        {\n            \"head\": \"Holocaust\",\n            \"relation\": \"part of\",\n            \"tail\": \"World War II\"\n        },\n        {\n            \"head\": \"Reese Lansangan\",\n            \"relation\": \"author\",\n            \"tail\": \"Grammar Nazi\"\n        },\n        {\n            \"head\": \"Word Crimes\",\n            \"relation\": \"author\",\n            \"tail\": \"\\\"Weird Al\\\" Yankovic\"\n        },\n        {\n            \"head\": \"social media\",\n            \"relation\": \"instance of\",\n            \"tail\": \"social networking service\"\n        },\n        {\n            \"head\": \"Facebook\",\n            \"relation\": \"instance of\",\n            \"tail\": \"social networking service\"\n        },\n        {\n            \"head\": \"Reddit\",\n            \"relation\": \"instance of\",\n            \"tail\": \"social networking service\"\n        },\n        {\n            \"head\": \"X (Twitter)\",\n            \"relation\": \"instance of\",\n            \"tail\": \"social networking service\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Grammar nazi",
+                    "spelling nazi",
+                    "grammar pedant",
+                    "spelling pedant"
+                ],
+                "type": "term"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "1990s"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Nazis"
+                ],
+                "type": "group"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "German government"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "World War II"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Holocaust"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "1950s-60s"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "surf nazis"
+                ],
+                "type": "group"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Usenet"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "1990"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Soup Nazi"
+                ],
+                "type": "term"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Seinfeld"
+                ],
+                "type": "work of art"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "1995"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "social media"
+                ],
+                "type": "social networking service"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Facebook"
+                ],
+                "type": "social networking service"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Reddit"
+                ],
+                "type": "social networking service"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "X (Twitter)"
+                ],
+                "type": "social networking service"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "2016"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Reese Lansangan"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Grammar Nazi"
+                ],
+                "type": "work of art"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "English"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "Word Crimes"
+                ],
+                "type": "work of art"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "Weird Al\" Yankovic"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "African American English"
+                ],
+                "type": "language"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Grammar nazi",
+                "relation": "subclass of",
+                "tail": "term"
+            },
+            {
+                "head": "spelling nazi",
+                "relation": "subclass of",
+                "tail": "term"
+            },
+            {
+                "head": "grammar pedant",
+                "relation": "subclass of",
+                "tail": "term"
+            },
+            {
+                "head": "spelling pedant",
+                "relation": "subclass of",
+                "tail": "term"
+            },
+            {
+                "head": "Nazis",
+                "relation": "instance of",
+                "tail": "German government"
+            },
+            {
+                "head": "Nazis",
+                "relation": "has part(s)",
+                "tail": "military"
+            },
+            {
+                "head": "German government",
+                "relation": "has characteristic",
+                "tail": "authoritarian"
+            },
+            {
+                "head": "Holocaust",
+                "relation": "part of",
+                "tail": "World War II"
+            },
+            {
+                "head": "Reese Lansangan",
+                "relation": "author",
+                "tail": "Grammar Nazi"
+            },
+            {
+                "head": "Word Crimes",
+                "relation": "author",
+                "tail": "\"Weird Al\" Yankovic"
+            },
+            {
+                "head": "social media",
+                "relation": "instance of",
+                "tail": "social networking service"
+            },
+            {
+                "head": "Facebook",
+                "relation": "instance of",
+                "tail": "social networking service"
+            },
+            {
+                "head": "Reddit",
+                "relation": "instance of",
+                "tail": "social networking service"
+            },
+            {
+                "head": "X (Twitter)",
+                "relation": "instance of",
+                "tail": "social networking service"
+            }
+        ]
+    }
+]

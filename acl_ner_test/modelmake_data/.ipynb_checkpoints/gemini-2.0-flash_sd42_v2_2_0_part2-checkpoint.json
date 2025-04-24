@@ -1,0 +1,895 @@
+[
+    {
+        "id": "Religion_9",
+        "domain": "Religion",
+        "title": "Siladhara_Order",
+        "doc": "The Sīladharā Order is a Theravada Buddhist female monastic order established by Ajahn Sumedho at Chithurst Buddhist Monastery, England. Its members are known as Sīladharās.\nIn 1983, he obtained permission from the Sangha in Thailand, to give a ten-precept pabbajjā to women, giving them official recognition as female renunciants trained in the Ajahn Chah lineage. The reasons for its establishment are due to the historical loss of the bhikkhunī (nun's) ordination in Theravada Buddhism, limiting renunciation for female Theravadins to ad hoc roles such as the thilashins and maechis, neither of which garner recognition from modern-day Theravada Buddhists as genuine renunciants.\nAjahn Sumedho enlisted Ajahn Sucitto to train the nuns from 1984 to 1991. By 2008, sīladharās were trained in the discipline of more than one hundred precepts, including rules based on the pāṭimokkha of the bhikkhunī order. The order waxed and waned throughout its brief history, peaking at around 14, mostly living at Amaravati Buddhist Monastery.In order to not violate national laws governing religious ordinations in predominantly Theravāda countries, with the notable exception of Sri Lanka, the Sīladharā Order is formally considered junior to that of bhikkhus or fully ordained men. Over the last twenty years, many siladhāras have therefore sought full bhikkhunī ordination with commensurate privileges, recognition and responsibilities enjoyed by male monastics. Making full ordination available to women is a cultural issue with significant implications for the welfare of young girls living in poverty in Asian countries where Theravada Buddhism is prevalent, especially Burma, Thailand, Cambodia, Laos and Sri Lanka. Speaking of Thailand, Lynne Hybels writes, \"Young men in desperately poor families such as those in Chiang ai can bring honor to their families by becoming monks, but girls are expected to provide financially. Traffickers understand this vulnerability, prey on it, and easily lure girls into life in the brothel.\" Such ordinations, however, are according to Buddhism itself motivated by wrong view; in particular, by careerism or economism, rather than by a sense of saṁvega and genuine renunciation.After years of thorough discussion, Ajahn Sumedho issued a \"Five-Point Declaration\" concerning women's roles and rights in the Amaravati monastic community. This affirmed the status quo of seniority of male over female monastics. The declaration holds that while some teaching and management responsibilities are shared between the two orders according to capability, the Siladhara Order is unequivocally junior to that of the monks.\nMany consider the \"Five-Point Declaration\" to be discriminatory against women. Some monastics and scholars also consider it to be an inaccurate interpretation of the vinaya and other texts, similar to the Three-Fifths Compromise in the United States Constitution or other codified examples of discrimination such as coverture. In addition, the violations of national law that had been sought to avoid were distinct from the vinaya itself, as argued by Ajahn Brahmavaṁso on the same matter.\nDespite Ajahn Sumedho's best efforts at balancing contending interests, many female monastics living at Amaravati at the time left the monastery citing discrimination and lack of compassion on the part of Amaravati leadership. Subsequently, two sīladharās from this group founded a community in the United States. Along with numerous other women in recent years, these former Sīladharās have taken full bhikkhunī ordination.\n",
+        "label_set": [
+            "owner of",
+            "part of",
+            "domain of saint or deity",
+            "contains the administrative territorial entity",
+            "indigenous to",
+            "item operated",
+            "shares border with",
+            "country of citizenship",
+            "language used",
+            "has edition or translation",
+            "main regulatory text",
+            "applies to part",
+            "field of work",
+            "backup or reserve team or crew",
+            "vessel",
+            "astronaut mission",
+            "author",
+            "place of death",
+            "capital of",
+            "diplomatic relation",
+            "edition or translation of",
+            "contains settlement",
+            "religion or worldview",
+            "original language of film or TV show",
+            "located in the administrative territorial entity",
+            "position held",
+            "significant event",
+            "owned by",
+            "founded by",
+            "continent",
+            "instance of",
+            "has part(s)",
+            "headquarters location",
+            "language of work or name",
+            "crew member",
+            "official language",
+            "ratified by",
+            "different from",
+            "employer",
+            "child astronomical body",
+            "country",
+            "operator",
+            "named after",
+            "place of publication"
+        ],
+        "entity_label_set": [
+            "religious identity",
+            "time",
+            "civil liberties",
+            "religious occupation",
+            "taxon",
+            "website",
+            "religious community",
+            "position",
+            "political ideology",
+            "location",
+            "chapter of the bible",
+            "children's game",
+            "religious group",
+            "academic discipline",
+            "code of law",
+            "christian denominational family",
+            "nationality or religious or political group",
+            "human migration",
+            "product",
+            "family name",
+            "quantity",
+            "facility",
+            "person",
+            "religious denomination",
+            "event",
+            "philosophical concept",
+            "geo-political entity",
+            "world view",
+            "version, edition or translation",
+            "map projection",
+            "theonym",
+            "human spaceflight",
+            "sex of humans",
+            "organization",
+            "work of art",
+            "ethnoreligious group",
+            "anatomical structure class type",
+            "jewish ceremonial art",
+            "ethical theory",
+            "disease",
+            "law",
+            "literary work",
+            "christian movement",
+            "cognitive shift",
+            "confessional aspect",
+            "legal doctrine",
+            "organisms known by a particular common name",
+            "date",
+            "misc",
+            "planetary system",
+            "status",
+            "profession",
+            "scientific hypothesis",
+            "activity",
+            "music genre",
+            "religion",
+            "periodical",
+            "philosophical school",
+            "major religious groups"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\n                \"Sīladharā Order\"\n            ],\n            \"type\": \"religious order\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\n                \"Theravada Buddhist\"\n            ],\n            \"type\": \"religious group\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\n                \"Ajahn Sumedho\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\n                \"Chithurst Buddhist Monastery\"\n            ],\n            \"type\": \"facility\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\n                \"England\"\n            ],\n            \"type\": \"geo-political entity\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\n                \"Sīladharās\"\n            ],\n            \"type\": \"religious occupation\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\n                \"1983\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\n                \"Sangha\"\n            ],\n            \"type\": \"religious group\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\n                \"Thailand\"\n            ],\n            \"type\": \"geo-political entity\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\n                \"Ajahn Chah\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 10,\n            \"mentions\": [\n                \"Theravada Buddhism\"\n            ],\n            \"type\": \"religion\"\n        },\n        {\n            \"id\": 11,\n            \"mentions\": [\n                \"bhikkhunī\"\n            ],\n            \"type\": \"religious occupation\"\n        },\n        {\n            \"id\": 12,\n            \"mentions\": [\n                \"thilashins\"\n            ],\n            \"type\": \"religious occupation\"\n        },\n        {\n            \"id\": 13,\n            \"mentions\": [\n                \"maechis\"\n            ],\n            \"type\": \"religious occupation\"\n        },\n        {\n            \"id\": 14,\n            \"mentions\": [\n                \"Theravada Buddhists\"\n            ],\n            \"type\": \"nationality or religious or political group\"\n        },\n        {\n            \"id\": 15,\n            \"mentions\": [\n                \"Ajahn Sucitto\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 16,\n            \"mentions\": [\n                \"1984\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 17,\n            \"mentions\": [\n                \"1991\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 18,\n            \"mentions\": [\n                \"2008\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 19,\n            \"mentions\": [\n                \"pāṭimokkha\"\n            ],\n            \"type\": \"misc\"\n        },\n        {\n            \"id\": 20,\n            \"mentions\": [\n                \"Amaravati Buddhist Monastery\"\n            ],\n            \"type\": \"facility\"\n        },\n        {\n            \"id\": 21,\n            \"mentions\": [\n                \"Sri Lanka\"\n            ],\n            \"type\": \"geo-political entity\"\n        },\n        {\n            \"id\": 22,\n            \"mentions\": [\n                \"bhikkhus\"\n            ],\n            \"type\": \"religious occupation\"\n        },\n        {\n            \"id\": 23,\n            \"mentions\": [\n                \"Asian countries\"\n            ],\n            \"type\": \"geo-political entity\"\n        },\n        {\n            \"id\": 24,\n            \"mentions\": [\n                \"Burma\"\n            ],\n            \"type\": \"geo-political entity\"\n        },\n        {\n            \"id\": 25,\n            \"mentions\": [\n                \"Cambodia\"\n            ],\n            \"type\": \"geo-political entity\"\n        },\n        {\n            \"id\": 26,\n            \"mentions\": [\n                \"Laos\"\n            ],\n            \"type\": \"geo-political entity\"\n        },\n        {\n            \"id\": 27,\n            \"mentions\": [\n                \"Chiang ai\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 28,\n            \"mentions\": [\n                \"Lynne Hybels\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 29,\n            \"mentions\": [\n                \"Thailand\"\n            ],\n            \"type\": \"geo-political entity\"\n        },\n        {\n            \"id\": 30,\n            \"mentions\": [\n                \"Ajahn Sumedho\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 31,\n            \"mentions\": [\n                \"Five-Point Declaration\"\n            ],\n            \"type\": \"misc\"\n        },\n        {\n            \"id\": 32,\n            \"mentions\": [\n                \"Amaravati\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 33,\n            \"mentions\": [\n                \"monks\"\n            ],\n            \"type\": \"religious occupation\"\n        },\n        {\n            \"id\": 34,\n            \"mentions\": [\n                \"Five-Point Declaration\"\n            ],\n            \"type\": \"misc\"\n        },\n        {\n            \"id\": 35,\n            \"mentions\": [\n                \"United States Constitution\"\n            ],\n            \"type\": \"law\"\n        },\n        {\n            \"id\": 36,\n            \"mentions\": [\n                \"Ajahn Brahmavaṁso\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 37,\n            \"mentions\": [\n                \"Amaravati\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 38,\n            \"mentions\": [\n                \"United States\"\n            ],\n            \"type\": \"geo-political entity\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"Sīladharā Order\",\n            \"relation\": \"instance of\",\n            \"tail\": \"religious order\"\n        },\n        {\n            \"head\": \"Sīladharā Order\",\n            \"relation\": \"founded by\",\n            \"tail\": \"Ajahn Sumedho\"\n        },\n        {\n            \"head\": \"Sīladharā Order\",\n            \"relation\": \"located in the administrative territorial entity\",\n            \"tail\": \"England\"\n        },\n        {\n            \"head\": \"Sīladharā Order\",\n            \"relation\": \"part of\",\n            \"tail\": \"Theravada Buddhism\"\n        },\n        {\n            \"head\": \"Ajahn Sumedho\",\n            \"relation\": \"religion or worldview\",\n            \"tail\": \"Theravada Buddhism\"\n        },\n        {\n            \"head\": \"1983\",\n            \"relation\": \"significant event\",\n            \"tail\": \"Ajahn Sumedho obtained permission\"\n        },\n        {\n            \"head\": \"Sangha\",\n            \"relation\": \"located in the administrative territorial entity\",\n            \"tail\": \"Thailand\"\n        },\n        {\n            \"head\": \"Ajahn Chah\",\n            \"relation\": \"religion or worldview\",\n            \"tail\": \"Theravada Buddhism\"\n        },\n        {\n            \"head\": \"bhikkhunī\",\n            \"relation\": \"part of\",\n            \"tail\": \"Theravada Buddhism\"\n        },\n        {\n            \"head\": \"Sīladharā Order\",\n            \"relation\": \"different from\",\n            \"tail\": \"bhikkhus\"\n        },\n        {\n            \"head\": \"Amaravati\",\n            \"relation\": \"located in the administrative territorial entity\",\n            \"tail\": \"Thailand\"\n        },\n        {\n            \"head\": \"Lynne Hybels\",\n            \"relation\": \"religion or worldview\",\n            \"tail\": \"Christianity\"\n        },\n        {\n            \"head\": \"Ajahn Sumedho\",\n            \"relation\": \"author\",\n            \"tail\": \"Five-Point Declaration\"\n        },\n        {\n            \"head\": \"United States Constitution\",\n            \"relation\": \"country\",\n            \"tail\": \"United States\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Sīladharā Order"
+                ],
+                "type": "religious order"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Theravada Buddhist"
+                ],
+                "type": "religious group"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Ajahn Sumedho"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Chithurst Buddhist Monastery"
+                ],
+                "type": "facility"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "England"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Sīladharās"
+                ],
+                "type": "religious occupation"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "1983"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Sangha"
+                ],
+                "type": "religious group"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Thailand"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Ajahn Chah"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Theravada Buddhism"
+                ],
+                "type": "religion"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "bhikkhunī"
+                ],
+                "type": "religious occupation"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "thilashins"
+                ],
+                "type": "religious occupation"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "maechis"
+                ],
+                "type": "religious occupation"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Theravada Buddhists"
+                ],
+                "type": "nationality or religious or political group"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Ajahn Sucitto"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "1984"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "1991"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "2008"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "pāṭimokkha"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Amaravati Buddhist Monastery"
+                ],
+                "type": "facility"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "Sri Lanka"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "bhikkhus"
+                ],
+                "type": "religious occupation"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "Asian countries"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "Burma"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "Cambodia"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "Laos"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "Chiang ai"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "Lynne Hybels"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "Thailand"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "Ajahn Sumedho"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "Five-Point Declaration"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "Amaravati"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "monks"
+                ],
+                "type": "religious occupation"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "Five-Point Declaration"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "United States Constitution"
+                ],
+                "type": "law"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "Ajahn Brahmavaṁso"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "Amaravati"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "United States"
+                ],
+                "type": "geo-political entity"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Sīladharā Order",
+                "relation": "instance of",
+                "tail": "religious order"
+            },
+            {
+                "head": "Sīladharā Order",
+                "relation": "founded by",
+                "tail": "Ajahn Sumedho"
+            },
+            {
+                "head": "Sīladharā Order",
+                "relation": "located in the administrative territorial entity",
+                "tail": "England"
+            },
+            {
+                "head": "Sīladharā Order",
+                "relation": "part of",
+                "tail": "Theravada Buddhism"
+            },
+            {
+                "head": "Ajahn Sumedho",
+                "relation": "religion or worldview",
+                "tail": "Theravada Buddhism"
+            },
+            {
+                "head": "1983",
+                "relation": "significant event",
+                "tail": "Ajahn Sumedho obtained permission"
+            },
+            {
+                "head": "Sangha",
+                "relation": "located in the administrative territorial entity",
+                "tail": "Thailand"
+            },
+            {
+                "head": "Ajahn Chah",
+                "relation": "religion or worldview",
+                "tail": "Theravada Buddhism"
+            },
+            {
+                "head": "bhikkhunī",
+                "relation": "part of",
+                "tail": "Theravada Buddhism"
+            },
+            {
+                "head": "Sīladharā Order",
+                "relation": "different from",
+                "tail": "bhikkhus"
+            },
+            {
+                "head": "Amaravati",
+                "relation": "located in the administrative territorial entity",
+                "tail": "Thailand"
+            },
+            {
+                "head": "Lynne Hybels",
+                "relation": "religion or worldview",
+                "tail": "Christianity"
+            },
+            {
+                "head": "Ajahn Sumedho",
+                "relation": "author",
+                "tail": "Five-Point Declaration"
+            },
+            {
+                "head": "United States Constitution",
+                "relation": "country",
+                "tail": "United States"
+            }
+        ]
+    },
+    {
+        "id": "Religion_5",
+        "domain": "Religion",
+        "title": "Joshua_Project",
+        "doc": "The Joshua Project is an evangelical Christian organization based in Colorado Springs, United States, which seeks to coordinate the work of missionary organizations to track the ethnic groups of the world with the fewest followers of evangelical Christianity. To do so, it maintains ethnologic data to support Christian missions. It also tracks the evangelism efforts among 17,446 people groups worldwide—a people group being \"the largest group within which the Gospel can spread as a church planting movement,\" according to the project's website—to identify people groups as of yet unreached by Christian evangelism.\nThe project began in 1995 within the former AD2000 and Beyond Movement, which itself sprang from the 1989 Global Consultation on World Evangelization (GCOWE) prior to the Second International Congress on World Evangelization. From 2001 through 2005 the Joshua Project was at different times informally connected with the Caleb Project, and the International Christian Technologists Association (ICTA) and World Help. In 2006, the Joshua Project officially became part of the U.S. Center for World Mission, later called the Venture Center.The goal of the project is to bring definition to the unfinished task of the Great Commission by providing accurate, regularly updated ethnic people group information critical for understanding the scope of the work required.\nFocusing on ethnicity, the project maintains a database of \"unreached peoples\" listed by country and language. As of 2010, they list 9,803 ethnic groups. These are further divided into 16,350 peoples-by-countries, counting national minorities individually for each of 236 countries, of which 6,642 are classified as \"unreached peoples\". Ethnic groups are organized hierarchically in 251 \"People Clusters\" which in turn are divided in 16 \"Affinity Blocs\" (Arab World, East Asians, Eurasians, Horn of Africa-Cushitic, Iranian-Median, Jews, Latin-Caribbean Americans, Malay peoples, North American peoples, Pacific Islanders, South Asians, Southeast Asians, Sub-Saharan Africans, Tibetan / Himalayan peoples, Turkic peoples and Unclassified). Each ethnicity is listed as speaking at least one of 6,510 languages.\n",
+        "label_set": [
+            "owner of",
+            "part of",
+            "domain of saint or deity",
+            "contains the administrative territorial entity",
+            "indigenous to",
+            "item operated",
+            "shares border with",
+            "country of citizenship",
+            "language used",
+            "has edition or translation",
+            "main regulatory text",
+            "applies to part",
+            "field of work",
+            "backup or reserve team or crew",
+            "vessel",
+            "astronaut mission",
+            "author",
+            "place of death",
+            "capital of",
+            "diplomatic relation",
+            "edition or translation of",
+            "contains settlement",
+            "religion or worldview",
+            "original language of film or TV show",
+            "located in the administrative territorial entity",
+            "position held",
+            "significant event",
+            "owned by",
+            "founded by",
+            "continent",
+            "instance of",
+            "has part(s)",
+            "headquarters location",
+            "language of work or name",
+            "crew member",
+            "official language",
+            "ratified by",
+            "different from",
+            "employer",
+            "child astronomical body",
+            "country",
+            "operator",
+            "named after",
+            "place of publication"
+        ],
+        "entity_label_set": [
+            "religious identity",
+            "time",
+            "civil liberties",
+            "religious occupation",
+            "taxon",
+            "website",
+            "religious community",
+            "position",
+            "political ideology",
+            "location",
+            "chapter of the bible",
+            "children's game",
+            "religious group",
+            "academic discipline",
+            "code of law",
+            "christian denominational family",
+            "nationality or religious or political group",
+            "human migration",
+            "product",
+            "family name",
+            "quantity",
+            "facility",
+            "person",
+            "religious denomination",
+            "event",
+            "philosophical concept",
+            "geo-political entity",
+            "world view",
+            "version, edition or translation",
+            "map projection",
+            "theonym",
+            "human spaceflight",
+            "sex of humans",
+            "organization",
+            "work of art",
+            "ethnoreligious group",
+            "anatomical structure class type",
+            "jewish ceremonial art",
+            "ethical theory",
+            "disease",
+            "law",
+            "literary work",
+            "christian movement",
+            "cognitive shift",
+            "confessional aspect",
+            "legal doctrine",
+            "organisms known by a particular common name",
+            "date",
+            "misc",
+            "planetary system",
+            "status",
+            "profession",
+            "scientific hypothesis",
+            "activity",
+            "music genre",
+            "religion",
+            "periodical",
+            "philosophical school",
+            "major religious groups"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\n                \"Joshua Project\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\n                \"evangelical Christian organization\"\n            ],\n            \"type\": \"religious group\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\n                \"Colorado Springs\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\n                \"United States\"\n            ],\n            \"type\": \"geo-political entity\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\n                \"Christian missions\"\n            ],\n            \"type\": \"activity\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\n                \"Gospel\"\n            ],\n            \"type\": \"religion\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\n                \"Christian evangelism\"\n            ],\n            \"type\": \"activity\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\n                \"1995\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\n                \"AD2000 and Beyond Movement\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\n                \"1989 Global Consultation on World Evangelization (GCOWE)\"\n            ],\n            \"type\": \"event\"\n        },\n        {\n            \"id\": 10,\n            \"mentions\": [\n                \"Second International Congress on World Evangelization\"\n            ],\n            \"type\": \"event\"\n        },\n        {\n            \"id\": 11,\n            \"mentions\": [\n                \"2001 through 2005\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 12,\n            \"mentions\": [\n                \"Caleb Project\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 13,\n            \"mentions\": [\n                \"International Christian Technologists Association (ICTA)\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 14,\n            \"mentions\": [\n                \"World Help\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 15,\n            \"mentions\": [\n                \"2006\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 16,\n            \"mentions\": [\n                \"U.S. Center for World Mission\"\n            ],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 17,\n            \"mentions\": [\n                \"Venture Center\"\n            ],\n            \"type\": \"facility\"\n        },\n        {\n            \"id\": 18,\n            \"mentions\": [\n                \"Great Commission\"\n            ],\n            \"type\": \"religious concept\"\n        },\n        {\n            \"id\": 19,\n            \"mentions\": [\n                \"ethnicity\"\n            ],\n            \"type\": \"philosophical concept\"\n        },\n        {\n            \"id\": 20,\n            \"mentions\": [\n                \"2010\"\n            ],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 21,\n            \"mentions\": [\n                \"236 countries\"\n            ],\n            \"type\": \"quantity\"\n        },\n        {\n            \"id\": 22,\n            \"mentions\": [\n                \"Arab World\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 23,\n            \"mentions\": [\n                \"East Asians\"\n            ],\n            \"type\": \"ethnoreligious group\"\n        },\n        {\n            \"id\": 24,\n            \"mentions\": [\n                \"Eurasians\"\n            ],\n            \"type\": \"ethnoreligious group\"\n        },\n        {\n            \"id\": 25,\n            \"mentions\": [\n                \"Horn of Africa-Cushitic\"\n            ],\n            \"type\": \"ethnoreligious group\"\n        },\n        {\n            \"id\": 26,\n            \"mentions\": [\n                \"Iranian-Median\"\n            ],\n            \"type\": \"ethnoreligious group\"\n        },\n        {\n            \"id\": 27,\n            \"mentions\": [\n                \"Jews\"\n            ],\n            \"type\": \"ethnoreligious group\"\n        },\n        {\n            \"id\": 28,\n            \"mentions\": [\n                \"Latin-Caribbean Americans\"\n            ],\n            \"type\": \"ethnoreligious group\"\n        },\n        {\n            \"id\": 29,\n            \"mentions\": [\n                \"Malay peoples\"\n            ],\n            \"type\": \"ethnoreligious group\"\n        },\n        {\n            \"id\": 30,\n            \"mentions\": [\n                \"North American peoples\"\n            ],\n            \"type\": \"ethnoreligious group\"\n        },\n        {\n            \"id\": 31,\n            \"mentions\": [\n                \"Pacific Islanders\"\n            ],\n            \"type\": \"ethnoreligious group\"\n        },\n        {\n            \"id\": 32,\n            \"mentions\": [\n                \"South Asians\"\n            ],\n            \"type\": \"ethnoreligious group\"\n        },\n        {\n            \"id\": 33,\n            \"mentions\": [\n                \"Southeast Asians\"\n            ],\n            \"type\": \"ethnoreligious group\"\n        },\n        {\n            \"id\": 34,\n            \"mentions\": [\n                \"Sub-Saharan Africans\"\n            ],\n            \"type\": \"ethnoreligious group\"\n        },\n        {\n            \"id\": 35,\n            \"mentions\": [\n                \"Tibetan / Himalayan peoples\"\n            ],\n            \"type\": \"ethnoreligious group\"\n        },\n        {\n            \"id\": 36,\n            \"mentions\": [\n                \"Turkic peoples\"\n            ],\n            \"type\": \"ethnoreligious group\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"Joshua Project\",\n            \"relation\": \"instance of\",\n            \"tail\": \"evangelical Christian organization\"\n        },\n        {\n            \"head\": \"Joshua Project\",\n            \"relation\": \"headquarters location\",\n            \"tail\": \"Colorado Springs\"\n        },\n        {\n            \"head\": \"Colorado Springs\",\n            \"relation\": \"located in the administrative territorial entity\",\n            \"tail\": \"United States\"\n        },\n        {\n            \"head\": \"Joshua Project\",\n            \"relation\": \"part of\",\n            \"tail\": \"AD2000 and Beyond Movement\"\n        },\n        {\n            \"head\": \"AD2000 and Beyond Movement\",\n            \"relation\": \"significant event\",\n            \"tail\": \"1989 Global Consultation on World Evangelization (GCOWE)\"\n        },\n        {\n            \"head\": \"Joshua Project\",\n            \"relation\": \"significant event\",\n            \"tail\": \"Second International Congress on World Evangelization\"\n        },\n        {\n            \"head\": \"Joshua Project\",\n            \"relation\": \"connected with\",\n            \"tail\": \"Caleb Project\"\n        },\n        {\n            \"head\": \"Joshua Project\",\n            \"relation\": \"connected with\",\n            \"tail\": \"International Christian Technologists Association (ICTA)\"\n        },\n        {\n            \"head\": \"Joshua Project\",\n            \"relation\": \"connected with\",\n            \"tail\": \"World Help\"\n        },\n        {\n            \"head\": \"Joshua Project\",\n            \"relation\": \"part of\",\n            \"tail\": \"U.S. Center for World Mission\"\n        },\n        {\n            \"head\": \"U.S. Center for World Mission\",\n            \"relation\": \"named after\",\n            \"tail\": \"Venture Center\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Joshua Project"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "evangelical Christian organization"
+                ],
+                "type": "religious group"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Colorado Springs"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "United States"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Christian missions"
+                ],
+                "type": "activity"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Gospel"
+                ],
+                "type": "religion"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Christian evangelism"
+                ],
+                "type": "activity"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "1995"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "AD2000 and Beyond Movement"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "1989 Global Consultation on World Evangelization (GCOWE)"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Second International Congress on World Evangelization"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "2001 through 2005"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Caleb Project"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "International Christian Technologists Association (ICTA)"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "World Help"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "2006"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "U.S. Center for World Mission"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "Venture Center"
+                ],
+                "type": "facility"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Great Commission"
+                ],
+                "type": "religious concept"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "ethnicity"
+                ],
+                "type": "philosophical concept"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "2010"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "236 countries"
+                ],
+                "type": "quantity"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "Arab World"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "East Asians"
+                ],
+                "type": "ethnoreligious group"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "Eurasians"
+                ],
+                "type": "ethnoreligious group"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "Horn of Africa-Cushitic"
+                ],
+                "type": "ethnoreligious group"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "Iranian-Median"
+                ],
+                "type": "ethnoreligious group"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "Jews"
+                ],
+                "type": "ethnoreligious group"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "Latin-Caribbean Americans"
+                ],
+                "type": "ethnoreligious group"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "Malay peoples"
+                ],
+                "type": "ethnoreligious group"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "North American peoples"
+                ],
+                "type": "ethnoreligious group"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "Pacific Islanders"
+                ],
+                "type": "ethnoreligious group"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "South Asians"
+                ],
+                "type": "ethnoreligious group"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "Southeast Asians"
+                ],
+                "type": "ethnoreligious group"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "Sub-Saharan Africans"
+                ],
+                "type": "ethnoreligious group"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "Tibetan / Himalayan peoples"
+                ],
+                "type": "ethnoreligious group"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "Turkic peoples"
+                ],
+                "type": "ethnoreligious group"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Joshua Project",
+                "relation": "instance of",
+                "tail": "evangelical Christian organization"
+            },
+            {
+                "head": "Joshua Project",
+                "relation": "headquarters location",
+                "tail": "Colorado Springs"
+            },
+            {
+                "head": "Colorado Springs",
+                "relation": "located in the administrative territorial entity",
+                "tail": "United States"
+            },
+            {
+                "head": "Joshua Project",
+                "relation": "part of",
+                "tail": "AD2000 and Beyond Movement"
+            },
+            {
+                "head": "AD2000 and Beyond Movement",
+                "relation": "significant event",
+                "tail": "1989 Global Consultation on World Evangelization (GCOWE)"
+            },
+            {
+                "head": "Joshua Project",
+                "relation": "significant event",
+                "tail": "Second International Congress on World Evangelization"
+            },
+            {
+                "head": "Joshua Project",
+                "relation": "connected with",
+                "tail": "Caleb Project"
+            },
+            {
+                "head": "Joshua Project",
+                "relation": "connected with",
+                "tail": "International Christian Technologists Association (ICTA)"
+            },
+            {
+                "head": "Joshua Project",
+                "relation": "connected with",
+                "tail": "World Help"
+            },
+            {
+                "head": "Joshua Project",
+                "relation": "part of",
+                "tail": "U.S. Center for World Mission"
+            },
+            {
+                "head": "U.S. Center for World Mission",
+                "relation": "named after",
+                "tail": "Venture Center"
+            }
+        ]
+    }
+]

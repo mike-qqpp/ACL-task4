@@ -1,0 +1,2887 @@
+[
+    {
+        "domain": "Education",
+        "title": "Beehive_Design_Collective",
+        "doc": "The Beehive Design Collective is a volunteer-driven non-profit art collective that uses graphical media as educational tools to communicate stories of resistance to corporate globalization. The purpose of the Machias, Maine-based group is to \"cross-pollinate the grassroots\" by creating collaborative, anti-copyright images that can be used as educational and organizing tools. The most recognizable of these images are large format pen and ink posters, which seek to provide a visual alternative to deconstruction of complicated social and political issues ranging from globalization, free trade, militarism, resource extraction, and biotechnology. \nTheir work has been included in curated exhibitions internationally, including at the Station Museum of Contemporary Art and Manifesta. One of their most well-known works, Mesoamérica Resiste, was a nine-year research project working directly with communities in Central America regarding effects of the Mesoamerica Project, and is typical of their community-engaged style of production.\nThe Collective creates graphic campaigns addressing diverse geo- and socio-political issues. The illustrations are informed and developed through extensive research. The work for the poster began in 2004, and by 2010 the group had distributed over 10,000 posters in the Americas. The most recent campaign in 2012 resulted from travel to Mexico and interviews of a broad spectrum of people. The “Mesoamerica Resiste” poster was used as their aid in this campaign and was unveiled in December 7, 2012 at the Machias Grange Hall. The group adheres to self-imposed rules during their campaign production, including absence of literal human depictions, use of cross-cultural imagery, and avoidance of cultural appropriation. The group bills its pieces as “portable murals,” using them as educational pieces while they travel around the world to do speaking engagements.The current trilogy in progress details globalization in the western hemisphere through a series of three graphics.\nThe Collective's educational work involves storytelling, international lecture circuits using giant reproductions of their posters as storytelling aids. \"Picture lectures\" feature a 30-feet high graphic and a 6-foot-tall (1.8 m) fabric flipbook/storybook. Audiences are led through a two-hour interactive, conversational presentation.One of the Beehive's goals in their graphic distribution is to have 50% of each print run distributed free to communities in the global south, including to groups working on the issues depicted in the prints. The remaining half are distributed internationally for donations. Posters are distributed at a wide range of venues, events, college campuses and academic events.All of the Beehive Collective's materials are distributed as anti-copyright, and their production is encouraged for non-profit, non-commercial use to assist in publications and productions. The black and white imagery is designed to facilitate ease of reproduction. The Beehive distributes free clip-art digital imagery via their website and graphic CD-ROMs distributed from their webstore.\nSince the year 2000, the Collective has been engaged in the restoration of the Machias Valley Grange Hall in Machias, Maine, built in 1904. The restoration labor was sourced from visiting volunteers. The building was initially used as the Collective's center of its stone mosaics program.Annually, the Collective throws a no-cost dress-up dance party of immense proportions called the \"Blackfly Ball\". There are ongoing events such as a weekly Open Mic night and annual Halloween celebration.\nIn 2007, the Machias Valley Grange Hall was placed onto the National Register of Historic Places.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Beehive"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "collective",
+                    "Beehive Collective",
+                    "Beehive Design Collective",
+                    "group",
+                    "Collective"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Machias",
+                    "Maine",
+                    "Machias, Maine"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Machias Valley Grange Hall",
+                    "Machias Valley Grange Hall in Machias, Maine",
+                    "Machias Grange Hall"
+                ],
+                "type": "FAC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Machias, Maine-based group"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "National Register of Historic Places"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Station Museum of Contemporary Art"
+                ],
+                "type": "FAC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "One"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Mesoamérica Resiste",
+                    "Mesoamerica Resiste"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Mesoamerica Project"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "nine-year"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "nine-year research project"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Americas",
+                    "Mesoamerica",
+                    "Central America"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "Americas",
+                    "western hemisphere",
+                    "Mexico"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "1904"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "2007"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "2004"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "2012"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "2010"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "2000"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "December 7, 2012"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "year 2000"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "10,000"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "three"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "30-feet"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "6-foot-tall"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "1.8 m"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "6-foot-tall (1.8 m) fabric flipbook/storybook"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "two-hour"
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "50%"
+                ],
+                "type": "PERCENT"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "year 2000"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "weekly Open Mic night"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "Open Mic night"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "annual Halloween celebration",
+                    "Halloween"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "storytelling aids",
+                    "educational pieces",
+                    "educational work",
+                    "educational and organizing tools",
+                    "educational tools",
+                    "graphical media"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "portable murals",
+                    "murals"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "no-cost dress-up dance party",
+                    "dance party",
+                    "Blackfly Ball"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Beehive Design Collective",
+                "relation": "PresentedIn",
+                "tail": "Station Museum of Contemporary Art"
+            },
+            {
+                "head": "the Machias Valley Grange Hall",
+                "relation": "LocatedIn",
+                "tail": "the National Register of Historic Places"
+            },
+            {
+                "head": "Machias Valley Grange Hall",
+                "relation": "InfluencedBy",
+                "tail": "Beehive Design Collective"
+            },
+            {
+                "head": "Beehive Design Collective",
+                "relation": "LocatedIn",
+                "tail": "Machias, Maine"
+            },
+            {
+                "head": "Beehive Design Collective",
+                "relation": "Uses",
+                "tail": "graphical media as educational tools"
+            }
+        ],
+        "label_set": [
+            "RegulatedBy",
+            "BasedOn",
+            "UsedBy",
+            "LocatedIn",
+            "PresentedIn",
+            "PartOf",
+            "HasPart",
+            "Uses",
+            "InfluencedBy",
+            "Studies",
+            "DifferentFrom"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Education",
+        "title": "Campus_climate",
+        "doc": "Campus climate refers to current dimensions of climate in the campus community in higher education institutions. According to one definition offered by Jeni Hart and Jennifer Fellabaum, the dimensions of climate could refer to views, attitudes, psychology, behaviors, standards, perceptions and expectations. Campus community could refer to employees such as faculty, staff, administrators, and students, individually or as a group. Campus climate is often contrasted with campus culture. While climate and culture are sometimes used interchangeably, some authors mention overlaps while others define clear boundaries between the two.\nHuston Smith (1955) wrote that the \"atmosphere\" and \"environment\" of a college affects everyone that is a part of it, making an educational institute more than a group of students, employees and buildings. Early attempts at measuring campus climate (culture, atmosphere, environment) include assessments and indexes created by John L. Holland & Alexander Astin (1961), and George G. Stern & C. Robert Pace (1962). More recently, climate has been understood to represent an \"immeasurable construct\". Hart & Fellabaum (2008) studied 118 campus climate papers and identified a number of definitions and measurement efforts.The major features of climate are (1) its primary emphasis on common participant views of a wide array of organizational phenomena that allow for comparison among groups or over time, (2) its focus on current patterns of beliefs and behaviors, and (3) its often ephemeral or malleable character\nThe collective, mutually shaping patterns of institutional history, mission, physical settings, norms, traditions, values, practices, beliefs, and assumptions that guide the behavior of individuals and groups in an institution of higher education which provide a frame of reference for interpreting the meanings of events and actions on and off campus\nThe current attitudes, behaviors, and standards and practices of employees and students of an institution [...] that concern the access for, inclusion of, and level of respect for individual and group needs, abilities, and potential\nClimate is a broad concept however often used in a narrower and more concentrated manner. Conceptual framework for campus climate has developed to include the history of the educational institute, capacity to handle diversity, and psychological and behavioral climate.\nWomen colleges and universities around the world provide a friendly and \"warm\" to \"neutral\" climate. Campus climate at women's colleges for female faculty is more conducive than at coeducational institutions. The climate situation in coeducational settings for female faculty is similar to the situation for female students, say with regard to male privilege. Intellectual inbreeding in China, Japan and Korea is affected by the old boy networks; in this respect women colleges and universities provide opportunities which coeducational institutions do not.A study conducted at Federal University of Bahia observed that a number of campus climate variables affected students in general, and more importantly variables that went on to affect their interaction with their academic life and retention. This includes identity, teaching and faculty interactions.One of the first studies in India which included the aspect of campus climate was conducted in the University of Pune from 2013 onwards. The study found that faculty demographics and student demographics has changed unequally and this has a significant factor of campus climate. The study also revealed changing gender patterns which also have implications for campus climate. Changes in the gender gap include increased access to higher education for women from \"relatively privileged backgrounds\" and males from \"disadvantaged backgrounds\". This kind of changing social dynamic has resulted in observations such as men reporting experiencing more discrimination than women. Low empathy, low tolerance and low argumentation skills were observed.Gunuc & Artun et al. (2019) conducted a campus climate study of 26 universities in Turkey covering all the geographic regions of the country. The study found that the correlation between student engagement and campus climate along with certain other variables was significant.Climate for free speech in US campuses has been studied. More than half of college students self-censor themselves and there is a large variation between institutions with regard to free speech. There is a discussion about cancel culture and wokeness on the left. Campus climate is an important factor that affects decisions to seek out mental health services for mental health issues.",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "one"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Jeni Hart",
+                    "Jennifer Fellabaum",
+                    "Hart & Fellabaum"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "two"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "1955"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Huston Smith"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "C. Robert Pace",
+                    "Artun",
+                    "John L. Holland & Alexander Astin",
+                    "John L. Holland",
+                    "George G. Stern & C. Robert Pace",
+                    "Alexander Astin",
+                    "Gunuc",
+                    "George G. Stern"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "2013"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "1962"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "1961"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "2019"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "2008"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "118"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "1"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "2"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "3"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Climate",
+                    "campus community",
+                    "campus culture",
+                    "Campus community",
+                    "campus climate",
+                    "Campus climate",
+                    "climate",
+                    "climate situation"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "University of Pune",
+                    "Federal University of Bahia"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "India",
+                    "Turkey"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Korea",
+                    "China",
+                    "Japan"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "One"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "first"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "University of Pune"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "Gunuc & Artun"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "26"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "US"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "US campuses"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Hart & Fellabaum",
+                "relation": "Studies",
+                "tail": "campus climate papers"
+            },
+            {
+                "head": "campus climate",
+                "relation": "DifferentFrom",
+                "tail": "campus culture"
+            }
+        ],
+        "label_set": [
+            "RegulatedBy",
+            "BasedOn",
+            "UsedBy",
+            "LocatedIn",
+            "PresentedIn",
+            "PartOf",
+            "HasPart",
+            "Uses",
+            "InfluencedBy",
+            "Studies",
+            "DifferentFrom"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Education",
+        "title": "Classification_of_Instructional_Programs",
+        "doc": "The Classification of Instructional Programs (CIP) is a taxonomy of academic disciplines at institutions of higher education in the United States and Canada.\nThe CIP was originally developed by the National Center for Education Statistics (NCES) of the United States Department of Education in 1980 and was revised in 1985, 1990, 2000, 2010, and 2020. The 2020 edition (CIP 2020) is the fifth and current revision of the taxonomy. Instructional programs are classified by a six-digit CIP at the most granular level and are classified according to the two-digit and four-digit prefixes of the code. For example, \"Forensic Science and Technology\" has the six-digit code 43.0406, which places it in \"Security Science and Technology\" (43.04) and \"Homeland Security, Law Enforcement, Firefighting and Related Protective Services\" (two-digit CIP 43).\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "CIP 2020",
+                    "Classification of Instructional Programs",
+                    "CIP"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "NCES",
+                    "United States Department of Education",
+                    "National Center for Education Statistics"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "United States"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Canada",
+                    "United States and Canada"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "1980"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "2020"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "1990"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "2010"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "2000"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "1985"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "fifth"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "43.0406"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "43.04"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "Security Science and Technology",
+                    "Firefighting and Related Protective Services"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [],
+        "label_set": [
+            "RegulatedBy",
+            "BasedOn",
+            "UsedBy",
+            "LocatedIn",
+            "PresentedIn",
+            "PartOf",
+            "HasPart",
+            "Uses",
+            "InfluencedBy",
+            "Studies",
+            "DifferentFrom"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Education",
+        "title": "Content_similarity_detection",
+        "doc": "Plagiarism detection or content similarity detection is the process of locating instances of plagiarism or copyright infringement within a work or document. The widespread use of computers and the advent of the Internet have made it easier to plagiarize the work of others.\nDetection of plagiarism can be undertaken in a variety of ways. Human detection is the most traditional form of identifying plagiarism from written work. This can be a lengthy and time-consuming task for the reader and can also result in inconsistencies in how plagiarism is identified within an organization. Text-matching software (TMS), which is also referred to as \"plagiarism detection software\" or \"anti-plagiarism\" software, has become widely available, in the form of both commercially available products as well as open-source software. TMS does not actually detect plagiarism per se, but instead finds specific passages of text in one document that match text in another document.\nComputer-assisted plagiarism detection is an Information retrieval (IR) task supported by specialized IR systems, which is referred to as a plagiarism detection system (PDS) or document similarity detection system. A 2019 systematic literature review presents an overview of state-of-the-art plagiarism detection methods.Systems for text similarity detection implement one of two generic detection approaches, one being external, the other being intrinsic.External detection systems compare a suspicious document with a reference collection, which is a set of documents assumed to be genuine.\nBased on a chosen document model and predefined similarity criteria, the detection task is to retrieve all documents that contain text that is similar to a degree above a chosen threshold to text in the suspicious document.\nIntrinsic PDSes solely analyze the text to be evaluated without performing comparisons to external documents. This approach aims to recognize changes in the unique writing style of an author as an indicator for potential plagiarism. \nPDSes are not capable of reliably identifying plagiarism without human judgment. Similarities and writing style features are computed with the help of predefined document models and might represent false positives.\nA study was conducted to test the effectiveness of similarity detection software in a higher education setting. One part of the study assigned one group of students to write a paper. These students were first educated about plagiarism and informed that their work was to be run through a content similarity detection system. A second group of students was assigned to write a paper without any information about plagiarism. The researchers expected to find lower rates in group one but found roughly the same rates of plagiarism in both groups.The figure below represents a classification of all detection approaches currently in use for computer-assisted content similarity detection. The approaches are characterized by the type of similarity assessment they undertake: global or local. Global similarity assessment approaches use the characteristics taken from larger parts of the text or the document as a whole to compute similarity, while local methods only examine pre-selected text segments as input.Fingerprinting is currently the most widely applied approach to content similarity detection. This method forms representative digests of documents by selecting a set of multiple substrings (n-grams) from them. The sets represent the fingerprints and their elements are called minutiae.A suspicious document is checked for plagiarism by computing its fingerprint and querying minutiae with a precomputed index of fingerprints for all documents of a reference collection. Minutiae matching with those of other documents indicate shared text segments and suggest potential plagiarism if they exceed a chosen similarity threshold. Computational resources and time are limiting factors to fingerprinting, which is why this method typically only compares a subset of minutiae to speed up the computation and allow for checks in very large collection, such as the Internet.\nString matching is a prevalent approach used in computer science. When applied to the problem of plagiarism detection, documents are compared for verbatim text overlaps. Numerous methods have been proposed to tackle this task, of which some have been adapted to external plagiarism detection. Checking a suspicious document in this setting requires the computation and storage of efficiently comparable representations for all documents in the reference collection to compare them pairwise. Generally, suffix document models, such as suffix trees or suffix vectors, have been used for this task. Nonetheless, substring matching remains computationally expensive, which makes it a non-viable solution for checking large collections of documents.Bag of words analysis represents the adoption of vector space retrieval, a traditional IR concept, to the domain of content similarity detection. Documents are represented as one or multiple vectors, e.g. for different document parts, which are used for pair wise similarity computations. Similarity computation may then rely on the traditional cosine similarity measure, or on more sophisticated similarity measures.Citation-based plagiarism detection (CbPD) relies on citation analysis, and is the only approach to plagiarism detection that does not rely on the textual similarity. CbPD examines the citation and reference information in texts to identify similar patterns in the citation sequences. As such, this approach is suitable for scientific texts, or other academic documents that contain citations. Citation analysis to detect plagiarism is a relatively young concept. It has not been adopted by commercial software, but a first prototype of a citation-based plagiarism detection system exists. Similar order and proximity of citations in the examined documents are the main criteria used to compute citation pattern similarities. Citation patterns represent subsequences non-exclusively containing citations shared by the documents compared. Factors, including the absolute number or relative fraction of shared citations in the pattern, as well as the probability that citations co-occur in a document are also considered to quantify the patterns' degree of similarity.Stylometry subsumes statistical methods for quantifying an author's unique writing style and is mainly used for authorship attribution or intrinsic plagiarism detection. Detecting plagiarism by authorship attribution requires checking whether the writing style of the suspicious document, which is written supposedly by a certain author, matches with that of a corpus of documents written by the same author. Intrinsic plagiarism detection, on the other hand, uncovers plagiarism based on internal evidences in the suspicious document without comparing it with other documents. This is performed by constructing and comparing stylometric models for different text segments of the suspicious document, and passages that are stylistically different from others are marked as potentially plagiarized/infringed. Although they are simple to extract, character n-grams are proven to be among the best stylometric features for intrinsic plagiarism detection.More recent approaches to assess content similarity using neural networks have achieved significantly greater accuracy, but come at great computational cost. Traditional neural network approaches embed both pieces of content into semantic vector embeddings to calculate their similarity, which is often their cosine similarity. More advanced methods perform end-to-end prediction of similarity or classifications using the Transformer architecture. Paraphrase detection particularly benefits from highly parameterized pre-trained models.Comparative evaluations of content similarity detection systems indicate that their performance depends on the type of plagiarism present (see figure). Except for citation pattern analysis, all detection approaches rely on textual similarity. It is therefore symptomatic that detection accuracy decreases the more plagiarism cases are obfuscated.Literal copies, a.k.a. copy and paste plagiarism or blatant copyright infringement, or modestly disguised plagiarism cases can be detected with high accuracy by current external PDS if the source is accessible to the software. In particular, substring matching procedures achieve good performance for copy and paste plagiarism, since they commonly use lossless document models, such as suffix trees. The performance of systems using fingerprinting or bag of words analysis in detecting copies depends on the information loss incurred by the document model used. By applying flexible chunking and selection strategies, they are better capable of detecting moderate forms of disguised plagiarism when compared to substring matching procedures.\nIntrinsic plagiarism detection using stylometry can overcome the boundaries of textual similarity to some extent by comparing linguistic similarity. Given that the stylistic differences between plagiarized and original segments are significant and can be identified reliably, stylometry can help in identifying disguised and paraphrased plagiarism. Stylometric comparisons are likely to fail in cases where segments are strongly paraphrased to the point where they more closely resemble the personal writing style of the plagiarist or if a text was compiled by multiple authors. The results of the International Competitions on Plagiarism Detection held in 2009, 2010 and 2011, as well as experiments performed by Stein, indicate that stylometric analysis seems to work reliably only for document lengths of several thousand or tens of thousands of words, which limits the applicability of the method to computer-assisted plagiarism detection settings.\nAn increasing amount of research is performed on methods and systems capable of detecting translated plagiarism. Currently, cross-language plagiarism detection (CLPD) is not viewed as a mature technology and respective systems have not been able to achieve satisfying detection results in practice.\nCitation-based plagiarism detection using citation pattern analysis is capable of identifying stronger paraphrases and translations with higher success rates when compared to other detection approaches, because it is independent of textual characteristics. However, since citation-pattern analysis depends on the availability of sufficient citation information, it is limited to academic texts. It remains inferior to text-based approaches in detecting shorter plagiarized passages, which are typical for cases of copy-and-paste or shake-and-paste plagiarism; the latter refers to mixing slightly altered fragments from different sources.\nThe design of content similarity detection software for use with text documents is characterized by a number of factors:Most large-scale plagiarism detection systems use large, internal databases (in addition to other resources) that grow with each additional document submitted for analysis. However, this feature is considered by some as a violation of student copyright.\nPlagiarism in computer source code is also frequent, and requires different tools than those used for text comparisons in document. Significant research has been dedicated to academic source-code plagiarism.A distinctive aspect of source-code plagiarism is that there are no essay mills, such as can be found in traditional plagiarism. Since most programming assignments expect students to write programs with very specific requirements, it is very difficult to find existing programs that already meet them. Since integrating external code is often harder than writing it from scratch, most plagiarizing students choose to do so from their peers.\nAccording to Roy and Cordy, source-code similarity detection algorithms can be classified as based on either\nStrings : look for exact textual matches of segments, for instance five-word runs. Fast, but can be confused by renaming identifiers.\nTokens : as with strings, but using a lexer to convert the program into tokens first. This discards whitespace, comments, and identifier names, making the system more robust against simple text replacements. Most academic plagiarism detection systems work at this level, using different algorithms to measure the similarity between token sequences.\nParse Trees : build and compare parse trees. This allows higher-level similarities to be detected. For instance, tree comparison can normalize conditional statements, and detect equivalent constructs as similar to each other.\nProgram Dependency Graphs (PDGs) : a PDG captures the actual flow of control in a program, and allows much higher-level equivalences to be located, at a greater expense in complexity and calculation time.\nMetrics : metrics capture 'scores' of code segments according to certain criteria; for instance, \"the number of loops and conditionals\", or \"the number of different variables used\". Metrics are simple to calculate and can be compared quickly, but can also lead to false positives: two fragments with the same scores on a set of metrics may do entirely different things.\nHybrid approaches : for instance, parse trees + suffix trees can combine the detection capability of parse trees with the speed afforded by suffix trees, a type of string-matching data structure.\nThe previous classification was developed for code refactoring, and not for academic plagiarism detection (an important goal of refactoring is to avoid duplicate code, referred to as code clones in the literature). The above approaches are effective against different levels of similarity; low-level similarity refers to identical text, while high-level similarity can be due to similar specifications. In an academic setting, when all students are expected to code to the same specifications, functionally equivalent code (with high-level similarity) is entirely expected, and only low-level similarity is considered as proof of cheating.\nDifference between Plagiarism and Copyright\nPlagiarism and copyright are essential concepts in academic and creative writing that writers, researchers, and students have to understand. Although they may sound similar, they are not; different strategies can be used to address each of them.\nVarious complications have been documented with the use of text-matching software when used for plagiarism detection. One of the more prevalent concerns documented centers on the issue of intellectual property rights. The basic argument is that materials must be added to a database in order for the TMS to effectively determine a match, but adding users' materials to such a database may infringe on their intellectual property rights. The issue has been raised in a number of court cases. An additional complication with the use of TMS is that the software finds only precise matches to other text. It does not pick up poorly paraphrased work, for example, or the practice of plagiarizing by use of sufficient word substitutions to elude detection software, which is known as rogeting. It also cannot evaluate whether the paraphrase genuinely reflects an original understanding or is an attempt to bypass detection. \nAnother complication with TMS is its tendency to flag much more content than necessary, including legitimate citations and paraphrasing, making it difficult to find real cases of plagiarism. This issue arises because TMS algorithms mainly look at surface-level text similarities without considering the context of the writing. Educators have raised concerns that reliance on TMS may shift focus away from teaching proper citation and writing skills, and may create an oversimplified view of plagiarism that disregards the nuances of student writing. As a result, scholars argue that these false positives can cause fear in students and discourage them from using their authentic voice.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Intrinsic plagiarism detection",
+                    "Intrinsic PDSes",
+                    "plagiarism detection software",
+                    "text-matching software",
+                    "plagiarism detection system (PDS)",
+                    "Text-matching software",
+                    "TMS",
+                    "Plagiarism detection",
+                    "content similarity detection system",
+                    "Plagiarism Detection",
+                    "plagiarism detection system",
+                    "plagiarism detection systems",
+                    "PDSes",
+                    "PDS",
+                    "intrinsic plagiarism detection",
+                    "plagiarism detection"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "one"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "IR systems",
+                    "Information retrieval",
+                    "IR"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "2019"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "two"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "One"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "first"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "second"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "suffix vectors",
+                    "suffix trees"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Transformer"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "stylometry",
+                    "Stylometric",
+                    "Stylometry"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Competitions on Plagiarism Detection",
+                    "International Competitions on Plagiarism Detection"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "2009"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "2010"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "2011"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Stein"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "Roy",
+                    "Cordy"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "five"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "PDG",
+                    "Program Dependency Graphs (PDGs)"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [],
+        "label_set": [
+            "RegulatedBy",
+            "BasedOn",
+            "UsedBy",
+            "LocatedIn",
+            "PresentedIn",
+            "PartOf",
+            "HasPart",
+            "Uses",
+            "InfluencedBy",
+            "Studies",
+            "DifferentFrom"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Education",
+        "title": "Field_trip",
+        "doc": "A field trip or excursion is a journey by a group of associated peers, such as coworkers or school students, to a place away from their normal environment for the purpose of education or leisure, either within their country or abroad.\nWhen arranged by a school administration for students, it is also known as school trip in the United Kingdom, Australia, Kenya, New Zealand and Bangladesh, and school tour in Ireland.\nA 2022 study, which used randomized controlled trial data, found that culturally enriching field trips led students to show a greater interest in arts, greater tolerance for people with different views, and boosted their educational outcomes.\nThe purpose of the field trip is usually observation for education, non-experimental research or to provide students with experiences outside their everyday activities, such as going camping with teachers and their classmates. The aim of this research is to observe the subject in its natural state and possibly collect samples. It is seen that more-advantaged children may have already experienced cultural institutions outside of school, and field trips provide common ground between more-advantaged and less-advantaged children to share the same cultural experiences.Field trips often involve three steps: preparation, activities and follow-up activity. Preparation applies to both the students and the teachers. Teachers often take the time to learn about the destination and the subject before the trip. Activities on the field trips often include: lectures, tours, worksheets, videos and demonstrations. Follow-up activities are generally discussions in the classroom once the field trip is completed.\nIn Western culture people first come across this method during school years when classes are taken on school trips to visit a geological or geographical feature of the landscape, for example. Much of the early research into the natural sciences was of this form. Charles Darwin is an important example of someone who has contributed to science through the use of field trips.\nPopular field trip sites include zoos, nature centers, community agencies such as fire stations and hospitals, government agencies, local businesses, amusement parks, science museums and factories. Field trips provide alternative educational opportunities for children and can benefit the community if they include some type of community service. Field trips also let students take a break from their normal routine and experience more hands-on learning. Places like zoos and nature centers often have an interactive display that allows children to touch plants or animals.\nToday, culturally enriching field trips are in decline. Museums across the United States report a steep drop in school tours. For example, the Field Museum in Chicago at one time welcomed more than 300,000 students every year. Recently, the number is below 200,000. Between 2002 and 2007, Cincinnati arts organizations saw a 30 percent decrease in student attendance. A survey by the American Association of School Administrators found that more than half of schools eliminated planned field trips in 2010:11.\nA variation on the field trip is the \"site-based program\" or \"site-school\" model, where a class temporarily relocates to a non-school location for an entire week to take advantage of the resources on the site.  As with a multi-day field trip, appropriate overnight camping or lodging arrangements are often made to accommodate the experience.  The approach was first developed at the Calgary Zoo in Alberta, Canada in 1993, and \"Zoo School\" was inaugurated in 1994.  The Calgary Board of Education then approached the Glenbow Museum and Archives to create a \"Museum School\" in 1995 followed by the Calgary Science Centre (1996), the University of Calgary (1996), Canada Olympic Park (1997), the Inglewood Bird Sanctuary (1998), Calgary City Hall (2000), Cross Conservation Area (2000), the Calgary Stampede (2002), the Calgary Aero-Space Museum (2005), and the Fire Training Academy (2008). One of the newer schools in Calgary is Tinker School and Social Enterprise School as STEM Learning Lab (2018)  The model spread across Alberta (with 15 sites in Edmonton alone), throughout Canada and in the United States.  Global coordination of the model is through the \"Beyond the Classroom Network\".In Europe, School Trip, a 2002 German-Polish film, describes the German students' trip to Poland during the summer.In Japan, in addition to the one-day field trip, the school trip, called shūgaku ryokō (Japanese: 修学旅行, literally \"learning journey\"), has a history since 1886, and is now part of the middle school and high school curriculum, with all students participating in such a program. The trip is usually longer than several days, such as a week or several weeks long. The typical locations visited within Japan are regions of national or historical significance, such as ancient capitals of Kyoto and Nara, Nagasaki, for its experience with nuclear weapons and historical significance as the sole international port during the country's 17th:19th century isolationist foreign policy Japanese: 鎖国, romanized: sakoku (さこく)  and Nikkō 日光, popular onsen spa town renowned for its beauty. Travelling abroad is occasionally chosen as an option by some schools.In other Asian regions/countries such as South Korea, Taiwan and Singapore, the school trip, when arranged, tends to become a voluntary part of the school curriculum. When Japan was selected, the Japanese government waived the entry visa.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "school trip in the United Kingdom"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "United Kingdom"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Australia"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Kenya"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "New Zealand"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Bangladesh"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Ireland"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "2022"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "three"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "first"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "school years"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Charles Darwin"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Today"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "United States"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Field Museum"
+                ],
+                "type": "FAC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Chicago"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "Field Museum in Chicago"
+                ],
+                "type": "FAC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "one"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "200,000"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Between 2002 and 2007"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Cincinnati"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "30 percent"
+                ],
+                "type": "PERCENT"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "American Association of School Administrators"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "several days"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "an entire week"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "several weeks"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "2010:11"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "Calgary Zoo",
+                    "Calgary Science Centre"
+                ],
+                "type": "FAC"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "Calgary Stampede"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "Canada",
+                    "Calgary",
+                    "Alberta",
+                    "Edmonton"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "1994"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "1993"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "Zoo School"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "Calgary Board of Education"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "Glenbow Museum",
+                    "Glenbow Museum and Archives"
+                ],
+                "type": "FAC"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "Archives"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "1995"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "Calgary Science Centre"
+                ],
+                "type": "FAC"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "1996"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "University of Calgary"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "Canada Olympic Park"
+                ],
+                "type": "FAC"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "1997"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "Inglewood Bird Sanctuary"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 43,
+                "mentions": [
+                    "1998"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 44,
+                "mentions": [
+                    "Calgary City Hall"
+                ],
+                "type": "FAC"
+            },
+            {
+                "id": 45,
+                "mentions": [
+                    "Cross Conservation Area"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 46,
+                "mentions": [
+                    "Calgary Stampede"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 47,
+                "mentions": [
+                    "2002"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 48,
+                "mentions": [
+                    "Calgary Aero-Space Museum"
+                ],
+                "type": "FAC"
+            },
+            {
+                "id": 49,
+                "mentions": [
+                    "2005"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 50,
+                "mentions": [
+                    "Fire Training Academy"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 51,
+                "mentions": [
+                    "2008"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 52,
+                "mentions": [
+                    "One"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 53,
+                "mentions": [
+                    "Tinker School and Social Enterprise School"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 54,
+                "mentions": [
+                    "2018"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 55,
+                "mentions": [
+                    "15"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 56,
+                "mentions": [
+                    "Beyond the Classroom Network\""
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 57,
+                "mentions": [
+                    "Europe"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 58,
+                "mentions": [
+                    "German",
+                    "German students"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 59,
+                "mentions": [
+                    "Poland"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 60,
+                "mentions": [
+                    "Singapore",
+                    "Japan",
+                    "Taiwan"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 61,
+                "mentions": [
+                    "Japanese",
+                    "Japanese government"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 62,
+                "mentions": [
+                    "Asian"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 63,
+                "mentions": [
+                    "field trips",
+                    "shūgaku ryokō",
+                    "field trip",
+                    "Field trips",
+                    "school trips",
+                    "school trip",
+                    "School Trip",
+                    "site-based program",
+                    "school tours",
+                    "site-school",
+                    "school tour",
+                    "Museum School"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 64,
+                "mentions": [
+                    "1886"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 65,
+                "mentions": [
+                    "ancient capitals of Kyoto",
+                    "Kyoto"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 66,
+                "mentions": [
+                    "ancient capitals of Kyoto and Nara",
+                    "Nara"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 67,
+                "mentions": [
+                    "Nagasaki"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 68,
+                "mentions": [
+                    "17th:19th century"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 69,
+                "mentions": [
+                    "South Korea"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 70,
+                "mentions": [
+                    "school students",
+                    "students"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 71,
+                "mentions": [
+                    "follow-up activity",
+                    "Follow-up activities",
+                    "Activities",
+                    "activities"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 72,
+                "mentions": [
+                    "zoos"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 73,
+                "mentions": [
+                    "nature centers"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 74,
+                "mentions": [
+                    "amusement parks"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 75,
+                "mentions": [
+                    "science museums"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 76,
+                "mentions": [
+                    "factories"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "field trip",
+                "relation": "HasPart",
+                "tail": "follow-up activity"
+            },
+            {
+                "head": "field trip",
+                "relation": "HasPart",
+                "tail": "activities"
+            },
+            {
+                "head": "field trip",
+                "relation": "HasPart",
+                "tail": "preparation"
+            },
+            {
+                "head": "field trip",
+                "relation": "HasPart",
+                "tail": "site-based program"
+            },
+            {
+                "head": "the Field Museum",
+                "relation": "LocatedIn",
+                "tail": "Chicago"
+            },
+            {
+                "head": "Calgary Zoo",
+                "relation": "LocatedIn",
+                "tail": "Canada"
+            }
+        ],
+        "label_set": [
+            "RegulatedBy",
+            "BasedOn",
+            "UsedBy",
+            "LocatedIn",
+            "PresentedIn",
+            "PartOf",
+            "HasPart",
+            "Uses",
+            "InfluencedBy",
+            "Studies",
+            "DifferentFrom"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Education",
+        "title": "Further_and_Higher_Education_Act_1992",
+        "doc": "The Further and Higher Education Act 1992 made changes in the funding and administration of further education and higher education within England and Wales, with consequential effects on associated matters in Scotland which had previously been governed by the same legislation as England and Wales. It was introduced during the First Major ministry.\nThe most visible result was to allow thirty-five polytechnics to become universities (often referred to as the \"new universities\" or \"post-1992 universities\"). A goal of the act was to end the distinction : known as the \"binary divide\" : between colleges and universities.\nIn addition, the act created bodies to fund higher education in England—HEFCE—and further education—FEFC. Universities in Scotland and Wales which had previously been funded by the UK-wide Universities Funding Council were the subject of other acts that created higher education funding councils in each country. The act also removed colleges of further education from local government control, and created quality assessment arrangements.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "1992"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "thirty-five polytechnics",
+                    "new universities",
+                    "colleges",
+                    "post-1992 universities",
+                    "polytechnics",
+                    "colleges of further education"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Scotland and Wales",
+                    "UK",
+                    "Scotland",
+                    "Wales",
+                    "England and Wales",
+                    "England",
+                    "UK-wide"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "higher education funding councils",
+                    "Universities Funding Council",
+                    "FEFC",
+                    "UK-wide Universities Funding Council",
+                    "bodies to fund higher education in England",
+                    "HEFCE",
+                    "higher education funding councils in each country"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Further and Higher Education Act",
+                    "Further and Higher Education Act 1992"
+                ],
+                "type": "LAW"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Higher Education",
+                    "higher education",
+                    "further education",
+                    "Funding",
+                    "higher education funding",
+                    "funding"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "First"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "thirty-five"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "First Major ministry"
+                ],
+                "type": "EVENT"
+            }
+        ],
+        "triples": [
+            {
+                "head": "HEFCE",
+                "relation": "HasPart",
+                "tail": "higher education funding"
+            }
+        ],
+        "label_set": [
+            "RegulatedBy",
+            "BasedOn",
+            "UsedBy",
+            "LocatedIn",
+            "PresentedIn",
+            "PartOf",
+            "HasPart",
+            "Uses",
+            "InfluencedBy",
+            "Studies",
+            "DifferentFrom"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Education",
+        "title": "Hospitality_management_studies",
+        "doc": "Hospitality Management and Tourism is the study of the hospitality industry. A degree in the subject may be awarded either by a university college dedicated to the studies of hospitality management or a business school with a relevant department. Degrees in hospitality management may also be referred to as hotel management, hotel and tourism management, or hotel administration. Degrees conferred in this academic field include BA, Bachelor of Business Administration, BS, BASc, B.Voc, MS, MBA, Bachelor of Hospitality Management, Master of Management, PhD and short term course. Hospitality management covers hotels, restaurants, cruise ships, amusement parks, destination marketing organizations, convention centers, country clubs and many more.\nIn the US, hospitality and tourism management curricula follow similar core subject applications to that of a business degree, but with a focus on tourism development and hospitality management. Core subject areas include accounting, administration, entrepreneurship, finance, information systems, marketing, human resource management, public relations, strategy, quantitative methods, and sectoral studies in the various areas of hospitality business. Some programs in India also include culinary training.Many schools have departments that specifically give degrees in the hospitality field.The QS World University Rankings by Subject are based upon academic reputation, employer reputation and research impact. These results are reviewed and evaluated every year by academics and industry professionals to ensure consistent quality over time.",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "hotel administration",
+                    "amusement parks",
+                    "hospitality",
+                    "hospitality business",
+                    "Hospitality Management and Tourism",
+                    "convention centers",
+                    "Hospitality Management",
+                    "Hospitality",
+                    "tourism management",
+                    "country clubs",
+                    "restaurants",
+                    "hotel and tourism management",
+                    "business school",
+                    "Hospitality management",
+                    "hotel management",
+                    "cruise ships",
+                    "destination marketing organizations",
+                    "hospitality field",
+                    "hotels",
+                    "hospitality industry",
+                    "hospitality and tourism management",
+                    "business degree",
+                    "hospitality management"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "MBA",
+                    "MS",
+                    "BA",
+                    "B.Voc",
+                    "Master of Management",
+                    "BASc",
+                    "short term course",
+                    "Bachelor of Hospitality Management",
+                    "PhD",
+                    "BS",
+                    "Bachelor of Business Administration"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "US"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "India"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "QS World University Rankings"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Degrees in hospitality management"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "departments that specifically give degrees in the hospitality field",
+                    "programs in India",
+                    "hospitality and tourism management curricula"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "QS World University Rankings by Subject"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "research impact",
+                    "academic reputation",
+                    "employer reputation"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Hospitality Management and Tourism",
+                "relation": "Studies",
+                "tail": "hospitality industry"
+            },
+            {
+                "head": "Hospitality Management and Tourism",
+                "relation": "Studies",
+                "tail": "hospitality industry"
+            }
+        ],
+        "label_set": [
+            "RegulatedBy",
+            "BasedOn",
+            "UsedBy",
+            "LocatedIn",
+            "PresentedIn",
+            "PartOf",
+            "HasPart",
+            "Uses",
+            "InfluencedBy",
+            "Studies",
+            "DifferentFrom"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Education",
+        "title": "SESI_Mathematics",
+        "doc": "SESI Mathematics is a project developed by FIRJAN System with the aim of improving the teaching of math for high school students. The program consists of a series of initiatives, from the organization of training courses for teachers and distribution of educational kits, to the providing of physical spaces for students of SESI Rio and SENAI Rio network, as well as for those from selected state schools. Although the project has the pretension of being expanded to other Brazilian states, nowadays it only operates in the states of Rio de Janeiro and Bahia.\nSESI Mathematics was launched in 2012 by SESI Rio. The program counted on an initial investment of R$ 10 million and was created based on the Lei de Diretrizes e Bases da Educação Nacional (read \"Law of Guidelines and Bases of National Education\"), motivated by the poor performance of Brazil in national and international reviews, as well as in researches that indicated a lack of skilled people to work in areas related to the exact sciences, which require mastery of mathematics.In 2013, an agreement was signed between SESI Bahia and the Government of Bahia State to extend the project to the schools of the state of Bahia. In the same year, the project won the Idea Brasil award in the \"Design Strategy\" category.\nThe project's initiatives make use of online interactive technologies such as educational games as a way to encourage the teaching of students.The games are developed by the English company Mangahigh.\nIn partnership with the Instituto Nacional de Matemática Pura e Aplicada (read \"National Institute for Pure and Applied Mathematics\"), one of the initiatives of the project is the construction of a public space dedicated to temporary and permanent exhibitions of themes related to mathematics, among other activities. The space will be located at Barra da Tijuca (Rio de Janeiro, Brasil) and is scheduled to open in 2015.",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "program",
+                    "SESI Mathematics",
+                    "project"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "FIRJAN System"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "SENAI Rio",
+                    "SESI Rio"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Brazilian states",
+                    "Brasil",
+                    "Brazil",
+                    "Brazilian"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Barra da Tijuca (Rio de Janeiro, Brasil)"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Rio",
+                    "Rio de Janeiro"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Bahia",
+                    "state of Bahia"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "SESI Bahia"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Government of Bahia State"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "2012"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "2013"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "2015"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "same year"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "10 million"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Lei de Diretrizes e Bases da Educação Nacional",
+                    "Law of Guidelines and Bases of National Education"
+                ],
+                "type": "LAW"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Idea Brasil award"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "\"Design Strategy"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "English company"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Mangahigh",
+                    "English company Mangahigh"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Instituto Nacional de Matemática Pura e Aplicada",
+                    "National Institute for Pure and Applied Mathematics",
+                    "Instituto Nacional de Matemática Pura"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Barra da Tijuca"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "Rio de Janeiro, Brasil"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "training courses for teachers"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "educational kits"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "physical spaces for students"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "R$ 10 million"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "educational games"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "public space"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "SESI Mathematics",
+                "relation": "BasedOn",
+                "tail": "the Lei de Diretrizes e Bases da Educação Nacional"
+            }
+        ],
+        "label_set": [
+            "RegulatedBy",
+            "BasedOn",
+            "UsedBy",
+            "LocatedIn",
+            "PresentedIn",
+            "PartOf",
+            "HasPart",
+            "Uses",
+            "InfluencedBy",
+            "Studies",
+            "DifferentFrom"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Education",
+        "title": "Sophomore",
+        "doc": "In the United States, a sophomore ( or ) is a person in the second year at an educational institution; usually at a secondary school or at the college and university level, but also in other forms of post-secondary educational institutions. In high school a sophomore is equivalent to a tenth grade or Class-10 student.\nIn sports, sophomore may also refer to a professional athlete in their second season. In entertainment, television series in their second season may be referred to as sophomore shows, while actors and musicians experiencing their second major success may be referred to as sophomore artists.\nThe 10th grade is the second year of a student's high school period (usually aged 15:16) and is referred to as sophomore year, so in a four year course the stages are freshman, sophomore, junior and senior.In How to Read a Book, the Aristotelean philosopher and founder of the \"Great Books of the Western World\" program Mortimer Adler says, \"There have always been literate ignoramuses, who have read too widely, and not well. The Greeks had a name for such a mixture of learning and folly which might be applied to the bookish but poorly read of all ages. They are all 'sophomores'.\"  This oxymoron points at the Greek words σοφός ('wise') and μωρός ('fool').\nHigh-school sophomores are expected to begin preparing for the college application process, including increasing and focusing their extracurricular activities. Students at this level are also considered to be developing greater ability for abstract thinking.\nThe term sophomore is also used to refer to a student in the second year of college or university studies in the United States; typically a college sophomore is 19 to 20 years old. Sophomores generally work on completing general education requirements and might declare their major if they are allowed. College sophomores are also advised to begin thinking of career options and to get involved in volunteering or social organizations on or near campus.",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "United States"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "senior",
+                    "sophomore artists",
+                    "sophomore year",
+                    "sophomore",
+                    "freshman",
+                    "college or university studies",
+                    "junior"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Sophomores",
+                    "Students at this level",
+                    "High-school sophomores",
+                    "college sophomore"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "tenth"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "second"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "10th"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "four year course",
+                    "four year"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Aristotelean philosopher"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Aristotelean"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "\"Great Books of the Western World\" program"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Aristotelean philosopher"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Mortimer Adler"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Greeks",
+                    "Greek"
+                ],
+                "type": "NORP"
+            }
+        ],
+        "triples": [
+            {
+                "head": "sophomore",
+                "relation": "DifferentFrom",
+                "tail": "junior"
+            },
+            {
+                "head": "sophomore",
+                "relation": "DifferentFrom",
+                "tail": "senior"
+            },
+            {
+                "head": "sophomore",
+                "relation": "DifferentFrom",
+                "tail": "freshman"
+            },
+            {
+                "head": "sophomore",
+                "relation": "PartOf",
+                "tail": "college or university studies"
+            }
+        ],
+        "label_set": [
+            "RegulatedBy",
+            "BasedOn",
+            "UsedBy",
+            "LocatedIn",
+            "PresentedIn",
+            "PartOf",
+            "HasPart",
+            "Uses",
+            "InfluencedBy",
+            "Studies",
+            "DifferentFrom"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Education",
+        "title": "Validation_of_foreign_studies_and_degrees",
+        "doc": "The Validation or recognition of foreign studies and degrees is the process whereby a competent authority in one country formally recognises the value of a qualification from a foreign country. This can entail total or partial validation of foreign university and non-university studies, degrees and other qualifications. Particularly within Europe, this is covered by a number of international conventions and agreements.\nThe first generation of recognition conventions was developed under the auspices of UNESCO in the 1970s and 1980s, with conventions covering Latin America and the Caribbean (1974), the Mediterranean (1976), the Arab States (1978), Europe (1979), Africa (1981), and Asia and the Pacific (1983). These conventions are specifically concerned with recognition of qualifications rather than equivalence : there is no attempt to build frameworks with automatic equivalence of qualifications. This first generation of conventions has been built on by second generation conventions, starting with Lisbon (1997) covering Europe and now including the Asia-Pacific region (Tokyo, 2011) and Africa (Addis Ababa, 2014). A major change with the more recent conventions is a shift in favour of recognition, with the burden being to show substantial differences.\nThe Lisbon Convention  entered into force in 1999, the Tokyo Convention in 2018 and the Addis Ababa Convention in 2019. A new regional convention covering Latin America and the Caribbean was adopted in Buenos Aires in 2019 but has not, as of February 2020, entered into force. The first recognition treaty with a global scope, the Global Convention on the Recognition of Higher Education Qualifications, was adopted by the 40th session of UNESCO's General Conference in November 2019.\nMutual recognition of higher education qualifications is enshrined in the UNESCO/Council of Europe Lisbon Recognition Convention, which covers (as of February 2017) all Council of Europe members except Monaco and Greece, as well as Australia, Belarus, Holy See, Israel, Kazakhstan, Kyrghyz Republic, New Zealand and Tajikistan. The convention has also been signed, but not ratified, by Canada and the United States. Within these countries, qualifications must be recognised as equivalent unless proven otherwise, and assessments must be carried out fairly and within a reasonable time.The convention established the European Network of Information Centres (ENIC),  supplementing and expanding the National Academic Recognition Information Centre (NARIC) network established by the European Union in 1984. The ENIC-NARIC network comprises national centres for validation of degrees in member countries.\nThe European Higher Education Area consists (as of February 2017) of 48 national members (who must be signatories of the European Cultural Convention) and the European Union. It aims to promote mutual recognition of academic qualifications through alignment of national qualifications frameworks, via the Bologna Process's short cycle, first cycle (bachelor's degree), second cycle (master's degree) and third cycle (doctoral degree) framework, the European Credit Transfer and Accumulation System, and the use of Diploma Supplements.The European Qualifications Framework (EQF) is an initiative of the European Commission to provide a \"translation\" for national qualifications frameworks at all levels (not just higher education) and so support mobility of workers within the European Union. It originally covered the 28 EU states plus Lichtenstein and Norway, but has been opened to non-EU states, with Australia, New Zealand and Hong Kong currently going through referencing of their national frameworks to the EQF.Mutual recognition of professional qualifications is regulated by European Union Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications, modified by Council Directive 2006/100/EC.Procedure:\nThe competent authority of the host Member State shall acknowledge receipt of the application within one month of receipt and inform the applicant of any missing document.\nThe procedure for examining an application for authorisation to practise a regulated profession must be completed as quickly as possible and lead to a duly substantiated decision by the competent authority in the host Member State in any case within three months after the date on which the applicant's complete file was submitted. However, this deadline may be extended by one month in certain cases.\nThe decision, or failure to reach a decision within the deadline, shall be subject to appeal under national law.\nThe Norwegian governmental authority for accreditation of foreign education of Norwegian citizens and foreigners, NOKUT, has sole power in these matters.The total validation of foreign university studies and degrees in the Spanish system consists of a complete recognition of said studies and degrees in that system. The Spanish Ministry of Education and Science is in charge of the procedure.The academic degrees, diplomas or certificates on pharmaceutical or medical specialities which were obtained in a foreign country and which qualify the applicant in order to carry out the relevant professions in those countries can be validated as their official equivalents in the Spanish system.\nThe Ministry of Education and Science is only responsible for the total validation of a foreign university degree for its Spanish equivalent. Any other applications for the partial validation of studies carried out in a foreign country in order to pursue a university study course in Spain must be submitted to the Spanish university itself.\nThe US government does not have a specified agency for recognition and validation of foreign qualifications. Instead, responsibility falls on universities and colleges to determine the equivalence for students they admit, on employers for people they employ and on state licensing board for entry into regulated professions. These bodies may carry out assessment themselves, or contract a private credential evaluation service.Credential evaluation is also important for those seeking an H-1B visa, which requires a bachelor's degree or equivalent, and for some categories of permanent resident. For H-1Bs, but not permanent resident applications, experience can be counted towards equivalence at the rate of three years of experience equals one year of education.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "recognition treaty",
+                    "Credential evaluation",
+                    "Mutual recognition of higher education qualifications",
+                    "recognition conventions",
+                    "recognition and validation of foreign qualifications",
+                    "validation of foreign university and non-university studies",
+                    "validation of foreign university studies",
+                    "credential evaluation",
+                    "partial validation of studies",
+                    "total or partial validation",
+                    "complete recognition",
+                    "total validation of foreign university studies and degrees",
+                    "recognition of qualifications",
+                    "recognition of professional qualifications",
+                    "recognition of foreign studies and degrees",
+                    "validation of degrees"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "one"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "EQF",
+                    "European Higher Education Area",
+                    "Council of Europe members",
+                    "European Qualifications Framework (EQF)",
+                    "ENIC-NARIC network",
+                    "European Qualifications Framework",
+                    "European Cultural Convention",
+                    "Spanish system",
+                    "Member State"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "EU",
+                    "Europe"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "European Union",
+                    "US government",
+                    "European Commission",
+                    "Spanish",
+                    "Norwegian governmental authority",
+                    "European Parliament"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Spanish Ministry of Education and Science",
+                    "European Commission",
+                    "European Higher Education Area",
+                    "European Network of Information Centres",
+                    "Ministry of Education and Science",
+                    "European Cultural Convention",
+                    "Spanish university"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Spain",
+                    "US"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "first"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "European Network of Information Centres (ENIC)",
+                    "UNESCO's General Conference",
+                    "UNESCO",
+                    "National Academic Recognition Information Centre (NARIC)"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Lisbon Convention",
+                    "Global Convention on the Recognition of Higher Education Qualifications",
+                    "Council",
+                    "European Union Directive 2005/36/EC",
+                    "40th session of UNESCO's General Conference",
+                    "NARIC network",
+                    "European Qualifications Framework (EQF)",
+                    "General Conference",
+                    "Lisbon Recognition Convention",
+                    "UNESCO/Council of Europe Lisbon Recognition Convention",
+                    "mutual recognition of academic qualifications"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Lisbon"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Council of Europe"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "1983"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "1970s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "1981"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "1976"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "1974"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "1978"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "1979"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "2017"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "2005"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "2011"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "2019"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "1997"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "1980s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "1970s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "2018"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "1999"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "2014"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "February 2017"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "7 September 2005"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "February 2020"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "1984"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "2020"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "November 2019"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "Asia",
+                    "Asia-Pacific region",
+                    "Asia and the Pacific",
+                    "Latin America and the Caribbean",
+                    "Mediterranean",
+                    "Pacific",
+                    "Africa",
+                    "Caribbean",
+                    "Latin America"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "Arab States"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "Mediterranean"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "second"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "Tokyo"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "Tokyo Convention in 2018"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "Addis Ababa Convention"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "Addis Ababa"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 43,
+                "mentions": [
+                    "Tokyo Convention"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 44,
+                "mentions": [
+                    "Buenos Aires"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 45,
+                "mentions": [
+                    "Global Convention on the Recognition of Higher Education Qualifications"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 46,
+                "mentions": [
+                    "40th"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 47,
+                "mentions": [
+                    "Kazakhstan",
+                    "US",
+                    "Belarus",
+                    "Israel",
+                    "Holy See",
+                    "Kyrghyz Republic",
+                    "Australia",
+                    "Tajikistan",
+                    "Canada",
+                    "New Zealand",
+                    "Monaco",
+                    "United States",
+                    "Greece"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 48,
+                "mentions": [
+                    "European Network of Information Centres",
+                    "ENIC"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 49,
+                "mentions": [
+                    "National Academic Recognition Information Centre",
+                    "European Network of Information Centres (ENIC)",
+                    "NARIC"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 50,
+                "mentions": [
+                    "48"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 51,
+                "mentions": [
+                    "Bologna Process"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 52,
+                "mentions": [
+                    "third"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 53,
+                "mentions": [
+                    "European Credit Transfer and Accumulation System"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 54,
+                "mentions": [
+                    "Diploma Supplements"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 55,
+                "mentions": [
+                    "28"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 56,
+                "mentions": [
+                    "Lichtenstein"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 57,
+                "mentions": [
+                    "Norwegian",
+                    "Norwegian citizens"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 58,
+                "mentions": [
+                    "Norway"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 59,
+                "mentions": [
+                    "non-EU states",
+                    "non-EU"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 60,
+                "mentions": [
+                    "Hong Kong"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 61,
+                "mentions": [
+                    "Council of Europe Lisbon Recognition Convention",
+                    "Council of 7 September 2005"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 62,
+                "mentions": [
+                    "NOKUT"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 63,
+                "mentions": [
+                    "Spanish Ministry of Education and Science",
+                    "Ministry of Education and Science"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 64,
+                "mentions": [
+                    "H-1B visa"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 65,
+                "mentions": [
+                    "specified agency",
+                    "credential evaluation service"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Mutual recognition of higher education qualifications",
+                "relation": "RegulatedBy",
+                "tail": "UNESCO/Council of Europe Lisbon Recognition Convention"
+            },
+            {
+                "head": "Credential evaluation",
+                "relation": "UsedBy",
+                "tail": "those seeking an H-1B visa"
+            }
+        ],
+        "label_set": [
+            "RegulatedBy",
+            "BasedOn",
+            "UsedBy",
+            "LocatedIn",
+            "PresentedIn",
+            "PartOf",
+            "HasPart",
+            "Uses",
+            "InfluencedBy",
+            "Studies",
+            "DifferentFrom"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    }
+]

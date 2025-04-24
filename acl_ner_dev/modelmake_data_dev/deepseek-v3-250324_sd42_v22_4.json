@@ -1,0 +1,1828 @@
+[
+    {
+        "domain": "Internet",
+        "title": "Internet_GIS",
+        "doc": "Internet GIS, or Internet geographic information system (GIS), is a term that refers to a broad set of technologies and applications that employ the Internet to access, analyze, visualize, and distribute spatial data. Internet GIS is an outgrowth of traditional GIS, and represents a shift from conducting GIS on an individual computer to working with remotely distributed data and functions. Two major issues in GIS are accessing and distributing spatial data and GIS outputs. Internet GIS helps to solve that problem by allowing users to access vast databases impossible to store on a single desktop computer, and by allowing rapid dissemination of both maps and raw data to others. These methods include both file sharing and email. This has enabled the general public to participate in map creation and make use of GIS technology.\nInternet GIS is a subset of Distributed GIS, but specifically uses the internet rather than generic computer networks. Internet GIS applications are often, but not exclusively, conducted through the World Wide Web (also known as the Web), giving rise to the sub-branch of Web GIS, often used interchangeably with Internet GIS.  While Web GIS has become nearly synonymous with Internet GIS to many in the industry, the two are as distinct as the internet is from the World Wide Web. Likewise, Internet GIS is as distinct from distributed GIS as the Internet is from distributed computer networks in general.\nInternet GIS includes services beyond those enabled by the Web. Use of any other internet-enabled services to facilitate GIS functions, even if used in conjuncture with the Web, represents the use of Internet GIS. One of the most common applications of a distributed GIS system, accessing remotely saved data, can be done through the internet without the need for the Web. This is often done in practice when data are sensitive, such as hospital patient data and research facilities proprietary data, where sending data through the Web may be a security risk. This can be done using a Virtual private network (VPN) to access a local network remotely. The use of VPN for these purposes surged during the COVID-19 pandemic, when employers needed to allow employees using GIS access to sensitive spatial data from home.\nThe history of Internet geographic information systems is linked to the history of the computer, the internet, and the quantitative revolution in geography. Geography tends to adapt technologies from other disciplines rather than innovating and inventing the technologies employed to conduct geographic studies. The computer and internet are not an exception, and were rapidly investigated to purpose towards the needs of geographers. In 1959, Waldo Tobler published the first paper detailing the use of computers in map creation. This was the beginning of computer cartography, or the use of computers to create maps. In 1960, the first true geographic information system capable of storing, analyzing, changing, and creating visualizations with spatial data was created by Roger Tomlinson on behalf of the Canadian Government to manage natural resources. These technologies represented a paradigm shift in cartography and geography, with desktop computer cartography facilitated through GIS rapidly replaced traditional ways of making maps. The emergence of GIS and computer technology contributed to the quantitative revolution in geography and the emergence of the branch of technical geography.As computer technology advanced the desktop machine became the default for producing maps, a process known as digital mapping, or computer cartography. These computers were networked together to share data and processing power and create redundant communications for defense applications. This computer network evolved into the internet, and by the late 1980s, the internet was available in some people's homes. Over time, the internet moved from a novelty to a major part of daily life. Using the internet, it was no longer necessary to store all data for a project locally, and communications were vastly improved. Following this trend, GIScientists began developing methods for combining the internet and GIS. This process accelerated in the 1990s, with the creation of the World Wide Web in 1990 and the first major web mapping program, Xerox PARC Map Viewer, capable of distributed map creation appearing in 1993. This software was unique in that it facilitated dynamic user map generation, rather than static images. These new Web-based programs helped users to employ GIS without having it locally installed on their machine, ultimately leading to Web GIS being the dominant way users interact with internet GIS.\nIn 1995 The US federal government made the TIGER Mapping Service available to the public, facilitating desktop and Web GIS by hosting US boundary data. This data availability, facilitated through the internet, silently revolutionized cartography by providing the world with authoritative boundary files, for free. In 1996, MapQuest became available to the public, facilitating navigation and trip planning. Sometime during the 1990s, more maps were transmitted over the internet than physically printed. This milestone was predicted in 1985 and represented a major shift in how we distribute spatial products to the masses.\nAs of 2020, almost 75% of the population has a smartphone.  These devices allow users to access the internet wherever they have service, and have revolutionized how we interact with the internet. One notable example is the rise of \nmobile apps, which have impacted both how GIS is done, and how data are collected. Some mobile apps like the Google Maps mobile app are web-based and allow users to get navigation instructions in real time. Others, like Esri's Survey123 allow users to collect data in the field with their smartphone. As time progresses, internet-based applications that do not make use of HTML or Web Browsers have begun to become to grow in popularity.\nThe World Wide Web is an information system that uses the internet to host, share, and distribute documents, images, and other data. Web GIS involves using the World Wide Web to facilitate GIS tasks traditionally done on a desktop computer, as well as enabling the sharing of maps and spatial data. Most, but not all, internet GIS is Web GIS, however all Web GIS is internet GIS. This is quite similar to how much of the activity on the internet is hosted on the World Wide Web, but not everything on the internet is the World Wide Web. The tasks Web GIS are used for are numerous but can be generally divided into the categories of Geospatial web services: web feature services, web processing services, and web mapping services.By their definition, maps can never be perfect and are simplifications of reality. Ethical cartographers try to keep these inaccuracies documented and to a minimum, while encouraging critical perspectives when using a map. Internet GIS has brought map-making tools to the general public, facilitating the rapidly disseminating these maps. While this is potentially positive, it also means that people without cartographic training can easily make and disseminate misleading maps to a wide audience. This was brought to public attention during the COVID-19 pandemic, when more than half of all United States state government COVID-19 dashboards had cartographic errors. Further, malicious actors can quickly spread intentionally misleading spatial information while hiding the source. As the internet is decentralized, traditional solutions to problems such as government regulation are difficult or impossible to implement. For many users, the World Wide Web is synonymous with the Internet, which is true for Internet GIS. Most functions done with Internet GIS are conducted through the use of Web GIS. This has caused the borders between the two terms to blur, and \"Web GIS\" to become genericized into meaning any GIS done over the internet to some users.\n",
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\"Internet GIS\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\"World Wide Web\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\"Web GIS\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\"Distributed GIS\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\"Virtual private network\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\"COVID-19 pandemic\"],\n            \"type\": \"EVENT\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\"quantitative revolution\"],\n            \"type\": \"EVENT\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\"Waldo Tobler\"],\n            \"type\": \"PERSON\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\"Roger Tomlinson\"],\n            \"type\": \"PERSON\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\"Canadian Government\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 10,\n            \"mentions\": [\"Xerox PARC Map Viewer\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 11,\n            \"mentions\": [\"TIGER Mapping Service\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 12,\n            \"mentions\": [\"MapQuest\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 13,\n            \"mentions\": [\"Google Maps\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 14,\n            \"mentions\": [\"Esri's Survey123\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 15,\n            \"mentions\": [\"1959\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 16,\n            \"mentions\": [\"1960\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 17,\n            \"mentions\": [\"1980s\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 18,\n            \"mentions\": [\"1990\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 19,\n            \"mentions\": [\"1993\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 20,\n            \"mentions\": [\"1995\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 21,\n            \"mentions\": [\"1996\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 22,\n            \"mentions\": [\"2020\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 23,\n            \"mentions\": [\"75%\"],\n            \"type\": \"PERCENT\"\n        },\n        {\n            \"id\": 24,\n            \"mentions\": [\"United States\"],\n            \"type\": \"GPE\"\n        },\n        {\n            \"id\": 25,\n            \"mentions\": [\"Canada\"],\n            \"type\": \"GPE\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"Internet GIS\",\n            \"relation\": \"PartOf\",\n            \"tail\": \"Distributed GIS\"\n        },\n        {\n            \"head\": \"Internet GIS\",\n            \"relation\": \"Uses\",\n            \"tail\": \"World Wide Web\"\n        },\n        {\n            \"head\": \"Web GIS\",\n            \"relation\": \"PartOf\",\n            \"tail\": \"Internet GIS\"\n        },\n        {\n            \"head\": \"Roger Tomlinson\",\n            \"relation\": \"Creator\",\n            \"tail\": \"GIS\"\n        },\n        {\n            \"head\": \"Roger Tomlinson\",\n            \"relation\": \"Affiliation\",\n            \"tail\": \"Canadian Government\"\n        },\n        {\n            \"head\": \"GIS\",\n            \"relation\": \"BasedOn\",\n            \"tail\": \"computer technology\"\n        },\n        {\n            \"head\": \"Xerox PARC Map Viewer\",\n            \"relation\": \"Uses\",\n            \"tail\": \"World Wide Web\"\n        },\n        {\n            \"head\": \"TIGER Mapping Service\",\n            \"relation\": \"ApprovedBy\",\n            \"tail\": \"US federal government\"\n        },\n        {\n            \"head\": \"Google Maps\",\n            \"relation\": \"Uses\",\n            \"tail\": \"World Wide Web\"\n        },\n        {\n            \"head\": \"Esri's Survey123\",\n            \"relation\": \"Uses\",\n            \"tail\": \"smartphone\"\n        },\n        {\n            \"head\": \"COVID-19 pandemic\",\n            \"relation\": \"HasEffect\",\n            \"tail\": \"VPN usage\"\n        },\n        {\n            \"head\": \"quantitative revolution\",\n            \"relation\": \"InfluencedBy\",\n            \"tail\": \"GIS\"\n        },\n        {\n            \"head\": \"GIS\",\n            \"relation\": \"LocatedIn\",\n            \"tail\": \"Canada\"\n        },\n        {\n            \"head\": \"Internet GIS\",\n            \"relation\": \"FollowedBy\",\n            \"tail\": \"Web GIS\"\n        },\n        {\n            \"head\": \"Web GIS\",\n            \"relation\": \"BasedOn\",\n            \"tail\": \"Internet GIS\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Internet GIS"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "World Wide Web"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Web GIS"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Distributed GIS"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Virtual private network"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "COVID-19 pandemic"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "quantitative revolution"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Waldo Tobler"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Roger Tomlinson"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Canadian Government"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Xerox PARC Map Viewer"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "TIGER Mapping Service"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "MapQuest"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "Google Maps"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Esri's Survey123"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "1959"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "1960"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "1980s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "1990"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "1993"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "1995"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "1996"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "2020"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "75%"
+                ],
+                "type": "PERCENT"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "United States"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "Canada"
+                ],
+                "type": "GPE"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Internet GIS",
+                "relation": "PartOf",
+                "tail": "Distributed GIS"
+            },
+            {
+                "head": "Internet GIS",
+                "relation": "Uses",
+                "tail": "World Wide Web"
+            },
+            {
+                "head": "Web GIS",
+                "relation": "PartOf",
+                "tail": "Internet GIS"
+            },
+            {
+                "head": "Roger Tomlinson",
+                "relation": "Creator",
+                "tail": "GIS"
+            },
+            {
+                "head": "Roger Tomlinson",
+                "relation": "Affiliation",
+                "tail": "Canadian Government"
+            },
+            {
+                "head": "GIS",
+                "relation": "BasedOn",
+                "tail": "computer technology"
+            },
+            {
+                "head": "Xerox PARC Map Viewer",
+                "relation": "Uses",
+                "tail": "World Wide Web"
+            },
+            {
+                "head": "TIGER Mapping Service",
+                "relation": "ApprovedBy",
+                "tail": "US federal government"
+            },
+            {
+                "head": "Google Maps",
+                "relation": "Uses",
+                "tail": "World Wide Web"
+            },
+            {
+                "head": "Esri's Survey123",
+                "relation": "Uses",
+                "tail": "smartphone"
+            },
+            {
+                "head": "COVID-19 pandemic",
+                "relation": "HasEffect",
+                "tail": "VPN usage"
+            },
+            {
+                "head": "quantitative revolution",
+                "relation": "InfluencedBy",
+                "tail": "GIS"
+            },
+            {
+                "head": "GIS",
+                "relation": "LocatedIn",
+                "tail": "Canada"
+            },
+            {
+                "head": "Internet GIS",
+                "relation": "FollowedBy",
+                "tail": "Web GIS"
+            },
+            {
+                "head": "Web GIS",
+                "relation": "BasedOn",
+                "tail": "Internet GIS"
+            }
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "Internet_in_Laos",
+        "doc": "The Internet in Laos was first introduced in 1997, with the two commercial ISP services starting in 1999, specifically  PlaNet Computers and GlobeNet.  These supported a rapid growth of internet cafes across the country to service tourists, which incidentally introduced the internet to many English speaking Lao nationals.  The introduction of mobile broadband has significantly increased the use of the Internet in Laos since 2008.\nLaos is included in the OpenNet Initiative (ONI) Regional Overview for Asia (2009). ONI found no evidence of Internet filtering in the political, social, conflict/security, and tools areas based on testing performed in 2011.The government controls domestic Internet servers and sporadically monitors Internet usage, but by the end of 2012 it apparently did not have the ability to block access to Web sites. Authorities have developed infrastructure to route all Internet traffic through a single gateway, enabling them to monitor and restrict content. However, they apparently had not utilized this increased capability as of the end of 2012. The National Internet Committee under the Prime Minister's Office administers the Internet system. The office requires Internet service providers to submit quarterly reports and link their gateways to facilitate monitoring, but the government's enforcement capability appears limited.\nThe law generally protects privacy, including that of mail, telephone, and electronic correspondence, but the government reportedly continues to violate these legal protections when there is a perceived security threat. The law prohibits unlawful searches and seizures. While the law requires that police obtain search authorization from a prosecutor or a panel of judges, police do not always obtain prior approval, especially in rural areas. Security laws allow the government to monitor individuals’ movements and private communications, including via cell phones and e-mail.\n",
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\"1997\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\"1999\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\"PlaNet Computers\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\"GlobeNet\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\"Laos\"],\n            \"type\": \"GPE\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\"OpenNet Initiative\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\"ONI\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\"Asia\"],\n            \"type\": \"LOC\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\"2009\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\"2011\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 10,\n            \"mentions\": [\"2012\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 11,\n            \"mentions\": [\"National Internet Committee\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 12,\n            \"mentions\": [\"Prime Minister's Office\"],\n            \"type\": \"ORG\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"Internet in Laos\",\n            \"relation\": \"Founded\",\n            \"tail\": \"1997\"\n        },\n        {\n            \"head\": \"PlaNet Computers\",\n            \"relation\": \"Founded\",\n            \"tail\": \"1999\"\n        },\n        {\n            \"head\": \"GlobeNet\",\n            \"relation\": \"Founded\",\n            \"tail\": \"1999\"\n        },\n        {\n            \"head\": \"Laos\",\n            \"relation\": \"LocatedIn\",\n            \"tail\": \"Asia\"\n        },\n        {\n            \"head\": \"OpenNet Initiative\",\n            \"relation\": \"PartOf\",\n            \"tail\": \"Asia\"\n        },\n        {\n            \"head\": \"National Internet Committee\",\n            \"relation\": \"PartOf\",\n            \"tail\": \"Prime Minister's Office\"\n        },\n        {\n            \"head\": \"Internet in Laos\",\n            \"relation\": \"Uses\",\n            \"tail\": \"PlaNet Computers\"\n        },\n        {\n            \"head\": \"Internet in Laos\",\n            \"relation\": \"Uses\",\n            \"tail\": \"GlobeNet\"\n        },\n        {\n            \"head\": \"National Internet Committee\",\n            \"relation\": \"OwnerOf\",\n            \"tail\": \"Internet in Laos\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "1997"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "1999"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "PlaNet Computers"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "GlobeNet"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Laos"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "OpenNet Initiative"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "ONI"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Asia"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "2009"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "2011"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "2012"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "National Internet Committee"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Prime Minister's Office"
+                ],
+                "type": "ORG"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Internet in Laos",
+                "relation": "Founded",
+                "tail": "1997"
+            },
+            {
+                "head": "PlaNet Computers",
+                "relation": "Founded",
+                "tail": "1999"
+            },
+            {
+                "head": "GlobeNet",
+                "relation": "Founded",
+                "tail": "1999"
+            },
+            {
+                "head": "Laos",
+                "relation": "LocatedIn",
+                "tail": "Asia"
+            },
+            {
+                "head": "OpenNet Initiative",
+                "relation": "PartOf",
+                "tail": "Asia"
+            },
+            {
+                "head": "National Internet Committee",
+                "relation": "PartOf",
+                "tail": "Prime Minister's Office"
+            },
+            {
+                "head": "Internet in Laos",
+                "relation": "Uses",
+                "tail": "PlaNet Computers"
+            },
+            {
+                "head": "Internet in Laos",
+                "relation": "Uses",
+                "tail": "GlobeNet"
+            },
+            {
+                "head": "National Internet Committee",
+                "relation": "OwnerOf",
+                "tail": "Internet in Laos"
+            }
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "Online_encyclopedia",
+        "doc": "An online encyclopedia, also called an Internet encyclopedia, is a digital encyclopedia accessible through the Internet. Examples include Encyclopedia.com since 1998, Encarta from 2000 to 2009, Wikipedia since 2001, and Encyclopædia Britannica since 2016.\nIn January 1995, Project Gutenberg started to publish the ASCII text of the Encyclopædia Britannica, 11th edition (1911), but disagreements about the method halted the work after the first volume. For trademark reasons, the text had been published as the Gutenberg Encyclopedia. Since then, Project Gutenberg digitized and proofread the encyclopedia, until the last update in September 2018.  Project Gutenberg published volumes in alphabetical order; the most recent publication is Volume 17 Slice 1: \"Lord Chamberlain\" to \"Luqman\", published on August 9, 2013.  The latest Britannica was digitized by its publishers, and sold first as a CD-ROM, and later as an online service.In 2001, ASCII text of all 28 volumes was published on Encyclopædia Britannica Eleventh Edition by source; a copyright claim was added to the materials included. The website no longer exists.\nOther digitization projects have made progress in other titles; one example is Easton's Bible Dictionary (1897) digitized by the Christian Classics Ethereal Library.\nA successful digitization of an encyclopedia was the Bartleby Project's online adaptation of the Columbia Encyclopedia, Sixth Edition, in early 2000 and is updated periodically.\nOther websites provide online encyclopedias, some of which are also available on Wikisource. However, some may be more complete than those on Wikisource, or may be from different editions.\nAnother related branch of activity is the creation of new, free content on a volunteer basis. In 1991, participants of the Usenet newsgroup alt.fan.douglas-adams started Project Galactic Guide to produce a real version of The Hitchhiker's Guide to the Galaxy, a fictional encyclopedia used in the works of Douglas Adams. Although it originally aimed to contain only real, factual articles, the policy was changed to allow and encourage semi-real and unreal articles as well. Project Galactic Guide contains over 1700 articles, but no new articles have been added since 2000, which was a year after the foundation of h2g2.The 1993 Interpedia proposal was planned as an encyclopedia on the Internet to which everyone could contribute materials. The project never left the planning stage and was overtaken by a key branch of old printed encyclopedias.\nAnother early online encyclopedia was called the Global Encyclopedia.  In November 1995, James Rettig, Assistant Dean of University Libraries for Reference and Information Services at College of William & Mary, presented an unfavorable review at the 15th Annual Charleston Conference on library acquisitions and related issues.  He said of the Global Encyclopedia:\nThis is a volunteer effort to compile an encyclopedia and distribute it for free on the World Wide Web. If you have ever yearned to be the author of an encyclopedia article, yearn no longer. Take a minute (or even two or three if you are feeling scholarly) to write an article on a topic of your choosing and [e]mail it off to the unnamed \"editors\". These editors (to use that title very loosely) have generated a list of approximately 1,300 topics they want to include; to date, perhaps a quarter of them have been treated. ... This so-called encyclopedia gives amateurism a bad name. It is being compiled without standards or guidelines for article structure, content, or reading level. It makes no apparent effort to check the qualifications and authority of the volunteer authors. Its claim that \"Submitted articles are fact-checked, corrected for spelling, and then formatted\" is at best an exaggeration.\n",
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\"Encyclopedia.com\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\"Encarta\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\"Wikipedia\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\"Encyclopædia Britannica\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\"Project Gutenberg\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\"Gutenberg Encyclopedia\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\"Easton's Bible Dictionary\"],\n            \"type\": \"WORK_OF_ART\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\"Christian Classics Ethereal Library\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\"Bartleby Project\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\"Columbia Encyclopedia\"],\n            \"type\": \"WORK_OF_ART\"\n        },\n        {\n            \"id\": 10,\n            \"mentions\": [\"Wikisource\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 11,\n            \"mentions\": [\"Project Galactic Guide\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 12,\n            \"mentions\": [\"The Hitchhiker's Guide to the Galaxy\"],\n            \"type\": \"WORK_OF_ART\"\n        },\n        {\n            \"id\": 13,\n            \"mentions\": [\"Douglas Adams\"],\n            \"type\": \"PERSON\"\n        },\n        {\n            \"id\": 14,\n            \"mentions\": [\"h2g2\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 15,\n            \"mentions\": [\"Interpedia\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 16,\n            \"mentions\": [\"Global Encyclopedia\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 17,\n            \"mentions\": [\"James Rettig\"],\n            \"type\": \"PERSON\"\n        },\n        {\n            \"id\": 18,\n            \"mentions\": [\"College of William & Mary\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 19,\n            \"mentions\": [\"1995\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 20,\n            \"mentions\": [\"2000\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 21,\n            \"mentions\": [\"2001\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 22,\n            \"mentions\": [\"2016\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 23,\n            \"mentions\": [\"January\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 24,\n            \"mentions\": [\"September 2018\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 25,\n            \"mentions\": [\"August 9, 2013\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 26,\n            \"mentions\": [\"1991\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 27,\n            \"mentions\": [\"1993\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 28,\n            \"mentions\": [\"November 1995\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 29,\n            \"mentions\": [\"15th Annual Charleston Conference\"],\n            \"type\": \"EVENT\"\n        },\n        {\n            \"id\": 30,\n            \"mentions\": [\"World Wide Web\"],\n            \"type\": \"MISC\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"Encyclopedia.com\",\n            \"relation\": \"Founded\",\n            \"tail\": \"1998\"\n        },\n        {\n            \"head\": \"Encarta\",\n            \"relation\": \"Founded\",\n            \"tail\": \"2000\"\n        },\n        {\n            \"head\": \"Wikipedia\",\n            \"relation\": \"Founded\",\n            \"tail\": \"2001\"\n        },\n        {\n            \"head\": \"Encyclopædia Britannica\",\n            \"relation\": \"Founded\",\n            \"tail\": \"2016\"\n        },\n        {\n            \"head\": \"Project Gutenberg\",\n            \"relation\": \"PublishedIn\",\n            \"tail\": \"1995\"\n        },\n        {\n            \"head\": \"Project Gutenberg\",\n            \"relation\": \"OwnerOf\",\n            \"tail\": \"Gutenberg Encyclopedia\"\n        },\n        {\n            \"head\": \"Easton's Bible Dictionary\",\n            \"relation\": \"PublishedIn\",\n            \"tail\": \"1897\"\n        },\n        {\n            \"head\": \"Christian Classics Ethereal Library\",\n            \"relation\": \"OwnerOf\",\n            \"tail\": \"Easton's Bible Dictionary\"\n        },\n        {\n            \"head\": \"Bartleby Project\",\n            \"relation\": \"OwnerOf\",\n            \"tail\": \"Columbia Encyclopedia\"\n        },\n        {\n            \"head\": \"Project Galactic Guide\",\n            \"relation\": \"BasedOn\",\n            \"tail\": \"The Hitchhiker's Guide to the Galaxy\"\n        },\n        {\n            \"head\": \"Project Galactic Guide\",\n            \"relation\": \"Founded\",\n            \"tail\": \"1991\"\n        },\n        {\n            \"head\": \"Douglas Adams\",\n            \"relation\": \"Creator\",\n            \"tail\": \"The Hitchhiker's Guide to the Galaxy\"\n        },\n        {\n            \"head\": \"h2g2\",\n            \"relation\": \"FollowedBy\",\n            \"tail\": \"Project Galactic Guide\"\n        },\n        {\n            \"head\": \"Interpedia\",\n            \"relation\": \"Founded\",\n            \"tail\": \"1993\"\n        },\n        {\n            \"head\": \"Global Encyclopedia\",\n            \"relation\": \"Founded\",\n            \"tail\": \"1995\"\n        },\n        {\n            \"head\": \"James Rettig\",\n            \"relation\": \"Affiliation\",\n            \"tail\": \"College of William & Mary\"\n        },\n        {\n            \"head\": \"James Rettig\",\n            \"relation\": \"PublishedIn\",\n            \"tail\": \"15th Annual Charleston Conference\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Encyclopedia.com"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Encarta"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Wikipedia"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Encyclopædia Britannica"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Project Gutenberg"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Gutenberg Encyclopedia"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Easton's Bible Dictionary"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Christian Classics Ethereal Library"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Bartleby Project"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Columbia Encyclopedia"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Wikisource"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Project Galactic Guide"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "The Hitchhiker's Guide to the Galaxy"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "Douglas Adams"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "h2g2"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Interpedia"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "Global Encyclopedia"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "James Rettig"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "College of William & Mary"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "1995"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "2000"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "2001"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "2016"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "January"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "September 2018"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "August 9, 2013"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "1991"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "1993"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "November 1995"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "15th Annual Charleston Conference"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "World Wide Web"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Encyclopedia.com",
+                "relation": "Founded",
+                "tail": "1998"
+            },
+            {
+                "head": "Encarta",
+                "relation": "Founded",
+                "tail": "2000"
+            },
+            {
+                "head": "Wikipedia",
+                "relation": "Founded",
+                "tail": "2001"
+            },
+            {
+                "head": "Encyclopædia Britannica",
+                "relation": "Founded",
+                "tail": "2016"
+            },
+            {
+                "head": "Project Gutenberg",
+                "relation": "PublishedIn",
+                "tail": "1995"
+            },
+            {
+                "head": "Project Gutenberg",
+                "relation": "OwnerOf",
+                "tail": "Gutenberg Encyclopedia"
+            },
+            {
+                "head": "Easton's Bible Dictionary",
+                "relation": "PublishedIn",
+                "tail": "1897"
+            },
+            {
+                "head": "Christian Classics Ethereal Library",
+                "relation": "OwnerOf",
+                "tail": "Easton's Bible Dictionary"
+            },
+            {
+                "head": "Bartleby Project",
+                "relation": "OwnerOf",
+                "tail": "Columbia Encyclopedia"
+            },
+            {
+                "head": "Project Galactic Guide",
+                "relation": "BasedOn",
+                "tail": "The Hitchhiker's Guide to the Galaxy"
+            },
+            {
+                "head": "Project Galactic Guide",
+                "relation": "Founded",
+                "tail": "1991"
+            },
+            {
+                "head": "Douglas Adams",
+                "relation": "Creator",
+                "tail": "The Hitchhiker's Guide to the Galaxy"
+            },
+            {
+                "head": "h2g2",
+                "relation": "FollowedBy",
+                "tail": "Project Galactic Guide"
+            },
+            {
+                "head": "Interpedia",
+                "relation": "Founded",
+                "tail": "1993"
+            },
+            {
+                "head": "Global Encyclopedia",
+                "relation": "Founded",
+                "tail": "1995"
+            },
+            {
+                "head": "James Rettig",
+                "relation": "Affiliation",
+                "tail": "College of William & Mary"
+            },
+            {
+                "head": "James Rettig",
+                "relation": "PublishedIn",
+                "tail": "15th Annual Charleston Conference"
+            }
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "Online_optimization",
+        "doc": "Online optimization is a field of optimization theory, more popular in computer science and operations research, that deals with optimization problems having no or incomplete knowledge of the future (online). These kind of problems are denoted as online problems and are seen as opposed to the classical optimization problems where complete information is assumed (offline). The research on online optimization can be distinguished into online problems where multiple decisions are made sequentially based on a piece-by-piece input and those where a decision is made only once. A famous online problem where a decision is made only once is the Ski rental problem. In general, the output of an online algorithm is compared to the solution of a corresponding offline algorithm which is necessarily always optimal and knows the entire input in advance (competitive analysis).\nIn many situations, present decisions (for example, resources allocation) must be made with incomplete knowledge of the future or distributional assumptions on the future are not reliable. In such cases, online optimization  can be used, which is different from other approaches such as robust optimization, stochastic optimization and Markov decision processes.\nA problem exemplifying the concepts of online algorithms is the Canadian traveller problem. The goal of this problem is to minimize the cost of reaching a target in a weighted graph where some of the edges are unreliable and may have been removed from the graph. However, that an edge has been removed (failed) is only revealed to the traveller when they reach one of the edge's endpoints. The worst case for this problem is simply that all of the unreliable edges fail and the problem reduces to the usual shortest path problem. An alternative analysis of the problem can be made with the help of competitive analysis. For this method of analysis, the offline algorithm knows in advance which edges will fail and the goal is to minimize the ratio between the online and offline algorithms' performance. This problem is PSPACE-complete.",
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\"Online optimization\"],\n            \"type\": \"MISC\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\"optimization theory\"],\n            \"type\": \"MISC\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\"computer science\"],\n            \"type\": \"MISC\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\"operations research\"],\n            \"type\": \"MISC\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\"Ski rental problem\"],\n            \"type\": \"MISC\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\"competitive analysis\"],\n            \"type\": \"MISC\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\"robust optimization\"],\n            \"type\": \"MISC\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\"stochastic optimization\"],\n            \"type\": \"MISC\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\"Markov decision processes\"],\n            \"type\": \"MISC\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\"Canadian traveller problem\"],\n            \"type\": \"MISC\"\n        },\n        {\n            \"id\": 10,\n            \"mentions\": [\"PSPACE-complete\"],\n            \"type\": \"MISC\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"Online optimization\",\n            \"relation\": \"BasedOn\",\n            \"tail\": \"optimization theory\"\n        },\n        {\n            \"head\": \"Online optimization\",\n            \"relation\": \"Uses\",\n            \"tail\": \"competitive analysis\"\n        },\n        {\n            \"head\": \"Online optimization\",\n            \"relation\": \"FollowedBy\",\n            \"tail\": \"robust optimization\"\n        },\n        {\n            \"head\": \"Online optimization\",\n            \"relation\": \"FollowedBy\",\n            \"tail\": \"stochastic optimization\"\n        },\n        {\n            \"head\": \"Online optimization\",\n            \"relation\": \"FollowedBy\",\n            \"tail\": \"Markov decision processes\"\n        },\n        {\n            \"head\": \"Canadian traveller problem\",\n            \"relation\": \"BasedOn\",\n            \"tail\": \"Online optimization\"\n        },\n        {\n            \"head\": \"Canadian traveller problem\",\n            \"relation\": \"HasEffect\",\n            \"tail\": \"PSPACE-complete\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Online optimization"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "optimization theory"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "computer science"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "operations research"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Ski rental problem"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "competitive analysis"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "robust optimization"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "stochastic optimization"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Markov decision processes"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Canadian traveller problem"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "PSPACE-complete"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Online optimization",
+                "relation": "BasedOn",
+                "tail": "optimization theory"
+            },
+            {
+                "head": "Online optimization",
+                "relation": "Uses",
+                "tail": "competitive analysis"
+            },
+            {
+                "head": "Online optimization",
+                "relation": "FollowedBy",
+                "tail": "robust optimization"
+            },
+            {
+                "head": "Online optimization",
+                "relation": "FollowedBy",
+                "tail": "stochastic optimization"
+            },
+            {
+                "head": "Online optimization",
+                "relation": "FollowedBy",
+                "tail": "Markov decision processes"
+            },
+            {
+                "head": "Canadian traveller problem",
+                "relation": "BasedOn",
+                "tail": "Online optimization"
+            },
+            {
+                "head": "Canadian traveller problem",
+                "relation": "HasEffect",
+                "tail": "PSPACE-complete"
+            }
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "OrionVM",
+        "doc": "OrionVM Wholesale Pty Limited (trading as OrionVM) \nis an Australian infrastructure as a service provider and white-label cloud platform. Resellers present customers with a rebranded interface for deploying virtual machine instances, which are only billed for what their customers use. Cloud Harmony benchmarked the OrionVM Cloud Platform's InfiniBand-backed network storage as the world's fastest in 2011.\nThe company was founded and is headquartered in Sydney, Australia,\nwith offices in San Francisco, California.\nOrionVM was founded in a dorm by Sheng Yeo, Alex Sharp \nand Joseph Glanville in 2010. \nThe company's cloud platform was developed while the founders were still students at the University of Technology, Sydney and University of Sydney. After fifteen months of development, their cloud platform entered a Public Beta programme, with a full launch on 1 April 2011.\nIn 2011, the company received angel investments from Australian entrepreneur and PIPE Networks co-founder Stephen Baxter\nand American Gordon Bell of DEC and Microsoft Research.\nFor his work at OrionVM, CEO Sheng Yeo was nominated for the 2012 Australian Entrepreneur of the Year and the 2013 Ernst & Young Entrepreneur of the Year.\nIn 2014, OrionVM received a State Merit award and a National Finalist nomination in the 2014 iAwards, with CTO Alex Sharp winning the Hills YIA Cloud award. The company was nominated for a Stevie Award for New Product or Service of the Year in Cloud Infrastructure Software, and an Australian Startup Awards nomination.\nIn 2016, Yeo and Sharp were named in the Forbes 30 Under 30 Asia list.\nOrionVM sells a wholesale cloud infrastructure platform for public, private and hybrid cloud deployments. Vendors can white-label the platform for resale, or for internal use. Prominent resellers include:Australian telephone company AAPT\nBizCloud\nIT broker StrataCore.\nOrionVM uses the Xen hypervisor to virtualise multiple machines (referred to as \"instances\") on the same hardware. Linux instances use paravirtualisation for reduced overhead by default, with Windows Server being deployed using hardware-assisted virtualisation (HVM).Traditional virtual private server and infrastructure as a service providers consolidate storage into a storage area network, which is limited by Ethernet network speeds and best-effort reliability. OrionVM's platform took design cues from supercomputers by placing hypervisor storage and compute on the same physical servers. These are backed by a decentralised InfiniBand fabric. This improves network reliability and performance, and allows for rapid rollover between physical hosts for high availability.\nTo end users, the base of the platform consists of a web panel, where customers are able to deploy virtual machines. For resellers, the logos and theme can be modified to suit their own branding.From the panel, users can deploy preconfigured instances with their chosen operating system and required memory. Additional storage disks and IP addresses can be created separately, then assigned to new or existing instances. After shutting down, further resources can be allocated or scaled down.Instances can be accessed out-of-band via a web-based serial console or VNC session. Access is also available via ovm_ctl, an open source command line interface available from GitHub and the pip package manager.Linux machines come preconfigured with SSH, and Windows with RDP for remote access.\n",
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\"OrionVM Wholesale Pty Limited\", \"OrionVM\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\"Australian\"],\n            \"type\": \"NORP\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\"Sydney\", \"Australia\"],\n            \"type\": \"GPE\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\"San Francisco\", \"California\"],\n            \"type\": \"GPE\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\"Sheng Yeo\", \"Alex Sharp\", \"Joseph Glanville\"],\n            \"type\": \"PERSON\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\"2010\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\"University of Technology, Sydney\", \"University of Sydney\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\"1 April 2011\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\"Stephen Baxter\"],\n            \"type\": \"PERSON\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\"Gordon Bell\"],\n            \"type\": \"PERSON\"\n        },\n        {\n            \"id\": 10,\n            \"mentions\": [\"DEC\", \"Microsoft Research\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 11,\n            \"mentions\": [\"2012\", \"2013\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 12,\n            \"mentions\": [\"Ernst & Young\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 13,\n            \"mentions\": [\"2014\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 14,\n            \"mentions\": [\"iAwards\"],\n            \"type\": \"EVENT\"\n        },\n        {\n            \"id\": 15,\n            \"mentions\": [\"Stevie Award\"],\n            \"type\": \"EVENT\"\n        },\n        {\n            \"id\": 16,\n            \"mentions\": [\"Australian Startup Awards\"],\n            \"type\": \"EVENT\"\n        },\n        {\n            \"id\": 17,\n            \"mentions\": [\"2016\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 18,\n            \"mentions\": [\"Forbes 30 Under 30 Asia\"],\n            \"type\": \"EVENT\"\n        },\n        {\n            \"id\": 19,\n            \"mentions\": [\"AAPT\", \"BizCloud\", \"StrataCore\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 20,\n            \"mentions\": [\"Xen hypervisor\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 21,\n            \"mentions\": [\"Linux\", \"Windows Server\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 22,\n            \"mentions\": [\"InfiniBand\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 23,\n            \"mentions\": [\"GitHub\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 24,\n            \"mentions\": [\"SSH\", \"RDP\"],\n            \"type\": \"PRODUCT\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"OrionVM\",\n            \"relation\": \"LocatedIn\",\n            \"tail\": \"Sydney, Australia\"\n        },\n        {\n            \"head\": \"OrionVM\",\n            \"relation\": \"FoundedBy\",\n            \"tail\": \"Sheng Yeo, Alex Sharp, Joseph Glanville\"\n        },\n        {\n            \"head\": \"OrionVM\",\n            \"relation\": \"Founded\",\n            \"tail\": \"2010\"\n        },\n        {\n            \"head\": \"OrionVM\",\n            \"relation\": \"Affiliation\",\n            \"tail\": \"University of Technology, Sydney, University of Sydney\"\n        },\n        {\n            \"head\": \"OrionVM\",\n            \"relation\": \"Uses\",\n            \"tail\": \"Xen hypervisor\"\n        },\n        {\n            \"head\": \"OrionVM\",\n            \"relation\": \"Uses\",\n            \"tail\": \"InfiniBand\"\n        },\n        {\n            \"head\": \"Sheng Yeo\",\n            \"relation\": \"NominatedFor\",\n            \"tail\": \"2012 Australian Entrepreneur of the Year\"\n        },\n        {\n            \"head\": \"Sheng Yeo\",\n            \"relation\": \"NominatedFor\",\n            \"tail\": \"2013 Ernst & Young Entrepreneur of the Year\"\n        },\n        {\n            \"head\": \"OrionVM\",\n            \"relation\": \"AwardReceived\",\n            \"tail\": \"2014 iAwards State Merit award\"\n        },\n        {\n            \"head\": \"OrionVM\",\n            \"relation\": \"NominatedFor\",\n            \"tail\": \"2014 iAwards National Finalist\"\n        },\n        {\n            \"head\": \"Alex Sharp\",\n            \"relation\": \"AwardReceived\",\n            \"tail\": \"Hills YIA Cloud award\"\n        },\n        {\n            \"head\": \"OrionVM\",\n            \"relation\": \"NominatedFor\",\n            \"tail\": \"Stevie Award for New Product or Service of the Year\"\n        },\n        {\n            \"head\": \"OrionVM\",\n            \"relation\": \"NominatedFor\",\n            \"tail\": \"Australian Startup Awards\"\n        },\n        {\n            \"head\": \"Sheng Yeo, Alex Sharp\",\n            \"relation\": \"AwardReceived\",\n            \"tail\": \"Forbes 30 Under 30 Asia\"\n        },\n        {\n            \"head\": \"OrionVM\",\n            \"relation\": \"Partner\",\n            \"tail\": \"AAPT, BizCloud, StrataCore\"\n        },\n        {\n            \"head\": \"OrionVM\",\n            \"relation\": \"BasedOn\",\n            \"tail\": \"Xen hypervisor\"\n        },\n        {\n            \"head\": \"OrionVM\",\n            \"relation\": \"HasPart\",\n            \"tail\": \"InfiniBand\"\n        },\n        {\n            \"head\": \"OrionVM\",\n            \"relation\": \"OwnerOf\",\n            \"tail\": \"GitHub\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "OrionVM Wholesale Pty Limited",
+                    "OrionVM"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Australian"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Sydney",
+                    "Australia"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "San Francisco",
+                    "California"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Sheng Yeo",
+                    "Alex Sharp",
+                    "Joseph Glanville"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "2010"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "University of Technology, Sydney",
+                    "University of Sydney"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "1 April 2011"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Stephen Baxter"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Gordon Bell"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "DEC",
+                    "Microsoft Research"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "2012",
+                    "2013"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Ernst & Young"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "2014"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "iAwards"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Stevie Award"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "Australian Startup Awards"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "2016"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Forbes 30 Under 30 Asia"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "AAPT",
+                    "BizCloud",
+                    "StrataCore"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Xen hypervisor"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "Linux",
+                    "Windows Server"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "InfiniBand"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "GitHub"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "SSH",
+                    "RDP"
+                ],
+                "type": "PRODUCT"
+            }
+        ],
+        "triples": [
+            {
+                "head": "OrionVM",
+                "relation": "LocatedIn",
+                "tail": "Sydney, Australia"
+            },
+            {
+                "head": "OrionVM",
+                "relation": "FoundedBy",
+                "tail": "Sheng Yeo, Alex Sharp, Joseph Glanville"
+            },
+            {
+                "head": "OrionVM",
+                "relation": "Founded",
+                "tail": "2010"
+            },
+            {
+                "head": "OrionVM",
+                "relation": "Affiliation",
+                "tail": "University of Technology, Sydney, University of Sydney"
+            },
+            {
+                "head": "OrionVM",
+                "relation": "Uses",
+                "tail": "Xen hypervisor"
+            },
+            {
+                "head": "OrionVM",
+                "relation": "Uses",
+                "tail": "InfiniBand"
+            },
+            {
+                "head": "Sheng Yeo",
+                "relation": "NominatedFor",
+                "tail": "2012 Australian Entrepreneur of the Year"
+            },
+            {
+                "head": "Sheng Yeo",
+                "relation": "NominatedFor",
+                "tail": "2013 Ernst & Young Entrepreneur of the Year"
+            },
+            {
+                "head": "OrionVM",
+                "relation": "AwardReceived",
+                "tail": "2014 iAwards State Merit award"
+            },
+            {
+                "head": "OrionVM",
+                "relation": "NominatedFor",
+                "tail": "2014 iAwards National Finalist"
+            },
+            {
+                "head": "Alex Sharp",
+                "relation": "AwardReceived",
+                "tail": "Hills YIA Cloud award"
+            },
+            {
+                "head": "OrionVM",
+                "relation": "NominatedFor",
+                "tail": "Stevie Award for New Product or Service of the Year"
+            },
+            {
+                "head": "OrionVM",
+                "relation": "NominatedFor",
+                "tail": "Australian Startup Awards"
+            },
+            {
+                "head": "Sheng Yeo, Alex Sharp",
+                "relation": "AwardReceived",
+                "tail": "Forbes 30 Under 30 Asia"
+            },
+            {
+                "head": "OrionVM",
+                "relation": "Partner",
+                "tail": "AAPT, BizCloud, StrataCore"
+            },
+            {
+                "head": "OrionVM",
+                "relation": "BasedOn",
+                "tail": "Xen hypervisor"
+            },
+            {
+                "head": "OrionVM",
+                "relation": "HasPart",
+                "tail": "InfiniBand"
+            },
+            {
+                "head": "OrionVM",
+                "relation": "OwnerOf",
+                "tail": "GitHub"
+            }
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "Route_panorama",
+        "doc": "Route panorama is a continuous 2D image that includes all the scenes visible from a route, as it first appeared in Zheng and Tsuji's work of panoramic views in 1990.\nDifferent from a local panorama at a static viewpoint, a digital route panorama is constructed from partial views at consecutive viewpoints along a path. A general approach to obtain such a complete route panorama is to use a line camera or slit camera mounted on a vehicle moving along the path smoothly. The camera scans temporal scenes in the side direction of the path and connect them to the spatial image. This is realized by a program that processes temporal image data or video data in a computer. The route panorama can extend to a long distance for indexing scenes and navigation on the Internet. The long image can further be transmitted to and be scrolled on computer screens or handheld devices as moving panorama for access of geospatial locations, navigation, georeferencing, etc.Mathematically, the route panorama employs a parallel-and-perspective projection  that is a continuous and extreme case of multi-perspective view to pixel lines. It may have the aspect ratio of an object different from what a normal perspective projection generates. In addition, a video camcorder is used to produce the route panorama by taking only one pixel line in the video frame at a time with the auto-exposure function of the camcorder and shaking removal function using the inter-frame matching.\nIf the depth of scenes from the path has a dominant layer, a route panorama can also be created on that layer by stitching discrete photos consecutively taken along the path  using Photomontage. Under the same circumstance, a dynamic slit selected in the video frame can generate a route panorama with less shape distortion.\n",
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\"Route panorama\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\"Zheng and Tsuji\"],\n            \"type\": \"PERSON\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\"1990\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\"line camera\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\"slit camera\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\"Internet\"],\n            \"type\": \"MISC\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\"computer screens\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\"handheld devices\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\"video camcorder\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\"Photomontage\"],\n            \"type\": \"PRODUCT\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"Route panorama\",\n            \"relation\": \"Creator\",\n            \"tail\": \"Zheng and Tsuji\"\n        },\n        {\n            \"head\": \"Route panorama\",\n            \"relation\": \"BasedOn\",\n            \"tail\": \"line camera\"\n        },\n        {\n            \"head\": \"Route panorama\",\n            \"relation\": \"BasedOn\",\n            \"tail\": \"slit camera\"\n        },\n        {\n            \"head\": \"Route panorama\",\n            \"relation\": \"Uses\",\n            \"tail\": \"video camcorder\"\n        },\n        {\n            \"head\": \"Route panorama\",\n            \"relation\": \"Uses\",\n            \"tail\": \"Photomontage\"\n        },\n        {\n            \"head\": \"Route panorama\",\n            \"relation\": \"HasEffect\",\n            \"tail\": \"navigation\"\n        },\n        {\n            \"head\": \"Route panorama\",\n            \"relation\": \"HasEffect\",\n            \"tail\": \"georeferencing\"\n        },\n        {\n            \"head\": \"Route panorama\",\n            \"relation\": \"PublishedIn\",\n            \"tail\": \"Internet\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Route panorama"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Zheng and Tsuji"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "1990"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "line camera"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "slit camera"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Internet"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "computer screens"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "handheld devices"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "video camcorder"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Photomontage"
+                ],
+                "type": "PRODUCT"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Route panorama",
+                "relation": "Creator",
+                "tail": "Zheng and Tsuji"
+            },
+            {
+                "head": "Route panorama",
+                "relation": "BasedOn",
+                "tail": "line camera"
+            },
+            {
+                "head": "Route panorama",
+                "relation": "BasedOn",
+                "tail": "slit camera"
+            },
+            {
+                "head": "Route panorama",
+                "relation": "Uses",
+                "tail": "video camcorder"
+            },
+            {
+                "head": "Route panorama",
+                "relation": "Uses",
+                "tail": "Photomontage"
+            },
+            {
+                "head": "Route panorama",
+                "relation": "HasEffect",
+                "tail": "navigation"
+            },
+            {
+                "head": "Route panorama",
+                "relation": "HasEffect",
+                "tail": "georeferencing"
+            },
+            {
+                "head": "Route panorama",
+                "relation": "PublishedIn",
+                "tail": "Internet"
+            }
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "ZA_Central_Registry",
+        "doc": "The ZA Central Registry (ZACR), formerly known as UniForum SA, is a non-profit organisation established in 1988 and operates various second-level domains (SLD's) in South Africa. The ZA Central Registry is the administrator of the South African zones such as \"co.za\" and \"web.za\". Their offices are based in Midrand, South Africa.\nThe ZACR, in partnership with the Africa Union Commission (AUC), is the applicant for the dotAfrica domain in ICANN's new Top-level domain program. The ZACR has also partnered with the ZA Domain Name Authority (ZADNA), the South African Domain Name regulator, to implement the .joburg, .capetown, and .durban Top-level domains (TLDs).\nThe ZA Central Registry was established as a non-profit company in 1988 under the name of UniForum S.A. The organisation's goal was the promotion of open standards systems and related hardware, software applications and standards.Internet Service Provider Association (ISPA) assigned to Uniforum the responsibility of administering the \"co.za\" domain name space. This was because it was seen as not only having the technical skills and resources to do so, but also committed to neutrality and unity of purpose.\nThe registry started with just 400 registered domains. The ZA Central Registry currently boasts over 920 000 co.za domain name registrations, which is over 95% of the total registrations in the \".za\" ccTLD. This has made the registry by far the largest domain name registry on the African continent.\nThe registry signed four registry operator contracts with ICANN at its Singapore meeting in April 2014, which officially appoints the ZACR as the accredited ICANN registry to manage the administration function for \".joburg\", \".capetown\", \".durban\" and \".africa\".Web.za-is a generic top level domain which is now being administered by ZACR. This means that accredited registrars are now able to register names in Web.Za. This .za 2nd level domain was re launched by ZADNA, under ZA Central Registry's operation. Web.Za will take domain name registrations on the same basis as co.za: no eligibility requirements, open to domain name applications by South Africans and non-South Africans. The re-launch allows for protection of trademarks, starting with a limited sunrise and land rush processes.\n.Africa(dotAfrica)- is the new generic Top Level Domain (gTLD) for the African continent. The application was submitted with the endorsement and support of the African Union Commission (AUC), individual African governments, regional governmental agencies and organisations. The .Africa domain name was launched in 2017.\n.Cities- ZACR in partnership with ZADNA and the support of the South African Department of Communications, submitted applications for the \".durban\", \".capetown\" and \".joburg\" TLDs. This will enable key South African cities to compete with their international counterparts and, more especially, allow them to showcase the cities as business and tourist destinations.\n",
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\"ZA Central Registry\", \"ZACR\", \"UniForum SA\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\"1988\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\"South Africa\"],\n            \"type\": \"GPE\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\"Midrand\"],\n            \"type\": \"GPE\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\"Africa Union Commission\", \"AUC\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\"dotAfrica\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\"ICANN\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\"ZA Domain Name Authority\", \"ZADNA\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\".joburg\", \".capetown\", \".durban\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\"Internet Service Provider Association\", \"ISPA\"],\n            \"type\": \"ORG\"\n        },\n        {\n            \"id\": 10,\n            \"mentions\": [\"co.za\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 11,\n            \"mentions\": [\"400\"],\n            \"type\": \"CARDINAL\"\n        },\n        {\n            \"id\": 12,\n            \"mentions\": [\"920 000\"],\n            \"type\": \"CARDINAL\"\n        },\n        {\n            \"id\": 13,\n            \"mentions\": [\"95%\"],\n            \"type\": \"PERCENT\"\n        },\n        {\n            \"id\": 14,\n            \"mentions\": [\"April 2014\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 15,\n            \"mentions\": [\"Singapore\"],\n            \"type\": \"GPE\"\n        },\n        {\n            \"id\": 16,\n            \"mentions\": [\"Web.za\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 17,\n            \"mentions\": [\"2017\"],\n            \"type\": \"DATE\"\n        },\n        {\n            \"id\": 18,\n            \"mentions\": [\".Africa\"],\n            \"type\": \"PRODUCT\"\n        },\n        {\n            \"id\": 19,\n            \"mentions\": [\"South African Department of Communications\"],\n            \"type\": \"ORG\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"LocatedIn\",\n            \"tail\": \"South Africa\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"Founded\",\n            \"tail\": \"1988\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"PartOf\",\n            \"tail\": \"South Africa\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"OwnerOf\",\n            \"tail\": \"co.za\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"OwnerOf\",\n            \"tail\": \"Web.za\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"Partner\",\n            \"tail\": \"Africa Union Commission\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"Partner\",\n            \"tail\": \"ZA Domain Name Authority\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"Uses\",\n            \"tail\": \"dotAfrica\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"BasedOn\",\n            \"tail\": \"ICANN\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"Affiliation\",\n            \"tail\": \"Internet Service Provider Association\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"HasPart\",\n            \"tail\": \".joburg\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"HasPart\",\n            \"tail\": \".capetown\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"HasPart\",\n            \"tail\": \".durban\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"PublishedIn\",\n            \"tail\": \"2017\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"ApprovedBy\",\n            \"tail\": \"ICANN\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"Country\",\n            \"tail\": \"South Africa\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"LocatedIn\",\n            \"tail\": \"Midrand\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"Creator\",\n            \"tail\": \"UniForum SA\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"HasEffect\",\n            \"tail\": \"920 000\"\n        },\n        {\n            \"head\": \"ZA Central Registry\",\n            \"relation\": \"HasEffect\",\n            \"tail\": \"95%\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "ZA Central Registry",
+                    "ZACR",
+                    "UniForum SA"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "1988"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "South Africa"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Midrand"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Africa Union Commission",
+                    "AUC"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "dotAfrica"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "ICANN"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "ZA Domain Name Authority",
+                    "ZADNA"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    ".joburg",
+                    ".capetown",
+                    ".durban"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Internet Service Provider Association",
+                    "ISPA"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "co.za"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "400"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "920 000"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "95%"
+                ],
+                "type": "PERCENT"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "April 2014"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Singapore"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "Web.za"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "2017"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    ".Africa"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "South African Department of Communications"
+                ],
+                "type": "ORG"
+            }
+        ],
+        "triples": [
+            {
+                "head": "ZA Central Registry",
+                "relation": "LocatedIn",
+                "tail": "South Africa"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "Founded",
+                "tail": "1988"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "PartOf",
+                "tail": "South Africa"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "OwnerOf",
+                "tail": "co.za"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "OwnerOf",
+                "tail": "Web.za"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "Partner",
+                "tail": "Africa Union Commission"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "Partner",
+                "tail": "ZA Domain Name Authority"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "Uses",
+                "tail": "dotAfrica"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "BasedOn",
+                "tail": "ICANN"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "Affiliation",
+                "tail": "Internet Service Provider Association"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "HasPart",
+                "tail": ".joburg"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "HasPart",
+                "tail": ".capetown"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "HasPart",
+                "tail": ".durban"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "PublishedIn",
+                "tail": "2017"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "ApprovedBy",
+                "tail": "ICANN"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "Country",
+                "tail": "South Africa"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "LocatedIn",
+                "tail": "Midrand"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "Creator",
+                "tail": "UniForum SA"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "HasEffect",
+                "tail": "920 000"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "HasEffect",
+                "tail": "95%"
+            }
+        ]
+    }
+]

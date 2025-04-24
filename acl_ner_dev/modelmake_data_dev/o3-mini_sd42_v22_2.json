@@ -1,0 +1,1827 @@
+[
+    {
+        "domain": "Human_behavior",
+        "title": "Oblique_Strategies",
+        "doc": "Oblique Strategies (subtitled Over One Hundred Worthwhile Dilemmas) is a card-based method for promoting creativity jointly created by musician/artist Brian Eno and multimedia artist Peter Schmidt, first published in 1975. Physically, it takes the form of a deck of 7-by-9-centimetre (2.8 in × 3.5 in) printed cards in a black box. Each card offers a challenging constraint intended to help artists (particularly musicians) break creative blocks by encouraging lateral thinking.\nIn 1970, Peter Schmidt created \"The Thoughts Behind the Thoughts\", a box containing 55 sentences letterpress printed onto disused prints that accumulated in his studio, which is still in Eno's possession. Eno, who had known Schmidt since the late 1960s, had been pursuing a similar project himself, which he had handwritten onto a number of bamboo cards and given the name \"Oblique Strategies\" in 1974. There was a significant overlap between the two projects, and so, in late 1974, Schmidt and Eno combined them into a single pack of cards and offered them for general sale. The set went through three limited edition printings before Schmidt suddenly died in early 1980, after which the card decks became rather rare and expensive. Sixteen years later software pioneer Peter Norton convinced Eno to let him create a fourth edition as Christmas gifts for his friends (not for sale, although they occasionally come up at auction). Eno's decision to revisit the cards and his collaboration with Norton in revising them is described in detail in his 1996 book A Year with Swollen Appendices. With public interest in the cards undiminished, in 2001 Eno once again produced a new set of Oblique Strategies cards. The number and content of the cards vary according to the edition. In May 2013 a limited edition of 500 boxes, in burgundy rather than black, was issued.The story of Oblique Strategies, along with the content of all the cards, exhaustive history and commentary, is documented in a website widely acknowledged as the authoritative source and put together by musician and educator Gregory Alan Taylor.\nThe text of Schmidt's \"The Thoughts Behind the Thoughts\" was published by Mindmade Books in 2012.\nEach card contains a gnomic suggestion, aphorism or remark which can be used to break a deadlock or dilemma situation. A few are specific to music composition; others are more general. These cards evolved from separate observations of the principles underlying what we were doing. Sometimes they were recognised in retrospect (intellect catching up with intuition), sometimes they were identified as they were happening, sometimes they were formulated.\nThey can be used as a pack, or by drawing a single card from the shuffled pack when a dilemma occurs in a working situation. In this case the card is trusted even if its appropriateness is quite unclear...\nReferences to Oblique Strategies exist in popular culture, notably in the film Slacker, in which a character offers passers-by cards from a deck. Strategies mentioned include \"Honor thy error as a hidden intention\", \"Look closely at the most embarrassing details and amplify\", \"Not building a wall; making a brick\", \"Repetition is a form of change\", and one which came to be seen as a summary of the film's ethos (though it was not part of the official set of Oblique Strategies), \"Withdrawing in disgust is not the same thing as apathy.\" This line was quoted in the 1994 song \"What's the Frequency, Kenneth?\" by R.E.M., who also mentioned Oblique Strategies in their 1998 song \"Diminished\" from the album Up. The Oblique Strategies are also referenced in comic 1018, \"Oblique Angles\", of popular web comic Questionable Content.Other musicians inspired by Oblique Strategies include the British band Coldplay, said to have used the cards when recording their 2008 Brian Eno-produced album Viva la Vida or Death and All His Friends and French band Phoenix, who used the cards when recording their 2009 album Wolfgang Amadeus Phoenix. German musician/composer Blixa Bargeld has a similar navigation system, called Dave. In response to their song \"Brian Eno\", from their album Congratulations, MGMT has said they had a deck of Oblique Strategies in the studio, but they \"don't know if [they] used them correctly.\" The band Bauhaus have used the cards for the composition of their songs. The B-52's used them in the studio when recording their first album.\nThey were most famously used by Eno during the recording of David Bowie's Berlin triptych of albums (Low, \"Heroes\", Lodger). Stories suggest they were used during the recording of instrumentals on \"Heroes\" such as \"Sense of Doubt\" and were used more extensively on Lodger (\"Fantastic Voyage\", \"Boys Keep Swinging\", \"Red Money\"). They were used again on Bowie's 1995 album Outside, which Eno was involved with as a writer, producer and musician. Carlos Alomar, who worked with Eno and Bowie on all these albums, was a fan of using the cards, later saying \"at the Center for Performing Arts at the Stevens Institute of Technology, where I teach, on the wall are Brian Eno’s Oblique Strategies cards. And when my students get a mental block, I immediately direct them to that wall.\"\nThe Oblique Strategies cards deck is featured in Italian comics artist Igort's work Japanese Notebooks: A Journey to the Empire of Signs (Chronicle Books, 2017; original Italian edition: Quaderni giapponesi. Un viaggio nell'impero dei segni, Cononino Press, 2015).\nThe football club A.S. Velasca used the Oblique Strategies during an official football match. These Football Times referred to the club, founded by French visual artist Wolfgang Natlacen, by the german word Gesamtkunstwerk, which means \"total work of art.\"\n",
+        "label_set": [
+            "BasedOn",
+            "DifferentFrom",
+            "HasPart",
+            "HasCause",
+            "Affiliation",
+            "NamedBy",
+            "Uses",
+            "Causes",
+            "ContributedToCreativeWork",
+            "Studies",
+            "FieldOfWork",
+            "UsedBy",
+            "IssuedBy",
+            "PublishedIn",
+            "HasEffect",
+            "InfluencedBy",
+            "ApprovedBy",
+            "SaidToBeTheSameAs"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "{\n  \"entities\": [\n    {\n      \"id\": 0,\n      \"mentions\": [\n        \"Oblique Strategies\"\n      ],\n      \"type\": \"product\"\n    },\n    {\n      \"id\": 1,\n      \"mentions\": [\n        \"Over One Hundred Worthwhile Dilemmas\"\n      ],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 2,\n      \"mentions\": [\n        \"Brian Eno\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 3,\n      \"mentions\": [\n        \"Peter Schmidt\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 4,\n      \"mentions\": [\n        \"1975\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 5,\n      \"mentions\": [\n        \"7-by-9-centimetre\"\n      ],\n      \"type\": \"quantity\"\n    },\n    {\n      \"id\": 6,\n      \"mentions\": [\n        \"2.8 in × 3.5 in\"\n      ],\n      \"type\": \"quantity\"\n    },\n    {\n      \"id\": 7,\n      \"mentions\": [\n        \"1970\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 8,\n      \"mentions\": [\n        \"The Thoughts Behind the Thoughts\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 9,\n      \"mentions\": [\n        \"55\"\n      ],\n      \"type\": \"cardinal\"\n    },\n    {\n      \"id\": 10,\n      \"mentions\": [\n        \"late 1960s\"\n      ],\n      \"type\": \"time\"\n    },\n    {\n      \"id\": 11,\n      \"mentions\": [\n        \"1974\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 12,\n      \"mentions\": [\n        \"early 1980\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 13,\n      \"mentions\": [\n        \"1996\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 14,\n      \"mentions\": [\n        \"A Year with Swollen Appendices\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 15,\n      \"mentions\": [\n        \"2001\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 16,\n      \"mentions\": [\n        \"May 2013\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 17,\n      \"mentions\": [\n        \"500\"\n      ],\n      \"type\": \"cardinal\"\n    },\n    {\n      \"id\": 18,\n      \"mentions\": [\n        \"Gregory Alan Taylor\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 19,\n      \"mentions\": [\n        \"Mindmade Books\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 20,\n      \"mentions\": [\n        \"2012\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 21,\n      \"mentions\": [\n        \"Slacker\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 22,\n      \"mentions\": [\n        \"What's the Frequency, Kenneth?\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 23,\n      \"mentions\": [\n        \"R.E.M.\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 24,\n      \"mentions\": [\n        \"1994\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 25,\n      \"mentions\": [\n        \"1998\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 26,\n      \"mentions\": [\n        \"Diminished\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 27,\n      \"mentions\": [\n        \"Up\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 28,\n      \"mentions\": [\n        \"Oblique Angles\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 29,\n      \"mentions\": [\n        \"Questionable Content\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 30,\n      \"mentions\": [\n        \"Coldplay\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 31,\n      \"mentions\": [\n        \"2008\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 32,\n      \"mentions\": [\n        \"Viva la Vida or Death and All His Friends\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 33,\n      \"mentions\": [\n        \"Phoenix\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 34,\n      \"mentions\": [\n        \"2009\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 35,\n      \"mentions\": [\n        \"Wolfgang Amadeus Phoenix\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 36,\n      \"mentions\": [\n        \"German\"\n      ],\n      \"type\": \"norp\"\n    },\n    {\n      \"id\": 37,\n      \"mentions\": [\n        \"Blixa Bargeld\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 38,\n      \"mentions\": [\n        \"Dave\"\n      ],\n      \"type\": \"product\"\n    },\n    {\n      \"id\": 39,\n      \"mentions\": [\n        \"MGMT\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 40,\n      \"mentions\": [\n        \"Congratulations\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 41,\n      \"mentions\": [\n        \"Bauhaus\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 42,\n      \"mentions\": [\n        \"B-52's\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 43,\n      \"mentions\": [\n        \"David Bowie\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 44,\n      \"mentions\": [\n        \"Low\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 45,\n      \"mentions\": [\n        \"Heroes\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 46,\n      \"mentions\": [\n        \"Lodger\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 47,\n      \"mentions\": [\n        \"Sense of Doubt\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 48,\n      \"mentions\": [\n        \"Fantastic Voyage\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 49,\n      \"mentions\": [\n        \"Boys Keep Swinging\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 50,\n      \"mentions\": [\n        \"Red Money\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 51,\n      \"mentions\": [\n        \"1995\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 52,\n      \"mentions\": [\n        \"Outside\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 53,\n      \"mentions\": [\n        \"Carlos Alomar\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 54,\n      \"mentions\": [\n        \"Stevens Institute of Technology\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 56,\n      \"mentions\": [\n        \"Igort\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 57,\n      \"mentions\": [\n        \"Japanese Notebooks: A Journey to the Empire of Signs\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 58,\n      \"mentions\": [\n        \"Chronicle Books\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 59,\n      \"mentions\": [\n        \"2017\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 60,\n      \"mentions\": [\n        \"Quaderni giapponesi. Un viaggio nell'impero dei segni\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 61,\n      \"mentions\": [\n        \"Cononino Press\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 62,\n      \"mentions\": [\n        \"A.S. Velasca\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 63,\n      \"mentions\": [\n        \"Football Times\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 64,\n      \"mentions\": [\n        \"Wolfgang Natlacen\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 65,\n      \"mentions\": [\n        \"Gesamtkunstwerk\"\n      ],\n      \"type\": \"misc\"\n    }\n  ],\n  \"triples\": [\n    {\n      \"head\": \"Oblique Strategies\",\n      \"relation\": \"Uses\",\n      \"tail\": \"lateral thinking\"\n    },\n    {\n      \"head\": \"Peter Schmidt\",\n      \"relation\": \"ContributedToCreativeWork\",\n      \"tail\": \"The Thoughts Behind the Thoughts\"\n    },\n    {\n      \"head\": \"Brian Eno\",\n      \"relation\": \"ContributedToCreativeWork\",\n      \"tail\": \"Oblique Strategies\"\n    },\n    {\n      \"head\": \"Peter Schmidt\",\n      \"relation\": \"ContributedToCreativeWork\",\n      \"tail\": \"Oblique Strategies\"\n    },\n    {\n      \"head\": \"Oblique Strategies\",\n      \"relation\": \"BasedOn\",\n      \"tail\": \"The Thoughts Behind the Thoughts\"\n    },\n    {\n      \"head\": \"Oblique Strategies\",\n      \"relation\": \"PublishedIn\",\n      \"tail\": \"A Year with Swollen Appendices\"\n    },\n    {\n      \"head\": \"Oblique Strategies\",\n      \"relation\": \"UsedBy\",\n      \"tail\": \"R.E.M.\"\n    },\n    {\n      \"head\": \"Oblique Strategies\",\n      \"relation\": \"UsedBy\",\n      \"tail\": \"Coldplay\"\n    },\n    {\n      \"head\": \"Oblique Strategies\",\n      \"relation\": \"UsedBy\",\n      \"tail\": \"Phoenix\"\n    },\n    {\n      \"head\": \"Oblique Strategies\",\n      \"relation\": \"UsedBy\",\n      \"tail\": \"MGMT\"\n    },\n    {\n      \"head\": \"Oblique Strategies\",\n      \"relation\": \"UsedBy\",\n      \"tail\": \"Bauhaus\"\n    },\n    {\n      \"head\": \"Oblique Strategies\",\n      \"relation\": \"UsedBy\",\n      \"tail\": \"B-52's\"\n    },\n    {\n      \"head\": \"Oblique Strategies\",\n      \"relation\": \"UsedBy\",\n      \"tail\": \"David Bowie\"\n    },\n    {\n      \"head\": \"Oblique Strategies\",\n      \"relation\": \"UsedBy\",\n      \"tail\": \"Carlos Alomar\"\n    },\n    {\n      \"head\": \"Peter Norton\",\n      \"relation\": \"ContributedToCreativeWork\",\n      \"tail\": \"Oblique Strategies\"\n    },\n    {\n      \"head\": \"The Thoughts Behind the Thoughts\",\n      \"relation\": \"PublishedIn\",\n      \"tail\": \"Mindmade Books\"\n    },\n    {\n      \"head\": \"Oblique Strategies\",\n      \"relation\": \"InfluencedBy\",\n      \"tail\": \"Slacker\"\n    },\n    {\n      \"head\": \"Japanese Notebooks: A Journey to the Empire of Signs\",\n      \"relation\": \"HasPart\",\n      \"tail\": \"Oblique Strategies\"\n    },\n    {\n      \"head\": \"Oblique Strategies\",\n      \"relation\": \"UsedBy\",\n      \"tail\": \"A.S. Velasca\"\n    }\n  ]\n}",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Oblique Strategies"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Over One Hundred Worthwhile Dilemmas"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Brian Eno"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Peter Schmidt"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "1975"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "7-by-9-centimetre"
+                ],
+                "type": "quantity"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "2.8 in × 3.5 in"
+                ],
+                "type": "quantity"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "1970"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "The Thoughts Behind the Thoughts"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "55"
+                ],
+                "type": "cardinal"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "late 1960s"
+                ],
+                "type": "time"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "1974"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "early 1980"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "1996"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "A Year with Swollen Appendices"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "2001"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "May 2013"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "500"
+                ],
+                "type": "cardinal"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Gregory Alan Taylor"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Mindmade Books"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "2012"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "Slacker"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "What's the Frequency, Kenneth?"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "R.E.M."
+                ],
+                "type": "org"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "1994"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "1998"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "Diminished"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "Up"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "Oblique Angles"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "Questionable Content"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "Coldplay"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "2008"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "Viva la Vida or Death and All His Friends"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "Phoenix"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "2009"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "Wolfgang Amadeus Phoenix"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "German"
+                ],
+                "type": "norp"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "Blixa Bargeld"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "Dave"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "MGMT"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "Congratulations"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "Bauhaus"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "B-52's"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 43,
+                "mentions": [
+                    "David Bowie"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 44,
+                "mentions": [
+                    "Low"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 45,
+                "mentions": [
+                    "Heroes"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 46,
+                "mentions": [
+                    "Lodger"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 47,
+                "mentions": [
+                    "Sense of Doubt"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 48,
+                "mentions": [
+                    "Fantastic Voyage"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 49,
+                "mentions": [
+                    "Boys Keep Swinging"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 50,
+                "mentions": [
+                    "Red Money"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 51,
+                "mentions": [
+                    "1995"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 52,
+                "mentions": [
+                    "Outside"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 53,
+                "mentions": [
+                    "Carlos Alomar"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 54,
+                "mentions": [
+                    "Stevens Institute of Technology"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 56,
+                "mentions": [
+                    "Igort"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 57,
+                "mentions": [
+                    "Japanese Notebooks: A Journey to the Empire of Signs"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 58,
+                "mentions": [
+                    "Chronicle Books"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 59,
+                "mentions": [
+                    "2017"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 60,
+                "mentions": [
+                    "Quaderni giapponesi. Un viaggio nell'impero dei segni"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 61,
+                "mentions": [
+                    "Cononino Press"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 62,
+                "mentions": [
+                    "A.S. Velasca"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 63,
+                "mentions": [
+                    "Football Times"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 64,
+                "mentions": [
+                    "Wolfgang Natlacen"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 65,
+                "mentions": [
+                    "Gesamtkunstwerk"
+                ],
+                "type": "misc"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Oblique Strategies",
+                "relation": "Uses",
+                "tail": "lateral thinking"
+            },
+            {
+                "head": "Peter Schmidt",
+                "relation": "ContributedToCreativeWork",
+                "tail": "The Thoughts Behind the Thoughts"
+            },
+            {
+                "head": "Brian Eno",
+                "relation": "ContributedToCreativeWork",
+                "tail": "Oblique Strategies"
+            },
+            {
+                "head": "Peter Schmidt",
+                "relation": "ContributedToCreativeWork",
+                "tail": "Oblique Strategies"
+            },
+            {
+                "head": "Oblique Strategies",
+                "relation": "BasedOn",
+                "tail": "The Thoughts Behind the Thoughts"
+            },
+            {
+                "head": "Oblique Strategies",
+                "relation": "PublishedIn",
+                "tail": "A Year with Swollen Appendices"
+            },
+            {
+                "head": "Oblique Strategies",
+                "relation": "UsedBy",
+                "tail": "R.E.M."
+            },
+            {
+                "head": "Oblique Strategies",
+                "relation": "UsedBy",
+                "tail": "Coldplay"
+            },
+            {
+                "head": "Oblique Strategies",
+                "relation": "UsedBy",
+                "tail": "Phoenix"
+            },
+            {
+                "head": "Oblique Strategies",
+                "relation": "UsedBy",
+                "tail": "MGMT"
+            },
+            {
+                "head": "Oblique Strategies",
+                "relation": "UsedBy",
+                "tail": "Bauhaus"
+            },
+            {
+                "head": "Oblique Strategies",
+                "relation": "UsedBy",
+                "tail": "B-52's"
+            },
+            {
+                "head": "Oblique Strategies",
+                "relation": "UsedBy",
+                "tail": "David Bowie"
+            },
+            {
+                "head": "Oblique Strategies",
+                "relation": "UsedBy",
+                "tail": "Carlos Alomar"
+            },
+            {
+                "head": "Peter Norton",
+                "relation": "ContributedToCreativeWork",
+                "tail": "Oblique Strategies"
+            },
+            {
+                "head": "The Thoughts Behind the Thoughts",
+                "relation": "PublishedIn",
+                "tail": "Mindmade Books"
+            },
+            {
+                "head": "Oblique Strategies",
+                "relation": "InfluencedBy",
+                "tail": "Slacker"
+            },
+            {
+                "head": "Japanese Notebooks: A Journey to the Empire of Signs",
+                "relation": "HasPart",
+                "tail": "Oblique Strategies"
+            },
+            {
+                "head": "Oblique Strategies",
+                "relation": "UsedBy",
+                "tail": "A.S. Velasca"
+            }
+        ]
+    },
+    {
+        "domain": "Human_behavior",
+        "title": "Regifting",
+        "doc": "Regifting or regiving is the act of taking a gift that has been received and giving it to somebody else, sometimes in the guise of a new gift.\nRegifting differs from straightforward giving in that goods are not acquired specifically for donation. Typically, goods that have been received as a gift are offered to others, unbeknown to them that it was originally a gift to the person offering it. Often the motives are principally charitable but also includes giving items which are surplus to one's needs. However, regifting also refers to the act of giving away unwanted gifts as a way of disposing them.Regiving differs from recycling in that recycling is most often associated with breaking components down and rebuilding into new products.\nThe term was popularized by a 1995 episode of the NBC sitcom Seinfeld (\"The Label Maker\"), although the practice pre-dates the term considerably. In the episode, the character Elaine calls Dr. Tim Whatley a \"regifter\" after he gives Jerry Seinfeld a label maker that was originally given to Whatley by Elaine. (Whatley later reveals to Elaine that the label maker was faulty, which gave him the excuse to give the item away.)Another variant introduced in Seinfeld is degifting (see Indian giver), which refers to the act of demanding a gift back from the receiver.\nSeveral rules of etiquette are proposed in popular media regarding regifting; they include rewrapping the gift, not using the gift before regifting it, and not giving the gift back to the original gift-giver.Regifting has become a popular addition to many white elephant gift exchanges or yankee swap events. There are no rules that specifically prohibit or encourage the practice of regifting at these parties, but generally the host of the party suggests regifting if it is an option. However, if the host suggests a spending limit for the party, it is generally poor etiquette to regift in lieu of making a purchase. The online variations of these exchanges eliminate this situation through their online purchasing requirements. One example of a formalization of this activity are the white elephant gift exchanges, in which items can be regifted from year to year.\nA variant of regifting was mentioned as one of Oprah's Favorite Things during the recession-themed 2008 episode.\nA Fairleigh Dickinson University PublicMind Poll in December 2010 showed that regifting was commonplace. Burçak Ertimur, one of the investigators in the study, and a professor of marketing at FDU, said “The popularity of regifting is driven by many things for different people. For some, it’s thrift in difficult economic times, or it’s a way to get around annoyingly high expectations about gift-giving. It’s also awareness of, or guilt over, how much stuff goes into the landfill. But the main reason might be just the sheer volume of stuff we have,” she said.\nRegifting has recently become more acceptable when it was adopted by environmentally and budgetary conscious people that encourage the green gifting concept.\nIn the US, National Regifting Day is December 18, created by a debt-counselling group called Money Management International. Many office holiday parties are held on this day, and research shows that 40% of office party gifts are regifted without use. On October 24, 2008, the Governor of Colorado, Bill Ritter Jr., declared December 18, 2008, \"National Regifting Day\". In Canada, eBay marketed \"National Re-gifting Week\" as December 26:30, after Christmas.",
+        "label_set": [
+            "BasedOn",
+            "DifferentFrom",
+            "HasPart",
+            "HasCause",
+            "Affiliation",
+            "NamedBy",
+            "Uses",
+            "Causes",
+            "ContributedToCreativeWork",
+            "Studies",
+            "FieldOfWork",
+            "UsedBy",
+            "IssuedBy",
+            "PublishedIn",
+            "HasEffect",
+            "InfluencedBy",
+            "ApprovedBy",
+            "SaidToBeTheSameAs"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "{\n  \"entities\": [\n    {\n      \"id\": 0,\n      \"mentions\": [\n        \"1995\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 1,\n      \"mentions\": [\n        \"NBC\"\n      ],\n      \"type\": \"organization\"\n    },\n    {\n      \"id\": 2,\n      \"mentions\": [\n        \"Seinfeld\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 3,\n      \"mentions\": [\n        \"The Label Maker\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 4,\n      \"mentions\": [\n        \"Dr. Tim Whatley\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 5,\n      \"mentions\": [\n        \"Jerry Seinfeld\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 6,\n      \"mentions\": [\n        \"Elaine\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 7,\n      \"mentions\": [\n        \"Oprah's Favorite Things\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 8,\n      \"mentions\": [\n        \"December 2010\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 9,\n      \"mentions\": [\n        \"Fairleigh Dickinson University PublicMind Poll\"\n      ],\n      \"type\": \"organization\"\n    },\n    {\n      \"id\": 10,\n      \"mentions\": [\n        \"FDU\"\n      ],\n      \"type\": \"organization\"\n    },\n    {\n      \"id\": 11,\n      \"mentions\": [\n        \"Bill Ritter Jr.\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 12,\n      \"mentions\": [\n        \"Colorado\"\n      ],\n      \"type\": \"gpe\"\n    },\n    {\n      \"id\": 13,\n      \"mentions\": [\n        \"December 18, 2008\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 14,\n      \"mentions\": [\n        \"Money Management International\"\n      ],\n      \"type\": \"organization\"\n    },\n    {\n      \"id\": 15,\n      \"mentions\": [\n        \"US\"\n      ],\n      \"type\": \"gpe\"\n    },\n    {\n      \"id\": 16,\n      \"mentions\": [\n        \"October 24, 2008\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 17,\n      \"mentions\": [\n        \"Canada\"\n      ],\n      \"type\": \"gpe\"\n    },\n    {\n      \"id\": 18,\n      \"mentions\": [\n        \"eBay\"\n      ],\n      \"type\": \"organization\"\n    },\n    {\n      \"id\": 19,\n      \"mentions\": [\n        \"December 26-30\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 20,\n      \"mentions\": [\n        \"National Regifting Day\"\n      ],\n      \"type\": \"event\"\n    },\n    {\n      \"id\": 21,\n      \"mentions\": [\n        \"National Re-gifting Week\"\n      ],\n      \"type\": \"event\"\n    },\n    {\n      \"id\": 22,\n      \"mentions\": [\n        \"regifting\"\n      ],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 23,\n      \"mentions\": [\n        \"straightforward giving\"\n      ],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 24,\n      \"mentions\": [\n        \"recycling\"\n      ],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 25,\n      \"mentions\": [\n        \"degifting\"\n      ],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 26,\n      \"mentions\": [\n        \"thrift in difficult economic times\"\n      ],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 27,\n      \"mentions\": [\n        \"annoyingly high expectations about gift-giving\"\n      ],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 28,\n      \"mentions\": [\n        \"Burçak Ertimur\"\n      ],\n      \"type\": \"person\"\n    }\n  ],\n  \"triples\": [\n    {\n      \"head\": \"regifting\",\n      \"relation\": \"DifferentFrom\",\n      \"tail\": \"straightforward giving\"\n    },\n    {\n      \"head\": \"regifting\",\n      \"relation\": \"DifferentFrom\",\n      \"tail\": \"recycling\"\n    },\n    {\n      \"head\": \"degifting\",\n      \"relation\": \"DifferentFrom\",\n      \"tail\": \"regifting\"\n    },\n    {\n      \"head\": \"National Regifting Day\",\n      \"relation\": \"ApprovedBy\",\n      \"tail\": \"Bill Ritter Jr.\"\n    },\n    {\n      \"head\": \"National Regifting Day\",\n      \"relation\": \"NamedBy\",\n      \"tail\": \"Money Management International\"\n    },\n    {\n      \"head\": \"National Re-gifting Week\",\n      \"relation\": \"UsedBy\",\n      \"tail\": \"eBay\"\n    },\n    {\n      \"head\": \"Fairleigh Dickinson University PublicMind Poll\",\n      \"relation\": \"Studies\",\n      \"tail\": \"regifting\"\n    },\n    {\n      \"head\": \"National Regifting Day\",\n      \"relation\": \"HasPart\",\n      \"tail\": \"December 18, 2008\"\n    },\n    {\n      \"head\": \"National Re-gifting Week\",\n      \"relation\": \"HasPart\",\n      \"tail\": \"December 26-30\"\n    },\n    {\n      \"head\": \"National Regifting Day\",\n      \"relation\": \"PublishedIn\",\n      \"tail\": \"US\"\n    },\n    {\n      \"head\": \"Fairleigh Dickinson University PublicMind Poll\",\n      \"relation\": \"PublishedIn\",\n      \"tail\": \"December 2010\"\n    },\n    {\n      \"head\": \"degifting\",\n      \"relation\": \"ContributedToCreativeWork\",\n      \"tail\": \"Seinfeld\"\n    },\n    {\n      \"head\": \"Burçak Ertimur\",\n      \"relation\": \"Affiliation\",\n      \"tail\": \"FDU\"\n    },\n    {\n      \"head\": \"regifting\",\n      \"relation\": \"HasEffect\",\n      \"tail\": \"thrift in difficult economic times\"\n    },\n    {\n      \"head\": \"regifting\",\n      \"relation\": \"HasEffect\",\n      \"tail\": \"annoyingly high expectations about gift-giving\"\n    }\n  ]\n}",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "1995"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "NBC"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Seinfeld"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "The Label Maker"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Dr. Tim Whatley"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Jerry Seinfeld"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Elaine"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Oprah's Favorite Things"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "December 2010"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Fairleigh Dickinson University PublicMind Poll"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "FDU"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Bill Ritter Jr."
+                ],
+                "type": "person"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Colorado"
+                ],
+                "type": "gpe"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "December 18, 2008"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Money Management International"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "US"
+                ],
+                "type": "gpe"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "October 24, 2008"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "Canada"
+                ],
+                "type": "gpe"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "eBay"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "December 26-30"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "National Regifting Day"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "National Re-gifting Week"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "regifting"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "straightforward giving"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "recycling"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "degifting"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "thrift in difficult economic times"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "annoyingly high expectations about gift-giving"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "Burçak Ertimur"
+                ],
+                "type": "person"
+            }
+        ],
+        "triples": [
+            {
+                "head": "regifting",
+                "relation": "DifferentFrom",
+                "tail": "straightforward giving"
+            },
+            {
+                "head": "regifting",
+                "relation": "DifferentFrom",
+                "tail": "recycling"
+            },
+            {
+                "head": "degifting",
+                "relation": "DifferentFrom",
+                "tail": "regifting"
+            },
+            {
+                "head": "National Regifting Day",
+                "relation": "ApprovedBy",
+                "tail": "Bill Ritter Jr."
+            },
+            {
+                "head": "National Regifting Day",
+                "relation": "NamedBy",
+                "tail": "Money Management International"
+            },
+            {
+                "head": "National Re-gifting Week",
+                "relation": "UsedBy",
+                "tail": "eBay"
+            },
+            {
+                "head": "Fairleigh Dickinson University PublicMind Poll",
+                "relation": "Studies",
+                "tail": "regifting"
+            },
+            {
+                "head": "National Regifting Day",
+                "relation": "HasPart",
+                "tail": "December 18, 2008"
+            },
+            {
+                "head": "National Re-gifting Week",
+                "relation": "HasPart",
+                "tail": "December 26-30"
+            },
+            {
+                "head": "National Regifting Day",
+                "relation": "PublishedIn",
+                "tail": "US"
+            },
+            {
+                "head": "Fairleigh Dickinson University PublicMind Poll",
+                "relation": "PublishedIn",
+                "tail": "December 2010"
+            },
+            {
+                "head": "degifting",
+                "relation": "ContributedToCreativeWork",
+                "tail": "Seinfeld"
+            },
+            {
+                "head": "Burçak Ertimur",
+                "relation": "Affiliation",
+                "tail": "FDU"
+            },
+            {
+                "head": "regifting",
+                "relation": "HasEffect",
+                "tail": "thrift in difficult economic times"
+            },
+            {
+                "head": "regifting",
+                "relation": "HasEffect",
+                "tail": "annoyingly high expectations about gift-giving"
+            }
+        ]
+    },
+    {
+        "domain": "Human_behavior",
+        "title": "Stockholm_syndrome",
+        "doc": "Stockholm syndrome is a proposed condition or theory that tries to explain why hostages sometimes develop a psychological bond with their captors.\nStockholm syndrome is a \"contested illness\" due to doubts about the legitimacy of the condition. \nEmotional bonds can possibly form between captors and captives, during intimate time together, but these are considered irrational by some in light of the danger or risk endured by the victims. Stockholm syndrome has never been included in the Diagnostic and Statistical Manual of Mental Disorders (DSM), the standard tool for diagnosis of psychiatric illnesses and disorders in the United States, mainly due to the lack of a consistent body of academic research.\nIn 1973, Jan-Erik Olsson, a convict on parole, took four employees (three women and one man) of Kreditbanken, one of the largest banks in Stockholm, Sweden, hostage during a failed bank robbery. He negotiated the release from prison of his friend Clark Olofsson to assist him. They held the hostages captive for six days (23:28 August) in one of the bank's vaults. When the hostages were released, none of them would testify against either captor in court; instead, they began raising money for their defense.Nils Bejerot, a Swedish criminologist and psychiatrist, invented the term after the Stockholm police asked him for assistance with analyzing the victims' reactions to the 1973 bank robbery and their status as hostages. As the idea of brainwashing was not a new concept, Bejerot, speaking on \"a news cast after the captives' release\", described the hostages' reactions as a result of being brainwashed by their captors. He called it Norrmalmstorgssyndromet (after Norrmalmstorg Square where the attempted robbery took place), meaning \"the Norrmalmstorg syndrome\"; it later became known outside Sweden as Stockholm syndrome. It was originally defined by psychiatrist Frank Ochberg to aid the management of hostage situations.\nAccording to accounts by Kristin Enmark, one of the hostages, the police were acting incompetently, with little care for the hostages' safety. This forced the hostages to negotiate for their lives and releases with the robbers on their own. In the process, the hostages saw the robbers behaving more rationally than the police negotiators and subsequently developed a deep distrust towards the latter.  Enmark had criticized Bejerot specifically for endangering their lives by behaving aggressively and agitating the captors. She had criticized the police for pointing guns at the convicts while the hostages were in the line of fire, and she had told news outlets that one of the captors tried to protect the hostages from being caught in the crossfire. She was also critical of prime minister Olof Palme, as she had negotiated with the captors for freedom, but the prime minister told her that she would have to content herself with dying at her post rather than Palme giving in to the captors' demands. Ultimately, Enmark explained she was more afraid of the police, whose attitude seemed to be a much larger, direct threat to her life than the robbers.\nOlsson later said in an interview that he could have easily killed the hostages in the beginning, but over time it became more difficult, as he developed an emotional bond with them:\nIt was the hostages' fault. They did everything I told them to. If they hadn't, I might not be here now. Why didn't any of them attack me? They made it hard to kill. They made us go on living together day after day, like goats, in that filth. There was nothing to do but get to know each other.\nPatty Hearst, the granddaughter of publisher William Randolph Hearst, was taken and held hostage by the Symbionese Liberation Army, \"an urban guerrilla group\", in 1974. She was recorded denouncing her family as well as the police using her new name, \"Tania\", and was later seen working with the SLA to rob banks in San Francisco. She publicly asserted her \"sympathetic feelings\" toward the SLA and their pursuits as well. After her 1975 arrest, pleading Stockholm syndrome (although the term was not used then, due to the recency of the event) did not work as a proper defense in court, much to the chagrin of her defense lawyer F. Lee Bailey. Her seven-year prison sentence was later commuted, and she was eventually pardoned by President Bill Clinton, who was informed that she was not acting by her own free will.An inversion of Stockholm syndrome, termed Lima syndrome, has been proposed, in which abductors develop sympathy for their hostages. An abductor may also have second thoughts or experience empathy towards their victims. Lima syndrome was named after an abduction at the Japanese embassy in Lima, Peru, in 1996, when members of a militant movement took hostage hundreds of people attending a party at the official residence of Japan's ambassador. Lima syndrome is poorly understood, as the main example for research on this variation came from the Japanese embassy hostage crisis in Lima. Two main factors observed in the evaluation were that spending time with the captives may have strengthened the bonds between the captor and captive, however, this had little basis as the majority of captives were released earlier on. Establishing a friendly rapport with a captor could contribute to a positive bond, as most of the captives in this situation were high-level diplomats who were well-versed in their communication skills.London Syndrome is the opposite of both Stockholm and Lima Syndromes: one or more hostages arouse the kidnappers' antipathy by defying them, trying to escape or, in the case of a political kidnapping, arguing with them, disqualifying their ideology. These hostages end up being executed by their captors at the first opportunity.The name London Syndrome comes from the  1980 siege of the Iranian Embassy in London, in which 26 hostages were taken. During the siege, one of the hostages repeatedly argued with the captors, despite other hostages asking him to keep quiet. After several days of siege, the captors decided to kill one of the hostages to force compliance with their demands. So they chose the argumentative hostage, shooting him and then throwing his body out into the street. This prompted a special forces attack, during which they rescued all but one of the remaining hostages and killed five of the six hostage-takers.\nVictims of the formal definition of Stockholm syndrome develop \"positive feelings toward their captors and sympathy for their causes and goals, and negative feelings toward the police or authorities\". These symptoms often follow escaped victims back into their previously ordinary lives.Stockholm syndrome is paradoxical because the sympathetic sentiments that captives feel towards their captors are the opposite of the fear and disdain which an onlooker might feel towards the captors.\nThere are four key components that characterize Stockholm syndrome:\nA hostage's development of positive feelings towards the captor.\nNo previous relationship between hostage and captor.\nA refusal by hostages to cooperate with police and other government authorities.\nA hostage's belief in the humanity of the captor, ceasing to perceive them as a threat, when the victim holds the same values as the aggressor.\nRobbins and Anthony, who had historically studied a condition similar to Stockholm syndrome, known as destructive cult disorder, observed in their 1982 study that the 1970s were rich with apprehension surrounding the potential risks of brainwashing. They assert that media attention to brainwashing during this time resulted in the fluid reception of Stockholm syndrome as a psychological condition.A 1999 report by the FBI containing more than 1,200 hostage incidents found that only 8% of kidnapping victims showed signs of Stockholm syndrome. When victims who showed only negative feeling toward the law enforcement personnel are excluded, the percentage decreases to 5%. A survey of 600 police agencies in 1989, performed by the FBI and the University of Vermont, found not a single case when emotional involvement between the victim and the kidnapper interfered with or jeopardized an assault. In short, this database provides empirical support that the Stockholm syndrome remains a rare occurrence. The sensational nature of dramatic cases causes the public to perceive this phenomenon as the rule rather than the exception. The bulletin concludes that, although depicted in fiction and movies and often referred to by the news media, the phenomenon actually occurs rarely. Therefore, crisis negotiators should place the Stockholm syndrome in proper perspective.A research group led by Namnyak has found that although there is vast media coverage of Stockholm syndrome, there has not been much research into the phenomenon. What little research has been done is often contradictory and does not always agree on what Stockholm syndrome is. The term has grown beyond kidnappings to all definitions of abuse. It stated that there is no clear definition of symptoms to diagnose the syndrome.The DSM-5 is widely used as the \"classification system for psychological disorders\" by the American Psychiatric Association. Stockholm syndrome has not historically appeared in the manual, as many believe it falls under trauma bonding or post-traumatic stress disorder (PTSD) and there is no consensus about the correct clarification. In addition, there is no extensive body of research or consensus to help solve the argument, although before the fifth edition (DSM 5) was released, Stockholm syndrome was under consideration to be included under 'Disorders of Extreme Stress, Not Otherwise Specified'.At Dignity Conference 2015, Dr. Allan Wade presented The myth of \"Stockholm Syndrome\" (and other concepts invented to discredit women victims of violence) after interviewing Kristin Enmark. In this presentation he posits that \"Stockholm Syndrome\" and related ideas such as \"traumatic bonding\", \"learned helplessness\", \"battered women's syndrome\", \"internalized oppression\", and \"identification with the aggressor/oppressor\" shift the focus away from actual events in context to invented pathologies in the minds of victims, particularly women. \"Stockholm syndrome\" can be seen as one of many concepts used to silence individuals who, as victims, speak publicly about negative social (i.e., institutional) responses.In her 2019 treatise on domestic violence See What You Made Me Do, Australian journalist Jess Hill described the syndrome as a \"dubious pathology with no diagnostic criteria\", and stated that it is \"riddled with misogyny and founded on a lie\"; she also noted that a 2008 literature review revealed \"most diagnoses [of Stockholm syndrome] are made by the media, not by psychologists or psychiatrists.\" In particular, Hill's analysis revealed that Stockholm authorities : under direct guidance from Bejerot : responded to the robbery in a way that put the hostages at greater risk from the police than from their captors (hostage Kristin Enmark, who during the siege was granted a telephone call with Swedish Prime Minister Olof Palme, reported that Palme told her that the government would not negotiate with criminals, and that \"you will have to content yourself that you will have died at your post\"); as well, she observed that not only was Bejerot's diagnosis of Enmark made without ever having spoken to her, it was in direct response to her public criticism of his actions during the siege.",
+        "label_set": [
+            "BasedOn",
+            "DifferentFrom",
+            "HasPart",
+            "HasCause",
+            "Affiliation",
+            "NamedBy",
+            "Uses",
+            "Causes",
+            "ContributedToCreativeWork",
+            "Studies",
+            "FieldOfWork",
+            "UsedBy",
+            "IssuedBy",
+            "PublishedIn",
+            "HasEffect",
+            "InfluencedBy",
+            "ApprovedBy",
+            "SaidToBeTheSameAs"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "{\n  \"entities\": [\n    {\n      \"id\": 0,\n      \"mentions\": [\n        \"Stockholm syndrome\"\n      ],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 1,\n      \"mentions\": [\n        \"Jan-Erik Olsson\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 2,\n      \"mentions\": [\n        \"Kreditbanken\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 3,\n      \"mentions\": [\n        \"Stockholm\"\n      ],\n      \"type\": \"gpe\"\n    },\n    {\n      \"id\": 4,\n      \"mentions\": [\n        \"Sweden\"\n      ],\n      \"type\": \"gpe\"\n    },\n    {\n      \"id\": 5,\n      \"mentions\": [\n        \"Clark Olofsson\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 6,\n      \"mentions\": [\n        \"Nils Bejerot\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 7,\n      \"mentions\": [\n        \"Norrmalmstorgssyndromet\"\n      ],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 8,\n      \"mentions\": [\n        \"Norrmalmstorg Square\"\n      ],\n      \"type\": \"fac\"\n    },\n    {\n      \"id\": 9,\n      \"mentions\": [\n        \"Frank Ochberg\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 10,\n      \"mentions\": [\n        \"Kristin Enmark\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 11,\n      \"mentions\": [\n        \"Olof Palme\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 12,\n      \"mentions\": [\n        \"Patty Hearst\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 13,\n      \"mentions\": [\n        \"William Randolph Hearst\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 14,\n      \"mentions\": [\n        \"Symbionese Liberation Army\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 15,\n      \"mentions\": [\n        \"Tania\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 16,\n      \"mentions\": [\n        \"F. Lee Bailey\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 17,\n      \"mentions\": [\n        \"President Bill Clinton\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 18,\n      \"mentions\": [\n        \"Lima syndrome\"\n      ],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 19,\n      \"mentions\": [\n        \"Japanese embassy\"\n      ],\n      \"type\": \"fac\"\n    },\n    {\n      \"id\": 20,\n      \"mentions\": [\n        \"Lima\"\n      ],\n      \"type\": \"gpe\"\n    },\n    {\n      \"id\": 21,\n      \"mentions\": [\n        \"Peru\"\n      ],\n      \"type\": \"gpe\"\n    },\n    {\n      \"id\": 22,\n      \"mentions\": [\n        \"London Syndrome\"\n      ],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 23,\n      \"mentions\": [\n        \"Iranian Embassy\"\n      ],\n      \"type\": \"fac\"\n    },\n    {\n      \"id\": 24,\n      \"mentions\": [\n        \"London\"\n      ],\n      \"type\": \"gpe\"\n    },\n    {\n      \"id\": 25,\n      \"mentions\": [\n        \"Robbins\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 26,\n      \"mentions\": [\n        \"Anthony\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 27,\n      \"mentions\": [\n        \"1970s\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 28,\n      \"mentions\": [\n        \"FBI\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 29,\n      \"mentions\": [\n        \"1982\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 30,\n      \"mentions\": [\n        \"1989\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 31,\n      \"mentions\": [\n        \"1999\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 32,\n      \"mentions\": [\n        \"University of Vermont\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 33,\n      \"mentions\": [\n        \"Dignity Conference 2015\"\n      ],\n      \"type\": \"event\"\n    },\n    {\n      \"id\": 34,\n      \"mentions\": [\n        \"Dr. Allan Wade\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 35,\n      \"mentions\": [\n        \"2019\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 36,\n      \"mentions\": [\n        \"See What You Made Me Do\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 37,\n      \"mentions\": [\n        \"Jess Hill\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 38,\n      \"mentions\": [\n        \"2008\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 39,\n      \"mentions\": [\n        \"DSM-5\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 40,\n      \"mentions\": [\n        \"American Psychiatric Association\"\n      ],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 41,\n      \"mentions\": [\n        \"Disorders of Extreme Stress, Not Otherwise Specified\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 42,\n      \"mentions\": [\n        \"1973\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 43,\n      \"mentions\": [\n        \"1974\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 44,\n      \"mentions\": [\n        \"1975\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 45,\n      \"mentions\": [\n        \"failed bank robbery\"\n      ],\n      \"type\": \"event\"\n    },\n    {\n      \"id\": 46,\n      \"mentions\": [\n        \"destructive cult disorder\"\n      ],\n      \"type\": \"misc\"\n    }\n  ],\n  \"triples\": [\n    {\n      \"head\": \"Jan-Erik Olsson\",\n      \"relation\": \"Causes\",\n      \"tail\": \"failed bank robbery\"\n    },\n    {\n      \"head\": \"Stockholm syndrome\",\n      \"relation\": \"NamedBy\",\n      \"tail\": \"Nils Bejerot\"\n    },\n    {\n      \"head\": \"Norrmalmstorgssyndromet\",\n      \"relation\": \"NamedBy\",\n      \"tail\": \"Frank Ochberg\"\n    },\n    {\n      \"head\": \"Patty Hearst\",\n      \"relation\": \"Affiliation\",\n      \"tail\": \"Symbionese Liberation Army\"\n    },\n    {\n      \"head\": \"Patty Hearst\",\n      \"relation\": \"ApprovedBy\",\n      \"tail\": \"President Bill Clinton\"\n    },\n    {\n      \"head\": \"Stockholm syndrome\",\n      \"relation\": \"DifferentFrom\",\n      \"tail\": \"Lima syndrome\"\n    },\n    {\n      \"head\": \"London Syndrome\",\n      \"relation\": \"DifferentFrom\",\n      \"tail\": \"Stockholm syndrome\"\n    },\n    {\n      \"head\": \"London Syndrome\",\n      \"relation\": \"DifferentFrom\",\n      \"tail\": \"Lima syndrome\"\n    },\n    {\n      \"head\": \"destructive cult disorder\",\n      \"relation\": \"SaidToBeTheSameAs\",\n      \"tail\": \"Stockholm syndrome\"\n    },\n    {\n      \"head\": \"DSM-5\",\n      \"relation\": \"UsedBy\",\n      \"tail\": \"American Psychiatric Association\"\n    },\n    {\n      \"head\": \"Stockholm syndrome\",\n      \"relation\": \"SaidToBeTheSameAs\",\n      \"tail\": \"Disorders of Extreme Stress, Not Otherwise Specified\"\n    }\n  ]\n}",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Stockholm syndrome"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Jan-Erik Olsson"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Kreditbanken"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Stockholm"
+                ],
+                "type": "gpe"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Sweden"
+                ],
+                "type": "gpe"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Clark Olofsson"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Nils Bejerot"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Norrmalmstorgssyndromet"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Norrmalmstorg Square"
+                ],
+                "type": "fac"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Frank Ochberg"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Kristin Enmark"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Olof Palme"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Patty Hearst"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "William Randolph Hearst"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Symbionese Liberation Army"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Tania"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "F. Lee Bailey"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "President Bill Clinton"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Lima syndrome"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Japanese embassy"
+                ],
+                "type": "fac"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Lima"
+                ],
+                "type": "gpe"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "Peru"
+                ],
+                "type": "gpe"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "London Syndrome"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "Iranian Embassy"
+                ],
+                "type": "fac"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "London"
+                ],
+                "type": "gpe"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "Robbins"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "Anthony"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "1970s"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "FBI"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "1982"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "1989"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "1999"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "University of Vermont"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "Dignity Conference 2015"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "Dr. Allan Wade"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "2019"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "See What You Made Me Do"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "Jess Hill"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "2008"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "DSM-5"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "American Psychiatric Association"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "Disorders of Extreme Stress, Not Otherwise Specified"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "1973"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 43,
+                "mentions": [
+                    "1974"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 44,
+                "mentions": [
+                    "1975"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 45,
+                "mentions": [
+                    "failed bank robbery"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 46,
+                "mentions": [
+                    "destructive cult disorder"
+                ],
+                "type": "misc"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Jan-Erik Olsson",
+                "relation": "Causes",
+                "tail": "failed bank robbery"
+            },
+            {
+                "head": "Stockholm syndrome",
+                "relation": "NamedBy",
+                "tail": "Nils Bejerot"
+            },
+            {
+                "head": "Norrmalmstorgssyndromet",
+                "relation": "NamedBy",
+                "tail": "Frank Ochberg"
+            },
+            {
+                "head": "Patty Hearst",
+                "relation": "Affiliation",
+                "tail": "Symbionese Liberation Army"
+            },
+            {
+                "head": "Patty Hearst",
+                "relation": "ApprovedBy",
+                "tail": "President Bill Clinton"
+            },
+            {
+                "head": "Stockholm syndrome",
+                "relation": "DifferentFrom",
+                "tail": "Lima syndrome"
+            },
+            {
+                "head": "London Syndrome",
+                "relation": "DifferentFrom",
+                "tail": "Stockholm syndrome"
+            },
+            {
+                "head": "London Syndrome",
+                "relation": "DifferentFrom",
+                "tail": "Lima syndrome"
+            },
+            {
+                "head": "destructive cult disorder",
+                "relation": "SaidToBeTheSameAs",
+                "tail": "Stockholm syndrome"
+            },
+            {
+                "head": "DSM-5",
+                "relation": "UsedBy",
+                "tail": "American Psychiatric Association"
+            },
+            {
+                "head": "Stockholm syndrome",
+                "relation": "SaidToBeTheSameAs",
+                "tail": "Disorders of Extreme Stress, Not Otherwise Specified"
+            }
+        ]
+    },
+    {
+        "domain": "Human_behavior",
+        "title": "Tears",
+        "doc": "Tears are a clear liquid secreted by the lacrimal glands (tear gland) found in the eyes of all land mammals. Tears are made up of water, electrolytes, proteins, lipids, and mucins that form layers on the surface of eyes. The different types of tears—basal, reflex, and emotional—vary significantly in composition. \n The functions of tears include lubricating the eyes (basal tears), removing irritants (reflex tears), and also aiding the immune system. Tears also occur as a part of the body's natural pain response. Emotional secretion of tears may serve a biological function by excreting stress-inducing hormones built up through times of emotional distress. Tears have symbolic significance among humans.\nTears are made up of three layers: lipid, aqueous, and mucous. Tears are composed of water, salts, antibodies, and lysozymes (antibacterial enzymes); though composition varies among different tear types. The composition of tears caused by an emotional reaction differs from that of tears as a reaction to irritants, such as onion fumes, dust, or allergens. Emotional tears contain higher concentrations of stress hormones such as adrenocorticotropic hormone and leucine enkephalin (a natural pain killer), which suggests that emotional tears play a biological role in balancing stress hormone levels.The lacrimal glands secrete lacrimal fluid, which flows through the main excretory ducts into the space between the eyeball and the lids. When the eyes blink, the lacrimal fluid is spread across the surface of the eye. Lacrimal fluid gathers in the lacrimal lake which is found in the medial part of the eye. The lacrimal papilla is an elevation in the inner side of the eyelid, at the edge of the lacrimal lake. The lacrimal canaliculi open into the papilla. The opening of each canaliculus is the lacrimal punctum. From the punctum, tears will enter the lacrimal sac, then on to the nasolacrimal duct, and finally into the nasal cavity. An excess of tears, as caused by strong emotion, can cause the nose to run. Quality of vision is affected by the stability of the tear film.There are three basic types of tears: basal, reflex and emotional.Some mammals, such as cats, camels, polar bears, seals and aardvarks, have a full translucent third eyelid called a nictitating membrane, while others have a vestigial nictitating membrane. The membrane works to protect and moisten the eyelid while maintaining visibility. It also contributes to the aqueous portion of the tear film and possibly immunoglobulins. Humans and some primates have a much smaller nictitating membrane; this may be because they do not capture prey or root vegetation with their teeth, so that there is no evolutionary advantage of the third eyelid.The trigeminal V1 (fifth cranial) nerve bears the sensory pathway of the tear reflexes. When the trigeminal nerve is cut, tears from reflexes will stop, while emotional tears will not. The great (superficial) petrosal nerve from cranial nerve VII provides autonomic innervation to the lacrimal gland. It is responsible for the production of much of the aqueous portion of the tear film.In nearly all human cultures, crying is associated with tears trickling down the cheeks and accompanied by characteristic sobbing sounds. Emotional triggers are most often sadness and grief, but crying can also be triggered by anger, happiness, fear, laughter or humor, frustration, remorse, or other strong, intense emotions. Emotional tears can also be triggered by listening to music or by reading, watching or listening to various forms of media. Crying is often associated with babies and children. Some cultures consider crying to be undignified and infantile, casting aspersions on those who cry publicly, except if it is due to the death of a close friend or relative. In most Western cultures, it is more socially acceptable for women and children to cry than men, reflecting masculine sex-role stereotypes. In some Latin regions, crying among men is more acceptable. There is evidence for an interpersonal function of crying as tears express a need for help and foster willingness to help in an observer.Some modern psychotherapy movements such as Re-evaluation Counseling encourage crying as beneficial to health and mental well-being. An insincere display of grief or dishonest remorse is sometimes called crocodile tears in reference to an Ancient Greek anecdote that crocodiles would pretend to weep while luring or devouring their prey. In addition, \"crocodile tears syndrome\" is a colloquialism for Bogorad's syndrome, an uncommon consequence of recovery from Bell's palsy in which faulty regeneration of the facial nerve causes people to shed tears while eating.\nBogorad's syndrome, also known as \"Crocodile Tears Syndrome\", is an uncommon consequence of nerve regeneration subsequent to Bell's palsy or other damage to the facial nerve. Efferent fibers from the superior salivary nucleus become improperly connected to nerve axons projecting to the lacrimal glands, causing one to shed tears (lacrimate) on the side of the palsy during salivation while smelling foods or eating. It is presumed that this would cause salivation while crying due to the inverse improper connection of the lacrimal nucleus to the salivary glands, but this would be less noticeable. The condition was first described in 1926 by its namesake, Russian neuropathologist F. A. Bogorad, in an article titled \"Syndrome of the Crocodile Tears\" (alternatively, \"The Symptom of the Crocodile Tears\") that argued the tears were caused by the act of salivation.Keratoconjunctivitis sicca, known in the vernacular as dry eye, is a very common disorder of the tear film. Despite the eyes being dry, those affected can still experience watering of the eyes, which is, in fact, a response to irritation caused by the original tear film deficiency. Lack of Meibomian gland secretion can mean that the tears are not enveloped in a hydrophobic film coat, leading to tears spilling onto the face.Treatment for dry eyes to compensate for the loss of tear film include eye-drops composed of methyl cellulose or carboxy- methyl cellulose or hemi-cellulose in strengths of either 0.5% or 1% depending upon the severity of drying up of the cornea.\nFamilial dysautonomia is a genetic condition that can be associated with a lack of overflow tears (Alacrima) during emotional crying.Obstruction of the punctum, nasolacrimal canal, or nasolacrimal duct can cause even normal levels of the basal tear to overflow onto the face (Epiphora), giving the appearance of constant psychic tearing. This can have significant social consequences.\nPseudobulbar affect (PBA) is a condition involving episodic uncontrollable laughter or crying. PBA mostly occurs in people with neurological injuries affecting how the brain controls emotions. Scientists believe PBA results from prefrontal cortex damage. PBA often involves crying. Hence, PBA is mistakable for depression. But PBA is neurological; depression is psychological. Patients with PBA do not experience typical depression symptoms like sleep disturbances or appetite loss.",
+        "label_set": [
+            "BasedOn",
+            "DifferentFrom",
+            "HasPart",
+            "HasCause",
+            "Affiliation",
+            "NamedBy",
+            "Uses",
+            "Causes",
+            "ContributedToCreativeWork",
+            "Studies",
+            "FieldOfWork",
+            "UsedBy",
+            "IssuedBy",
+            "PublishedIn",
+            "HasEffect",
+            "InfluencedBy",
+            "ApprovedBy",
+            "SaidToBeTheSameAs"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "{\n  \"entities\": [\n    {\n      \"id\": 0,\n      \"mentions\": [\"Tears\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 1,\n      \"mentions\": [\"lacrimal glands\", \"tear gland\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 2,\n      \"mentions\": [\"eyes\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 3,\n      \"mentions\": [\"land mammals\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 4,\n      \"mentions\": [\"basal tears\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 5,\n      \"mentions\": [\"reflex tears\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 6,\n      \"mentions\": [\"emotional tears\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 7,\n      \"mentions\": [\"water\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 8,\n      \"mentions\": [\"electrolytes\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 9,\n      \"mentions\": [\"proteins\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 10,\n      \"mentions\": [\"lipids\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 11,\n      \"mentions\": [\"mucins\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 12,\n      \"mentions\": [\"lipid\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 13,\n      \"mentions\": [\"aqueous\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 14,\n      \"mentions\": [\"mucous\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 15,\n      \"mentions\": [\"adrenocorticotropic hormone\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 16,\n      \"mentions\": [\"leucine enkephalin\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 17,\n      \"mentions\": [\"lacrimal fluid\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 18,\n      \"mentions\": [\"lacrimal lake\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 19,\n      \"mentions\": [\"lacrimal papilla\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 20,\n      \"mentions\": [\"lacrimal canaliculi\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 21,\n      \"mentions\": [\"lacrimal punctum\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 22,\n      \"mentions\": [\"lacrimal sac\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 23,\n      \"mentions\": [\"nasolacrimal duct\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 24,\n      \"mentions\": [\"nasal cavity\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 25,\n      \"mentions\": [\"nictitating membrane\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 26,\n      \"mentions\": [\"trigeminal V1\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 27,\n      \"mentions\": [\"fifth cranial nerve\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 28,\n      \"mentions\": [\"petrosal nerve\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 29,\n      \"mentions\": [\"cranial nerve VII\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 30,\n      \"mentions\": [\"Bogorad's syndrome\", \"Crocodile Tears Syndrome\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 31,\n      \"mentions\": [\"Bell's palsy\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 32,\n      \"mentions\": [\"F. A. Bogorad\"],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 33,\n      \"mentions\": [\"Keratoconjunctivitis sicca\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 34,\n      \"mentions\": [\"Meibomian gland\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 35,\n      \"mentions\": [\"Familial dysautonomia\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 36,\n      \"mentions\": [\"Alacrima\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 37,\n      \"mentions\": [\"Epiphora\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 38,\n      \"mentions\": [\"Pseudobulbar affect\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 39,\n      \"mentions\": [\"prefrontal cortex\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 40,\n      \"mentions\": [\"sleep disturbances\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 41,\n      \"mentions\": [\"appetite loss\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 42,\n      \"mentions\": [\"Re-evaluation Counseling\"],\n      \"type\": \"org\"\n    },\n    {\n      \"id\": 43,\n      \"mentions\": [\"Ancient Greek\"],\n      \"type\": \"norp\"\n    },\n    {\n      \"id\": 44,\n      \"mentions\": [\"tear film\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 45,\n      \"mentions\": [\"lacrimal nucleus\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 46,\n      \"mentions\": [\"superior salivary nucleus\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 47,\n      \"mentions\": [\"salivary glands\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 48,\n      \"mentions\": [\"stress hormone levels\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 49,\n      \"mentions\": [\"quality of vision\"],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 50,\n      \"mentions\": [\"depression\"],\n      \"type\": \"misc\"\n    }\n  ],\n  \"triples\": [\n    {\n      \"head\": \"Tears\",\n      \"relation\": \"HasPart\",\n      \"tail\": \"water\"\n    },\n    {\n      \"head\": \"Tears\",\n      \"relation\": \"HasPart\",\n      \"tail\": \"electrolytes\"\n    },\n    {\n      \"head\": \"Tears\",\n      \"relation\": \"HasPart\",\n      \"tail\": \"proteins\"\n    },\n    {\n      \"head\": \"Tears\",\n      \"relation\": \"HasPart\",\n      \"tail\": \"lipids\"\n    },\n    {\n      \"head\": \"Tears\",\n      \"relation\": \"HasPart\",\n      \"tail\": \"mucins\"\n    },\n    {\n      \"head\": \"lacrimal glands\",\n      \"relation\": \"Causes\",\n      \"tail\": \"lacrimal fluid\"\n    },\n    {\n      \"head\": \"emotional tears\",\n      \"relation\": \"HasEffect\",\n      \"tail\": \"stress hormone levels\"\n    },\n    {\n      \"head\": \"lacrimal canaliculi\",\n      \"relation\": \"HasPart\",\n      \"tail\": \"lacrimal punctum\"\n    },\n    {\n      \"head\": \"tear film\",\n      \"relation\": \"HasEffect\",\n      \"tail\": \"quality of vision\"\n    },\n    {\n      \"head\": \"Pseudobulbar affect\",\n      \"relation\": \"DifferentFrom\",\n      \"tail\": \"depression\"\n    }\n  ]\n}",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Tears"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "lacrimal glands",
+                    "tear gland"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "eyes"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "land mammals"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "basal tears"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "reflex tears"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "emotional tears"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "water"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "electrolytes"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "proteins"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "lipids"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "mucins"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "lipid"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "aqueous"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "mucous"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "adrenocorticotropic hormone"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "leucine enkephalin"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "lacrimal fluid"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "lacrimal lake"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "lacrimal papilla"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "lacrimal canaliculi"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "lacrimal punctum"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "lacrimal sac"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "nasolacrimal duct"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "nasal cavity"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "nictitating membrane"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "trigeminal V1"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "fifth cranial nerve"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "petrosal nerve"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "cranial nerve VII"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "Bogorad's syndrome",
+                    "Crocodile Tears Syndrome"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "Bell's palsy"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "F. A. Bogorad"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "Keratoconjunctivitis sicca"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "Meibomian gland"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "Familial dysautonomia"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "Alacrima"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "Epiphora"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "Pseudobulbar affect"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "prefrontal cortex"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "sleep disturbances"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "appetite loss"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "Re-evaluation Counseling"
+                ],
+                "type": "org"
+            },
+            {
+                "id": 43,
+                "mentions": [
+                    "Ancient Greek"
+                ],
+                "type": "norp"
+            },
+            {
+                "id": 44,
+                "mentions": [
+                    "tear film"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 45,
+                "mentions": [
+                    "lacrimal nucleus"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 46,
+                "mentions": [
+                    "superior salivary nucleus"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 47,
+                "mentions": [
+                    "salivary glands"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 48,
+                "mentions": [
+                    "stress hormone levels"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 49,
+                "mentions": [
+                    "quality of vision"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 50,
+                "mentions": [
+                    "depression"
+                ],
+                "type": "misc"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Tears",
+                "relation": "HasPart",
+                "tail": "water"
+            },
+            {
+                "head": "Tears",
+                "relation": "HasPart",
+                "tail": "electrolytes"
+            },
+            {
+                "head": "Tears",
+                "relation": "HasPart",
+                "tail": "proteins"
+            },
+            {
+                "head": "Tears",
+                "relation": "HasPart",
+                "tail": "lipids"
+            },
+            {
+                "head": "Tears",
+                "relation": "HasPart",
+                "tail": "mucins"
+            },
+            {
+                "head": "lacrimal glands",
+                "relation": "Causes",
+                "tail": "lacrimal fluid"
+            },
+            {
+                "head": "emotional tears",
+                "relation": "HasEffect",
+                "tail": "stress hormone levels"
+            },
+            {
+                "head": "lacrimal canaliculi",
+                "relation": "HasPart",
+                "tail": "lacrimal punctum"
+            },
+            {
+                "head": "tear film",
+                "relation": "HasEffect",
+                "tail": "quality of vision"
+            },
+            {
+                "head": "Pseudobulbar affect",
+                "relation": "DifferentFrom",
+                "tail": "depression"
+            }
+        ]
+    }
+]

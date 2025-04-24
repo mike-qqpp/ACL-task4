@@ -1,0 +1,315 @@
+[
+    {
+        "id": "Geography_0",
+        "domain": "Geography",
+        "title": "Age_of_Sail",
+        "doc": "The Age of Sail is a period in European history that lasted at the latest from the mid-16th (or mid-15th) to the mid-19th centuries, in which the dominance of sailing ships in global trade and warfare culminated, particularly marked by the introduction of naval artillery, and ultimately reached its highest extent at the advent of steam power. Enabled by the advances of the related Age of Navigation, it is identified as a distinctive element of the early modern period and the Age of Discovery.\nLike most periodic eras, defining the age is inexact and serves only as a general description. The term is used differently for warships and merchant vessels.By the 14th century naval artillery was employed in Europe, documented at the Battle of Arnemuiden (1338). The 15th century saw the Iberian naval ventures all the way along the African Atlantic coast and across the Atlantic Ocean, starting the Age of Discovery.\nFor warships, the age of sail runs roughly from the Battle of Lepanto in 1571, the last significant engagement in which oar-propelled galleys played a major role, to the development of steam-powered warships.\nThe period between the mid-19th century to the early 20th century, when sailing vessels reached their peak of size and complexity (e.g. clippers and windjammers), is sometimes referred to as the \"Golden Age of Sail\".The second sea-going steamboat was Richard Wright's first steamboat Experiment, an ex-French lugger; she steamed from Leeds to Yarmouth in July 1813. The first iron steamship to go to sea was the 116-ton Aaron Manby, built in 1821 by Aaron Manby at the Horseley Ironworks, and became the first iron-built vessel to put to sea when she crossed the English Channel in 1822, arriving in Paris on 22 June. She carried passengers and freight to Paris in 1822 at an average speed of 8 knots (9 mph, 14 km/h). The first purpose-built steam battleship was the 90-gun Napoléon in 1850. Multiple steam battleships saw action during the Crimean War, especially the Allied (British, French and Ottoman) fleet Bombardment of Sevastopol as part of the Siege of Sevastopol (1854:1855). The first ironclad battleship, Gloire, was launched by the French Navy in November 1859. In the March 1862 Battle of Hampton Roads, the ironclad CSS Virginia fought USS Monitor, making this the first fight between ironclads.\nThe Suez Canal in the Middle East, which opened in 1869, was more practical for steamships than for sailing ships, achieving a much shorter European-Asian sea route, which coincided with more fuel-efficient steamships, starting with Agamemnon in 1865.\nBy 1873, the Age of Sail for warships had ended, with HMS Devastation commissioned in 1871. Devastation was the first class of ocean-going battleships that did not carry sails.\nSailing ships continued to be an economical way to transport bulk cargo on long voyages into the 1920s and 1930s, though steamships soon pushed them out of those trades as well. Sailing ships do not require fuel or complex engines to be powered; thus they tended to be more independent from sophisticated dedicated support bases on land. Crucially though, steam-powered ships held a speed advantage and were rarely hindered by adverse winds, freeing steam-powered vessels from the necessity of following trade winds. As a result, cargo and supplies could reach a foreign port in a fraction of the time it took a sailing ship.\nSailing vessels were pushed into narrower and narrower economic niches and gradually disappeared from commercial trade. Today, sailing vessels are only economically viable for small-scale coastal fishing, along with recreational uses such as yachting and passenger sail excursion ships.\nIn recent decades, the commercial shipping industry has been reviving interest in wind assisted ships as a way to conserve fuel in the interest of sustainability.\nA New Age of Sail has been predicted by some experts to occur by 2030, driven by a revolution in energy technology and a desire to reduce carbon emissions from maritime shipping through wind-assisted propulsion. The book Trade Winds: A Voyage to a Sustainable Future for Shipping discusses the potential of a return to wind propulsion through the firsthand experiences of Christiaan De Beukelaer, who spent five months aboard a sailing cargo ship in 2020.",
+        "label_set": [
+            "diplomatic relation",
+            "lowest point",
+            "country",
+            "family name",
+            "contains",
+            "history of topic",
+            "located in or next to body of water",
+            "contains the administrative territorial entity",
+            "located in the administrative territorial entity",
+            "continent",
+            "follows",
+            "different from",
+            "place of birth",
+            "basin country",
+            "capital",
+            "place of death",
+            "has part(s)",
+            "endemic to",
+            "opposite of",
+            "official language",
+            "capital of",
+            "language used",
+            "field of work",
+            "country of origin",
+            "shares border with",
+            "country of citizenship",
+            "mountain range",
+            "facet of"
+        ],
+        "entity_label_set": [
+            "natural number",
+            "facility",
+            "academic discipline",
+            "non-urban municipality in germany",
+            "scholarly article",
+            "work of art",
+            "century",
+            "study type",
+            "type of policy",
+            "field of work",
+            "ship type",
+            "quantity",
+            "human population",
+            "language",
+            "event",
+            "branch of geography",
+            "location",
+            "school of education",
+            "scientific journal",
+            "law",
+            "date",
+            "feature type",
+            "state in the holy roman empire",
+            "document",
+            "percent",
+            "nationality or religious or political group",
+            "business",
+            "scholarly chapter",
+            "organisms known by a particular common name",
+            "geo-political entity",
+            "ship element",
+            "person",
+            "taxon",
+            "track gauge",
+            "web browser",
+            "time",
+            "school subject",
+            "topic",
+            "blockhouse",
+            "country",
+            "natural language",
+            "misc",
+            "era",
+            "extinct language",
+            "organization",
+            "product",
+            "geographic coordinate system",
+            "genre",
+            "aircraft lift-power class"
+        ],
+        "res": "{\n  \"entities\": [\n    {\n      \"id\": 0,\n      \"mentions\": [\n        \"Age of Sail\"\n      ],\n      \"type\": \"era\"\n    },\n    {\n      \"id\": 1,\n      \"mentions\": [\n        \"Age of Navigation\"\n      ],\n      \"type\": \"era\"\n    },\n    {\n      \"id\": 2,\n      \"mentions\": [\n        \"Age of Discovery\"\n      ],\n      \"type\": \"era\"\n    },\n    {\n      \"id\": 3,\n      \"mentions\": [\n        \"Battle of Arnemuiden\"\n      ],\n      \"type\": \"event\"\n    },\n    {\n      \"id\": 4,\n      \"mentions\": [\n        \"Battle of Lepanto\"\n      ],\n      \"type\": \"event\"\n    },\n    {\n      \"id\": 5,\n      \"mentions\": [\n        \"Battle of Hampton Roads\"\n      ],\n      \"type\": \"event\"\n    },\n    {\n      \"id\": 6,\n      \"mentions\": [\n        \"Richard Wright's first steamboat Experiment\"\n      ],\n      \"type\": \"ship type\"\n    },\n    {\n      \"id\": 7,\n      \"mentions\": [\n        \"Aaron Manby\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 8,\n      \"mentions\": [\n        \"Horseley Ironworks\"\n      ],\n      \"type\": \"facility\"\n    },\n    {\n      \"id\": 9,\n      \"mentions\": [\n        \"English Channel\"\n      ],\n      \"type\": \"location\"\n    },\n    {\n      \"id\": 10,\n      \"mentions\": [\n        \"Paris\"\n      ],\n      \"type\": \"location\"\n    },\n    {\n      \"id\": 11,\n      \"mentions\": [\n        \"Napoléon\"\n      ],\n      \"type\": \"ship type\"\n    },\n    {\n      \"id\": 12,\n      \"mentions\": [\n        \"Crimean War\"\n      ],\n      \"type\": \"event\"\n    },\n    {\n      \"id\": 13,\n      \"mentions\": [\n        \"Bombardment of Sevastopol\"\n      ],\n      \"type\": \"event\"\n    },\n    {\n      \"id\": 14,\n      \"mentions\": [\n        \"Siege of Sevastopol\"\n      ],\n      \"type\": \"event\"\n    },\n    {\n      \"id\": 15,\n      \"mentions\": [\n        \"Gloire\"\n      ],\n      \"type\": \"ship type\"\n    },\n    {\n      \"id\": 16,\n      \"mentions\": [\n        \"CSS Virginia\"\n      ],\n      \"type\": \"ship type\"\n    },\n    {\n      \"id\": 17,\n      \"mentions\": [\n        \"USS Monitor\"\n      ],\n      \"type\": \"ship type\"\n    },\n    {\n      \"id\": 18,\n      \"mentions\": [\n        \"Suez Canal\"\n      ],\n      \"type\": \"facility\"\n    },\n    {\n      \"id\": 19,\n      \"mentions\": [\n        \"Middle East\"\n      ],\n      \"type\": \"location\"\n    },\n    {\n      \"id\": 20,\n      \"mentions\": [\n        \"Agamemnon\"\n      ],\n      \"type\": \"ship type\"\n    },\n    {\n      \"id\": 21,\n      \"mentions\": [\n        \"HMS Devastation\"\n      ],\n      \"type\": \"ship type\"\n    },\n    {\n      \"id\": 22,\n      \"mentions\": [\n        \"Leeds\"\n      ],\n      \"type\": \"location\"\n    },\n    {\n      \"id\": 23,\n      \"mentions\": [\n        \"Yarmouth\"\n      ],\n      \"type\": \"location\"\n    },\n    {\n      \"id\": 24,\n      \"mentions\": [\n        \"New Age of Sail\"\n      ],\n      \"type\": \"era\"\n    },\n    {\n      \"id\": 25,\n      \"mentions\": [\n        \"Trade Winds: A Voyage to a Sustainable Future for Shipping\"\n      ],\n      \"type\": \"document\"\n    },\n    {\n      \"id\": 26,\n      \"mentions\": [\n        \"Christiaan De Beukelaer\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 27,\n      \"mentions\": [\n        \"France\"\n      ],\n      \"type\": \"country\"\n    }\n  ],\n  \"triples\": [\n    {\n      \"head\": \"Gloire\",\n      \"relation\": \"country\",\n      \"tail\": \"France\"\n    },\n    {\n      \"head\": \"New Age of Sail\",\n      \"relation\": \"follows\",\n      \"tail\": \"Age of Sail\"\n    },\n    {\n      \"head\": \"CSS Virginia\",\n      \"relation\": \"opposite of\",\n      \"tail\": \"USS Monitor\"\n    },\n    {\n      \"head\": \"Suez Canal\",\n      \"relation\": \"located in or next to body of water\",\n      \"tail\": \"Middle East\"\n    },\n    {\n      \"head\": \"Battle of Lepanto\",\n      \"relation\": \"follows\",\n      \"tail\": \"Battle of Arnemuiden\"\n    }\n  ]\n}",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Age of Sail"
+                ],
+                "type": "era"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Age of Navigation"
+                ],
+                "type": "era"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Age of Discovery"
+                ],
+                "type": "era"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Battle of Arnemuiden"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Battle of Lepanto"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Battle of Hampton Roads"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Richard Wright's first steamboat Experiment"
+                ],
+                "type": "ship type"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Aaron Manby"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Horseley Ironworks"
+                ],
+                "type": "facility"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "English Channel"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Paris"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Napoléon"
+                ],
+                "type": "ship type"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Crimean War"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "Bombardment of Sevastopol"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Siege of Sevastopol"
+                ],
+                "type": "event"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Gloire"
+                ],
+                "type": "ship type"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "CSS Virginia"
+                ],
+                "type": "ship type"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "USS Monitor"
+                ],
+                "type": "ship type"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Suez Canal"
+                ],
+                "type": "facility"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Middle East"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Agamemnon"
+                ],
+                "type": "ship type"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "HMS Devastation"
+                ],
+                "type": "ship type"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "Leeds"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "Yarmouth"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "New Age of Sail"
+                ],
+                "type": "era"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "Trade Winds: A Voyage to a Sustainable Future for Shipping"
+                ],
+                "type": "document"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "Christiaan De Beukelaer"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "France"
+                ],
+                "type": "country"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Gloire",
+                "relation": "country",
+                "tail": "France"
+            },
+            {
+                "head": "New Age of Sail",
+                "relation": "follows",
+                "tail": "Age of Sail"
+            },
+            {
+                "head": "CSS Virginia",
+                "relation": "opposite of",
+                "tail": "USS Monitor"
+            },
+            {
+                "head": "Suez Canal",
+                "relation": "located in or next to body of water",
+                "tail": "Middle East"
+            },
+            {
+                "head": "Battle of Lepanto",
+                "relation": "follows",
+                "tail": "Battle of Arnemuiden"
+            }
+        ]
+    }
+]

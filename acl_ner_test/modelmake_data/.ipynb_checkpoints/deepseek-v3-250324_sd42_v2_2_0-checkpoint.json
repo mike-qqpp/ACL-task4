@@ -1,0 +1,325 @@
+[
+    {
+        "id": "Health_5",
+        "domain": "Health",
+        "title": "Patient_management_software",
+        "doc": "Patient management software (PMS) is referred to as software that is regulated as a medical device. It is software that is used to acquire medical information from a medical device to be used in the treatment or diagnosis of a patient. It can also be software that is an adjunct to a medical device and directly contributes to the treatment of the patient by performing analysis, or providing treatment or diagnosis functionality that replaces the decision and judgment of a physician.\nMedical devices are classified and these classifications became somewhat less restrictive in December, 2010. Regulations provide rules for classifying medical devices into four increasing risk levels : Class I, Class II, Class III, and Class IV. Patient management software is classified as either Class I or Class II. Software that is intended to be used to view images, or other real time data, as an adjunct to the monitoring device itself, for the purpose of aiding in treatment or diagnosis of a patient, would be Class I medical devices. Medical device software that is an adjunct to another medical device and is involved in data manipulation, data analysis, data editing, image generation, determination of measurements, identification of a region of interest in an image, or identification (by an alarm or alert) of results from a monitor that are outside of an established range, is a Class II medical device if it: (1) provides the only means and opportunity to capture or acquire data from a medical device for aiding directly in diagnosis or treatment of a patient; or (2) replaces a diagnostic or treatment decision made by a physician.Examples of patient management software are PACS, remote patient monitoring. Others include any medical device that is used to transmit data from a medical device or analyze data from a medical device such as blood pressure monitors and glucose monitors.\nMany in the health care industry have raised concerns over the quality and software development process of PMS. The development of PMS is often criticized as too focused on simply the software development process and not the product. Much of these concerns are rooted in safety issuesComputerized physician order entry, an example of PMS, highlights some of these safety concerns.\nOther criticisms are aimed at the regulations in place. Some critics argue that regulations stifle innovation and that vendors will no longer have any incentive to create new products. Also, existing and future products will have to adhere to strict licensing procedures and this may affect the sustainability of these products.\nAnother concern is that the rules are disproportionately strict in comparison to the actual risk associated with a wide variety of eHealth systems and this may prevent companies from initiating the development of new products.\nRegulation of patient management software applies to anyone importing, distributing or selling the software. Health Canada is responsible for regulating the sale, advertising and distribution of patient management software in Canada. Regulated software is classified based on risk increasing from Class I to Class II.The type of license required depends on the classification of the software. An establishment license is required from a vendor or manufacturer of Class I PMS and a medical device license is required from a vendor or manufacturer of Class II PMS. ISO 13485 certification is required of manufacturers of Class II medical devices.\nIn August, 2009, Health Canada which is responsible for regulating the advertising, manufacturing and sale of medical devices in Canada issued a notice confirming that patient management software is a medical device and is subject to the Medical Devices Regulations and the Food and Drugs Act.  The development of the regulation of patient management software as a medical device began three years earlier when a company called MedManager created a patient portal technology that was deemed a Class II medical device and subject to regulation by Health Canada. Developments had taken place thereafter, to indicate that medical device classification include patient management software. A notice was officially released by Health Canada in August, 2009 indicating that patient management software was indeed a medical device.Therefore, organizations that import, sell or otherwise distribute Class I patient management software must have an establishment license and Class II patient management software must have a medical device licence. In order to obtain a medical device licence, manufacturers must hold a quality management system (QMS) certificate issued by an accredited registrar showing that the QMS is compliant with ISO 13485 Medical devices : Quality management systems : requirements for regulatory purposes. Organizations are also required to perform certain post-market responsibilities such as maintaining distribution and complaint handling records, mandatory problem reporting and recalls.\nIn December, 2010, a notice was released by Health Canada further clarifying the definition, classification and licensing requirements of software regulated as a medical device. For example, software used to transmit data from a medical device, or software that analyzes data from a medical device and makes diagnostic or treatment decisions normally made by a physician, would be considered software regulated as a medical device. A product that only stores and displays patient information is not a medical device. Examples of software that are not medical devices are middleware, EHR's including those that are custom built for use only within the organization, applications that perform administrative calculations and manipulations (such as determining time between appointments, or workflow management), the Wii Fit video game, personal BMI calculators and pedometer software used for fitness. The regulations apply to software that is distributed with or without compensation.\n",
+        "label_set": [
+            "diplomatic relation",
+            "subclass of",
+            "country",
+            "founded by",
+            "place of publication",
+            "applies to jurisdiction",
+            "has effect",
+            "symptoms and signs",
+            "contains the administrative territorial entity",
+            "located in the administrative territorial entity",
+            "different from",
+            "measurement scale",
+            "historic county",
+            "location",
+            "instance of",
+            "medical examination",
+            "has part(s)",
+            "influenced by",
+            "allegiance",
+            "significant event",
+            "main subject",
+            "found in taxon",
+            "part of",
+            "risk factor"
+        ],
+        "entity_label_set": [
+            "business process",
+            "psychology concept",
+            "facility",
+            "event",
+            "biomedical measurand type",
+            "anatomical structure",
+            "date",
+            "state",
+            "academic discipline",
+            "notifiable disease",
+            "location",
+            "nationality or religious or political group",
+            "infectious disease",
+            "business",
+            "educational year",
+            "geo-political entity",
+            "organisms known by a particular common name",
+            "continent",
+            "emerging communicable disease",
+            "medical test type",
+            "master's thesis",
+            "time",
+            "scholarly article",
+            "clinical trial",
+            "industry",
+            "rare disease",
+            "misc",
+            "group or class of strains",
+            "television series episode",
+            "natural number",
+            "field of work",
+            "new zealand statutory regulation",
+            "moment magnitude scale",
+            "gene",
+            "organization",
+            "culture",
+            "person",
+            "quantity",
+            "product",
+            "protein",
+            "structural class of chemical entities",
+            "designated intractable/rare disease",
+            "tram stop",
+            "physiological plant disorder",
+            "type of chemical entity",
+            "submarine class",
+            "performance indicator",
+            "law",
+            "item of collection or exhibition",
+            "cell type",
+            "hyphenated technique",
+            "device",
+            "measure",
+            "daily newspaper",
+            "protective device",
+            "end",
+            "symptom or sign",
+            "taxon",
+            "negative emotion",
+            "musical",
+            "act of the parliament of england",
+            "class of disease",
+            "work of art",
+            "professional certification"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\"Patient management software\"],\n            \"type\": \"product\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\"PMS\"],\n            \"type\": \"product\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\"medical device\"],\n            \"type\": \"device\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\"Class I\"],\n            \"type\": \"class of disease\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\"Class II\"],\n            \"type\": \"class of disease\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\"Class III\"],\n            \"type\": \"class of disease\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\"Class IV\"],\n            \"type\": \"class of disease\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\"PACS\"],\n            \"type\": \"product\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\"remote patient monitoring\"],\n            \"type\": \"product\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\"blood pressure monitors\"],\n            \"type\": \"device\"\n        },\n        {\n            \"id\": 10,\n            \"mentions\": [\"glucose monitors\"],\n            \"type\": \"device\"\n        },\n        {\n            \"id\": 11,\n            \"mentions\": [\"Computerized physician order entry\"],\n            \"type\": \"product\"\n        },\n        {\n            \"id\": 12,\n            \"mentions\": [\"Health Canada\"],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 13,\n            \"mentions\": [\"MedManager\"],\n            \"type\": \"organization\"\n        },\n        {\n            \"id\": 14,\n            \"mentions\": [\"ISO 13485\"],\n            \"type\": \"professional certification\"\n        },\n        {\n            \"id\": 15,\n            \"mentions\": [\"December, 2010\"],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 16,\n            \"mentions\": [\"August, 2009\"],\n            \"type\": \"date\"\n        },\n        {\n            \"id\": 17,\n            \"mentions\": [\"Canada\"],\n            \"type\": \"geo-political entity\"\n        },\n        {\n            \"id\": 18,\n            \"mentions\": [\"Food and Drugs Act\"],\n            \"type\": \"law\"\n        },\n        {\n            \"id\": 19,\n            \"mentions\": [\"Medical Devices Regulations\"],\n            \"type\": \"law\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"Patient management software\",\n            \"relation\": \"instance of\",\n            \"tail\": \"medical device\"\n        },\n        {\n            \"head\": \"PMS\",\n            \"relation\": \"subclass of\",\n            \"tail\": \"Patient management software\"\n        },\n        {\n            \"head\": \"medical device\",\n            \"relation\": \"has part(s)\",\n            \"tail\": \"Class I\"\n        },\n        {\n            \"head\": \"medical device\",\n            \"relation\": \"has part(s)\",\n            \"tail\": \"Class II\"\n        },\n        {\n            \"head\": \"medical device\",\n            \"relation\": \"has part(s)\",\n            \"tail\": \"Class III\"\n        },\n        {\n            \"head\": \"medical device\",\n            \"relation\": \"has part(s)\",\n            \"tail\": \"Class IV\"\n        },\n        {\n            \"head\": \"PACS\",\n            \"relation\": \"instance of\",\n            \"tail\": \"Patient management software\"\n        },\n        {\n            \"head\": \"remote patient monitoring\",\n            \"relation\": \"instance of\",\n            \"tail\": \"Patient management software\"\n        },\n        {\n            \"head\": \"blood pressure monitors\",\n            \"relation\": \"instance of\",\n            \"tail\": \"medical device\"\n        },\n        {\n            \"head\": \"glucose monitors\",\n            \"relation\": \"instance of\",\n            \"tail\": \"medical device\"\n        },\n        {\n            \"head\": \"Computerized physician order entry\",\n            \"relation\": \"instance of\",\n            \"tail\": \"PMS\"\n        },\n        {\n            \"head\": \"Health Canada\",\n            \"relation\": \"located in the administrative territorial entity\",\n            \"tail\": \"Canada\"\n        },\n        {\n            \"head\": \"MedManager\",\n            \"relation\": \"founded by\",\n            \"tail\": \"Health Canada\"\n        },\n        {\n            \"head\": \"ISO 13485\",\n            \"relation\": \"applies to jurisdiction\",\n            \"tail\": \"Canada\"\n        },\n        {\n            \"head\": \"Patient management software\",\n            \"relation\": \"has effect\",\n            \"tail\": \"medical device\"\n        },\n        {\n            \"head\": \"Medical Devices Regulations\",\n            \"relation\": \"part of\",\n            \"tail\": \"Food and Drugs Act\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Patient management software"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "PMS"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "medical device"
+                ],
+                "type": "device"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Class I"
+                ],
+                "type": "class of disease"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Class II"
+                ],
+                "type": "class of disease"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Class III"
+                ],
+                "type": "class of disease"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Class IV"
+                ],
+                "type": "class of disease"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "PACS"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "remote patient monitoring"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "blood pressure monitors"
+                ],
+                "type": "device"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "glucose monitors"
+                ],
+                "type": "device"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Computerized physician order entry"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Health Canada"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "MedManager"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "ISO 13485"
+                ],
+                "type": "professional certification"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "December, 2010"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "August, 2009"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "Canada"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Food and Drugs Act"
+                ],
+                "type": "law"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Medical Devices Regulations"
+                ],
+                "type": "law"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Patient management software",
+                "relation": "instance of",
+                "tail": "medical device"
+            },
+            {
+                "head": "PMS",
+                "relation": "subclass of",
+                "tail": "Patient management software"
+            },
+            {
+                "head": "medical device",
+                "relation": "has part(s)",
+                "tail": "Class I"
+            },
+            {
+                "head": "medical device",
+                "relation": "has part(s)",
+                "tail": "Class II"
+            },
+            {
+                "head": "medical device",
+                "relation": "has part(s)",
+                "tail": "Class III"
+            },
+            {
+                "head": "medical device",
+                "relation": "has part(s)",
+                "tail": "Class IV"
+            },
+            {
+                "head": "PACS",
+                "relation": "instance of",
+                "tail": "Patient management software"
+            },
+            {
+                "head": "remote patient monitoring",
+                "relation": "instance of",
+                "tail": "Patient management software"
+            },
+            {
+                "head": "blood pressure monitors",
+                "relation": "instance of",
+                "tail": "medical device"
+            },
+            {
+                "head": "glucose monitors",
+                "relation": "instance of",
+                "tail": "medical device"
+            },
+            {
+                "head": "Computerized physician order entry",
+                "relation": "instance of",
+                "tail": "PMS"
+            },
+            {
+                "head": "Health Canada",
+                "relation": "located in the administrative territorial entity",
+                "tail": "Canada"
+            },
+            {
+                "head": "MedManager",
+                "relation": "founded by",
+                "tail": "Health Canada"
+            },
+            {
+                "head": "ISO 13485",
+                "relation": "applies to jurisdiction",
+                "tail": "Canada"
+            },
+            {
+                "head": "Patient management software",
+                "relation": "has effect",
+                "tail": "medical device"
+            },
+            {
+                "head": "Medical Devices Regulations",
+                "relation": "part of",
+                "tail": "Food and Drugs Act"
+            }
+        ]
+    }
+]

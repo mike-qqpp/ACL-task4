@@ -1,0 +1,282 @@
+[
+    {
+        "domain": "Human_behavior",
+        "title": "Behavioral_change_support_system",
+        "doc": "A Behavioral Change Support System (BCSS) is any information and communications technology (ICT) tool, web platform, or gamified environment which targets behavioral changes in its end-users. BCSS are built upon persuasive systems design techniques.\nThe design of these systems and their contents are based on behavioral change theories and models for behavioral change over time. The theory of planned behavior describes the relationship between attitudes, intentions, and the desired behavior. It is considered to be one of the most influential determinant models.A supporting model is the Fogg Behaviour Model (FBM), which states that a user must be motivated first before having the ability to perform the change in their behavior, which is triggered by either intrinsic or extrinsic factors (The term \"trigger\" was changed by the author in late 2017 and the term \"prompt\" is now being used). BCSS makes use of extrinsic (perceptual) prompts like alarms, messages with offers or calls to action, ads, requests, and more.\nOther theories that aid in the design and mechanisms behind a BCSS include the social learning theory (SLT), which studies the interactions between a user and the environment, and the theory of planned behavior (initiated as the theory of reasoned action).\nApplications of BCSS may include game and training elements in several market domains which can range from Health and Education and Quality of Life (QoL), to professional development and workability. Virtually any concept designed to cause a shift in a person's behavior can be considered a BCSS, even if this change is not directly observed by the users. When users are aware of this intention and choose to work within the system, the chances of favorable results from this system increase. This effect is attributed to metacognition, as most BCSS systems implement metacognitive strategies for goal attainment. These strategies help users understand the cause of their resistance to adopting the desired behavior. It requires that they monitor themselves whenever the targeted behavior can be observed to understand their progress towards the desired behavior, and record evidence (usually objective but also subjective measurements) of their behavioral changes.There can be a positive impact on people who have difficulties in changing their behavior by considering behaviors and the distance to the desired behavior. This can be achieved by helping them develop a personalized plan for reaching the targeted behavior and learning the ways to achieve their personal goals. In most cases, the general objective can be split into more than one objective or step, before the desired behavior is adopted by the users and becomes a routine. The positive feedback introduces self-management in BCSS applications since it is particularly helpful for people to take responsibility for their own actions and do things to the best of their ability. BCSS is very often equipped with additional features like game elements to foster user engagement leading to serious game applications. Moreover, they implement machine learning techniques to predict the future behavior of users based on their past performance. The evidence of the achieved change in behavior, as well as important notifications during self-evaluation, are communicated with visual analytics tools such as performance graphs. Additional tools frequently found in BCSS include checklists and questionnaires to collect users' feedback, hardware sensing components like the Internet of things (IoT) devices (e.g., cameras), and social collaboration to help the members of a user community to support each other. Occasionally, some BCSS allow professionals (trainers, educators, medical personnel and social professionals) to participate in the BCSS activities. This can be done by giving advice and support and also by making decisions and alterations to the treatment plan according to the observed performance and the personal needs of the targeted users.\nMost BCSSes work on a single profile (targeted user), while some can monitor and report progress made by a group of people. There are BCSS applications purely made using software, while others include hardware components like sensors and IoT devices to introduce physical computing in a hybrid physical-digital approach. The devices used to access a BCSS are usually internet-connected mobile devices like smartphones, tablets, or smartwatches. The success in this category of BCSS applications lies in monitoring and notifying the users constantly in regards to daily activities. On the other hand, there are BCSSes which are less intrusive and rely on less frequent access to the system. Another way to distinguish BCSSes is by the knowledge domain they refer to. Theoretically, a BCSS can be built in any knowledge domain.Examples of BCSS applied in eHealth domains include CAREGIVERSPRO-MMD, which is a community-based intervention to support people living with dementia and their caregivers using game elements to engage users in non-pharmacological interventions; iLift, which trains nurses in lifting and transfer techniques to prevent lower-back injuries, and We4Fit which is more like a game environment. A more extensive review of health BCSS can be found on the work of Alahäivälä & Oinas-Kukkonen (2016) and Bridle et al. (2005).As Arlinghaus and Johnston implied, “Although not sufficient, education is a necessary component for behaviour change” (2018). BCSSes are used in education less for imparting knowledge and testing knowledge gained, and more for teaching a difficult subject like \"responsible sexual behaviour\" in middle-school students, or for changing attitudes and beliefs about a topic of interest.Adopting new behavioral patterns is difficult and people are not motivated to change their behavior if they do not recognize the blocking issue. Gamification is used to help recognition by providing rewards, competition, and motivational cues of a BCSS. Prochaska et al. (2007) proposed a six-stage behavioral change model (pre-contemplation, contemplation, preparation, action, maintenance, and termination) which can be applied in educational uses of a BCSS, as it appears in an ideal environment for making the first step (contemplation) after a long period of resistance (pre-contemplation). BCSSes affect the physical world and help people experiment with an alternative behavioral pattern without thinking of possible coincidences (such as social exposure). The virtual activities performed in a BCSS help in the next step (preparation) where the user makes a transition from a passive to an active state in a safe environment. The user-monitoring and reward system of a BCSS helps users complete the rest of the stages of the behavior change (action, maintenance, and termination) and avoid regression to the previous unwanted behavior. Schmied (2017) proposes a similar seven-step process: the Designing for Behaviour Change (DBC) framework. Overall, a positive behavioral change in education settings is facilitated by technology through digital intervention strategies, where a teacher or educator makes adjustments to personalize the interventions to the student's profiles and performance. Although ICT tools may not be necessary to change behavior in schools, when used in the form of serious game-assisted learning, they can provide a more in-depth perception of important concepts in a field of study despite some disadvantages.\nBCSS has been applied in other knowledge and study areas, including workers' behaviour, consumers' brand-loyalty, and CO2 footprints and energy consumption. Examples include applications designed to raise water-saving awareness, apps used by drivers to reduce fuel consumption by adopting an eco-friendly driving style, and educational games for simulating energy consumption in domestic environments like in Casals et al. (2017). A systematic review of the application of game elements to behavioural change in domestic energy consumption can be found in Johnson et al. (2017) An example from the Industry 4.0 domain is SATISFACTORY, which proposes a gamified social collaboration platform that is integrated into the shop-floor of industries to improve productivity, safety and workers' engagement. In the marketing context, behavioural change techniques do not aim to change the way people think, but how they consume products and services. In politics, behavioural change interventions are delivered in the form of mass-media campaigns on existing social media platforms rather than standalone applications.Overall, there is a continually growing number of domains in which ICT tools are introduced as tools to implement and deliver behavioral change campaigns in a systematic way. Some researchers refer to persuasive technology to identify the computer-mediated communication between humans or human-computer interaction technologies used to deliver persuasive evidence. A BCSS should be treated as a more complex ICT-based construct which may use persuasive technologies, but also supports the full life-cycle of behavioral change interventions (from authoring to publishing), implements various campaigns to achieve its goals, and is adaptive to specific user profiles.\nBehavior Change Support Systems have been criticized for a lack of grounding in independent behavioral theory, as well as the lack of industry standards to measure performance or effect. Another source of criticism refers to the dominant behavioral change models as products of the theory of planned behavior. According to some researchers (Kollmus & Agyeman, 2002), there is a gap between attitude and intention, and target behavior. Thus, it is difficult to find a widely accepted model that can take all relevant behavioral parameters into account. Additionally, even if BCSSes help to effect a change in a targeted user's behavior, the user usually fails to maintain the target behavior. This could be the result of underestimating the long-term influence that environmental factors have on behavior.There is currently an open discussion on how intrusive a BCSS should be, but this appears to be dependent upon the physical and social context of the environment in which the BCSS is being used. As BCSS makes use of personal data coming from users' profiles and the user-monitoring system, the use of BCSSes in everyday life may be legally restricted.\n",
+        "label_set": [
+            "BasedOn",
+            "DifferentFrom",
+            "HasPart",
+            "HasCause",
+            "Affiliation",
+            "NamedBy",
+            "Uses",
+            "Causes",
+            "ContributedToCreativeWork",
+            "Studies",
+            "FieldOfWork",
+            "UsedBy",
+            "IssuedBy",
+            "PublishedIn",
+            "HasEffect",
+            "InfluencedBy",
+            "ApprovedBy",
+            "SaidToBeTheSameAs"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "下面给出根据文档抽取出的实体（附上候选的实体类型，仅供参考）和三元组（主语–关系–宾语）示例。实际结果会因 NER 模型和三元组抽取策略不同而有所变化，以下仅为参考示例：\n\n─────────────────────────────  \n【抽取的实体】  \n1. “Behavior Change Support System (BCSS)” – 类型: PRODUCT  \n2. “information and communications technology (ICT)” – 类型: MISC  \n3. “web platform” – 类型: MISC  \n4. “gamified environment” – 类型: MISC  \n5. “persuasive systems design techniques” – 类型: MISC  \n6. “theory of planned behavior” – 类型: WORK_OF_ART  \n7. “Fogg Behaviour Model (FBM)” – 类型: WORK_OF_ART  \n8. “social learning theory (SLT)” – 类型: WORK_OF_ART  \n9. “theory of reasoned action” – 类型: WORK_OF_ART  \n10. “Health” – 类型: MISC  \n11. “Education” – 类型: MISC  \n12. “Quality of Life (QoL)” – 类型: MISC  \n13. “metacognition” – 类型: MISC  \n14. “machine learning techniques” – 类型: MISC  \n15. “visual analytics tools” – 类型: MISC  \n16. “Internet of things (IoT)” – 类型: PRODUCT  \n17. “CAREGIVERSPRO-MMD” – 类型: PRODUCT  \n18. “iLift” – 类型: PRODUCT  \n19. “We4Fit” – 类型: PRODUCT  \n20. “SATISFACTORY” – 类型: PRODUCT  \n21. “extrinsic prompts” – 类型: MISC  \n22. “game elements” – 类型: MISC  \n23. “professionals” – 类型: MISC  \n24. “improved productivity, safety, and workers’ engagement” – 类型: MISC  \n25. “eHealth domains” – 类型: MISC  \n26. “Industry 4.0” – 类型: MISC  \n27. “persuasive technologies” – 类型: MISC  \n28. “Alahäivälä” – 类型: PERSON  \n29. “Oinas-Kukkonen” – 类型: PERSON  \n30. “Bridle” – 类型: PERSON  \n31. “Arlinghaus” – 类型: PERSON  \n32. “Johnston” – 类型: PERSON  \n33. “Prochaska” – 类型: PERSON  \n34. “Schmied” – 类型: PERSON  \n35. “Casals” – 类型: PERSON  \n36. “Johnson” – 类型: PERSON  \n\n─────────────────────────────  \n【抽取的部分三元组关系】  \n（说明：下列关系列举仅为示例，利用文中描述构造出候选三元组关系，关系类型选自给定集合，如 BasedOn、Uses、HasPart、FieldOfWork、HasEffect、UsedBy 等。）\n\n1. 主语: “Behavior Change Support System (BCSS)”  \n   关系: BasedOn  \n   宾语: “persuasive systems design techniques”  \n   —— 表示文中“BCSS are built upon persuasive systems design techniques.”\n\n2. 主语: “Behavior Change Support System (BCSS)”  \n   关系: BasedOn  \n   宾语: “theory of planned behavior”  \n   —— 表示系统设计依托行为改变理论，文中提到“...are based on behavioral change theories”并以“theory of planned behavior”作为代表。\n\n3. 主语: “Behavior Change Support System (BCSS)”  \n   关系: BasedOn  \n   宾语: “Fogg Behaviour Model (FBM)”  \n   —— “A supporting model is the Fogg Behaviour Model …”\n\n4. 主语: “Behavior Change Support System (BCSS)”  \n   关系: BasedOn  \n   宾语: “social learning theory (SLT)”  \n   —— 文中提及另一指导理论。\n\n5. 主语: “Behavior Change Support System (BCSS)”  \n   关系: BasedOn  \n   宾语: “theory of reasoned action”  \n   —— 同样作为设计参考模型之一。\n\n6. 主语: “Behavior Change Support System (BCSS)”  \n   关系: Uses  \n   宾语: “extrinsic prompts”  \n   —— “BCSS makes use of extrinsic (perceptual) prompts …”\n\n7. 主语: “Behavior Change Support System (BCSS)”  \n   关系: HasPart  \n   宾语: “game elements”  \n   —— 说明部分 BCSS 应用中内嵌游戏元素以增加参与度。\n\n8. 主语: “Behavior Change Support System (BCSS)”  \n   关系: Uses  \n   宾语: “machine learning techniques”  \n   —— 文中提到 BCSS “implement machine learning techniques to predict …”\n\n9. 主语: “Behavior Change Support System (BCSS)”  \n   关系: Uses  \n   宾语: “visual analytics tools”  \n   —— 用于传达自我评测中重要通知和数据展示。\n\n10. 主语: “Behavior Change Support System (BCSS)”  \n    关系: Uses  \n    宾语: “Internet of things (IoT)”  \n    —— 多处提及至 IoT（如摄像头、传感器等硬件）的应用。\n\n11. 主语: “Behavior Change Support System (BCSS)”  \n    关系: Uses  \n    宾语: “persuasive technologies”  \n    —— 表明系统除了 ICT 工具外，还利用说服性技术支持行为转变。\n\n12. 主语: “SATISFACTORY”  \n    关系: HasEffect  \n    宾语: “improved productivity, safety, and workers’ engagement”  \n    —— SATISFACTORY 作为 Industry 4.0 领域中的应用，旨在改善车间生产力与员工参与度。\n\n13. 主语: “CAREGIVERSPRO-MMD”  \n    关系: FieldOfWork  \n    宾语: “eHealth domains”  \n    —— 举例说明 BCSS 在健康领域的应用。\n\n14. 主语: “iLift”  \n    关系: FieldOfWork  \n    宾语: “eHealth domains”  \n    —— 同上，说明不同的 eHealth 相关应用。\n\n15. 主语: “We4Fit”  \n    关系: FieldOfWork  \n    宾语: “eHealth domains”  \n\n16. 主语: “Behavior Change Support System (BCSS)”  \n    关系: UsedBy  \n    宾语: “professionals”  \n    —— 文中提到部分 BCSS 允许 “trainers, educators, medical personnel and social professionals” 参与系统活动。\n\n─────────────────────────────  \n最终输出示例（结构化结果）： \n\n{\n  \"entities\": [\n    {\"text\": \"Behavior Change Support System (BCSS)\", \"type\": \"PRODUCT\"},\n    {\"text\": \"information and communications technology (ICT)\", \"type\": \"MISC\"},\n    {\"text\": \"web platform\", \"type\": \"MISC\"},\n    {\"text\": \"gamified environment\", \"type\": \"MISC\"},\n    {\"text\": \"persuasive systems design techniques\", \"type\": \"MISC\"},\n    {\"text\": \"theory of planned behavior\", \"type\": \"WORK_OF_ART\"},\n    {\"text\": \"Fogg Behaviour Model (FBM)\", \"type\": \"WORK_OF_ART\"},\n    {\"text\": \"social learning theory (SLT)\", \"type\": \"WORK_OF_ART\"},\n    {\"text\": \"theory of reasoned action\", \"type\": \"WORK_OF_ART\"},\n    {\"text\": \"Health\", \"type\": \"MISC\"},\n    {\"text\": \"Education\", \"type\": \"MISC\"},\n    {\"text\": \"Quality of Life (QoL)\", \"type\": \"MISC\"},\n    {\"text\": \"metacognition\", \"type\": \"MISC\"},\n    {\"text\": \"machine learning techniques\", \"type\": \"MISC\"},\n    {\"text\": \"visual analytics tools\", \"type\": \"MISC\"},\n    {\"text\": \"Internet of things (IoT)\", \"type\": \"PRODUCT\"},\n    {\"text\": \"CAREGIVERSPRO-MMD\", \"type\": \"PRODUCT\"},\n    {\"text\": \"iLift\", \"type\": \"PRODUCT\"},\n    {\"text\": \"We4Fit\", \"type\": \"PRODUCT\"},\n    {\"text\": \"SATISFACTORY\", \"type\": \"PRODUCT\"},\n    {\"text\": \"extrinsic prompts\", \"type\": \"MISC\"},\n    {\"text\": \"game elements\", \"type\": \"MISC\"},\n    {\"text\": \"professionals\", \"type\": \"MISC\"},\n    {\"text\": \"improved productivity, safety, and workers’ engagement\", \"type\": \"MISC\"},\n    {\"text\": \"eHealth domains\", \"type\": \"MISC\"},\n    {\"text\": \"Industry 4.0\", \"type\": \"MISC\"},\n    {\"text\": \"persuasive technologies\", \"type\": \"MISC\"},\n    {\"text\": \"Alahäivälä\", \"type\": \"PERSON\"},\n    {\"text\": \"Oinas-Kukkonen\", \"type\": \"PERSON\"},\n    {\"text\": \"Bridle\", \"type\": \"PERSON\"},\n    {\"text\": \"Arlinghaus\", \"type\": \"PERSON\"},\n    {\"text\": \"Johnston\", \"type\": \"PERSON\"},\n    {\"text\": \"Prochaska\", \"type\": \"PERSON\"},\n    {\"text\": \"Schmied\", \"type\": \"PERSON\"},\n    {\"text\": \"Casals\", \"type\": \"PERSON\"},\n    {\"text\": \"Johnson\", \"type\": \"PERSON\"}\n  ],\n  \"triples\": [\n    {\n      \"subject\": \"Behavior Change Support System (BCSS)\",\n      \"relation\": \"BasedOn\",\n      \"object\": \"persuasive systems design techniques\"\n    },\n    {\n      \"subject\": \"Behavior Change Support System (BCSS)\",\n      \"relation\": \"BasedOn\",\n      \"object\": \"theory of planned behavior\"\n    },\n    {\n      \"subject\": \"Behavior Change Support System (BCSS)\",\n      \"relation\": \"BasedOn\",\n      \"object\": \"Fogg Behaviour Model (FBM)\"\n    },\n    {\n      \"subject\": \"Behavior Change Support System (BCSS)\",\n      \"relation\": \"BasedOn\",\n      \"object\": \"social learning theory (SLT)\"\n    },\n    {\n      \"subject\": \"Behavior Change Support System (BCSS)\",\n      \"relation\": \"BasedOn\",\n      \"object\": \"theory of reasoned action\"\n    },\n    {\n      \"subject\": \"Behavior Change Support System (BCSS)\",\n      \"relation\": \"Uses\",\n      \"object\": \"extrinsic prompts\"\n    },\n    {\n      \"subject\": \"Behavior Change Support System (BCSS)\",\n      \"relation\": \"HasPart\",\n      \"object\": \"game elements\"\n    },\n    {\n      \"subject\": \"Behavior Change Support System (BCSS)\",\n      \"relation\": \"Uses\",\n      \"object\": \"machine learning techniques\"\n    },\n    {\n      \"subject\": \"Behavior Change Support System (BCSS)\",\n      \"relation\": \"Uses\",\n      \"object\": \"visual analytics tools\"\n    },\n    {\n      \"subject\": \"Behavior Change Support System (BCSS)\",\n      \"relation\": \"Uses\",\n      \"object\": \"Internet of things (IoT)\"\n    },\n    {\n      \"subject\": \"Behavior Change Support System (BCSS)\",\n      \"relation\": \"Uses\",\n      \"object\": \"persuasive technologies\"\n    },\n    {\n      \"subject\": \"SATISFACTORY\",\n      \"relation\": \"HasEffect\",\n      \"object\": \"improved productivity, safety, and workers’ engagement\"\n    },\n    {\n      \"subject\": \"CAREGIVERSPRO-MMD\",\n      \"relation\": \"FieldOfWork\",\n      \"object\": \"eHealth domains\"\n    },\n    {\n      \"subject\": \"iLift\",\n      \"relation\": \"FieldOfWork\",\n      \"object\": \"eHealth domains\"\n    },\n    {\n      \"subject\": \"We4Fit\",\n      \"relation\": \"FieldOfWork\",\n      \"object\": \"eHealth domains\"\n    },\n    {\n      \"subject\": \"Behavior Change Support System (BCSS)\",\n      \"relation\": \"UsedBy\",\n      \"object\": \"professionals\"\n    },\n    {\n      \"subject\": \"SATISFACTORY\",\n      \"relation\": \"FieldOfWork\",\n      \"object\": \"Industry 4.0\"\n    }\n  ]\n}\n\n─────────────────────────────  \n\n注意：  \n• 实体类型的划分可以根据领域知识和 NER 算法进行调整；  \n• 三元组关系的构造依赖于对句子语义和上下文的理解，上述示例仅覆盖文中部分较为明显的关系。",
+        "entities": [
+            {
+                "text": "Behavior Change Support System (BCSS)",
+                "type": "PRODUCT"
+            },
+            {
+                "text": "information and communications technology (ICT)",
+                "type": "MISC"
+            },
+            {
+                "text": "web platform",
+                "type": "MISC"
+            },
+            {
+                "text": "gamified environment",
+                "type": "MISC"
+            },
+            {
+                "text": "persuasive systems design techniques",
+                "type": "MISC"
+            },
+            {
+                "text": "theory of planned behavior",
+                "type": "WORK_OF_ART"
+            },
+            {
+                "text": "Fogg Behaviour Model (FBM)",
+                "type": "WORK_OF_ART"
+            },
+            {
+                "text": "social learning theory (SLT)",
+                "type": "WORK_OF_ART"
+            },
+            {
+                "text": "theory of reasoned action",
+                "type": "WORK_OF_ART"
+            },
+            {
+                "text": "Health",
+                "type": "MISC"
+            },
+            {
+                "text": "Education",
+                "type": "MISC"
+            },
+            {
+                "text": "Quality of Life (QoL)",
+                "type": "MISC"
+            },
+            {
+                "text": "metacognition",
+                "type": "MISC"
+            },
+            {
+                "text": "machine learning techniques",
+                "type": "MISC"
+            },
+            {
+                "text": "visual analytics tools",
+                "type": "MISC"
+            },
+            {
+                "text": "Internet of things (IoT)",
+                "type": "PRODUCT"
+            },
+            {
+                "text": "CAREGIVERSPRO-MMD",
+                "type": "PRODUCT"
+            },
+            {
+                "text": "iLift",
+                "type": "PRODUCT"
+            },
+            {
+                "text": "We4Fit",
+                "type": "PRODUCT"
+            },
+            {
+                "text": "SATISFACTORY",
+                "type": "PRODUCT"
+            },
+            {
+                "text": "extrinsic prompts",
+                "type": "MISC"
+            },
+            {
+                "text": "game elements",
+                "type": "MISC"
+            },
+            {
+                "text": "professionals",
+                "type": "MISC"
+            },
+            {
+                "text": "improved productivity, safety, and workers’ engagement",
+                "type": "MISC"
+            },
+            {
+                "text": "eHealth domains",
+                "type": "MISC"
+            },
+            {
+                "text": "Industry 4.0",
+                "type": "MISC"
+            },
+            {
+                "text": "persuasive technologies",
+                "type": "MISC"
+            },
+            {
+                "text": "Alahäivälä",
+                "type": "PERSON"
+            },
+            {
+                "text": "Oinas-Kukkonen",
+                "type": "PERSON"
+            },
+            {
+                "text": "Bridle",
+                "type": "PERSON"
+            },
+            {
+                "text": "Arlinghaus",
+                "type": "PERSON"
+            },
+            {
+                "text": "Johnston",
+                "type": "PERSON"
+            },
+            {
+                "text": "Prochaska",
+                "type": "PERSON"
+            },
+            {
+                "text": "Schmied",
+                "type": "PERSON"
+            },
+            {
+                "text": "Casals",
+                "type": "PERSON"
+            },
+            {
+                "text": "Johnson",
+                "type": "PERSON"
+            }
+        ],
+        "triples": [
+            {
+                "subject": "Behavior Change Support System (BCSS)",
+                "relation": "BasedOn",
+                "object": "persuasive systems design techniques"
+            },
+            {
+                "subject": "Behavior Change Support System (BCSS)",
+                "relation": "BasedOn",
+                "object": "theory of planned behavior"
+            },
+            {
+                "subject": "Behavior Change Support System (BCSS)",
+                "relation": "BasedOn",
+                "object": "Fogg Behaviour Model (FBM)"
+            },
+            {
+                "subject": "Behavior Change Support System (BCSS)",
+                "relation": "BasedOn",
+                "object": "social learning theory (SLT)"
+            },
+            {
+                "subject": "Behavior Change Support System (BCSS)",
+                "relation": "BasedOn",
+                "object": "theory of reasoned action"
+            },
+            {
+                "subject": "Behavior Change Support System (BCSS)",
+                "relation": "Uses",
+                "object": "extrinsic prompts"
+            },
+            {
+                "subject": "Behavior Change Support System (BCSS)",
+                "relation": "HasPart",
+                "object": "game elements"
+            },
+            {
+                "subject": "Behavior Change Support System (BCSS)",
+                "relation": "Uses",
+                "object": "machine learning techniques"
+            },
+            {
+                "subject": "Behavior Change Support System (BCSS)",
+                "relation": "Uses",
+                "object": "visual analytics tools"
+            },
+            {
+                "subject": "Behavior Change Support System (BCSS)",
+                "relation": "Uses",
+                "object": "Internet of things (IoT)"
+            },
+            {
+                "subject": "Behavior Change Support System (BCSS)",
+                "relation": "Uses",
+                "object": "persuasive technologies"
+            },
+            {
+                "subject": "SATISFACTORY",
+                "relation": "HasEffect",
+                "object": "improved productivity, safety, and workers’ engagement"
+            },
+            {
+                "subject": "CAREGIVERSPRO-MMD",
+                "relation": "FieldOfWork",
+                "object": "eHealth domains"
+            },
+            {
+                "subject": "iLift",
+                "relation": "FieldOfWork",
+                "object": "eHealth domains"
+            },
+            {
+                "subject": "We4Fit",
+                "relation": "FieldOfWork",
+                "object": "eHealth domains"
+            },
+            {
+                "subject": "Behavior Change Support System (BCSS)",
+                "relation": "UsedBy",
+                "object": "professionals"
+            },
+            {
+                "subject": "SATISFACTORY",
+                "relation": "FieldOfWork",
+                "object": "Industry 4.0"
+            }
+        ]
+    }
+]

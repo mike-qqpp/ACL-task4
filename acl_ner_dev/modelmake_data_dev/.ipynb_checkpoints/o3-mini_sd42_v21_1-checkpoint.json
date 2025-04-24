@@ -1,0 +1,302 @@
+[
+    {
+        "domain": "Human_behavior",
+        "title": "Crowd_collapses_and_crushes",
+        "doc": "Crowd collapses and crowd crushes are catastrophic incidents that can occur when a body of people becomes dangerously overcrowded. When numbers are up to about five people per square meter, the environment may feel cramped but manageable; when numbers reach between eight and ten people per square meter, individuals become pressed against each other and may be swept along against their will by the motion of the crowd. Under these conditions, the crowd may undergo a progressive collapse where the pressure pushes people off their feet, resulting in people being trampled or crushed by the weight of other people falling on top of them. At even higher densities, the pressure on each individual can cause them to be crushed or asphyxiated while still upright.\nSuch incidents are invariably the product of organizational failures, and most major crowd disasters could have been prevented by simple crowd management strategies. Such incidents can occur at large gatherings such as sporting, commercial, social, and religious events. The critical factor is crowd density rather than crowd size.\nCrowd collapses and crushes are often reported incorrectly as human stampedes, which typically occur when a large group of people all try to get away from a perceived risk to life.\nOne study has calculated that there were 232 deaths and over 66,000 injuries in the ten years between 1992 and 2002 as a result of such incidents, but crowd scientists believe that such casualties are both vastly under-reported and increasing in frequency. One estimate is that only one in ten crowd injuries occurring in doorbuster sales are reported, while many, if not most, injuries at rock concerts go unreported.The average individual occupies an oval floorspace approximately 30 by 60 centimetres (1 by 2 ft)—0.2 square metres; 2 square feet—and at densities of 1 to 2 per square meter (or per 10 sq ft) individuals can move freely without contact. Even if people are moving quickly, at this density one can avoid obstacles, and the chance of a crowd-related incident is minimal. Even at three or four people per square meter, the risk is low; however, at densities of five per square meter, it becomes more difficult for individuals to move, and at higher densities of six to seven per square meter, individuals become pressed against each other and can be unable to move voluntarily. At this point a crowd can begin to behave like a fluid, with individuals moved about by the pressure of those around them, and shockwaves can pass through the crowd as pressures within the crowd change. This can be highly dangerous, although some people actively seek this experience, such as at rock concerts or football matches, where the excitement, camaraderie, and literally \"going with the flow\" is for some an essential part of the experience, and activities like dancing and moshing are common. The danger inherent in these conditions is that the crowd will collapse in on itself or become so densely packed that individuals are crushed and asphyxiated.A crowd collapse occurs when a crowd is so dense that each individual is touching others all around and is, to an extent, supported by those around. This can occur whether the crowd is moving or stationary. If a person then falls, the support to those around is lost, while the pressure from those further out remains, causing people to fall into the void. This process is then repeated, causing a bigger void, and will progress until the pressure eases; meanwhile, those who have fallen are at risk of being smothered by the weight of bodies on top or being trampled as the crowd is swept over them.An example of a progressive crowd collapse was the 2015 Mina stampede in Mecca, Saudi Arabia during the Hajj when over 2,400 people were reported to have died.\nAt even higher densities (approaching ten people per square metre (one per square foot)) a crowd can become so packed that people are crushed together to such an extent they can no longer breathe and are asphyxiated. Such crowd crushes can occur when a moving crowd is funneled into a smaller and smaller space, when it meets an obstacle (such as a dead end, or a locked door), or when an already densely packed crowd has an influx of people, causing a pressure wave toward those at the front of the crowd. In this situation those entering may be unaware of the effect on those in front and continue to press in.Examples of crushes are the Hillsborough disaster in Sheffield, South Yorkshire, England in 1989, the Love Parade disaster in Duisburg, North Rhine-Westphalia, Germany in 2010, the Astroworld Festival crowd crush in Houston, Texas, and the Itaewon Halloween crowd crush in Itaewon, Seoul, South Korea in 2022.\nThe term \"stampede\" is usually used in reference to animals that are fleeing a threat. Stampede events that involve humans are extremely rare and are unlikely to be fatal. According to Keith Still, professor of crowd science at Manchester Metropolitan University, \"If you look at the analysis, I've not seen any instances of the cause of mass fatalities being a stampede. People don't die because they panic. They panic because they are dying\". Paul Torrens, a professor at the Center for Geospatial Information Science at the University of Maryland, remarks that \"the idea of the hysterical mass is a myth\".  Incidents involving crowds are often reported by media as the results of panic. However, the scientific literature has explained how panic is a myth which is used to mislead the attention of the public from the real causes of crowd incidents, such as a crowd crush.In crowd collapse and crush incidents the most common cause of death is asphyxiation, caused either by vertical stacking, as people fall on top of one another, or by horizontal stacking, where people are crushed together or against an unyielding barrier. Victims can also exhibit bone fractures caused by the pressure, or trampling injuries, when a crowd has swept over them where they have lain.It is believed that most major crowd disasters can be prevented by simple crowd management strategies. Crushes can be prevented by organization and traffic control, such as crowd barriers. On the other hand, barriers in some cases may funnel the crowd toward an already-packed area, such as in the Hillsborough disaster. Hence barriers can be a solution in preventing or a key factor in causing a crush. One problem is lack of feedback from people being crushed to the crowd pressing behind—feedback can instead be provided by police, organizers, or other observers, particularly raised observers, such as on platforms or horseback, who can survey the crowd and use loudspeakers to communicate and direct a crowd. In some cases it may be possible to take simple measures such as spreading movements out over time.A factor that may contribute to a crush is inexperienced security officers who assume that people's behaviour in a dense crowd is voluntary and dangerous, and start applying force or preventing people from moving in certain directions. In the 1989 Hillsborough disaster, some police and stewards were so concerned with what they saw as possible hooliganism that they took actions that actually made matters worse.\nThere is risk of a crush when crowd density exceeds about five people per square meter. For a person in a crowd a signal of danger, and a warning to get out of the crowd if possible, is the sensation of being touched on all four sides. A later, more serious, warning is when one feels shock waves travelling through the crowd, due to people at the back pushing forward against people at the front with nowhere to go. Keith Still of the Fire Safety Engineering Group, University of Greenwich, said \"Be aware of your surroundings. Look ahead. Listen to the crowd noise. If you start finding yourself in a crowd surge, wait for the surge to come, go with it, and move sideways. Keep moving with it and sideways, with it and sideways.\" Other recommendations include trying to remain upright, and keeping away from walls and other obstructions if possible.\nAfter the 1883 crush known as the Victoria Hall disaster in Sunderland, England, which killed 183 children, a law was passed in England which required all public entertainment venues to be equipped with doors that open outwards—for example, using crash bar latches that open when pushed. Crash bars are required by various building codes.\nFruin, John (January 2002) [First presented March 1993]. The Causes and Prevention of Crowd Disasters (PDF). First International Conference on Engineering for Crowd Safety (crowdsafe.com ed.). Archived (PDF) from the original on 30 April 2021.Pearl, Tracy Hresko (2015). \"Crowd Crush: How the Law Leaves American Crowds Unprotected\". Kentucky Law Journal. 104 (1). Article 4.\n",
+        "label_set": [
+            "BasedOn",
+            "DifferentFrom",
+            "HasPart",
+            "HasCause",
+            "Affiliation",
+            "NamedBy",
+            "Uses",
+            "Causes",
+            "ContributedToCreativeWork",
+            "Studies",
+            "FieldOfWork",
+            "UsedBy",
+            "IssuedBy",
+            "PublishedIn",
+            "HasEffect",
+            "InfluencedBy",
+            "ApprovedBy",
+            "SaidToBeTheSameAs"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "{\n  \"entities\": [\n    {\n      \"id\": 0,\n      \"mentions\": [\n        \"2015 Mina stampede\"\n      ],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 1,\n      \"mentions\": [\n        \"Mecca\"\n      ],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 2,\n      \"mentions\": [\n        \"Saudi Arabia\"\n      ],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 3,\n      \"mentions\": [\n        \"Hillsborough disaster\"\n      ],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 4,\n      \"mentions\": [\n        \"Sheffield\"\n      ],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 5,\n      \"mentions\": [\n        \"South Yorkshire\"\n      ],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 6,\n      \"mentions\": [\n        \"England\"\n      ],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 7,\n      \"mentions\": [\n        \"Love Parade disaster\"\n      ],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 8,\n      \"mentions\": [\n        \"Duisburg\"\n      ],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 9,\n      \"mentions\": [\n        \"North Rhine-Westphalia\"\n      ],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 10,\n      \"mentions\": [\n        \"Astroworld Festival crowd crush\"\n      ],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 11,\n      \"mentions\": [\n        \"Houston\"\n      ],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 12,\n      \"mentions\": [\n        \"Texas\"\n      ],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 13,\n      \"mentions\": [\n        \"Itaewon Halloween crowd crush\"\n      ],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 14,\n      \"mentions\": [\n        \"Itaewon\"\n      ],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 15,\n      \"mentions\": [\n        \"Seoul\"\n      ],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 16,\n      \"mentions\": [\n        \"South Korea\"\n      ],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 17,\n      \"mentions\": [\n        \"Keith Still\"\n      ],\n      \"type\": \"PERSON\"\n    },\n    {\n      \"id\": 18,\n      \"mentions\": [\n        \"Manchester Metropolitan University\"\n      ],\n      \"type\": \"ORG\"\n    },\n    {\n      \"id\": 19,\n      \"mentions\": [\n        \"Paul Torrens\"\n      ],\n      \"type\": \"PERSON\"\n    },\n    {\n      \"id\": 20,\n      \"mentions\": [\n        \"University of Maryland\"\n      ],\n      \"type\": \"ORG\"\n    },\n    {\n      \"id\": 21,\n      \"mentions\": [\n        \"Fire Safety Engineering Group, University of Greenwich\"\n      ],\n      \"type\": \"ORG\"\n    },\n    {\n      \"id\": 22,\n      \"mentions\": [\n        \"Victoria Hall disaster\"\n      ],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 23,\n      \"mentions\": [\n        \"Sunderland\"\n      ],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 24,\n      \"mentions\": [\n        \"Fruin, John\"\n      ],\n      \"type\": \"PERSON\"\n    },\n    {\n      \"id\": 25,\n      \"mentions\": [\n        \"The Causes and Prevention of Crowd Disasters\"\n      ],\n      \"type\": \"WORK_OF_ART\"\n    },\n    {\n      \"id\": 26,\n      \"mentions\": [\n        \"crowd management strategies\"\n      ],\n      \"type\": \"MISC\"\n    },\n    {\n      \"id\": 27,\n      \"mentions\": [\n        \"preventing crowd disasters\"\n      ],\n      \"type\": \"MISC\"\n    },\n    {\n      \"id\": 28,\n      \"mentions\": [\n        \"crowd crush\"\n      ],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 29,\n      \"mentions\": [\n        \"human stampedes\"\n      ],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 30,\n      \"mentions\": [\n        \"law requiring outward-opening doors\"\n      ],\n      \"type\": \"LAW\"\n    },\n    {\n      \"id\": 31,\n      \"mentions\": [\n        \"crowd science\"\n      ],\n      \"type\": \"MISC\"\n    }\n  ],\n  \"triples\": [\n    {\n      \"head\": \"crowd management strategies\",\n      \"relation\": \"HasEffect\",\n      \"tail\": \"preventing crowd disasters\"\n    },\n    {\n      \"head\": \"crowd crush\",\n      \"relation\": \"DifferentFrom\",\n      \"tail\": \"human stampedes\"\n    },\n    {\n      \"head\": \"Victoria Hall disaster\",\n      \"relation\": \"HasEffect\",\n      \"tail\": \"law requiring outward-opening doors\"\n    },\n    {\n      \"head\": \"Keith Still\",\n      \"relation\": \"Studies\",\n      \"tail\": \"crowd science\"\n    },\n    {\n      \"head\": \"Fruin, John\",\n      \"relation\": \"ContributedToCreativeWork\",\n      \"tail\": \"The Causes and Prevention of Crowd Disasters\"\n    }\n  ]\n}",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "2015 Mina stampede"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Mecca"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Saudi Arabia"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Hillsborough disaster"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Sheffield"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "South Yorkshire"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "England"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Love Parade disaster"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Duisburg"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "North Rhine-Westphalia"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Astroworld Festival crowd crush"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Houston"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Texas"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "Itaewon Halloween crowd crush"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Itaewon"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Seoul"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "South Korea"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "Keith Still"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Manchester Metropolitan University"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Paul Torrens"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "University of Maryland"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "Fire Safety Engineering Group, University of Greenwich"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "Victoria Hall disaster"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "Sunderland"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "Fruin, John"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "The Causes and Prevention of Crowd Disasters"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "crowd management strategies"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "preventing crowd disasters"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "crowd crush"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "human stampedes"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "law requiring outward-opening doors"
+                ],
+                "type": "LAW"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "crowd science"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "crowd management strategies",
+                "relation": "HasEffect",
+                "tail": "preventing crowd disasters"
+            },
+            {
+                "head": "crowd crush",
+                "relation": "DifferentFrom",
+                "tail": "human stampedes"
+            },
+            {
+                "head": "Victoria Hall disaster",
+                "relation": "HasEffect",
+                "tail": "law requiring outward-opening doors"
+            },
+            {
+                "head": "Keith Still",
+                "relation": "Studies",
+                "tail": "crowd science"
+            },
+            {
+                "head": "Fruin, John",
+                "relation": "ContributedToCreativeWork",
+                "tail": "The Causes and Prevention of Crowd Disasters"
+            }
+        ]
+    }
+]

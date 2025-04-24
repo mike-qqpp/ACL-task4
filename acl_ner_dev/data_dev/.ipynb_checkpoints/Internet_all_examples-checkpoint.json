@@ -1,0 +1,2844 @@
+[
+    {
+        "domain": "Internet",
+        "title": "Anti-social_Media_Bill_(Nigeria)",
+        "doc": "Anti-social Media Bill was introduced by the Senate of the Federal Republic of Nigeria on 5 November 2019 to criminalise the use of the social media in peddling false or malicious information. The original title of the bill is Protection from Internet Falsehood and Manipulations Bill 2019. It was sponsored by Senator Mohammed Sani Musa from the largely conservative northern Nigeria. After the bill passed second reading on the floor of the Nigeria Senate and its details were made public, information emerged on the social media accusing the sponsor of the bill of plagiarising a similar law in Singapore which is at the bottom of global ranking in the freedom of speech and of the press. But the senator denied that he plagiarised Singaporean law.\nAngry reactions trailed the introduction of the bill, and a number of civil society organisations, human rights activists, and Nigerian citizens unanimously opposed the bill. International rights group, Amnesty International and Human Rights Watch condemned the proposed legislation saying it is aimed at gagging freedom of speech which is a universal right in a country of over two hundred million people.Opposition political parties are very critical of the bill and accused the government of attempting to strip bare, Nigerian citizens of their rights to free speech and destroying same social media on whose power and influence the ruling All Progressives Congress, APC came to power in 2015. Nigeria Information Minister, Lai Mohammed has been at the center of public criticism because he is suspected to be the brain behind the proposed act. Lai was a  former spokesman of then opposition All Progressives Congress.\nA \"Stop the Social Media Bill! You can no longer take our rights from us\" online petition campaign to force the Nigeria parliament to drop the bill received over 90,000 signatures within 24 hours. In November 2019, after the bill passed second reading in the senate, Akon Eyakenyi, a senator from Akwa Ibom State publicly said he would resist the bill.\nThose who support the proposed act especially Senators have often argued that the law would help curtail hate speech. President Muhammad Buhari who is seen as a beneficiary of the influence and power of the social media and free speech has been mute about it. But the president's senior aides and family members have publicly spoken in support of the bill. In November 2019, the wife of the president, Aisha Buhari, told a gathering at the Nigeria's National Mosque in the capital, Abuja that if China with over one billion people could regulate the social media, Nigeria should do same. But Nigerians reacted saying Nigeria is not a one-party communist state like China. Days later, a daughter to the president, Zahra Indimi told a gathering of young people in Abuja that social media had become a potent weapon for bullying those they thought were doing better than them in terms of social class and called for a critical regulation.Protection from Internet Falsehoods, Manipulations and Other Related Matters Bill 2019.This Act is to prevent Falsehoods and Manipulations in Internet transmission and correspondences in Nigeria.To suppress falsehoods and manipulations and counter the effects of such communications and transmissions and to sanction offenders with a view to encouraging and enhancing transparency by Social Media Platforms using the internet correspondences.\nOne objective of the bill is to prevent the transmission of false statements or declaration of facts in Nigeria.Another objective of the bill is to end the financing of online mediums that transmit false statements.\nMeasures will be taken to detect and control inauthentic behaviour and misuse of online accounts (parody accounts).\nWhen paid content is posted towards a political end, there will be measures to ensure the poster discloses such information.\nThere will be sanction for offenders.\nAccording to the bill, a person must not:Transmit a statement that is false or,\nTransmit a statement that might:\ni. Affect the security or any part of Nigeria. ii. Affect public health, public safety or public finance. iii. Affect Nigeria's relationship with other countries. iv. influence the outcome of an election to any office in a general election. v. Cause enmity or hatred towards a person or group of persons.\nAnyone guilty of the above is liable to a fine of N300,000 or three years' imprisonment or both (for individual); and a fine not exceeding ten million naira (for corporate organisations).\nSame punishment applies for fake online accounts that transmit statements listed above.\nThe bill says a person shall not open an account to transmit false statement.Anyone found guilty will be fined N200,000 or three years' imprisonment or both (for an individual) or five million naira (for corporate organisations).\nIf such accounts transmit a statement that will affect security or influence the outcome of an election, such a person will be fined N300,000 or three years' imprisonment or both.\nIf a person receives payment or reward to help another to transmit false statements knowingly, he/she is liable to a fine of N150,000 or three years' imprisonment or both. If a person receives payment or reward to help another to transmit a statement affects security or influence the outcome of an election, the fine is N300,000 or three years' imprisonment or both (for individual) and ten million naira for organisations.\nAccording to the bill, a law enforcement department can issue a \"declaration\" to offenders. And this declaration will be issued even if the \"false statement\" has been corrected or pulled down.The offender will be required to publish a \"correction notice\" in a specified newspaper, online location or other printed publication of Nigeria.\nFailure to comply, a person is liable to N200,000 or 12 months' imprisonment or both (for individual) and five million naira for organisations.\nThe bill says the law enforcement department will also issue an access blocking order to offenders.The law enforcement department may direct the NCC to order the internet access service provider to disable access by users in Nigeria to the online location and the NCC must give the internet access service provider an access blocking order.\nAn internet access service provider that does not comply with any access blocking order is liable on conviction to a fine not exceeding ten million naira for each day during any part of which that order is not fully complied with, up to a total of five million naira.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Lai Mohammed",
+                    "sponsor of the bill",
+                    "a daughter to the president, Zahra Indimi",
+                    "president",
+                    "Mohammed Sani Musa",
+                    "wife of the president",
+                    "wife of the president, Aisha Buhari",
+                    "Muhammad Buhari",
+                    "a daughter to the president",
+                    "senator",
+                    "Aisha Buhari",
+                    "Senator Mohammed Sani Musa",
+                    "Zahra Indimi"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "President Muhammad Buhari"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Bill"
+                ],
+                "type": "LAW"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Abuja"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Senate of the Federal Republic of Nigeria"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Senate",
+                    "Nigeria Senate",
+                    "senate"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Senators"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Nigeria Information Minister, Lai Mohammed",
+                    "Nigerian citizens",
+                    "Lai",
+                    "Nigerians",
+                    "Nigeria Information Minister"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Nigerian",
+                    "Senate of the Federal Republic of Nigeria",
+                    "Federal Republic of Nigeria",
+                    "senate",
+                    "Senate",
+                    "Nigeria parliament",
+                    "Nigeria Senate",
+                    "Nigeria"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Nigeria's National Mosque",
+                    "National Mosque"
+                ],
+                "type": "FAC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "northern Nigeria"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "5 November 2019"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "In November 2019"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "November 2019"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "2019"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "2015"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "Singaporean law"
+                ],
+                "type": "LAW"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "Singapore"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "civil society organisations",
+                    "Amnesty International and Human Rights Watch",
+                    "International rights group"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "human rights activists"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "over two hundred million"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "All Progressives Congress",
+                    "APC"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "90,000"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "24 hours"
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "Akon Eyakenyi",
+                    "senator from Akwa Ibom State"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "Akwa Ibom State"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "China"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "Anti-social Media Bill"
+                ],
+                "type": "LAW"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "Protection from Internet Falsehood and Manipulations Bill 2019"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "social media",
+                    "Social Media",
+                    "Social Media Platforms",
+                    "social Media"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "three years' imprisonment"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "ten million naira"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "five million naira"
+                ],
+                "type": "MONEY"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "12 months'"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "12 months' imprisonment"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "NCC"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "offenders",
+                    "offender"
+                ],
+                "type": "PERSON"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Senator Mohammed Sani Musa",
+                "relation": "OwnerOf",
+                "tail": "Anti-social Media Bill"
+            },
+            {
+                "head": "Anti-social Media Bill",
+                "relation": "HasPart",
+                "tail": "Protection from Internet Falsehood and Manipulations Bill 2019"
+            },
+            {
+                "head": "the bill",
+                "relation": "Causes",
+                "tail": "Angry reactions"
+            },
+            {
+                "head": "Akon Eyakenyi",
+                "relation": "Affiliation",
+                "tail": "Akwa Ibom State"
+            },
+            {
+                "head": "the bill",
+                "relation": "HasPart",
+                "tail": "punishment"
+            }
+        ],
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "Cem_Korkmaz",
+        "doc": "Cem Korkmaz (1987 : 1 November 2017) was a Turkish actor and YouTuber.\nCem Korkmaz was born in Bursa in 1987, the only child of his family. He completed his primary and secondary education there and finally entered the State Theatre of Bursa.Korkmaz, who exhibited his acting with projects such as AROG (2008), Recep İvedik 4 (2014), Diğer Yarım (2014), Kiraz Mevsimi (2014) and Husband Factor (2015), made his real debut with his videos on a YouTube channel.\nIn 2013, he joined Mediakraft, which produces content for YouTube, and towards the end of 2015, his name started to be heard among internet users in Turkey. In February 2015, he was terminated by Mediakraft for swearing during a broadcast with his followers on Periscope, and in April 2015 he created a personal channel for himself.\nOn 1 November 2017, he committed suicide in his house in Üsküdar, Istanbul for an unknown reason, without leaving a will behind. When his relatives, who had not heard from him for a long time, reported the situation, the door of his house was opened in the presence of a locksmith and the police and they saw that Korkmaz had hanged himself using a rope.",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "He",
+                    "he",
+                    "YouTuber",
+                    "Cem Korkmaz",
+                    "Korkmaz"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "1987"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "1 November 2017"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "2015"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "2013"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "2008"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "2014"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "February 2015"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "April 2015"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "end of 2015"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Turkey"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Bursa",
+                    "State Theatre of Bursa"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Kiraz Mevsimi",
+                    "Diğer Yarım",
+                    "Husband Factor",
+                    "Recep İvedik 4"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "YouTube",
+                    "YouTube channel"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Mediakraft"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Periscope"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "Istanbul",
+                    "Üsküdar"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "Üsküdar, Istanbul"
+                ],
+                "type": "GPE"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Cem Korkmaz",
+                "relation": "HasWorksInTheCollection",
+                "tail": "Recep İvedik 4"
+            },
+            {
+                "head": "Cem Korkmaz",
+                "relation": "HasWorksInTheCollection",
+                "tail": "Diğer Yarım"
+            },
+            {
+                "head": "Cem Korkmaz",
+                "relation": "HasWorksInTheCollection",
+                "tail": "Kiraz Mevsimi"
+            },
+            {
+                "head": "Cem Korkmaz",
+                "relation": "NominatedFor",
+                "tail": "Mediakraft"
+            },
+            {
+                "head": "Cem Korkmaz",
+                "relation": "HasWorksInTheCollection",
+                "tail": "Husband Factor"
+            },
+            {
+                "head": "Cem Korkmaz",
+                "relation": "HasPart",
+                "tail": "State Theatre of Bursa"
+            }
+        ],
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "Hyperdata",
+        "doc": "Hyperdata are data objects linked to other data objects in other places, as hypertext indicates text linked to other text in other places. Hyperdata enables the formation of a web of data, evolving from the \"data on the Web\" that is not inter-related (or at least, not linked).\nIn the same way that hypertext usually refers to the World Wide Web but is a broader term, hyperdata usually refers to the Semantic Web, but may also be applied more broadly to other data-linking technologies such as microformats : including XHTML Friends Network.\nA hypertext link indicates that a link exists between two documents or \"information resources\". Hyperdata links go beyond simply such a connection, and express semantics about the kind of connection being made. For instance, in a document about Hillary Clinton, a hypertext link might be made from the word senator to a document about the United States Senate. In contrast, a hyperdata link from the same word to the same document might also state that senator was one of Hillary Clinton's roles, titles, or positions (depending on the ontology being used to define this link).\nThe Semantic Web introduces the controversial concept of links to non-data resources. In the Semantic Web, links are not limited to \"information resources\" or documents, such as the typical Web page. Hyperdata links may refer to a physical structure (e.g., \"the Eiffel Tower\"), a place (\"Champ de Mars\" where the Eiffel Tower stands), a person (Gustave Eiffel, the man responsible for the tower's construction), or other \"non-information resources\". The links in this article are hypertext, not hyperdata, and they all lead to documents which describe the entities named.A hyperdata browser (also called a Semantic Web browser), is a browser used to navigate the Semantic Web. Semantic Web architecture does not necessarily involve the HTML document format, which typical HTML Web browsers rely upon. A hyperdata browser specifically requests RDF data from Web servers, often through content negotiation or conneg, starting from the same URL as the traditional Web browser; the Web server may immediately return the requested RDF, or it may deliver a redirection to a new URI where the RDF may actually be found, or the RDF may be embedded in the same HTML document which would be returned to a Web browser which did not request RDF. The RDF data will generally describe the resource represented by the originally requested URI. The hyperdata browser then renders the information received as an HTML page that contains hyperlinks for users to navigate to indicated resources.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Hyperdata"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "World Wide Web"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "XHTML Friends Network"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "senator",
+                    "Hillary Clinton"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "United States"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Semantic Web browser",
+                    "Semantic Web"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Eiffel Tower"
+                ],
+                "type": "FAC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Champ de Mars"
+                ],
+                "type": "LOC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "man responsible for the tower's construction",
+                    "Gustave Eiffel"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "RDF"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "HTML"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Gustave Eiffel",
+                "relation": "Creator",
+                "tail": "the Eiffel Tower"
+            },
+            {
+                "head": "the Eiffel Tower",
+                "relation": "LocatedIn",
+                "tail": "Champ de Mars"
+            },
+            {
+                "head": "Semantic Web",
+                "relation": "Uses",
+                "tail": "RDF"
+            },
+            {
+                "head": "typical HTML Web browsers",
+                "relation": "Uses",
+                "tail": "HTML document format"
+            }
+        ],
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "Internet_GIS",
+        "doc": "Internet GIS, or Internet geographic information system (GIS), is a term that refers to a broad set of technologies and applications that employ the Internet to access, analyze, visualize, and distribute spatial data. Internet GIS is an outgrowth of traditional GIS, and represents a shift from conducting GIS on an individual computer to working with remotely distributed data and functions. Two major issues in GIS are accessing and distributing spatial data and GIS outputs. Internet GIS helps to solve that problem by allowing users to access vast databases impossible to store on a single desktop computer, and by allowing rapid dissemination of both maps and raw data to others. These methods include both file sharing and email. This has enabled the general public to participate in map creation and make use of GIS technology.\nInternet GIS is a subset of Distributed GIS, but specifically uses the internet rather than generic computer networks. Internet GIS applications are often, but not exclusively, conducted through the World Wide Web (also known as the Web), giving rise to the sub-branch of Web GIS, often used interchangeably with Internet GIS.  While Web GIS has become nearly synonymous with Internet GIS to many in the industry, the two are as distinct as the internet is from the World Wide Web. Likewise, Internet GIS is as distinct from distributed GIS as the Internet is from distributed computer networks in general.\nInternet GIS includes services beyond those enabled by the Web. Use of any other internet-enabled services to facilitate GIS functions, even if used in conjuncture with the Web, represents the use of Internet GIS. One of the most common applications of a distributed GIS system, accessing remotely saved data, can be done through the internet without the need for the Web. This is often done in practice when data are sensitive, such as hospital patient data and research facilities proprietary data, where sending data through the Web may be a security risk. This can be done using a Virtual private network (VPN) to access a local network remotely. The use of VPN for these purposes surged during the COVID-19 pandemic, when employers needed to allow employees using GIS access to sensitive spatial data from home.\nThe history of Internet geographic information systems is linked to the history of the computer, the internet, and the quantitative revolution in geography. Geography tends to adapt technologies from other disciplines rather than innovating and inventing the technologies employed to conduct geographic studies. The computer and internet are not an exception, and were rapidly investigated to purpose towards the needs of geographers. In 1959, Waldo Tobler published the first paper detailing the use of computers in map creation. This was the beginning of computer cartography, or the use of computers to create maps. In 1960, the first true geographic information system capable of storing, analyzing, changing, and creating visualizations with spatial data was created by Roger Tomlinson on behalf of the Canadian Government to manage natural resources. These technologies represented a paradigm shift in cartography and geography, with desktop computer cartography facilitated through GIS rapidly replaced traditional ways of making maps. The emergence of GIS and computer technology contributed to the quantitative revolution in geography and the emergence of the branch of technical geography.As computer technology advanced the desktop machine became the default for producing maps, a process known as digital mapping, or computer cartography. These computers were networked together to share data and processing power and create redundant communications for defense applications. This computer network evolved into the internet, and by the late 1980s, the internet was available in some people's homes. Over time, the internet moved from a novelty to a major part of daily life. Using the internet, it was no longer necessary to store all data for a project locally, and communications were vastly improved. Following this trend, GIScientists began developing methods for combining the internet and GIS. This process accelerated in the 1990s, with the creation of the World Wide Web in 1990 and the first major web mapping program, Xerox PARC Map Viewer, capable of distributed map creation appearing in 1993. This software was unique in that it facilitated dynamic user map generation, rather than static images. These new Web-based programs helped users to employ GIS without having it locally installed on their machine, ultimately leading to Web GIS being the dominant way users interact with internet GIS.\nIn 1995 The US federal government made the TIGER Mapping Service available to the public, facilitating desktop and Web GIS by hosting US boundary data. This data availability, facilitated through the internet, silently revolutionized cartography by providing the world with authoritative boundary files, for free. In 1996, MapQuest became available to the public, facilitating navigation and trip planning. Sometime during the 1990s, more maps were transmitted over the internet than physically printed. This milestone was predicted in 1985 and represented a major shift in how we distribute spatial products to the masses.\nAs of 2020, almost 75% of the population has a smartphone.  These devices allow users to access the internet wherever they have service, and have revolutionized how we interact with the internet. One notable example is the rise of \nmobile apps, which have impacted both how GIS is done, and how data are collected. Some mobile apps like the Google Maps mobile app are web-based and allow users to get navigation instructions in real time. Others, like Esri's Survey123 allow users to collect data in the field with their smartphone. As time progresses, internet-based applications that do not make use of HTML or Web Browsers have begun to become to grow in popularity.\nThe World Wide Web is an information system that uses the internet to host, share, and distribute documents, images, and other data. Web GIS involves using the World Wide Web to facilitate GIS tasks traditionally done on a desktop computer, as well as enabling the sharing of maps and spatial data. Most, but not all, internet GIS is Web GIS, however all Web GIS is internet GIS. This is quite similar to how much of the activity on the internet is hosted on the World Wide Web, but not everything on the internet is the World Wide Web. The tasks Web GIS are used for are numerous but can be generally divided into the categories of Geospatial web services: web feature services, web processing services, and web mapping services.By their definition, maps can never be perfect and are simplifications of reality. Ethical cartographers try to keep these inaccuracies documented and to a minimum, while encouraging critical perspectives when using a map. Internet GIS has brought map-making tools to the general public, facilitating the rapidly disseminating these maps. While this is potentially positive, it also means that people without cartographic training can easily make and disseminate misleading maps to a wide audience. This was brought to public attention during the COVID-19 pandemic, when more than half of all United States state government COVID-19 dashboards had cartographic errors. Further, malicious actors can quickly spread intentionally misleading spatial information while hiding the source. As the internet is decentralized, traditional solutions to problems such as government regulation are difficult or impossible to implement. For many users, the World Wide Web is synonymous with the Internet, which is true for Internet GIS. Most functions done with Internet GIS are conducted through the use of Web GIS. This has caused the borders between the two terms to blur, and \"Web GIS\" to become genericized into meaning any GIS done over the internet to some users.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "GIS",
+                    "Internet geographic information system",
+                    "distributed GIS",
+                    "Internet GIS",
+                    "Internet",
+                    "Distributed GIS",
+                    "World Wide Web",
+                    "internet",
+                    "internet GIS",
+                    "Web GIS",
+                    "Internet geographic information systems",
+                    "Web"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "One"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "VPN",
+                    "Virtual private network (VPN)"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "1959"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Waldo Tobler"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "1960"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Roger Tomlinson"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Canadian Government"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "late 1980s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "GIScientists"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "1990s"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "1996"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "1990"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "1995"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "1993"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Xerox PARC Map Viewer"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "federal government",
+                    "US federal government",
+                    "United States state government"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "US",
+                    "United States"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "TIGER Mapping Service"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "MapQuest"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "1985"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "2020"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "almost 75%"
+                ],
+                "type": "PERCENT"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "Esri's Survey123"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "COVID-19",
+                    "COVID-19 pandemic"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "COVID-19 dashboards"
+                ],
+                "type": "PRODUCT"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Internet GIS",
+                "relation": "PartOf",
+                "tail": "Distributed GIS"
+            },
+            {
+                "head": "traditional GIS",
+                "relation": "ApprovedBy",
+                "tail": "Internet GIS"
+            },
+            {
+                "head": "general public",
+                "relation": "Uses",
+                "tail": "Internet GIS"
+            },
+            {
+                "head": "general public",
+                "relation": "Uses",
+                "tail": "GIS technology"
+            },
+            {
+                "head": "Internet GIS",
+                "relation": "Uses",
+                "tail": "Internet"
+            },
+            {
+                "head": "Internet GIS",
+                "relation": "BasedOn",
+                "tail": "World Wide Web"
+            },
+            {
+                "head": "Web GIS",
+                "relation": "HasPart",
+                "tail": "Internet GIS"
+            },
+            {
+                "head": " Internet GIS",
+                "relation": "Uses",
+                "tail": "internet-enabled services"
+            },
+            {
+                "head": "employers",
+                "relation": "Uses",
+                "tail": "GIS"
+            },
+            {
+                "head": "employees",
+                "relation": "Uses",
+                "tail": "GIS"
+            },
+            {
+                "head": "history of Internet geographic information systems",
+                "relation": "InfluencedBy",
+                "tail": "history of the computer"
+            },
+            {
+                "head": "Roger Tomlinson",
+                "relation": "Affiliation",
+                "tail": "Canadian Government"
+            },
+            {
+                "head": "Google Maps",
+                "relation": "BasedOn",
+                "tail": "Web"
+            },
+            {
+                "head": "general public",
+                "relation": "Uses",
+                "tail": "map-making tools"
+            }
+        ],
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "Internet_in_Laos",
+        "doc": "The Internet in Laos was first introduced in 1997, with the two commercial ISP services starting in 1999, specifically  PlaNet Computers and GlobeNet.  These supported a rapid growth of internet cafes across the country to service tourists, which incidentally introduced the internet to many English speaking Lao nationals.  The introduction of mobile broadband has significantly increased the use of the Internet in Laos since 2008.\nLaos is included in the OpenNet Initiative (ONI) Regional Overview for Asia (2009). ONI found no evidence of Internet filtering in the political, social, conflict/security, and tools areas based on testing performed in 2011.The government controls domestic Internet servers and sporadically monitors Internet usage, but by the end of 2012 it apparently did not have the ability to block access to Web sites. Authorities have developed infrastructure to route all Internet traffic through a single gateway, enabling them to monitor and restrict content. However, they apparently had not utilized this increased capability as of the end of 2012. The National Internet Committee under the Prime Minister's Office administers the Internet system. The office requires Internet service providers to submit quarterly reports and link their gateways to facilitate monitoring, but the government's enforcement capability appears limited.\nThe law generally protects privacy, including that of mail, telephone, and electronic correspondence, but the government reportedly continues to violate these legal protections when there is a perceived security threat. The law prohibits unlawful searches and seizures. While the law requires that police obtain search authorization from a prosecutor or a panel of judges, police do not always obtain prior approval, especially in rural areas. Security laws allow the government to monitor individuals’ movements and private communications, including via cell phones and e-mail.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Laos"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "1997"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "2012"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "2008"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "1999"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "2009"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "ISP"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "PlaNet Computers and GlobeNet",
+                    "GlobeNet",
+                    "PlaNet Computers"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "English",
+                    "English speaking"
+                ],
+                "type": "LANGUAGE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Asia"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "end of 2012"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "National Internet Committee"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Internet in Laos"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "ISP services"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "internet cafes",
+                    "Internet traffic",
+                    "Internet system",
+                    "Internet",
+                    "Internet usage",
+                    "internet"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Internet service providers"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "tourists"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "introduction of mobile broadband"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "ONI"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "National Internet Committee under the Prime Minister's Office",
+                    "government"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Authorities"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "domestic Internet servers"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "National Internet Committee"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "law"
+                ],
+                "type": "LAW"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "privacy"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "legal protections"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "police"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "search authorization"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "PlaNet Computers",
+                "relation": "HasPart",
+                "tail": "ISP services"
+            },
+            {
+                "head": "GlobeNet",
+                "relation": "HasPart",
+                "tail": "ISP services"
+            }
+        ],
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "Online_encyclopedia",
+        "doc": "An online encyclopedia, also called an Internet encyclopedia, is a digital encyclopedia accessible through the Internet. Examples include Encyclopedia.com since 1998, Encarta from 2000 to 2009, Wikipedia since 2001, and Encyclopædia Britannica since 2016.\nIn January 1995, Project Gutenberg started to publish the ASCII text of the Encyclopædia Britannica, 11th edition (1911), but disagreements about the method halted the work after the first volume. For trademark reasons, the text had been published as the Gutenberg Encyclopedia. Since then, Project Gutenberg digitized and proofread the encyclopedia, until the last update in September 2018.  Project Gutenberg published volumes in alphabetical order; the most recent publication is Volume 17 Slice 1: \"Lord Chamberlain\" to \"Luqman\", published on August 9, 2013.  The latest Britannica was digitized by its publishers, and sold first as a CD-ROM, and later as an online service.In 2001, ASCII text of all 28 volumes was published on Encyclopædia Britannica Eleventh Edition by source; a copyright claim was added to the materials included. The website no longer exists.\nOther digitization projects have made progress in other titles; one example is Easton's Bible Dictionary (1897) digitized by the Christian Classics Ethereal Library.\nA successful digitization of an encyclopedia was the Bartleby Project's online adaptation of the Columbia Encyclopedia, Sixth Edition, in early 2000 and is updated periodically.\nOther websites provide online encyclopedias, some of which are also available on Wikisource. However, some may be more complete than those on Wikisource, or may be from different editions.\nAnother related branch of activity is the creation of new, free content on a volunteer basis. In 1991, participants of the Usenet newsgroup alt.fan.douglas-adams started Project Galactic Guide to produce a real version of The Hitchhiker's Guide to the Galaxy, a fictional encyclopedia used in the works of Douglas Adams. Although it originally aimed to contain only real, factual articles, the policy was changed to allow and encourage semi-real and unreal articles as well. Project Galactic Guide contains over 1700 articles, but no new articles have been added since 2000, which was a year after the foundation of h2g2.The 1993 Interpedia proposal was planned as an encyclopedia on the Internet to which everyone could contribute materials. The project never left the planning stage and was overtaken by a key branch of old printed encyclopedias.\nAnother early online encyclopedia was called the Global Encyclopedia.  In November 1995, James Rettig, Assistant Dean of University Libraries for Reference and Information Services at College of William & Mary, presented an unfavorable review at the 15th Annual Charleston Conference on library acquisitions and related issues.  He said of the Global Encyclopedia:\nThis is a volunteer effort to compile an encyclopedia and distribute it for free on the World Wide Web. If you have ever yearned to be the author of an encyclopedia article, yearn no longer. Take a minute (or even two or three if you are feeling scholarly) to write an article on a topic of your choosing and [e]mail it off to the unnamed \"editors\". These editors (to use that title very loosely) have generated a list of approximately 1,300 topics they want to include; to date, perhaps a quarter of them have been treated. ... This so-called encyclopedia gives amateurism a bad name. It is being compiled without standards or guidelines for article structure, content, or reading level. It makes no apparent effort to check the qualifications and authority of the volunteer authors. Its claim that \"Submitted articles are fact-checked, corrected for spelling, and then formatted\" is at best an exaggeration.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Encyclopedia.com"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "1998"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "2013"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "2018"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "a year"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "1995"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Encarta"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "2000"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "early 2000"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "2009"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Wikipedia"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "2001"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Encyclopædia Britannica Eleventh Edition",
+                    "Encyclopædia Britannica"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "2016"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "January 1995"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "ASCII",
+                    "ASCII text"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "11th"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "1911"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Gutenberg Encyclopedia"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Gutenberg",
+                    "Project Gutenberg"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "September 2018"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "17"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "Chamberlain"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "Luqman"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "August 9, 2013"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "one"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "Easton"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "Easton's Bible Dictionary"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "Bible Dictionary"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "1897"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "Christian Classics Ethereal Library"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "Bartleby Project"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "Columbia Encyclopedia"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "Sixth"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "Wikisource"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "1991"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "alt.fan.douglas-adams"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "Project Galactic Guide"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "Hitchhiker's Guide"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "Galaxy"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "Douglas Adams"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "1700"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "1993"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 43,
+                "mentions": [
+                    "Interpedia"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 44,
+                "mentions": [
+                    "Global Encyclopedia"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 45,
+                "mentions": [
+                    "November 1995"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 46,
+                "mentions": [
+                    "He",
+                    "James Rettig"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 47,
+                "mentions": [
+                    "Dean"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 48,
+                "mentions": [
+                    "University Libraries for Reference and Information Services at College of William & Mary"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 49,
+                "mentions": [
+                    "15th"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 50,
+                "mentions": [
+                    "15th Annual Charleston Conference",
+                    "Annual Charleston Conference"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 51,
+                "mentions": [
+                    "World Wide Web"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 52,
+                "mentions": [
+                    "a minute"
+                ],
+                "type": "TIME"
+            },
+            {
+                "id": 53,
+                "mentions": [
+                    "approximately 1,300"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 54,
+                "mentions": [
+                    "a quarter"
+                ],
+                "type": "CARDINAL"
+            }
+        ],
+        "triples": [
+            {
+                "head": "2000",
+                "relation": "FollowedBy",
+                "tail": "2001"
+            },
+            {
+                "head": "one",
+                "relation": "FollowedBy",
+                "tail": "two"
+            },
+            {
+                "head": "online encyclopedia",
+                "relation": "SaidToBeTheSameAs",
+                "tail": "Internet encyclopedia"
+            },
+            {
+                "head": "online encyclopedia",
+                "relation": "HasPart",
+                "tail": "Encyclopedia.com"
+            },
+            {
+                "head": "online encyclopedia",
+                "relation": "HasPart",
+                "tail": "Encarta"
+            },
+            {
+                "head": "online encyclopedia",
+                "relation": "HasPart",
+                "tail": "Wikipedia"
+            },
+            {
+                "head": "online encyclopedia",
+                "relation": "HasPart",
+                "tail": "Encyclopædia Britannica since"
+            },
+            {
+                "head": "Encyclopædia Britannica Eleventh Edition",
+                "relation": "PublishedIn",
+                "tail": "2001"
+            },
+            {
+                "head": "Project Galactic Guide",
+                "relation": "Uses",
+                "tail": "the works of Douglas Adams"
+            },
+            {
+                "head": "unreal articles",
+                "relation": "ApprovedBy",
+                "tail": "policy"
+            },
+            {
+                "head": "James Rettig",
+                "relation": "Affiliation",
+                "tail": "College of William & Mary"
+            }
+        ],
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "Online_optimization",
+        "doc": "Online optimization is a field of optimization theory, more popular in computer science and operations research, that deals with optimization problems having no or incomplete knowledge of the future (online). These kind of problems are denoted as online problems and are seen as opposed to the classical optimization problems where complete information is assumed (offline). The research on online optimization can be distinguished into online problems where multiple decisions are made sequentially based on a piece-by-piece input and those where a decision is made only once. A famous online problem where a decision is made only once is the Ski rental problem. In general, the output of an online algorithm is compared to the solution of a corresponding offline algorithm which is necessarily always optimal and knows the entire input in advance (competitive analysis).\nIn many situations, present decisions (for example, resources allocation) must be made with incomplete knowledge of the future or distributional assumptions on the future are not reliable. In such cases, online optimization  can be used, which is different from other approaches such as robust optimization, stochastic optimization and Markov decision processes.\nA problem exemplifying the concepts of online algorithms is the Canadian traveller problem. The goal of this problem is to minimize the cost of reaching a target in a weighted graph where some of the edges are unreliable and may have been removed from the graph. However, that an edge has been removed (failed) is only revealed to the traveller when they reach one of the edge's endpoints. The worst case for this problem is simply that all of the unreliable edges fail and the problem reduces to the usual shortest path problem. An alternative analysis of the problem can be made with the help of competitive analysis. For this method of analysis, the offline algorithm knows in advance which edges will fail and the goal is to minimize the ratio between the online and offline algorithms' performance. This problem is PSPACE-complete.",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Ski"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Markov"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Canadian traveller problem"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Online optimization"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "research"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "optimization theory",
+                "relation": "HasPart",
+                "tail": "Online optimization"
+            },
+            {
+                "head": "The research on online optimization",
+                "relation": "HasEffect",
+                "tail": "online problems"
+            },
+            {
+                "head": "online problem",
+                "relation": "HasPart",
+                "tail": "Ski rental problem"
+            }
+        ],
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "OrionVM",
+        "doc": "OrionVM Wholesale Pty Limited (trading as OrionVM) \nis an Australian infrastructure as a service provider and white-label cloud platform. Resellers present customers with a rebranded interface for deploying virtual machine instances, which are only billed for what their customers use. Cloud Harmony benchmarked the OrionVM Cloud Platform's InfiniBand-backed network storage as the world's fastest in 2011.\nThe company was founded and is headquartered in Sydney, Australia,\nwith offices in San Francisco, California.\nOrionVM was founded in a dorm by Sheng Yeo, Alex Sharp \nand Joseph Glanville in 2010. \nThe company's cloud platform was developed while the founders were still students at the University of Technology, Sydney and University of Sydney. After fifteen months of development, their cloud platform entered a Public Beta programme, with a full launch on 1 April 2011.\nIn 2011, the company received angel investments from Australian entrepreneur and PIPE Networks co-founder Stephen Baxter\nand American Gordon Bell of DEC and Microsoft Research.\nFor his work at OrionVM, CEO Sheng Yeo was nominated for the 2012 Australian Entrepreneur of the Year and the 2013 Ernst & Young Entrepreneur of the Year.\nIn 2014, OrionVM received a State Merit award and a National Finalist nomination in the 2014 iAwards, with CTO Alex Sharp winning the Hills YIA Cloud award. The company was nominated for a Stevie Award for New Product or Service of the Year in Cloud Infrastructure Software, and an Australian Startup Awards nomination.\nIn 2016, Yeo and Sharp were named in the Forbes 30 Under 30 Asia list.\nOrionVM sells a wholesale cloud infrastructure platform for public, private and hybrid cloud deployments. Vendors can white-label the platform for resale, or for internal use. Prominent resellers include:Australian telephone company AAPT\nBizCloud\nIT broker StrataCore.\nOrionVM uses the Xen hypervisor to virtualise multiple machines (referred to as \"instances\") on the same hardware. Linux instances use paravirtualisation for reduced overhead by default, with Windows Server being deployed using hardware-assisted virtualisation (HVM).Traditional virtual private server and infrastructure as a service providers consolidate storage into a storage area network, which is limited by Ethernet network speeds and best-effort reliability. OrionVM's platform took design cues from supercomputers by placing hypervisor storage and compute on the same physical servers. These are backed by a decentralised InfiniBand fabric. This improves network reliability and performance, and allows for rapid rollover between physical hosts for high availability.\nTo end users, the base of the platform consists of a web panel, where customers are able to deploy virtual machines. For resellers, the logos and theme can be modified to suit their own branding.From the panel, users can deploy preconfigured instances with their chosen operating system and required memory. Additional storage disks and IP addresses can be created separately, then assigned to new or existing instances. After shutting down, further resources can be allocated or scaled down.Instances can be accessed out-of-band via a web-based serial console or VNC session. Access is also available via ovm_ctl, an open source command line interface available from GitHub and the pip package manager.Linux machines come preconfigured with SSH, and Windows with RDP for remote access.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "white-label cloud platform",
+                    "platform",
+                    "OrionVM's platform",
+                    "cloud platform",
+                    "OrionVM Wholesale Pty Limited",
+                    "OrionVM Cloud Platform",
+                    "Cloud Platform",
+                    "cloud infrastructure platform",
+                    "VNC",
+                    "OrionVM",
+                    "wholesale cloud infrastructure platform",
+                    "Wholesale Pty Limited"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "company"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Sheng Yeo",
+                    "Yeo and Sharp",
+                    "founders",
+                    "Yeo",
+                    "CEO Sheng Yeo"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Australian Entrepreneur",
+                    "Australian entrepreneur"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Australian Startup Awards"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Cloud Platform",
+                    "company's cloud platform",
+                    "OrionVM Cloud Platform"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "1 April 2011"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "2011"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Asia",
+                    "Sydney",
+                    "Australia"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "University of Technology, Sydney",
+                    "University of Sydney"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "San Francisco"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "California"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "CTO Alex Sharp",
+                    "Alex Sharp",
+                    "Sharp",
+                    "Joseph Glanville"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "2010"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "University of Technology, Sydney",
+                    "University of Technology"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "fifteen months"
+                ],
+                "type": "QUANTITY"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "PIPE Networks"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "Stephen Baxter"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Gordon Bell"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "DEC"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Microsoft Research"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "2013"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "2012"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "2014"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "2016"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "Year"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "National Finalist"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "2014 iAwards"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "Hills YIA Cloud"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "Cloud Infrastructure Software"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "AAPT",
+                    "AAPT\nBizCloud",
+                    "BizCloud"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "Xen"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "Linux",
+                    "Linux instances"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "Linux machines"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "Windows Server",
+                    "Windows"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "GitHub"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "SSH"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "Sydney, Australia"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "2012 Australian Entrepreneur of the Year",
+                    "2013 Ernst & Young Entrepreneur of the Year"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "2014 iAwards"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "Hills YIA Cloud award"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "Stevie Award for New Product or Service of the Year"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "Xen hypervisor"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 43,
+                "mentions": [
+                    "web panel"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "OrionVM Wholesale Pty Limited",
+                "relation": "NominatedFor",
+                "tail": "Australian Startup Awards"
+            },
+            {
+                "head": "Sheng Yeo",
+                "relation": "NominatedFor",
+                "tail": "2012 Australian Entrepreneur of the Year"
+            },
+            {
+                "head": "OrionVM Wholesale Pty Limited",
+                "relation": "NominatedFor",
+                "tail": "2012 Australian Entrepreneur of the Year"
+            },
+            {
+                "head": "OrionVM Wholesale Pty Limited",
+                "relation": "NominatedFor",
+                "tail": "Stevie Award for New Product or Service of the Year"
+            },
+            {
+                "head": "OrionVM Wholesale Pty Limited",
+                "relation": "OwnerOf",
+                "tail": "OrionVM Cloud Platform"
+            },
+            {
+                "head": "OrionVM Wholesale Pty Limited",
+                "relation": "FoundedBy",
+                "tail": "Alex Sharp"
+            },
+            {
+                "head": "OrionVM Wholesale Pty Limited",
+                "relation": "Uses",
+                "tail": "Xen hypervisor"
+            },
+            {
+                "head": "OrionVM Wholesale Pty Limited",
+                "relation": "HasPart",
+                "tail": "OrionVM Cloud Platform"
+            },
+            {
+                "head": "Sheng Yeo",
+                "relation": "NominatedFor",
+                "tail": "2013 Ernst & Young Entrepreneur of the Year"
+            },
+            {
+                "head": "OrionVM Wholesale Pty Limited",
+                "relation": "NominatedFor",
+                "tail": "2013 Ernst & Young Entrepreneur of the Year"
+            },
+            {
+                "head": "OrionVM Wholesale Pty Limited",
+                "relation": "SaidToBeTheSameAs",
+                "tail": "white-label cloud platform"
+            },
+            {
+                "head": "OrionVM Wholesale Pty Limited",
+                "relation": "HasPart",
+                "tail": "web panel"
+            },
+            {
+                "head": "Sheng Yeo",
+                "relation": "NominatedFor",
+                "tail": "2012 Australian Entrepreneur of the Year"
+            },
+            {
+                "head": "OrionVM Wholesale Pty Limited",
+                "relation": "HasPart",
+                "tail": "decentralised InfiniBand fabric"
+            },
+            {
+                "head": "OrionVM",
+                "relation": "NominatedFor",
+                "tail": "a Stevie Award for New Product or Service of the Year"
+            },
+            {
+                "head": "Alex Sharp",
+                "relation": "NominatedFor",
+                "tail": "Hills YIA Cloud award"
+            },
+            {
+                "head": "OrionVM Wholesale Pty Limited",
+                "relation": "FoundedBy",
+                "tail": "Sheng Yeo"
+            },
+            {
+                "head": "OrionVM Wholesale Pty Limited",
+                "relation": "SaidToBeTheSameAs",
+                "tail": "Australian infrastructure as a service provider"
+            },
+            {
+                "head": "OrionVM Wholesale Pty Limited",
+                "relation": "NominatedFor",
+                "tail": "2014 iAwards"
+            },
+            {
+                "head": "OrionVM Wholesale Pty Limited",
+                "relation": "FoundedBy",
+                "tail": "Joseph Glanville"
+            },
+            {
+                "head": "San Francisco",
+                "relation": "LocatedIn",
+                "tail": "California"
+            }
+        ],
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "Route_panorama",
+        "doc": "Route panorama is a continuous 2D image that includes all the scenes visible from a route, as it first appeared in Zheng and Tsuji's work of panoramic views in 1990.\nDifferent from a local panorama at a static viewpoint, a digital route panorama is constructed from partial views at consecutive viewpoints along a path. A general approach to obtain such a complete route panorama is to use a line camera or slit camera mounted on a vehicle moving along the path smoothly. The camera scans temporal scenes in the side direction of the path and connect them to the spatial image. This is realized by a program that processes temporal image data or video data in a computer. The route panorama can extend to a long distance for indexing scenes and navigation on the Internet. The long image can further be transmitted to and be scrolled on computer screens or handheld devices as moving panorama for access of geospatial locations, navigation, georeferencing, etc.Mathematically, the route panorama employs a parallel-and-perspective projection  that is a continuous and extreme case of multi-perspective view to pixel lines. It may have the aspect ratio of an object different from what a normal perspective projection generates. In addition, a video camcorder is used to produce the route panorama by taking only one pixel line in the video frame at a time with the auto-exposure function of the camcorder and shaking removal function using the inter-frame matching.\nIf the depth of scenes from the path has a dominant layer, a route panorama can also be created on that layer by stitching discrete photos consecutively taken along the path  using Photomontage. Under the same circumstance, a dynamic slit selected in the video frame can generate a route panorama with less shape distortion.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Route panorama",
+                    "route panorama"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Zheng"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Tsuji"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "1990"
+                ],
+                "type": "DATE"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Zheng",
+                "relation": "Creator",
+                "tail": "Route panorama"
+            },
+            {
+                "head": "Tsuji",
+                "relation": "Creator",
+                "tail": "Route panorama"
+            },
+            {
+                "head": "route panorama",
+                "relation": "BasedOn",
+                "tail": "video camcorder"
+            }
+        ],
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "ZA_Central_Registry",
+        "doc": "The ZA Central Registry (ZACR), formerly known as UniForum SA, is a non-profit organisation established in 1988 and operates various second-level domains (SLD's) in South Africa. The ZA Central Registry is the administrator of the South African zones such as \"co.za\" and \"web.za\". Their offices are based in Midrand, South Africa.\nThe ZACR, in partnership with the Africa Union Commission (AUC), is the applicant for the dotAfrica domain in ICANN's new Top-level domain program. The ZACR has also partnered with the ZA Domain Name Authority (ZADNA), the South African Domain Name regulator, to implement the .joburg, .capetown, and .durban Top-level domains (TLDs).\nThe ZA Central Registry was established as a non-profit company in 1988 under the name of UniForum S.A. The organisation's goal was the promotion of open standards systems and related hardware, software applications and standards.Internet Service Provider Association (ISPA) assigned to Uniforum the responsibility of administering the \"co.za\" domain name space. This was because it was seen as not only having the technical skills and resources to do so, but also committed to neutrality and unity of purpose.\nThe registry started with just 400 registered domains. The ZA Central Registry currently boasts over 920 000 co.za domain name registrations, which is over 95% of the total registrations in the \".za\" ccTLD. This has made the registry by far the largest domain name registry on the African continent.\nThe registry signed four registry operator contracts with ICANN at its Singapore meeting in April 2014, which officially appoints the ZACR as the accredited ICANN registry to manage the administration function for \".joburg\", \".capetown\", \".durban\" and \".africa\".Web.za-is a generic top level domain which is now being administered by ZACR. This means that accredited registrars are now able to register names in Web.Za. This .za 2nd level domain was re launched by ZADNA, under ZA Central Registry's operation. Web.Za will take domain name registrations on the same basis as co.za: no eligibility requirements, open to domain name applications by South Africans and non-South Africans. The re-launch allows for protection of trademarks, starting with a limited sunrise and land rush processes.\n.Africa(dotAfrica)- is the new generic Top Level Domain (gTLD) for the African continent. The application was submitted with the endorsement and support of the African Union Commission (AUC), individual African governments, regional governmental agencies and organisations. The .Africa domain name was launched in 2017.\n.Cities- ZACR in partnership with ZADNA and the support of the South African Department of Communications, submitted applications for the \".durban\", \".capetown\" and \".joburg\" TLDs. This will enable key South African cities to compete with their international counterparts and, more especially, allow them to showcase the cities as business and tourist destinations.\n",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "UniForum",
+                    "Uniforum",
+                    "ZA Central Registry",
+                    "ZACR",
+                    "ZA Domain Name Authority",
+                    "accredited ICANN registry",
+                    "UniForum SA",
+                    "ZADNA",
+                    "UniForum S.A."
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "1988"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "second"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "South Africa",
+                    "South African",
+                    "Midrand"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "AUC",
+                    "Africa Union Commission",
+                    "African Union Commission"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "ICANN"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Internet Service Provider Association",
+                    "ISPA"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "400"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "over 920"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "over 95%"
+                ],
+                "type": "PERCENT"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "African continent"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "four"
+                ],
+                "type": "CARDINAL"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Singapore"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "April 2014"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "2nd"
+                ],
+                "type": "ORDINAL"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "South Africans",
+                    "non-South Africans"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "2017"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "South African Department of Communications"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "co.za"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Web.za",
+                    "web.za",
+                    "Web.Za"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Midrand, South Africa"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    ".Africa",
+                    "Africa"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "dotAfrica",
+                    "dotAfrica domain"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    ".capetown",
+                    ".durban",
+                    ".joburg"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "ZA Central Registry",
+                "relation": "Partner",
+                "tail": "ZA Domain Name Authority"
+            },
+            {
+                "head": "ZACR",
+                "relation": "Partner",
+                "tail": "the Africa Union Commission"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "NominatedFor",
+                "tail": "dotAfrica domain"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "LocatedIn",
+                "tail": "Midrand, South Africa"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "HasPart",
+                "tail": ".joburg"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "HasPart",
+                "tail": ".capetown"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "AwardReceived",
+                "tail": "accredited ICANN registry"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "Founded",
+                "tail": "1988"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "HasPart",
+                "tail": "co.za"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "Partner",
+                "tail": "Africa Union Commission"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "HasPart",
+                "tail": "web.za"
+            },
+            {
+                "head": "ZA Central Registry",
+                "relation": "HasPart",
+                "tail": ".durban"
+            },
+            {
+                "head": "ZACR",
+                "relation": "Country",
+                "tail": "South Africa"
+            }
+        ],
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ]
+    }
+]

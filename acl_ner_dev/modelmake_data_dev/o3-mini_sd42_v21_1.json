@@ -1,0 +1,811 @@
+[
+    {
+        "domain": "Human_behavior",
+        "title": "Crowd_collapses_and_crushes",
+        "doc": "Crowd collapses and crowd crushes are catastrophic incidents that can occur when a body of people becomes dangerously overcrowded. When numbers are up to about five people per square meter, the environment may feel cramped but manageable; when numbers reach between eight and ten people per square meter, individuals become pressed against each other and may be swept along against their will by the motion of the crowd. Under these conditions, the crowd may undergo a progressive collapse where the pressure pushes people off their feet, resulting in people being trampled or crushed by the weight of other people falling on top of them. At even higher densities, the pressure on each individual can cause them to be crushed or asphyxiated while still upright.\nSuch incidents are invariably the product of organizational failures, and most major crowd disasters could have been prevented by simple crowd management strategies. Such incidents can occur at large gatherings such as sporting, commercial, social, and religious events. The critical factor is crowd density rather than crowd size.\nCrowd collapses and crushes are often reported incorrectly as human stampedes, which typically occur when a large group of people all try to get away from a perceived risk to life.\nOne study has calculated that there were 232 deaths and over 66,000 injuries in the ten years between 1992 and 2002 as a result of such incidents, but crowd scientists believe that such casualties are both vastly under-reported and increasing in frequency. One estimate is that only one in ten crowd injuries occurring in doorbuster sales are reported, while many, if not most, injuries at rock concerts go unreported.The average individual occupies an oval floorspace approximately 30 by 60 centimetres (1 by 2 ft)—0.2 square metres; 2 square feet—and at densities of 1 to 2 per square meter (or per 10 sq ft) individuals can move freely without contact. Even if people are moving quickly, at this density one can avoid obstacles, and the chance of a crowd-related incident is minimal. Even at three or four people per square meter, the risk is low; however, at densities of five per square meter, it becomes more difficult for individuals to move, and at higher densities of six to seven per square meter, individuals become pressed against each other and can be unable to move voluntarily. At this point a crowd can begin to behave like a fluid, with individuals moved about by the pressure of those around them, and shockwaves can pass through the crowd as pressures within the crowd change. This can be highly dangerous, although some people actively seek this experience, such as at rock concerts or football matches, where the excitement, camaraderie, and literally \"going with the flow\" is for some an essential part of the experience, and activities like dancing and moshing are common. The danger inherent in these conditions is that the crowd will collapse in on itself or become so densely packed that individuals are crushed and asphyxiated.A crowd collapse occurs when a crowd is so dense that each individual is touching others all around and is, to an extent, supported by those around. This can occur whether the crowd is moving or stationary. If a person then falls, the support to those around is lost, while the pressure from those further out remains, causing people to fall into the void. This process is then repeated, causing a bigger void, and will progress until the pressure eases; meanwhile, those who have fallen are at risk of being smothered by the weight of bodies on top or being trampled as the crowd is swept over them.An example of a progressive crowd collapse was the 2015 Mina stampede in Mecca, Saudi Arabia during the Hajj when over 2,400 people were reported to have died.\nAt even higher densities (approaching ten people per square metre (one per square foot)) a crowd can become so packed that people are crushed together to such an extent they can no longer breathe and are asphyxiated. Such crowd crushes can occur when a moving crowd is funneled into a smaller and smaller space, when it meets an obstacle (such as a dead end, or a locked door), or when an already densely packed crowd has an influx of people, causing a pressure wave toward those at the front of the crowd. In this situation those entering may be unaware of the effect on those in front and continue to press in.Examples of crushes are the Hillsborough disaster in Sheffield, South Yorkshire, England in 1989, the Love Parade disaster in Duisburg, North Rhine-Westphalia, Germany in 2010, the Astroworld Festival crowd crush in Houston, Texas, and the Itaewon Halloween crowd crush in Itaewon, Seoul, South Korea in 2022.\nThe term \"stampede\" is usually used in reference to animals that are fleeing a threat. Stampede events that involve humans are extremely rare and are unlikely to be fatal. According to Keith Still, professor of crowd science at Manchester Metropolitan University, \"If you look at the analysis, I've not seen any instances of the cause of mass fatalities being a stampede. People don't die because they panic. They panic because they are dying\". Paul Torrens, a professor at the Center for Geospatial Information Science at the University of Maryland, remarks that \"the idea of the hysterical mass is a myth\".  Incidents involving crowds are often reported by media as the results of panic. However, the scientific literature has explained how panic is a myth which is used to mislead the attention of the public from the real causes of crowd incidents, such as a crowd crush.In crowd collapse and crush incidents the most common cause of death is asphyxiation, caused either by vertical stacking, as people fall on top of one another, or by horizontal stacking, where people are crushed together or against an unyielding barrier. Victims can also exhibit bone fractures caused by the pressure, or trampling injuries, when a crowd has swept over them where they have lain.It is believed that most major crowd disasters can be prevented by simple crowd management strategies. Crushes can be prevented by organization and traffic control, such as crowd barriers. On the other hand, barriers in some cases may funnel the crowd toward an already-packed area, such as in the Hillsborough disaster. Hence barriers can be a solution in preventing or a key factor in causing a crush. One problem is lack of feedback from people being crushed to the crowd pressing behind—feedback can instead be provided by police, organizers, or other observers, particularly raised observers, such as on platforms or horseback, who can survey the crowd and use loudspeakers to communicate and direct a crowd. In some cases it may be possible to take simple measures such as spreading movements out over time.A factor that may contribute to a crush is inexperienced security officers who assume that people's behaviour in a dense crowd is voluntary and dangerous, and start applying force or preventing people from moving in certain directions. In the 1989 Hillsborough disaster, some police and stewards were so concerned with what they saw as possible hooliganism that they took actions that actually made matters worse.\nThere is risk of a crush when crowd density exceeds about five people per square meter. For a person in a crowd a signal of danger, and a warning to get out of the crowd if possible, is the sensation of being touched on all four sides. A later, more serious, warning is when one feels shock waves travelling through the crowd, due to people at the back pushing forward against people at the front with nowhere to go. Keith Still of the Fire Safety Engineering Group, University of Greenwich, said \"Be aware of your surroundings. Look ahead. Listen to the crowd noise. If you start finding yourself in a crowd surge, wait for the surge to come, go with it, and move sideways. Keep moving with it and sideways, with it and sideways.\" Other recommendations include trying to remain upright, and keeping away from walls and other obstructions if possible.\nAfter the 1883 crush known as the Victoria Hall disaster in Sunderland, England, which killed 183 children, a law was passed in England which required all public entertainment venues to be equipped with doors that open outwards—for example, using crash bar latches that open when pushed. Crash bars are required by various building codes.\nFruin, John (January 2002) [First presented March 1993]. The Causes and Prevention of Crowd Disasters (PDF). First International Conference on Engineering for Crowd Safety (crowdsafe.com ed.). Archived (PDF) from the original on 30 April 2021.Pearl, Tracy Hresko (2015). \"Crowd Crush: How the Law Leaves American Crowds Unprotected\". Kentucky Law Journal. 104 (1). Article 4.\n",
+        "label_set": [
+            "BasedOn",
+            "DifferentFrom",
+            "HasPart",
+            "HasCause",
+            "Affiliation",
+            "NamedBy",
+            "Uses",
+            "Causes",
+            "ContributedToCreativeWork",
+            "Studies",
+            "FieldOfWork",
+            "UsedBy",
+            "IssuedBy",
+            "PublishedIn",
+            "HasEffect",
+            "InfluencedBy",
+            "ApprovedBy",
+            "SaidToBeTheSameAs"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "{\n  \"entities\": [\n    {\n      \"id\": 0,\n      \"mentions\": [\"Mina stampede\"],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 1,\n      \"mentions\": [\"Mecca\"],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 2,\n      \"mentions\": [\"Saudi Arabia\"],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 3,\n      \"mentions\": [\"Hajj\"],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 4,\n      \"mentions\": [\"Hillsborough disaster\"],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 5,\n      \"mentions\": [\"Sheffield\"],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 6,\n      \"mentions\": [\"South Yorkshire\"],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 7,\n      \"mentions\": [\"England\"],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 8,\n      \"mentions\": [\"Love Parade disaster\"],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 9,\n      \"mentions\": [\"Duisburg\"],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 10,\n      \"mentions\": [\"North Rhine-Westphalia\"],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 11,\n      \"mentions\": [\"Germany\"],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 12,\n      \"mentions\": [\"Astroworld Festival crowd crush\"],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 13,\n      \"mentions\": [\"Houston\"],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 14,\n      \"mentions\": [\"Texas\"],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 15,\n      \"mentions\": [\"Itaewon Halloween crowd crush\"],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 16,\n      \"mentions\": [\"Itaewon\"],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 17,\n      \"mentions\": [\"Seoul\"],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 18,\n      \"mentions\": [\"South Korea\"],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 19,\n      \"mentions\": [\"Victoria Hall disaster\"],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 20,\n      \"mentions\": [\"Sunderland\"],\n      \"type\": \"GPE\"\n    },\n    {\n      \"id\": 21,\n      \"mentions\": [\"1883\"],\n      \"type\": \"DATE\"\n    },\n    {\n      \"id\": 22,\n      \"mentions\": [\"University of Greenwich\"],\n      \"type\": \"ORG\"\n    },\n    {\n      \"id\": 23,\n      \"mentions\": [\"Manchester Metropolitan University\"],\n      \"type\": \"ORG\"\n    },\n    {\n      \"id\": 24,\n      \"mentions\": [\"University of Maryland\"],\n      \"type\": \"ORG\"\n    },\n    {\n      \"id\": 25,\n      \"mentions\": [\"Fire Safety Engineering Group\"],\n      \"type\": \"ORG\"\n    },\n    {\n      \"id\": 26,\n      \"mentions\": [\"Keith Still\"],\n      \"type\": \"PERSON\"\n    },\n    {\n      \"id\": 27,\n      \"mentions\": [\"Paul Torrens\"],\n      \"type\": \"PERSON\"\n    },\n    {\n      \"id\": 28,\n      \"mentions\": [\"John Fruin\"],\n      \"type\": \"PERSON\"\n    }\n  ],\n  \"triples\": [\n    {\n      \"head\": \"Hillsborough disaster\",\n      \"relation\": \"HasCause\",\n      \"tail\": \"organizational failures\"\n    },\n    {\n      \"head\": \"crowd management strategies\",\n      \"relation\": \"HasEffect\",\n      \"tail\": \"prevention of crowd disasters\"\n    },\n    {\n      \"head\": \"barriers\",\n      \"relation\": \"HasEffect\",\n      \"tail\": \"funneling crowds\"\n    }\n  ]\n}",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Mina stampede"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Mecca"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Saudi Arabia"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Hajj"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Hillsborough disaster"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Sheffield"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "South Yorkshire"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "England"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Love Parade disaster"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Duisburg"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "North Rhine-Westphalia"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Germany"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Astroworld Festival crowd crush"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "Houston"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Texas"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "Itaewon Halloween crowd crush"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "Itaewon"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "Seoul"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "South Korea"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Victoria Hall disaster"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Sunderland"
+                ],
+                "type": "GPE"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "1883"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "University of Greenwich"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "Manchester Metropolitan University"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "University of Maryland"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "Fire Safety Engineering Group"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "Keith Still"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "Paul Torrens"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "John Fruin"
+                ],
+                "type": "PERSON"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Hillsborough disaster",
+                "relation": "HasCause",
+                "tail": "organizational failures"
+            },
+            {
+                "head": "crowd management strategies",
+                "relation": "HasEffect",
+                "tail": "prevention of crowd disasters"
+            },
+            {
+                "head": "barriers",
+                "relation": "HasEffect",
+                "tail": "funneling crowds"
+            }
+        ]
+    },
+    {
+        "domain": "Human_behavior",
+        "title": "Deviance_regulation_theory",
+        "doc": "Deviance regulation theory (DRT) posits that people choose to stray from social norms in socially attractive ways as well as avoiding socially unattractive behaviors that stray from social norms. These actions are all performed in an effort to preserve a constructive private and public self-image. DRT was proposed by Hart Blanton at the University of Albany in 2003 and has various applications in behavior change including alcohol interventions, inducing creativity, and other uses that are briefly mentioned below. Limitations to this theory have yet to be discovered but with future research Blanton and Christie are sure that boundaries are to be found.\nDeviance regulation theory (DRT) builds upon past research on causal attribution, self-representation, social comparison, person perception, and social prototypes. These areas of research focus on identity and actions separately. In DRT, deviance is defined strictly as a divergence from a norm, lacking any negative connotation that the term deviance commonly holds in psychology. Deviance regulation theory links actions and identities to explain and predict  adherence to, and deviance from, normative action based on identity pursuit. This is a somewhat narrow scope because application is limited to situations where identity concerns are predominant.DRT relies on a dual-motivational system to explain the pursuit of identity within reference groups. On one side of the system, motivation comes from the avoidance of negative self-views. In a reference group where a behavior is required of its members, the members of the reference group will internalize the group mentality. If an individual were to deviate from the normative behavior, they would then develop negative self-views. So in order to protect their positive self-regard, individuals are motivated to avoid deviating from the normative behavior.\nOn the other side of the dual-motivational system, in a reference group where a behavior deviating from the norm is desirable but not required of its members, members of the group would regard the deviant act as an ideal. In this scenario, an individual is motivated to deviate from the norm because doing so will raise their esteem within the reference group and will elevate their level of positive self-regard.\nIn both schemes, deviance from or adherence to a normative act is guided by identity pursuit. In the first scheme behavior was guided by the preservation of positive identity through the avoidance of negative self-regard; and in the second scheme, behavior was guided by the pursuit of positive identity. Which motivation will guide behavior will depend on the context within reference groups and individual variance, although avoidance of negative identity seems to be a more pungent motivator. In the first example the negative self-views would come from ideas of social obligation. Not meeting the minimum requirements of the social obligation leads to feelings of exclusion which is why it can be a very powerful motivator. Positive identity pursuit gives motivation to exhibit what Blanton and Christie referred to as \"optional ideals\". Meeting minimums for social inclusion seems to be a more pressing influence over behavior than exhibiting ideal (but not required) behavior, especially when individual abilities and interests are taken into account.\nResearch by Hart Blanton has not found limitations because the experiments were conducted under circumstances that favored the current theory. Blanton and Christie expect boundary conditions to become evident through future research and may be found to exist in situations where the individual is resistant to change. If an individual makes a conscious effort to resist a reference group's perceived attempt to alter the individual's behavior, it seems plausible that DRT could backfire. The same way that people key off of behavior from ingroups, people also observe and avoid normative behavior displayed by people in outgroups. In this context DRT could play the opposite role as an individual would avoid the observed normative behavior.Differences in culture could potentially expose another boundary condition. A person's level of self-representation could be a limit of application. Future research could show whether cultural identity  would influence the predictive power of deviance regulation theory. It seems intuitive to think that a person who holds a more collective identity (e.g. in eastern culture individuals base more of their identity off of the identity of the success and failure of their collective nation when compared with individuals from western culture) may be influenced differently by motivations relating to identity pursuit than someone who holds an individualistic view of identity.\nDeviance regulation theory is primarily used as an intervention meant to influence behavior through social norms. By framing a message about what behaviors are considered normal in either a positive or negative way, it is possible to influence individuals to either engage or abstain from those behaviors based on the desire to appear as an individual with positive qualities. There are several ways in which a deviance regulation intervention has been and can possibly be used:Among the uses of deviance regulation interventions, the regulation of alcohol use, especially among college students, is perhaps the most prevalent. Interventions involving conformity are particularly relevant in the case of college drinking due to the tendency of college students to overestimate the amount of alcohol consumed by their peers, as well as projection, or the tendency for individuals to view their peer's drinking habits as similar to their own, causing them to see their own alcohol use as normal. Furthermore, a deviance regulation intervention makes sense among this population due to college often being a time of identity development, and because many see drinking as an integral part of the college experience could serve as a behavior with which to establish an identity.One way deviance regulation interventions have been used to control alcohol consumption is by increasing the use of protective behavioral strategies. Protective behavioral strategies (PBS) are methods that an individual can employ in order to limit the consequences of alcohol use, and include limiting the number of drinks consumed in a session, moderating the manner of drinking, and serious harm reduction, such as having a designated driver. It was found that individuals who believed the use of PBS was high were most influenced by a negative message about those who do not use PBS and that individuals who believed PBS use was low were more influenced by a positive message about those who use PBS. However, this held true only for the manner of drinking strategy, and only influenced behavior when the subject believed in the message.\nDeviance regulation interventions have also been used to influence creativity. This was done by manipulating self guides, which are internalized evaluative standards developed through socialization. There are two types of self guides: ought self-guides, which are representative of attributes that are socially desirable and are performed out of a sense of obligation or social obligation or responsibility, and Ideal self guides, which represent attributes formed more from the individual's desires and personal ambitions. Both of these self-guides are associated with distinct motivational orientations. Ought self-guides, which focus on attributes typically taught through punishment, lead to a prevention-focus, or the avoidance of unwanted outcomes. Conversely, ideal self-guides, which are developed through praise and admiration, lead to a promotion-focus, or the desire to achieve positive outcomes.It has been generally observed that individuals high in promotion-focus are more likely to show flexible and creative thinking patterns. Therefore, researchers believed that situations that activate promotion-focus should result in greater creativity. It was found that those who put a high emphasis on social obligation had less desire to be creative, and therefore manipulation of the salience of ought self-guides inhibited creative output while manipulation of ideal self-guides increased creative output. Furthermore, priming of promotion-focus lead subjects led to more novel answers on a word association test. However, it is believed that these results came from an increase in creative expression, not creative ability, as the boost to creative output vanished among speeded trials.\nA deviance regulation intervention has been used in various other scenarios in order to encourage flu immunization, condom use, as well as prospectively for the discouragement of cigarette smoke.",
+        "label_set": [
+            "BasedOn",
+            "DifferentFrom",
+            "HasPart",
+            "HasCause",
+            "Affiliation",
+            "NamedBy",
+            "Uses",
+            "Causes",
+            "ContributedToCreativeWork",
+            "Studies",
+            "FieldOfWork",
+            "UsedBy",
+            "IssuedBy",
+            "PublishedIn",
+            "HasEffect",
+            "InfluencedBy",
+            "ApprovedBy",
+            "SaidToBeTheSameAs"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "{\n  \"entities\": [\n    {\n      \"id\": 0,\n      \"mentions\": [\n        \"Deviance regulation theory\",\n        \"DRT\"\n      ],\n      \"type\": \"MISC\"\n    },\n    {\n      \"id\": 1,\n      \"mentions\": [\n        \"Hart Blanton\"\n      ],\n      \"type\": \"PERSON\"\n    },\n    {\n      \"id\": 2,\n      \"mentions\": [\n        \"University of Albany\"\n      ],\n      \"type\": \"ORG\"\n    },\n    {\n      \"id\": 3,\n      \"mentions\": [\n        \"2003\"\n      ],\n      \"type\": \"DATE\"\n    },\n    {\n      \"id\": 4,\n      \"mentions\": [\n        \"Christie\"\n      ],\n      \"type\": \"PERSON\"\n    },\n    {\n      \"id\": 5,\n      \"mentions\": [\n        \"eastern culture\"\n      ],\n      \"type\": \"NORP\"\n    },\n    {\n      \"id\": 6,\n      \"mentions\": [\n        \"western culture\"\n      ],\n      \"type\": \"NORP\"\n    },\n    {\n      \"id\": 7,\n      \"mentions\": [\n        \"PBS\"\n      ],\n      \"type\": \"MISC\"\n    }\n  ],\n  \"triples\": [\n    {\n      \"head\": \"Deviance regulation theory\",\n      \"relation\": \"NamedBy\",\n      \"tail\": \"Hart Blanton\"\n    },\n    {\n      \"head\": \"Hart Blanton\",\n      \"relation\": \"Affiliation\",\n      \"tail\": \"University of Albany\"\n    },\n    {\n      \"head\": \"Deviance regulation theory\",\n      \"relation\": \"PublishedIn\",\n      \"tail\": \"2003\"\n    }\n  ]\n}",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Deviance regulation theory",
+                    "DRT"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Hart Blanton"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "University of Albany"
+                ],
+                "type": "ORG"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "2003"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "Christie"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "eastern culture"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "western culture"
+                ],
+                "type": "NORP"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "PBS"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Deviance regulation theory",
+                "relation": "NamedBy",
+                "tail": "Hart Blanton"
+            },
+            {
+                "head": "Hart Blanton",
+                "relation": "Affiliation",
+                "tail": "University of Albany"
+            },
+            {
+                "head": "Deviance regulation theory",
+                "relation": "PublishedIn",
+                "tail": "2003"
+            }
+        ]
+    },
+    {
+        "domain": "Human_behavior",
+        "title": "Discrete_trial_training",
+        "doc": "Discrete trial training (DTT) is a technique used by practitioners of applied behavior analysis (ABA) that was developed by Ivar Lovaas at the University of California, Los Angeles (UCLA). DTT uses mass instruction and reinforcers that create clear contingencies to shape new skills. Often employed as an early intensive behavioral intervention (EIBI) for up to 25:40 hours per week for children with autism, the technique relies on the use of prompts, modeling, and positive reinforcement strategies to facilitate the child's learning. It previously used aversives to punish unwanted behaviors. DTT has also been referred to as the \"Lovaas/UCLA model\", \"rapid motor imitation antecedent\", \"listener responding\", \"errorless learning\", and \"mass trials\".\nDiscrete trial training (DTT) is a process whereby an activity is divided into smaller distinct sub-tasks and each of these is repeated continuously until a person is proficient. The trainer rewards successful completion and uses errorless correction procedures if there is unsuccessful completion by the subject to condition them into mastering the process. When proficiency is gained in each sub-task, they are re-combined into the whole activity: in this way proficiency at complex activities can be taught. DTT is carried out in a one-on-one therapist to student ratio at the table. Intervention can start when a child is as young as two years old and can last from two to six years. Progression through goals of the program are determined individually and are not determined by which year the client has been in the program. The first year seeks to reduce self-stimulating/self-regulatory (\"stimming\") behavior (this includes (\"stimming\") in ways that pose no inherent harm), teach listener responding, eye contact, and rapid fine and gross motor imitation, as well as to establish playing with toys in what the therapist considers the \"correct\" way, and integrate the family into the treatment protocol. The second year teaches early expressive language and abstract linguistic skills. The third year strives to include the individual's community in the treatment to optimize \"mainstreaming\" by focusing on peer interaction, basic socializing skills, basic social rules, emotional expression and variation, in addition to observational learning and pre-academic skills, such as reading, writing, and arithmetic. Rarely is the technique implemented for the first time with adults.\nDTT is typically performed five to seven days a week with each session lasting from five to eight hours, totaling an average of 30:40 hours per week. Sessions are divided into trials with intermittent breaks, and the therapist is positioned directly across the table from the student receiving treatment. Each trial is composed of the therapist giving an instruction (i.e., \"Look at me\", \"Do this\", \"Point to\", etc.), in reference to an object, color, simple imitative gesture, etc., which is followed by a prompt (verbal, gestural, physical, etc.). The concept is centered on shaping the child to respond correctly to the instructions throughout the trials. Should the child fail to respond to an instruction, the therapist uses either a \"partial prompt\" (a simple nudge or touch on the hand or arm) or a \"full prompt\" to facilitate the child to successfully complete the task. Correct responses are reinforced with a reward, and the prompts are discontinued as the child begins to master each skill.\nThe intervention is often used in conjunction with the Picture Exchange Communication System (PECS) as it primes the child for an easy transition between treatment types. The PECS program serves as another common intervention technique used to conform individuals with autism. As many as 25% of autistic individuals have no functional speech. The program teaches spontaneous social communication through symbols or pictures by relying on ABA techniques.  PECS operates on a similar premise to DTT in that it uses systematic chaining to teach the individual to pair the concept of expressive speech with an object.  It is structured in a similar fashion to DTT, in that each session begins with a preferred reinforcer survey to ascertain what would most motivate the child and effectively facilitate learning.\nLimited research shows DTT to be effective in enhancing spoken language, academic and adaptive skills, as many studies are of low quality research design and there needs to be more larger sample sizes.A 1965 article in Life magazine entitled Screams, Slaps and Love has a lasting impact on public attitudes towards Lovaas's therapy. Giving little thought to how their work might be portrayed, Lovaas and parent advocate Bernie Rimland, M.D., were surprised when the magazine article appeared, since it focussed on text and selected images showing the use of aversives, including a close up of a child being slapped. Even after the use of aversives had been largely discontinued, the article continued to have an effect, galvanizing public concerns about behavior modification techniques.In April 2002 treatment cost in the U.S. was about US$4,200 per month ($50,000 annually) per child.  The 20:40 hours per week intensity of the program, often conducted at home, may place additional stress on already challenged families.Discrete trial training is rooted in the hypothesis of Charles Ferster that autism was caused in part by a person's inability to react appropriately to \"social reinforcers\", such as praise or criticism. Lovaas's early work concentrated on showing that it was possible to strengthen autistic people's responses to these social reinforcers, but he found these improvements were not associated with any general improvement in overall behavior.In a 1987 paper, psychologists Frank Gresham and Donald MacMillan described a number of weaknesses in Lovass's research and judged that it would be better to call the evidence for his interventions \"promising\" rather than \"compelling\".\nLovaas's original technique used aversives such as striking, shouting, and electrical shocks to punish undesired behaviors. By 1979, Lovaas had abandoned the use of aversives, and in 2012 the use of electric shocks was described as being inconsistent with contemporary practice.\n",
+        "label_set": [
+            "BasedOn",
+            "DifferentFrom",
+            "HasPart",
+            "HasCause",
+            "Affiliation",
+            "NamedBy",
+            "Uses",
+            "Causes",
+            "ContributedToCreativeWork",
+            "Studies",
+            "FieldOfWork",
+            "UsedBy",
+            "IssuedBy",
+            "PublishedIn",
+            "HasEffect",
+            "InfluencedBy",
+            "ApprovedBy",
+            "SaidToBeTheSameAs"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "{\n  \"entities\": [\n    {\n      \"id\": 0,\n      \"mentions\": [\n        \"Discrete trial training (DTT)\",\n        \"DTT\",\n        \"Lovaas/UCLA model\",\n        \"rapid motor imitation antecedent\",\n        \"listener responding\",\n        \"errorless learning\",\n        \"mass trials\"\n      ],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 1,\n      \"mentions\": [\n        \"applied behavior analysis (ABA)\"\n      ],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 2,\n      \"mentions\": [\n        \"Ivar Lovaas\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 3,\n      \"mentions\": [\n        \"University of California, Los Angeles (UCLA)\",\n        \"UCLA\"\n      ],\n      \"type\": \"organization\"\n    },\n    {\n      \"id\": 4,\n      \"mentions\": [\n        \"early intensive behavioral intervention (EIBI)\"\n      ],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 5,\n      \"mentions\": [\n        \"Picture Exchange Communication System (PECS)\",\n        \"PECS\"\n      ],\n      \"type\": \"misc\"\n    },\n    {\n      \"id\": 6,\n      \"mentions\": [\n        \"Charles Ferster\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 7,\n      \"mentions\": [\n        \"Frank Gresham\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 8,\n      \"mentions\": [\n        \"Donald MacMillan\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 9,\n      \"mentions\": [\n        \"Life magazine\"\n      ],\n      \"type\": \"organization\"\n    },\n    {\n      \"id\": 10,\n      \"mentions\": [\n        \"Screams, Slaps and Love\"\n      ],\n      \"type\": \"work_of_art\"\n    },\n    {\n      \"id\": 11,\n      \"mentions\": [\n        \"U.S.\"\n      ],\n      \"type\": \"gpe\"\n    },\n    {\n      \"id\": 12,\n      \"mentions\": [\n        \"Bernie Rimland, M.D.\"\n      ],\n      \"type\": \"person\"\n    },\n    {\n      \"id\": 13,\n      \"mentions\": [\n        \"April 2002\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 14,\n      \"mentions\": [\n        \"1979\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 15,\n      \"mentions\": [\n        \"2012\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 16,\n      \"mentions\": [\n        \"1987\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 17,\n      \"mentions\": [\n        \"1965\"\n      ],\n      \"type\": \"date\"\n    },\n    {\n      \"id\": 18,\n      \"mentions\": [\n        \"US$4,200\"\n      ],\n      \"type\": \"money\"\n    },\n    {\n      \"id\": 19,\n      \"mentions\": [\n        \"$50,000\"\n      ],\n      \"type\": \"money\"\n    }\n  ],\n  \"triples\": [\n    {\n      \"head\": \"Ivar Lovaas\",\n      \"relation\": \"Affiliation\",\n      \"tail\": \"University of California, Los Angeles\"\n    },\n    {\n      \"head\": \"Discrete trial training\",\n      \"relation\": \"InfluencedBy\",\n      \"tail\": \"Charles Ferster\"\n    },\n    {\n      \"head\": \"Screams, Slaps and Love\",\n      \"relation\": \"PublishedIn\",\n      \"tail\": \"Life magazine\"\n    },\n    {\n      \"head\": \"Discrete trial training\",\n      \"relation\": \"DifferentFrom\",\n      \"tail\": \"Picture Exchange Communication System\"\n    },\n    {\n      \"head\": \"Discrete trial training\",\n      \"relation\": \"BasedOn\",\n      \"tail\": \"applied behavior analysis (ABA)\"\n    }\n  ]\n}",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Discrete trial training (DTT)",
+                    "DTT",
+                    "Lovaas/UCLA model",
+                    "rapid motor imitation antecedent",
+                    "listener responding",
+                    "errorless learning",
+                    "mass trials"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "applied behavior analysis (ABA)"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Ivar Lovaas"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "University of California, Los Angeles (UCLA)",
+                    "UCLA"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "early intensive behavioral intervention (EIBI)"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Picture Exchange Communication System (PECS)",
+                    "PECS"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Charles Ferster"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Frank Gresham"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Donald MacMillan"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "Life magazine"
+                ],
+                "type": "organization"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Screams, Slaps and Love"
+                ],
+                "type": "work_of_art"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "U.S."
+                ],
+                "type": "gpe"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Bernie Rimland, M.D."
+                ],
+                "type": "person"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "April 2002"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "1979"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "2012"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "1987"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "1965"
+                ],
+                "type": "date"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "US$4,200"
+                ],
+                "type": "money"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "$50,000"
+                ],
+                "type": "money"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Ivar Lovaas",
+                "relation": "Affiliation",
+                "tail": "University of California, Los Angeles"
+            },
+            {
+                "head": "Discrete trial training",
+                "relation": "InfluencedBy",
+                "tail": "Charles Ferster"
+            },
+            {
+                "head": "Screams, Slaps and Love",
+                "relation": "PublishedIn",
+                "tail": "Life magazine"
+            },
+            {
+                "head": "Discrete trial training",
+                "relation": "DifferentFrom",
+                "tail": "Picture Exchange Communication System"
+            },
+            {
+                "head": "Discrete trial training",
+                "relation": "BasedOn",
+                "tail": "applied behavior analysis (ABA)"
+            }
+        ]
+    },
+    {
+        "domain": "Human_behavior",
+        "title": "Fight-or-flight_response",
+        "doc": "The fight-or-flight or the fight-flight-freeze-or-fawn (also called hyperarousal or the acute stress response) is a physiological reaction that occurs in response to a perceived harmful event, attack, or threat to survival. It was first described by Walter Bradford Cannon in 1915. His theory states that animals react to threats with a general discharge of the sympathetic nervous system, preparing the animal for fighting or fleeing. More specifically, the adrenal medulla produces a hormonal cascade that results in the secretion of catecholamines, especially norepinephrine and epinephrine. The hormones estrogen, testosterone, and cortisol, as well as the neurotransmitters dopamine and serotonin, also affect how organisms react to stress. The hormone osteocalcin might also play a part.\nThis response is recognised as the first stage of the general adaptation syndrome that regulates stress responses among vertebrates and other organisms.\nOriginally understood as the \"fight-or-flight\" response in Cannon's research, the state of hyperarousal results in several responses beyond fighting or fleeing. This has led people to calling it the \"fight, flight, freeze\" response, \"fight-flight-freeze-fawn\" or \"fight-flight-faint-or-freeze\", among other variants. The wider array of responses, such as freezing, flop, faint, flee and fright, has led researchers to use more neutral or accommodating terminology such as \"hyperarousal\" or the \"acute stress response\".\nThe autonomic nervous system is a control system that acts largely unconsciously and regulates heart rate, digestion, respiratory rate, pupillary response, urination, and sexual arousal. This system is the primary mechanism in control of the fight-or-flight response and its role is mediated by two different components: the sympathetic nervous system and the parasympathetic nervous system.The sympathetic nervous system originates in the spinal cord and its main function is to activate the arousal responses that occur during the fight-or-flight response. The sympathetic nervous system transfers signals from the dorsal hypothalamus, which activates the heart, increases vascular resistance, and increases blood flow, especially to the muscle, heart, and brain tissues. It activates the adrenal medulla, releasing catecholamines that amplify the sympathetic response. Additionally, this component of the autonomic nervous system utilizes and activates the release of norepinephrine by the adrenal glands in the reaction.The parasympathetic nervous system originates in the sacral spinal cord and medulla, physically surrounding the sympathetic origin, and works in concert with the sympathetic nervous system. It is known as the calming portion of the autonomic nervous system. While the sympathetic nervous system is activated, the parasympathetic nervous system decreases its response. Efferent vagal fibers originating from the nucleus ambiguous fire in parallel to the respiratory system, decreasing the vagal cardiac parasympathetic tone. After the fight or flight response, the parasympathetic system's main function is to activate the \"rest and digest\" response and return the body to homeostasis. This system utilizes and activates the release of the neurotransmitter acetylcholine.The reaction begins in the amygdala, which triggers a neural response in the hypothalamus. The initial reaction is followed by activation of the pituitary gland and secretion of the hormone ACTH. The adrenal gland is activated almost simultaneously, via the sympathetic nervous system, and releases the hormone epinephrine. The release of chemical messengers results in the production of the hormone cortisol, which increases blood pressure, blood sugar, and suppresses the immune system.The initial response and subsequent reactions are triggered in an effort to create a boost of energy. This boost of energy is activated by epinephrine binding to liver cells and the subsequent production of glucose. Additionally, the circulation of cortisol functions to turn fatty acids into available energy, which prepares muscles throughout the body for response.\nCatecholamine hormones, such as adrenaline (epinephrine) or noradrenaline (norepinephrine), facilitate immediate physical reactions associated with a preparation for violent muscular action.\nThe physiological changes that occur during the fight or flight response are activated in order to give the body increased strength and speed in anticipation of fighting or running. Some of the specific physiological changes and their functions include:Increased blood flow to the muscles activated by diverting blood flow from other parts of the body to make taking quick action easier.\nIncreased blood pressure and heart rate enhance cardiac output in order to supply the body with more energy.\nIncreased blood sugar (glucose) and fats secreted by the liver to provide the body with extra fuel.\nIncreased respiration to supply the oxygen necessary to help burn the extra glucose.\nThe blood clotting function of the body speeds up in order to prevent excessive blood loss in the event of an injury sustained during the response.\nIncreased muscle tension in order to provide the body with extra speed and strength, which can result in trembling or shaking until the tension is released.\nThe pupils dilate to let in more light, allowing for better vision of the body's surroundings.\nIn the context of the fight or flight response, emotional regulation is used proactively to avoid threats of stress or to control the level of emotional arousal. Emotional socialization can develop someone's ability to successfully regulate their emotions. Faced with a perceived threat (in the context of a fight or flight situation) those raised with supportive parental behaviors are far more likely to easily self-regulate their emotions.During the reaction, the intensity of emotion that is brought on by the stimulus will also determine the nature and intensity of the behavioral response. In a experiment conducted by Clayton, Lang, Leshner and Quick (2019), they viewed the responses of 49 participants to antitobacco messages. Participants reacted in two orders of fashion after seeing the message with the individual smoker and their affects on those surrounding them. The first reaction was participants who had higher defense mechanisms, who decided to ignore the messages, while the other participants who had lower defense mechanisms, ended up arguing and becoming frustrated after viewing the antitobacco messages. Individuals with higher levels of emotional reactivity (Such as an anxiety disorder) may be prone to anxiety and aggression, which illustrates the implications of appropriate emotional reaction in the fight or flight response.The specific components of cognitions in the fight or flight response seem to be largely negative. These negative cognitions may be characterised by: attention to negative stimuli, the perception of ambiguous situations as negative, and the recurrence of recalling negative words. There also may be specific negative thoughts associated with emotions commonly seen in the reaction.Perceived control relates to an individual's thoughts about control over situations and events. Perceived control should be differentiated from actual control because an individual's beliefs about their abilities may not reflect their actual abilities. Therefore, overestimation or underestimation of perceived control can lead to anxiety and aggression.The social information processing model proposes a variety of factors that determine behavior in the context of social situations and preexisting thoughts. The attribution of hostility, especially in ambiguous situations, seems to be one of the most important cognitive factors associated with the fight or flight response because of its implications towards aggression.An evolutionary psychology explanation is that early animals had to react to threatening stimuli quickly and did not have time to psychologically and physically prepare themselves. The fight or flight response provided them with the mechanisms to rapidly respond to threats against survival.A typical example of the stress response is a grazing zebra. If the zebra sees a lion closing in for the kill, the stress response is activated as a means to escape its predator. The escape requires intense muscular effort, supported by all of the body's systems. The sympathetic nervous system's activation  provides for these needs. A similar example involving fight is of a cat about to be attacked by a dog. The cat shows accelerated heartbeat, piloerection (hair standing on end), and pupil dilation, all signs of sympathetic arousal. Note that the zebra and cat still maintain homeostasis in all states.In July 1992, Behavioral Ecology published experimental research conducted by biologist Lee A. Dugatkin where guppies were sorted into \"bold\", \"ordinary\", and \"timid\" groups based upon their reactions when confronted by a smallmouth bass (i.e. inspecting the predator, hiding, or swimming away) after which the guppies were left in a tank with the bass. After 60 hours, 40 percent of the timid guppies and 15 percent of the ordinary guppies survived while none of the bold guppies did.\nAnimals respond to threats in many complex ways. Rats, for instance, try to escape when threatened but will fight when cornered. Some animals stand perfectly still so that predators will not see them. Many animals freeze or play dead when touched in the hope that the predator will lose interest.Other animals have alternative self-protection methods. Some species of cold-blooded animals change color swiftly to camouflage themselves. These responses are triggered by the sympathetic nervous system, but, in order to fit the model of fight or flight, the idea of flight must be broadened to include escaping capture either in a physical or sensory way. Thus, flight can be disappearing to another location or just disappearing in place, and fight and flight are often combined in a given situation.\nThe fight or flight actions also have polarity : the individual can either fight against or flee from something that is threatening, such as a hungry lion, or fight for or fly towards something that is needed, such as the safety of the shore from a raging river.\nA threat from another animal does not always result in immediate fight or flight. There may be a period of heightened awareness, during which each animal interprets behavioral signals from the other. Signs such as paling, piloerection, immobility, sounds, and body language communicate the status and intentions of each animal. There may be a sort of negotiation, after which fight or flight may ensue, but which might also result in playing, mating, or nothing at all. An example of this is kittens playing: each kitten shows the signs of sympathetic arousal, but they never inflict real damage.\nAcute stress response is a common issue in self-defense criminal cases. Expert opinions are usually required if the defender's fault becomes the focus of the case.",
+        "label_set": [
+            "BasedOn",
+            "DifferentFrom",
+            "HasPart",
+            "HasCause",
+            "Affiliation",
+            "NamedBy",
+            "Uses",
+            "Causes",
+            "ContributedToCreativeWork",
+            "Studies",
+            "FieldOfWork",
+            "UsedBy",
+            "IssuedBy",
+            "PublishedIn",
+            "HasEffect",
+            "InfluencedBy",
+            "ApprovedBy",
+            "SaidToBeTheSameAs"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "{\n  \"entities\": [\n    {\n      \"id\": 0,\n      \"mentions\": [\n        \"fight-or-flight response\"\n      ],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 1,\n      \"mentions\": [\n        \"fight-flight-freeze-or-fawn\"\n      ],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 2,\n      \"mentions\": [\n        \"acute stress response\"\n      ],\n      \"type\": \"EVENT\"\n    },\n    {\n      \"id\": 3,\n      \"mentions\": [\n        \"Walter Bradford Cannon\"\n      ],\n      \"type\": \"PERSON\"\n    },\n    {\n      \"id\": 4,\n      \"mentions\": [\n        \"1915\"\n      ],\n      \"type\": \"DATE\"\n    },\n    {\n      \"id\": 5,\n      \"mentions\": [\n        \"sympathetic nervous system\"\n      ],\n      \"type\": \"MISC\"\n    },\n    {\n      \"id\": 6,\n      \"mentions\": [\n        \"adrenal medulla\"\n      ],\n      \"type\": \"FAC\"\n    },\n    {\n      \"id\": 7,\n      \"mentions\": [\n        \"catecholamines\"\n      ],\n      \"type\": \"PRODUCT\"\n    },\n    {\n      \"id\": 8,\n      \"mentions\": [\n        \"norepinephrine\"\n      ],\n      \"type\": \"PRODUCT\"\n    },\n    {\n      \"id\": 9,\n      \"mentions\": [\n        \"epinephrine\"\n      ],\n      \"type\": \"PRODUCT\"\n    },\n    {\n      \"id\": 10,\n      \"mentions\": [\n        \"autonomic nervous system\"\n      ],\n      \"type\": \"MISC\"\n    },\n    {\n      \"id\": 11,\n      \"mentions\": [\n        \"parasympathetic nervous system\"\n      ],\n      \"type\": \"MISC\"\n    },\n    {\n      \"id\": 12,\n      \"mentions\": [\n        \"Behavioural Ecology\"\n      ],\n      \"type\": \"WORK_OF_ART\"\n    },\n    {\n      \"id\": 13,\n      \"mentions\": [\n        \"July 1992\"\n      ],\n      \"type\": \"DATE\"\n    },\n    {\n      \"id\": 14,\n      \"mentions\": [\n        \"Lee A. Dugatkin\"\n      ],\n      \"type\": \"PERSON\"\n    },\n    {\n      \"id\": 15,\n      \"mentions\": [\n        \"guppies\"\n      ],\n      \"type\": \"MISC\"\n    }\n  ],\n  \"triples\": [\n    {\n      \"head\": \"sympathetic nervous system\",\n      \"relation\": \"Causes\",\n      \"tail\": \"catecholamines\"\n    },\n    {\n      \"head\": \"Behavioural Ecology\",\n      \"relation\": \"PublishedIn\",\n      \"tail\": \"July 1992\"\n    },\n    {\n      \"head\": \"Lee A. Dugatkin\",\n      \"relation\": \"Studies\",\n      \"tail\": \"guppies\"\n    },\n    {\n      \"head\": \"autonomic nervous system\",\n      \"relation\": \"HasPart\",\n      \"tail\": \"sympathetic nervous system\"\n    },\n    {\n      \"head\": \"autonomic nervous system\",\n      \"relation\": \"HasPart\",\n      \"tail\": \"parasympathetic nervous system\"\n    },\n    {\n      \"head\": \"fight-or-flight response\",\n      \"relation\": \"BasedOn\",\n      \"tail\": \"Walter Bradford Cannon\"\n    }\n  ]\n}",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "fight-or-flight response"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "fight-flight-freeze-or-fawn"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "acute stress response"
+                ],
+                "type": "EVENT"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Walter Bradford Cannon"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "1915"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "sympathetic nervous system"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "adrenal medulla"
+                ],
+                "type": "FAC"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "catecholamines"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "norepinephrine"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "epinephrine"
+                ],
+                "type": "PRODUCT"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "autonomic nervous system"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "parasympathetic nervous system"
+                ],
+                "type": "MISC"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Behavioural Ecology"
+                ],
+                "type": "WORK_OF_ART"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "July 1992"
+                ],
+                "type": "DATE"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Lee A. Dugatkin"
+                ],
+                "type": "PERSON"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "guppies"
+                ],
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "head": "sympathetic nervous system",
+                "relation": "Causes",
+                "tail": "catecholamines"
+            },
+            {
+                "head": "Behavioural Ecology",
+                "relation": "PublishedIn",
+                "tail": "July 1992"
+            },
+            {
+                "head": "Lee A. Dugatkin",
+                "relation": "Studies",
+                "tail": "guppies"
+            },
+            {
+                "head": "autonomic nervous system",
+                "relation": "HasPart",
+                "tail": "sympathetic nervous system"
+            },
+            {
+                "head": "autonomic nervous system",
+                "relation": "HasPart",
+                "tail": "parasympathetic nervous system"
+            },
+            {
+                "head": "fight-or-flight response",
+                "relation": "BasedOn",
+                "tail": "Walter Bradford Cannon"
+            }
+        ]
+    }
+]

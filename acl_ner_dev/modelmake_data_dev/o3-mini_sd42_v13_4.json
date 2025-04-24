@@ -1,0 +1,1070 @@
+[
+    {
+        "domain": "Internet",
+        "title": "Internet_GIS",
+        "doc": "Internet GIS, or Internet geographic information system (GIS), is a term that refers to a broad set of technologies and applications that employ the Internet to access, analyze, visualize, and distribute spatial data. Internet GIS is an outgrowth of traditional GIS, and represents a shift from conducting GIS on an individual computer to working with remotely distributed data and functions. Two major issues in GIS are accessing and distributing spatial data and GIS outputs. Internet GIS helps to solve that problem by allowing users to access vast databases impossible to store on a single desktop computer, and by allowing rapid dissemination of both maps and raw data to others. These methods include both file sharing and email. This has enabled the general public to participate in map creation and make use of GIS technology.\nInternet GIS is a subset of Distributed GIS, but specifically uses the internet rather than generic computer networks. Internet GIS applications are often, but not exclusively, conducted through the World Wide Web (also known as the Web), giving rise to the sub-branch of Web GIS, often used interchangeably with Internet GIS.  While Web GIS has become nearly synonymous with Internet GIS to many in the industry, the two are as distinct as the internet is from the World Wide Web. Likewise, Internet GIS is as distinct from distributed GIS as the Internet is from distributed computer networks in general.\nInternet GIS includes services beyond those enabled by the Web. Use of any other internet-enabled services to facilitate GIS functions, even if used in conjuncture with the Web, represents the use of Internet GIS. One of the most common applications of a distributed GIS system, accessing remotely saved data, can be done through the internet without the need for the Web. This is often done in practice when data are sensitive, such as hospital patient data and research facilities proprietary data, where sending data through the Web may be a security risk. This can be done using a Virtual private network (VPN) to access a local network remotely. The use of VPN for these purposes surged during the COVID-19 pandemic, when employers needed to allow employees using GIS access to sensitive spatial data from home.\nThe history of Internet geographic information systems is linked to the history of the computer, the internet, and the quantitative revolution in geography. Geography tends to adapt technologies from other disciplines rather than innovating and inventing the technologies employed to conduct geographic studies. The computer and internet are not an exception, and were rapidly investigated to purpose towards the needs of geographers. In 1959, Waldo Tobler published the first paper detailing the use of computers in map creation. This was the beginning of computer cartography, or the use of computers to create maps. In 1960, the first true geographic information system capable of storing, analyzing, changing, and creating visualizations with spatial data was created by Roger Tomlinson on behalf of the Canadian Government to manage natural resources. These technologies represented a paradigm shift in cartography and geography, with desktop computer cartography facilitated through GIS rapidly replaced traditional ways of making maps. The emergence of GIS and computer technology contributed to the quantitative revolution in geography and the emergence of the branch of technical geography.As computer technology advanced the desktop machine became the default for producing maps, a process known as digital mapping, or computer cartography. These computers were networked together to share data and processing power and create redundant communications for defense applications. This computer network evolved into the internet, and by the late 1980s, the internet was available in some people's homes. Over time, the internet moved from a novelty to a major part of daily life. Using the internet, it was no longer necessary to store all data for a project locally, and communications were vastly improved. Following this trend, GIScientists began developing methods for combining the internet and GIS. This process accelerated in the 1990s, with the creation of the World Wide Web in 1990 and the first major web mapping program, Xerox PARC Map Viewer, capable of distributed map creation appearing in 1993. This software was unique in that it facilitated dynamic user map generation, rather than static images. These new Web-based programs helped users to employ GIS without having it locally installed on their machine, ultimately leading to Web GIS being the dominant way users interact with internet GIS.\nIn 1995 The US federal government made the TIGER Mapping Service available to the public, facilitating desktop and Web GIS by hosting US boundary data. This data availability, facilitated through the internet, silently revolutionized cartography by providing the world with authoritative boundary files, for free. In 1996, MapQuest became available to the public, facilitating navigation and trip planning. Sometime during the 1990s, more maps were transmitted over the internet than physically printed. This milestone was predicted in 1985 and represented a major shift in how we distribute spatial products to the masses.\nAs of 2020, almost 75% of the population has a smartphone.  These devices allow users to access the internet wherever they have service, and have revolutionized how we interact with the internet. One notable example is the rise of \nmobile apps, which have impacted both how GIS is done, and how data are collected. Some mobile apps like the Google Maps mobile app are web-based and allow users to get navigation instructions in real time. Others, like Esri's Survey123 allow users to collect data in the field with their smartphone. As time progresses, internet-based applications that do not make use of HTML or Web Browsers have begun to become to grow in popularity.\nThe World Wide Web is an information system that uses the internet to host, share, and distribute documents, images, and other data. Web GIS involves using the World Wide Web to facilitate GIS tasks traditionally done on a desktop computer, as well as enabling the sharing of maps and spatial data. Most, but not all, internet GIS is Web GIS, however all Web GIS is internet GIS. This is quite similar to how much of the activity on the internet is hosted on the World Wide Web, but not everything on the internet is the World Wide Web. The tasks Web GIS are used for are numerous but can be generally divided into the categories of Geospatial web services: web feature services, web processing services, and web mapping services.By their definition, maps can never be perfect and are simplifications of reality. Ethical cartographers try to keep these inaccuracies documented and to a minimum, while encouraging critical perspectives when using a map. Internet GIS has brought map-making tools to the general public, facilitating the rapidly disseminating these maps. While this is potentially positive, it also means that people without cartographic training can easily make and disseminate misleading maps to a wide audience. This was brought to public attention during the COVID-19 pandemic, when more than half of all United States state government COVID-19 dashboards had cartographic errors. Further, malicious actors can quickly spread intentionally misleading spatial information while hiding the source. As the internet is decentralized, traditional solutions to problems such as government regulation are difficult or impossible to implement. For many users, the World Wide Web is synonymous with the Internet, which is true for Internet GIS. Most functions done with Internet GIS are conducted through the use of Web GIS. This has caused the borders between the two terms to blur, and \"Web GIS\" to become genericized into meaning any GIS done over the internet to some users.\n",
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "{\n  \"entities\": [\n    {\"text\": \"Internet GIS\", \"label\": \"MISC\"},\n    {\"text\": \"GIS\", \"label\": \"MISC\"},\n    {\"text\": \"traditional GIS\", \"label\": \"MISC\"},\n    {\"text\": \"Geographic Information System\", \"label\": \"MISC\"},\n    {\"text\": \"Distributed GIS\", \"label\": \"MISC\"},\n    {\"text\": \"World Wide Web\", \"label\": \"MISC\"},\n    {\"text\": \"Web GIS\", \"label\": \"MISC\"},\n    {\"text\": \"Virtual private network (VPN)\", \"label\": \"MISC\"},\n    {\"text\": \"COVID-19 pandemic\", \"label\": \"EVENT\"},\n    {\"text\": \"Canadian Government\", \"label\": \"ORG\"},\n    {\"text\": \"Waldo Tobler\", \"label\": \"PERSON\"},\n    {\"text\": \"Roger Tomlinson\", \"label\": \"PERSON\"},\n    {\"text\": \"MapQuest\", \"label\": \"ORG\"},\n    {\"text\": \"Xerox PARC Map Viewer\", \"label\": \"PRODUCT\"},\n    {\"text\": \"Google Maps mobile app\", \"label\": \"PRODUCT\"},\n    {\"text\": \"Esri's Survey123\", \"label\": \"PRODUCT\"},\n    {\"text\": \"US federal government\", \"label\": \"ORG\"},\n    {\"text\": \"TIGER Mapping Service\", \"label\": \"PRODUCT\"},\n    {\"text\": \"US boundary data\", \"label\": \"MISC\"},\n    {\"text\": \"1959\", \"label\": \"DATE\"},\n    {\"text\": \"1960\", \"label\": \"DATE\"},\n    {\"text\": \"1990\", \"label\": \"DATE\"},\n    {\"text\": \"1993\", \"label\": \"DATE\"},\n    {\"text\": \"1995\", \"label\": \"DATE\"},\n    {\"text\": \"1996\", \"label\": \"DATE\"},\n    {\"text\": \"2020\", \"label\": \"DATE\"},\n    {\"text\": \"75%\", \"label\": \"PERCENT\"}\n  ],\n  \"triples\": [\n    {\"subject\": \"Internet GIS\", \"relation\": \"BasedOn\", \"object\": \"traditional GIS\"},\n    {\"subject\": \"Internet GIS\", \"relation\": \"PartOf\", \"object\": \"Distributed GIS\"},\n    {\"subject\": \"Web GIS\", \"relation\": \"SaidToBeTheSameAs\", \"object\": \"Internet GIS\"},\n    {\"subject\": \"Geographic Information System\", \"relation\": \"Creator\", \"object\": \"Roger Tomlinson\"},\n    {\"subject\": \"TIGER Mapping Service\", \"relation\": \"HasPart\", \"object\": \"US boundary data\"}\n  ]\n}",
+        "entities": [
+            {
+                "text": "Internet GIS",
+                "label": "MISC"
+            },
+            {
+                "text": "GIS",
+                "label": "MISC"
+            },
+            {
+                "text": "traditional GIS",
+                "label": "MISC"
+            },
+            {
+                "text": "Geographic Information System",
+                "label": "MISC"
+            },
+            {
+                "text": "Distributed GIS",
+                "label": "MISC"
+            },
+            {
+                "text": "World Wide Web",
+                "label": "MISC"
+            },
+            {
+                "text": "Web GIS",
+                "label": "MISC"
+            },
+            {
+                "text": "Virtual private network (VPN)",
+                "label": "MISC"
+            },
+            {
+                "text": "COVID-19 pandemic",
+                "label": "EVENT"
+            },
+            {
+                "text": "Canadian Government",
+                "label": "ORG"
+            },
+            {
+                "text": "Waldo Tobler",
+                "label": "PERSON"
+            },
+            {
+                "text": "Roger Tomlinson",
+                "label": "PERSON"
+            },
+            {
+                "text": "MapQuest",
+                "label": "ORG"
+            },
+            {
+                "text": "Xerox PARC Map Viewer",
+                "label": "PRODUCT"
+            },
+            {
+                "text": "Google Maps mobile app",
+                "label": "PRODUCT"
+            },
+            {
+                "text": "Esri's Survey123",
+                "label": "PRODUCT"
+            },
+            {
+                "text": "US federal government",
+                "label": "ORG"
+            },
+            {
+                "text": "TIGER Mapping Service",
+                "label": "PRODUCT"
+            },
+            {
+                "text": "US boundary data",
+                "label": "MISC"
+            },
+            {
+                "text": "1959",
+                "label": "DATE"
+            },
+            {
+                "text": "1960",
+                "label": "DATE"
+            },
+            {
+                "text": "1990",
+                "label": "DATE"
+            },
+            {
+                "text": "1993",
+                "label": "DATE"
+            },
+            {
+                "text": "1995",
+                "label": "DATE"
+            },
+            {
+                "text": "1996",
+                "label": "DATE"
+            },
+            {
+                "text": "2020",
+                "label": "DATE"
+            },
+            {
+                "text": "75%",
+                "label": "PERCENT"
+            }
+        ],
+        "triples": [
+            {
+                "subject": "Internet GIS",
+                "relation": "BasedOn",
+                "object": "traditional GIS"
+            },
+            {
+                "subject": "Internet GIS",
+                "relation": "PartOf",
+                "object": "Distributed GIS"
+            },
+            {
+                "subject": "Web GIS",
+                "relation": "SaidToBeTheSameAs",
+                "object": "Internet GIS"
+            },
+            {
+                "subject": "Geographic Information System",
+                "relation": "Creator",
+                "object": "Roger Tomlinson"
+            },
+            {
+                "subject": "TIGER Mapping Service",
+                "relation": "HasPart",
+                "object": "US boundary data"
+            }
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "Internet_in_Laos",
+        "doc": "The Internet in Laos was first introduced in 1997, with the two commercial ISP services starting in 1999, specifically  PlaNet Computers and GlobeNet.  These supported a rapid growth of internet cafes across the country to service tourists, which incidentally introduced the internet to many English speaking Lao nationals.  The introduction of mobile broadband has significantly increased the use of the Internet in Laos since 2008.\nLaos is included in the OpenNet Initiative (ONI) Regional Overview for Asia (2009). ONI found no evidence of Internet filtering in the political, social, conflict/security, and tools areas based on testing performed in 2011.The government controls domestic Internet servers and sporadically monitors Internet usage, but by the end of 2012 it apparently did not have the ability to block access to Web sites. Authorities have developed infrastructure to route all Internet traffic through a single gateway, enabling them to monitor and restrict content. However, they apparently had not utilized this increased capability as of the end of 2012. The National Internet Committee under the Prime Minister's Office administers the Internet system. The office requires Internet service providers to submit quarterly reports and link their gateways to facilitate monitoring, but the government's enforcement capability appears limited.\nThe law generally protects privacy, including that of mail, telephone, and electronic correspondence, but the government reportedly continues to violate these legal protections when there is a perceived security threat. The law prohibits unlawful searches and seizures. While the law requires that police obtain search authorization from a prosecutor or a panel of judges, police do not always obtain prior approval, especially in rural areas. Security laws allow the government to monitor individuals’ movements and private communications, including via cell phones and e-mail.\n",
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "{\"entities\": [{\"text\": \"Laos\", \"label\": \"GPE\"}, {\"text\": \"1997\", \"label\": \"DATE\"}, {\"text\": \"1999\", \"label\": \"DATE\"}, {\"text\": \"PlaNet Computers\", \"label\": \"ORG\"}, {\"text\": \"GlobeNet\", \"label\": \"ORG\"}, {\"text\": \"2008\", \"label\": \"DATE\"}, {\"text\": \"OpenNet Initiative\", \"label\": \"ORG\"}, {\"text\": \"ONI\", \"label\": \"ORG\"}, {\"text\": \"Asia\", \"label\": \"GPE\"}, {\"text\": \"2009\", \"label\": \"DATE\"}, {\"text\": \"2011\", \"label\": \"DATE\"}, {\"text\": \"2012\", \"label\": \"DATE\"}, {\"text\": \"National Internet Committee\", \"label\": \"ORG\"}, {\"text\": \"Prime Minister's Office\", \"label\": \"ORG\"}, {\"text\": \"English\", \"label\": \"LANGUAGE\"}], \"triples\": [[\"PlaNet Computers\", \"Founded\", \"1999\"], [\"GlobeNet\", \"Founded\", \"1999\"], [\"PlaNet Computers\", \"LocatedIn\", \"Laos\"], [\"GlobeNet\", \"LocatedIn\", \"Laos\"], [\"National Internet Committee\", \"PartOf\", \"Prime Minister's Office\"], [\"ONI\", \"PublishedIn\", \"2009\"], [\"Laos\", \"Country\", \"Asia\"]]}",
+        "entities": [],
+        "triples": []
+    },
+    {
+        "domain": "Internet",
+        "title": "Online_encyclopedia",
+        "doc": "An online encyclopedia, also called an Internet encyclopedia, is a digital encyclopedia accessible through the Internet. Examples include Encyclopedia.com since 1998, Encarta from 2000 to 2009, Wikipedia since 2001, and Encyclopædia Britannica since 2016.\nIn January 1995, Project Gutenberg started to publish the ASCII text of the Encyclopædia Britannica, 11th edition (1911), but disagreements about the method halted the work after the first volume. For trademark reasons, the text had been published as the Gutenberg Encyclopedia. Since then, Project Gutenberg digitized and proofread the encyclopedia, until the last update in September 2018.  Project Gutenberg published volumes in alphabetical order; the most recent publication is Volume 17 Slice 1: \"Lord Chamberlain\" to \"Luqman\", published on August 9, 2013.  The latest Britannica was digitized by its publishers, and sold first as a CD-ROM, and later as an online service.In 2001, ASCII text of all 28 volumes was published on Encyclopædia Britannica Eleventh Edition by source; a copyright claim was added to the materials included. The website no longer exists.\nOther digitization projects have made progress in other titles; one example is Easton's Bible Dictionary (1897) digitized by the Christian Classics Ethereal Library.\nA successful digitization of an encyclopedia was the Bartleby Project's online adaptation of the Columbia Encyclopedia, Sixth Edition, in early 2000 and is updated periodically.\nOther websites provide online encyclopedias, some of which are also available on Wikisource. However, some may be more complete than those on Wikisource, or may be from different editions.\nAnother related branch of activity is the creation of new, free content on a volunteer basis. In 1991, participants of the Usenet newsgroup alt.fan.douglas-adams started Project Galactic Guide to produce a real version of The Hitchhiker's Guide to the Galaxy, a fictional encyclopedia used in the works of Douglas Adams. Although it originally aimed to contain only real, factual articles, the policy was changed to allow and encourage semi-real and unreal articles as well. Project Galactic Guide contains over 1700 articles, but no new articles have been added since 2000, which was a year after the foundation of h2g2.The 1993 Interpedia proposal was planned as an encyclopedia on the Internet to which everyone could contribute materials. The project never left the planning stage and was overtaken by a key branch of old printed encyclopedias.\nAnother early online encyclopedia was called the Global Encyclopedia.  In November 1995, James Rettig, Assistant Dean of University Libraries for Reference and Information Services at College of William & Mary, presented an unfavorable review at the 15th Annual Charleston Conference on library acquisitions and related issues.  He said of the Global Encyclopedia:\nThis is a volunteer effort to compile an encyclopedia and distribute it for free on the World Wide Web. If you have ever yearned to be the author of an encyclopedia article, yearn no longer. Take a minute (or even two or three if you are feeling scholarly) to write an article on a topic of your choosing and [e]mail it off to the unnamed \"editors\". These editors (to use that title very loosely) have generated a list of approximately 1,300 topics they want to include; to date, perhaps a quarter of them have been treated. ... This so-called encyclopedia gives amateurism a bad name. It is being compiled without standards or guidelines for article structure, content, or reading level. It makes no apparent effort to check the qualifications and authority of the volunteer authors. Its claim that \"Submitted articles are fact-checked, corrected for spelling, and then formatted\" is at best an exaggeration.\n",
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "print({\n    \"entities\": [\n        \"Encyclopedia.com\",\n        \"Encarta\",\n        \"Wikipedia\",\n        \"Encyclopædia Britannica\",\n        \"Project Gutenberg\",\n        \"Gutenberg Encyclopedia\",\n        \"Volume 17 Slice 1\",\n        \"Easton's Bible Dictionary\",\n        \"Christian Classics Ethereal Library\",\n        \"Bartleby Project\",\n        \"Columbia Encyclopedia\",\n        \"Wikisource\",\n        \"Project Galactic Guide\",\n        \"The Hitchhiker's Guide to the Galaxy\",\n        \"h2g2\",\n        \"Interpedia proposal\",\n        \"Global Encyclopedia\",\n        \"James Rettig\",\n        \"College of William & Mary\"\n    ],\n    \"triples\": [\n        {\"head\": \"Encyclopedia.com\", \"relation\": \"Founded\", \"tail\": \"1998\"},\n        {\"head\": \"Encarta\", \"relation\": \"Founded\", \"tail\": \"2000\"},\n        {\"head\": \"Wikipedia\", \"relation\": \"Founded\", \"tail\": \"2001\"},\n        {\"head\": \"Encyclopædia Britannica\", \"relation\": \"Founded\", \"tail\": \"2016\"},\n        {\"head\": \"Project Gutenberg\", \"relation\": \"PublishedIn\", \"tail\": \"August 9, 2013\"},\n        {\"head\": \"Christian Classics Ethereal Library\", \"relation\": \"HasWorksInTheCollection\", \"tail\": \"Easton's Bible Dictionary\"},\n        {\"head\": \"Project Galactic Guide\", \"relation\": \"BasedOn\", \"tail\": \"The Hitchhiker's Guide to the Galaxy\"},\n        {\"head\": \"James Rettig\", \"relation\": \"Affiliation\", \"tail\": \"College of William & Mary\"}\n    ]\n})",
+        "entities": [
+            "Encyclopedia.com",
+            "Encarta",
+            "Wikipedia",
+            "Encyclopædia Britannica",
+            "Project Gutenberg",
+            "Gutenberg Encyclopedia",
+            "Volume 17 Slice 1",
+            "Easton's Bible Dictionary",
+            "Christian Classics Ethereal Library",
+            "Bartleby Project",
+            "Columbia Encyclopedia",
+            "Wikisource",
+            "Project Galactic Guide",
+            "The Hitchhiker's Guide to the Galaxy",
+            "h2g2",
+            "Interpedia proposal",
+            "Global Encyclopedia",
+            "James Rettig",
+            "College of William & Mary"
+        ],
+        "triples": [
+            {
+                "head": "Encyclopedia.com",
+                "relation": "Founded",
+                "tail": "1998"
+            },
+            {
+                "head": "Encarta",
+                "relation": "Founded",
+                "tail": "2000"
+            },
+            {
+                "head": "Wikipedia",
+                "relation": "Founded",
+                "tail": "2001"
+            },
+            {
+                "head": "Encyclopædia Britannica",
+                "relation": "Founded",
+                "tail": "2016"
+            },
+            {
+                "head": "Project Gutenberg",
+                "relation": "PublishedIn",
+                "tail": "August 9, 2013"
+            },
+            {
+                "head": "Christian Classics Ethereal Library",
+                "relation": "HasWorksInTheCollection",
+                "tail": "Easton's Bible Dictionary"
+            },
+            {
+                "head": "Project Galactic Guide",
+                "relation": "BasedOn",
+                "tail": "The Hitchhiker's Guide to the Galaxy"
+            },
+            {
+                "head": "James Rettig",
+                "relation": "Affiliation",
+                "tail": "College of William & Mary"
+            }
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "Online_optimization",
+        "doc": "Online optimization is a field of optimization theory, more popular in computer science and operations research, that deals with optimization problems having no or incomplete knowledge of the future (online). These kind of problems are denoted as online problems and are seen as opposed to the classical optimization problems where complete information is assumed (offline). The research on online optimization can be distinguished into online problems where multiple decisions are made sequentially based on a piece-by-piece input and those where a decision is made only once. A famous online problem where a decision is made only once is the Ski rental problem. In general, the output of an online algorithm is compared to the solution of a corresponding offline algorithm which is necessarily always optimal and knows the entire input in advance (competitive analysis).\nIn many situations, present decisions (for example, resources allocation) must be made with incomplete knowledge of the future or distributional assumptions on the future are not reliable. In such cases, online optimization  can be used, which is different from other approaches such as robust optimization, stochastic optimization and Markov decision processes.\nA problem exemplifying the concepts of online algorithms is the Canadian traveller problem. The goal of this problem is to minimize the cost of reaching a target in a weighted graph where some of the edges are unreliable and may have been removed from the graph. However, that an edge has been removed (failed) is only revealed to the traveller when they reach one of the edge's endpoints. The worst case for this problem is simply that all of the unreliable edges fail and the problem reduces to the usual shortest path problem. An alternative analysis of the problem can be made with the help of competitive analysis. For this method of analysis, the offline algorithm knows in advance which edges will fail and the goal is to minimize the ratio between the online and offline algorithms' performance. This problem is PSPACE-complete.",
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "print({\n    \"entities\": [\n        {\"text\": \"Online optimization\", \"type\": \"MISC\"},\n        {\"text\": \"optimization theory\", \"type\": \"MISC\"},\n        {\"text\": \"computer science\", \"type\": \"MISC\"},\n        {\"text\": \"operations research\", \"type\": \"MISC\"},\n        {\"text\": \"Ski rental problem\", \"type\": \"MISC\"},\n        {\"text\": \"competitive analysis\", \"type\": \"MISC\"},\n        {\"text\": \"offline algorithm\", \"type\": \"MISC\"},\n        {\"text\": \"online algorithm\", \"type\": \"MISC\"},\n        {\"text\": \"robust optimization\", \"type\": \"MISC\"},\n        {\"text\": \"stochastic optimization\", \"type\": \"MISC\"},\n        {\"text\": \"Markov decision processes\", \"type\": \"MISC\"},\n        {\"text\": \"Canadian traveller problem\", \"type\": \"MISC\"},\n        {\"text\": \"weighted graph\", \"type\": \"MISC\"},\n        {\"text\": \"shortest path problem\", \"type\": \"MISC\"},\n        {\"text\": \"PSPACE-complete\", \"type\": \"MISC\"}\n    ],\n    \"triples\": [\n        {\"subject\": \"Online optimization\", \"relation\": \"BasedOn\", \"object\": \"optimization theory\"},\n        {\"subject\": \"Ski rental problem\", \"relation\": \"PartOf\", \"object\": \"Online optimization\"},\n        {\"subject\": \"Canadian traveller problem\", \"relation\": \"Uses\", \"object\": \"competitive analysis\"}\n    ]\n})",
+        "entities": [
+            {
+                "text": "Online optimization",
+                "type": "MISC"
+            },
+            {
+                "text": "optimization theory",
+                "type": "MISC"
+            },
+            {
+                "text": "computer science",
+                "type": "MISC"
+            },
+            {
+                "text": "operations research",
+                "type": "MISC"
+            },
+            {
+                "text": "Ski rental problem",
+                "type": "MISC"
+            },
+            {
+                "text": "competitive analysis",
+                "type": "MISC"
+            },
+            {
+                "text": "offline algorithm",
+                "type": "MISC"
+            },
+            {
+                "text": "online algorithm",
+                "type": "MISC"
+            },
+            {
+                "text": "robust optimization",
+                "type": "MISC"
+            },
+            {
+                "text": "stochastic optimization",
+                "type": "MISC"
+            },
+            {
+                "text": "Markov decision processes",
+                "type": "MISC"
+            },
+            {
+                "text": "Canadian traveller problem",
+                "type": "MISC"
+            },
+            {
+                "text": "weighted graph",
+                "type": "MISC"
+            },
+            {
+                "text": "shortest path problem",
+                "type": "MISC"
+            },
+            {
+                "text": "PSPACE-complete",
+                "type": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "subject": "Online optimization",
+                "relation": "BasedOn",
+                "object": "optimization theory"
+            },
+            {
+                "subject": "Ski rental problem",
+                "relation": "PartOf",
+                "object": "Online optimization"
+            },
+            {
+                "subject": "Canadian traveller problem",
+                "relation": "Uses",
+                "object": "competitive analysis"
+            }
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "OrionVM",
+        "doc": "OrionVM Wholesale Pty Limited (trading as OrionVM) \nis an Australian infrastructure as a service provider and white-label cloud platform. Resellers present customers with a rebranded interface for deploying virtual machine instances, which are only billed for what their customers use. Cloud Harmony benchmarked the OrionVM Cloud Platform's InfiniBand-backed network storage as the world's fastest in 2011.\nThe company was founded and is headquartered in Sydney, Australia,\nwith offices in San Francisco, California.\nOrionVM was founded in a dorm by Sheng Yeo, Alex Sharp \nand Joseph Glanville in 2010. \nThe company's cloud platform was developed while the founders were still students at the University of Technology, Sydney and University of Sydney. After fifteen months of development, their cloud platform entered a Public Beta programme, with a full launch on 1 April 2011.\nIn 2011, the company received angel investments from Australian entrepreneur and PIPE Networks co-founder Stephen Baxter\nand American Gordon Bell of DEC and Microsoft Research.\nFor his work at OrionVM, CEO Sheng Yeo was nominated for the 2012 Australian Entrepreneur of the Year and the 2013 Ernst & Young Entrepreneur of the Year.\nIn 2014, OrionVM received a State Merit award and a National Finalist nomination in the 2014 iAwards, with CTO Alex Sharp winning the Hills YIA Cloud award. The company was nominated for a Stevie Award for New Product or Service of the Year in Cloud Infrastructure Software, and an Australian Startup Awards nomination.\nIn 2016, Yeo and Sharp were named in the Forbes 30 Under 30 Asia list.\nOrionVM sells a wholesale cloud infrastructure platform for public, private and hybrid cloud deployments. Vendors can white-label the platform for resale, or for internal use. Prominent resellers include:Australian telephone company AAPT\nBizCloud\nIT broker StrataCore.\nOrionVM uses the Xen hypervisor to virtualise multiple machines (referred to as \"instances\") on the same hardware. Linux instances use paravirtualisation for reduced overhead by default, with Windows Server being deployed using hardware-assisted virtualisation (HVM).Traditional virtual private server and infrastructure as a service providers consolidate storage into a storage area network, which is limited by Ethernet network speeds and best-effort reliability. OrionVM's platform took design cues from supercomputers by placing hypervisor storage and compute on the same physical servers. These are backed by a decentralised InfiniBand fabric. This improves network reliability and performance, and allows for rapid rollover between physical hosts for high availability.\nTo end users, the base of the platform consists of a web panel, where customers are able to deploy virtual machines. For resellers, the logos and theme can be modified to suit their own branding.From the panel, users can deploy preconfigured instances with their chosen operating system and required memory. Additional storage disks and IP addresses can be created separately, then assigned to new or existing instances. After shutting down, further resources can be allocated or scaled down.Instances can be accessed out-of-band via a web-based serial console or VNC session. Access is also available via ovm_ctl, an open source command line interface available from GitHub and the pip package manager.Linux machines come preconfigured with SSH, and Windows with RDP for remote access.\n",
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "{\"entities\": [{\"text\": \"OrionVM Wholesale Pty Limited\", \"label\": \"ORG\"}, {\"text\": \"OrionVM\", \"label\": \"ORG\"}, {\"text\": \"Cloud Harmony\", \"label\": \"ORG\"}, {\"text\": \"Sydney, Australia\", \"label\": \"GPE\"}, {\"text\": \"San Francisco, California\", \"label\": \"GPE\"}, {\"text\": \"Sheng Yeo\", \"label\": \"PERSON\"}, {\"text\": \"Alex Sharp\", \"label\": \"PERSON\"}, {\"text\": \"Joseph Glanville\", \"label\": \"PERSON\"}, {\"text\": \"2010\", \"label\": \"DATE\"}, {\"text\": \"University of Technology, Sydney\", \"label\": \"ORG\"}, {\"text\": \"University of Sydney\", \"label\": \"ORG\"}, {\"text\": \"1 April 2011\", \"label\": \"DATE\"}, {\"text\": \"2011\", \"label\": \"DATE\"}, {\"text\": \"Stephen Baxter\", \"label\": \"PERSON\"}, {\"text\": \"Gordon Bell\", \"label\": \"PERSON\"}, {\"text\": \"DEC\", \"label\": \"ORG\"}, {\"text\": \"Microsoft Research\", \"label\": \"ORG\"}, {\"text\": \"2012 Australian Entrepreneur of the Year\", \"label\": \"EVENT\"}, {\"text\": \"2013 Ernst & Young Entrepreneur of the Year\", \"label\": \"EVENT\"}, {\"text\": \"Hills YIA Cloud award\", \"label\": \"EVENT\"}, {\"text\": \"State Merit award\", \"label\": \"EVENT\"}, {\"text\": \"National Finalist nomination in the 2014 iAwards\", \"label\": \"EVENT\"}, {\"text\": \"Stevie Award for New Product or Service of the Year in Cloud Infrastructure Software\", \"label\": \"EVENT\"}, {\"text\": \"Australian Startup Awards nomination\", \"label\": \"EVENT\"}, {\"text\": \"2016\", \"label\": \"DATE\"}, {\"text\": \"Forbes 30 Under 30 Asia\", \"label\": \"EVENT\"}, {\"text\": \"AAPT\", \"label\": \"ORG\"}, {\"text\": \"BizCloud\", \"label\": \"ORG\"}, {\"text\": \"StrataCore\", \"label\": \"ORG\"}, {\"text\": \"Xen hypervisor\", \"label\": \"PRODUCT\"}, {\"text\": \"Linux instances\", \"label\": \"PRODUCT\"}, {\"text\": \"Windows Server\", \"label\": \"PRODUCT\"}, {\"text\": \"OrionVM Cloud Platform\", \"label\": \"PRODUCT\"}, {\"text\": \"paravirtualisation\", \"label\": \"MISC\"}, {\"text\": \"hardware-assisted virtualisation (HVM)\", \"label\": \"MISC\"}, {\"text\": \"decentralised InfiniBand fabric\", \"label\": \"MISC\"}, {\"text\": \"supercomputers\", \"label\": \"MISC\"}], \"triples\": [{\"subject\": \"OrionVM Wholesale Pty Limited\", \"relation\": \"FoundedBy\", \"object\": \"Sheng Yeo\"}, {\"subject\": \"OrionVM Wholesale Pty Limited\", \"relation\": \"FoundedBy\", \"object\": \"Alex Sharp\"}, {\"subject\": \"OrionVM Wholesale Pty Limited\", \"relation\": \"FoundedBy\", \"object\": \"Joseph Glanville\"}, {\"subject\": \"OrionVM Wholesale Pty Limited\", \"relation\": \"Founded\", \"object\": \"2010\"}, {\"subject\": \"OrionVM Wholesale Pty Limited\", \"relation\": \"LocatedIn\", \"object\": \"Sydney, Australia\"}, {\"subject\": \"OrionVM Wholesale Pty Limited\", \"relation\": \"LocatedIn\", \"object\": \"San Francisco, California\"}, {\"subject\": \"Sheng Yeo\", \"relation\": \"NominatedFor\", \"object\": \"2012 Australian Entrepreneur of the Year\"}, {\"subject\": \"Sheng Yeo\", \"relation\": \"NominatedFor\", \"object\": \"2013 Ernst & Young Entrepreneur of the Year\"}, {\"subject\": \"Alex Sharp\", \"relation\": \"AwardReceived\", \"object\": \"Hills YIA Cloud award\"}, {\"subject\": \"OrionVM Wholesale Pty Limited\", \"relation\": \"AwardReceived\", \"object\": \"State Merit award\"}, {\"subject\": \"OrionVM Wholesale Pty Limited\", \"relation\": \"AwardReceived\", \"object\": \"National Finalist nomination in the 2014 iAwards\"}, {\"subject\": \"OrionVM Wholesale Pty Limited\", \"relation\": \"AwardReceived\", \"object\": \"Stevie Award for New Product or Service of the Year in Cloud Infrastructure Software\"}, {\"subject\": \"OrionVM Wholesale Pty Limited\", \"relation\": \"AwardReceived\", \"object\": \"Australian Startup Awards nomination\"}, {\"subject\": \"Sheng Yeo\", \"relation\": \"NominatedFor\", \"object\": \"Forbes 30 Under 30 Asia\"}, {\"subject\": \"Alex Sharp\", \"relation\": \"NominatedFor\", \"object\": \"Forbes 30 Under 30 Asia\"}, {\"subject\": \"OrionVM Wholesale Pty Limited\", \"relation\": \"Uses\", \"object\": \"Xen hypervisor\"}, {\"subject\": \"Linux instances\", \"relation\": \"Uses\", \"object\": \"paravirtualisation\"}, {\"subject\": \"Windows Server\", \"relation\": \"Uses\", \"object\": \"hardware-assisted virtualisation (HVM)\"}, {\"subject\": \"OrionVM Wholesale Pty Limited\", \"relation\": \"Uses\", \"object\": \"decentralised InfiniBand fabric\"}, {\"subject\": \"OrionVM Cloud Platform\", \"relation\": \"BasedOn\", \"object\": \"supercomputers\"}]}",
+        "entities": [
+            {
+                "text": "OrionVM Wholesale Pty Limited",
+                "label": "ORG"
+            },
+            {
+                "text": "OrionVM",
+                "label": "ORG"
+            },
+            {
+                "text": "Cloud Harmony",
+                "label": "ORG"
+            },
+            {
+                "text": "Sydney, Australia",
+                "label": "GPE"
+            },
+            {
+                "text": "San Francisco, California",
+                "label": "GPE"
+            },
+            {
+                "text": "Sheng Yeo",
+                "label": "PERSON"
+            },
+            {
+                "text": "Alex Sharp",
+                "label": "PERSON"
+            },
+            {
+                "text": "Joseph Glanville",
+                "label": "PERSON"
+            },
+            {
+                "text": "2010",
+                "label": "DATE"
+            },
+            {
+                "text": "University of Technology, Sydney",
+                "label": "ORG"
+            },
+            {
+                "text": "University of Sydney",
+                "label": "ORG"
+            },
+            {
+                "text": "1 April 2011",
+                "label": "DATE"
+            },
+            {
+                "text": "2011",
+                "label": "DATE"
+            },
+            {
+                "text": "Stephen Baxter",
+                "label": "PERSON"
+            },
+            {
+                "text": "Gordon Bell",
+                "label": "PERSON"
+            },
+            {
+                "text": "DEC",
+                "label": "ORG"
+            },
+            {
+                "text": "Microsoft Research",
+                "label": "ORG"
+            },
+            {
+                "text": "2012 Australian Entrepreneur of the Year",
+                "label": "EVENT"
+            },
+            {
+                "text": "2013 Ernst & Young Entrepreneur of the Year",
+                "label": "EVENT"
+            },
+            {
+                "text": "Hills YIA Cloud award",
+                "label": "EVENT"
+            },
+            {
+                "text": "State Merit award",
+                "label": "EVENT"
+            },
+            {
+                "text": "National Finalist nomination in the 2014 iAwards",
+                "label": "EVENT"
+            },
+            {
+                "text": "Stevie Award for New Product or Service of the Year in Cloud Infrastructure Software",
+                "label": "EVENT"
+            },
+            {
+                "text": "Australian Startup Awards nomination",
+                "label": "EVENT"
+            },
+            {
+                "text": "2016",
+                "label": "DATE"
+            },
+            {
+                "text": "Forbes 30 Under 30 Asia",
+                "label": "EVENT"
+            },
+            {
+                "text": "AAPT",
+                "label": "ORG"
+            },
+            {
+                "text": "BizCloud",
+                "label": "ORG"
+            },
+            {
+                "text": "StrataCore",
+                "label": "ORG"
+            },
+            {
+                "text": "Xen hypervisor",
+                "label": "PRODUCT"
+            },
+            {
+                "text": "Linux instances",
+                "label": "PRODUCT"
+            },
+            {
+                "text": "Windows Server",
+                "label": "PRODUCT"
+            },
+            {
+                "text": "OrionVM Cloud Platform",
+                "label": "PRODUCT"
+            },
+            {
+                "text": "paravirtualisation",
+                "label": "MISC"
+            },
+            {
+                "text": "hardware-assisted virtualisation (HVM)",
+                "label": "MISC"
+            },
+            {
+                "text": "decentralised InfiniBand fabric",
+                "label": "MISC"
+            },
+            {
+                "text": "supercomputers",
+                "label": "MISC"
+            }
+        ],
+        "triples": [
+            {
+                "subject": "OrionVM Wholesale Pty Limited",
+                "relation": "FoundedBy",
+                "object": "Sheng Yeo"
+            },
+            {
+                "subject": "OrionVM Wholesale Pty Limited",
+                "relation": "FoundedBy",
+                "object": "Alex Sharp"
+            },
+            {
+                "subject": "OrionVM Wholesale Pty Limited",
+                "relation": "FoundedBy",
+                "object": "Joseph Glanville"
+            },
+            {
+                "subject": "OrionVM Wholesale Pty Limited",
+                "relation": "Founded",
+                "object": "2010"
+            },
+            {
+                "subject": "OrionVM Wholesale Pty Limited",
+                "relation": "LocatedIn",
+                "object": "Sydney, Australia"
+            },
+            {
+                "subject": "OrionVM Wholesale Pty Limited",
+                "relation": "LocatedIn",
+                "object": "San Francisco, California"
+            },
+            {
+                "subject": "Sheng Yeo",
+                "relation": "NominatedFor",
+                "object": "2012 Australian Entrepreneur of the Year"
+            },
+            {
+                "subject": "Sheng Yeo",
+                "relation": "NominatedFor",
+                "object": "2013 Ernst & Young Entrepreneur of the Year"
+            },
+            {
+                "subject": "Alex Sharp",
+                "relation": "AwardReceived",
+                "object": "Hills YIA Cloud award"
+            },
+            {
+                "subject": "OrionVM Wholesale Pty Limited",
+                "relation": "AwardReceived",
+                "object": "State Merit award"
+            },
+            {
+                "subject": "OrionVM Wholesale Pty Limited",
+                "relation": "AwardReceived",
+                "object": "National Finalist nomination in the 2014 iAwards"
+            },
+            {
+                "subject": "OrionVM Wholesale Pty Limited",
+                "relation": "AwardReceived",
+                "object": "Stevie Award for New Product or Service of the Year in Cloud Infrastructure Software"
+            },
+            {
+                "subject": "OrionVM Wholesale Pty Limited",
+                "relation": "AwardReceived",
+                "object": "Australian Startup Awards nomination"
+            },
+            {
+                "subject": "Sheng Yeo",
+                "relation": "NominatedFor",
+                "object": "Forbes 30 Under 30 Asia"
+            },
+            {
+                "subject": "Alex Sharp",
+                "relation": "NominatedFor",
+                "object": "Forbes 30 Under 30 Asia"
+            },
+            {
+                "subject": "OrionVM Wholesale Pty Limited",
+                "relation": "Uses",
+                "object": "Xen hypervisor"
+            },
+            {
+                "subject": "Linux instances",
+                "relation": "Uses",
+                "object": "paravirtualisation"
+            },
+            {
+                "subject": "Windows Server",
+                "relation": "Uses",
+                "object": "hardware-assisted virtualisation (HVM)"
+            },
+            {
+                "subject": "OrionVM Wholesale Pty Limited",
+                "relation": "Uses",
+                "object": "decentralised InfiniBand fabric"
+            },
+            {
+                "subject": "OrionVM Cloud Platform",
+                "relation": "BasedOn",
+                "object": "supercomputers"
+            }
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "Route_panorama",
+        "doc": "Route panorama is a continuous 2D image that includes all the scenes visible from a route, as it first appeared in Zheng and Tsuji's work of panoramic views in 1990.\nDifferent from a local panorama at a static viewpoint, a digital route panorama is constructed from partial views at consecutive viewpoints along a path. A general approach to obtain such a complete route panorama is to use a line camera or slit camera mounted on a vehicle moving along the path smoothly. The camera scans temporal scenes in the side direction of the path and connect them to the spatial image. This is realized by a program that processes temporal image data or video data in a computer. The route panorama can extend to a long distance for indexing scenes and navigation on the Internet. The long image can further be transmitted to and be scrolled on computer screens or handheld devices as moving panorama for access of geospatial locations, navigation, georeferencing, etc.Mathematically, the route panorama employs a parallel-and-perspective projection  that is a continuous and extreme case of multi-perspective view to pixel lines. It may have the aspect ratio of an object different from what a normal perspective projection generates. In addition, a video camcorder is used to produce the route panorama by taking only one pixel line in the video frame at a time with the auto-exposure function of the camcorder and shaking removal function using the inter-frame matching.\nIf the depth of scenes from the path has a dominant layer, a route panorama can also be created on that layer by stitching discrete photos consecutively taken along the path  using Photomontage. Under the same circumstance, a dynamic slit selected in the video frame can generate a route panorama with less shape distortion.\n",
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "{'entities': [{'text': 'Zheng', 'label': 'PERSON'}, {'text': 'Tsuji', 'label': 'PERSON'}, {'text': '1990', 'label': 'DATE'}, {'text': 'Internet', 'label': 'MISC'}, {'text': 'Photomontage', 'label': 'PRODUCT'}], 'triples': [{'subject': 'Route panorama', 'relation': 'Creator', 'object': 'Zheng'}, {'subject': 'Route panorama', 'relation': 'Creator', 'object': 'Tsuji'}, {'subject': 'Route panorama', 'relation': 'BasedOn', 'object': 'Photomontage'}]}",
+        "entities": [
+            {
+                "text": "Zheng",
+                "label": "PERSON"
+            },
+            {
+                "text": "Tsuji",
+                "label": "PERSON"
+            },
+            {
+                "text": "1990",
+                "label": "DATE"
+            },
+            {
+                "text": "Internet",
+                "label": "MISC"
+            },
+            {
+                "text": "Photomontage",
+                "label": "PRODUCT"
+            }
+        ],
+        "triples": [
+            {
+                "subject": "Route panorama",
+                "relation": "Creator",
+                "object": "Zheng"
+            },
+            {
+                "subject": "Route panorama",
+                "relation": "Creator",
+                "object": "Tsuji"
+            },
+            {
+                "subject": "Route panorama",
+                "relation": "BasedOn",
+                "object": "Photomontage"
+            }
+        ]
+    },
+    {
+        "domain": "Internet",
+        "title": "ZA_Central_Registry",
+        "doc": "The ZA Central Registry (ZACR), formerly known as UniForum SA, is a non-profit organisation established in 1988 and operates various second-level domains (SLD's) in South Africa. The ZA Central Registry is the administrator of the South African zones such as \"co.za\" and \"web.za\". Their offices are based in Midrand, South Africa.\nThe ZACR, in partnership with the Africa Union Commission (AUC), is the applicant for the dotAfrica domain in ICANN's new Top-level domain program. The ZACR has also partnered with the ZA Domain Name Authority (ZADNA), the South African Domain Name regulator, to implement the .joburg, .capetown, and .durban Top-level domains (TLDs).\nThe ZA Central Registry was established as a non-profit company in 1988 under the name of UniForum S.A. The organisation's goal was the promotion of open standards systems and related hardware, software applications and standards.Internet Service Provider Association (ISPA) assigned to Uniforum the responsibility of administering the \"co.za\" domain name space. This was because it was seen as not only having the technical skills and resources to do so, but also committed to neutrality and unity of purpose.\nThe registry started with just 400 registered domains. The ZA Central Registry currently boasts over 920 000 co.za domain name registrations, which is over 95% of the total registrations in the \".za\" ccTLD. This has made the registry by far the largest domain name registry on the African continent.\nThe registry signed four registry operator contracts with ICANN at its Singapore meeting in April 2014, which officially appoints the ZACR as the accredited ICANN registry to manage the administration function for \".joburg\", \".capetown\", \".durban\" and \".africa\".Web.za-is a generic top level domain which is now being administered by ZACR. This means that accredited registrars are now able to register names in Web.Za. This .za 2nd level domain was re launched by ZADNA, under ZA Central Registry's operation. Web.Za will take domain name registrations on the same basis as co.za: no eligibility requirements, open to domain name applications by South Africans and non-South Africans. The re-launch allows for protection of trademarks, starting with a limited sunrise and land rush processes.\n.Africa(dotAfrica)- is the new generic Top Level Domain (gTLD) for the African continent. The application was submitted with the endorsement and support of the African Union Commission (AUC), individual African governments, regional governmental agencies and organisations. The .Africa domain name was launched in 2017.\n.Cities- ZACR in partnership with ZADNA and the support of the South African Department of Communications, submitted applications for the \".durban\", \".capetown\" and \".joburg\" TLDs. This will enable key South African cities to compete with their international counterparts and, more especially, allow them to showcase the cities as business and tourist destinations.\n",
+        "label_set": [
+            "HasWorksInTheCollection",
+            "ApprovedBy",
+            "AwardReceived",
+            "Founded",
+            "Affiliation",
+            "PartOf",
+            "InfluencedBy",
+            "Country",
+            "FoundedBy",
+            "OwnerOf",
+            "SaidToBeTheSameAs",
+            "Uses",
+            "BasedOn",
+            "FollowedBy",
+            "HasEffect",
+            "LocatedIn",
+            "Creator",
+            "NominatedFor",
+            "PublishedIn",
+            "HasPart",
+            "Causes",
+            "Partner"
+        ],
+        "entity_label_set": [
+            "CARDINAL",
+            "DATE",
+            "EVENT",
+            "FAC",
+            "GPE",
+            "LANGUAGE",
+            "LAW",
+            "LOC",
+            "MONEY",
+            "NORP",
+            "ORDINAL",
+            "ORG",
+            "PERCENT",
+            "PERSON",
+            "PRODUCT",
+            "QUANTITY",
+            "TIME",
+            "WORK_OF_ART",
+            "MISC"
+        ],
+        "res": "{\n  \"entities\": [\n    {\"text\": \"ZA Central Registry\", \"type\": \"ORG\"},\n    {\"text\": \"ZACR\", \"type\": \"ORG\"},\n    {\"text\": \"UniForum SA\", \"type\": \"ORG\"},\n    {\"text\": \"Africa Union Commission\", \"type\": \"ORG\"},\n    {\"text\": \"ZA Domain Name Authority\", \"type\": \"ORG\"},\n    {\"text\": \"ICANN\", \"type\": \"ORG\"},\n    {\"text\": \"Internet Service Provider Association\", \"type\": \"ORG\"},\n    {\"text\": \"South African Department of Communications\", \"type\": \"ORG\"},\n    {\"text\": \"South Africa\", \"type\": \"GPE\"},\n    {\"text\": \"Midrand\", \"type\": \"GPE\"},\n    {\"text\": \"Singapore\", \"type\": \"GPE\"},\n    {\"text\": \"co.za\", \"type\": \"PRODUCT\"},\n    {\"text\": \"web.za\", \"type\": \"PRODUCT\"},\n    {\"text\": \".joburg\", \"type\": \"PRODUCT\"},\n    {\"text\": \".capetown\", \"type\": \"PRODUCT\"},\n    {\"text\": \".durban\", \"type\": \"PRODUCT\"},\n    {\"text\": \".africa\", \"type\": \"PRODUCT\"},\n    {\"text\": \"dotAfrica\", \"type\": \"PRODUCT\"},\n    {\"text\": \"Web.za\", \"type\": \"PRODUCT\"},\n    {\"text\": \".Cities\", \"type\": \"PRODUCT\"},\n    {\"text\": \"1988\", \"type\": \"DATE\"},\n    {\"text\": \"April 2014\", \"type\": \"DATE\"},\n    {\"text\": \"2017\", \"type\": \"DATE\"},\n    {\"text\": \"920 000\", \"type\": \"CARDINAL\"},\n    {\"text\": \"95%\", \"type\": \"PERCENT\"}\n  ],\n  \"triples\": [\n    {\"subject\": \"ZA Central Registry\", \"relation\": \"Founded\", \"object\": \"1988\"},\n    {\"subject\": \"ZA Central Registry\", \"relation\": \"SaidToBeTheSameAs\", \"object\": \"UniForum SA\"},\n    {\"subject\": \"ZACR\", \"relation\": \"Partner\", \"object\": \"Africa Union Commission\"},\n    {\"subject\": \"ZACR\", \"relation\": \"Partner\", \"object\": \"ZA Domain Name Authority\"},\n    {\"subject\": \"ZACR\", \"relation\": \"ApprovedBy\", \"object\": \"ICANN\"},\n    {\"subject\": \"Web.za\", \"relation\": \"PartOf\", \"object\": \"ZACR\"},\n    {\"subject\": \"dotAfrica\", \"relation\": \"Partner\", \"object\": \"Africa Union Commission\"}\n  ]\n}",
+        "entities": [
+            {
+                "text": "ZA Central Registry",
+                "type": "ORG"
+            },
+            {
+                "text": "ZACR",
+                "type": "ORG"
+            },
+            {
+                "text": "UniForum SA",
+                "type": "ORG"
+            },
+            {
+                "text": "Africa Union Commission",
+                "type": "ORG"
+            },
+            {
+                "text": "ZA Domain Name Authority",
+                "type": "ORG"
+            },
+            {
+                "text": "ICANN",
+                "type": "ORG"
+            },
+            {
+                "text": "Internet Service Provider Association",
+                "type": "ORG"
+            },
+            {
+                "text": "South African Department of Communications",
+                "type": "ORG"
+            },
+            {
+                "text": "South Africa",
+                "type": "GPE"
+            },
+            {
+                "text": "Midrand",
+                "type": "GPE"
+            },
+            {
+                "text": "Singapore",
+                "type": "GPE"
+            },
+            {
+                "text": "co.za",
+                "type": "PRODUCT"
+            },
+            {
+                "text": "web.za",
+                "type": "PRODUCT"
+            },
+            {
+                "text": ".joburg",
+                "type": "PRODUCT"
+            },
+            {
+                "text": ".capetown",
+                "type": "PRODUCT"
+            },
+            {
+                "text": ".durban",
+                "type": "PRODUCT"
+            },
+            {
+                "text": ".africa",
+                "type": "PRODUCT"
+            },
+            {
+                "text": "dotAfrica",
+                "type": "PRODUCT"
+            },
+            {
+                "text": "Web.za",
+                "type": "PRODUCT"
+            },
+            {
+                "text": ".Cities",
+                "type": "PRODUCT"
+            },
+            {
+                "text": "1988",
+                "type": "DATE"
+            },
+            {
+                "text": "April 2014",
+                "type": "DATE"
+            },
+            {
+                "text": "2017",
+                "type": "DATE"
+            },
+            {
+                "text": "920 000",
+                "type": "CARDINAL"
+            },
+            {
+                "text": "95%",
+                "type": "PERCENT"
+            }
+        ],
+        "triples": [
+            {
+                "subject": "ZA Central Registry",
+                "relation": "Founded",
+                "object": "1988"
+            },
+            {
+                "subject": "ZA Central Registry",
+                "relation": "SaidToBeTheSameAs",
+                "object": "UniForum SA"
+            },
+            {
+                "subject": "ZACR",
+                "relation": "Partner",
+                "object": "Africa Union Commission"
+            },
+            {
+                "subject": "ZACR",
+                "relation": "Partner",
+                "object": "ZA Domain Name Authority"
+            },
+            {
+                "subject": "ZACR",
+                "relation": "ApprovedBy",
+                "object": "ICANN"
+            },
+            {
+                "subject": "Web.za",
+                "relation": "PartOf",
+                "object": "ZACR"
+            },
+            {
+                "subject": "dotAfrica",
+                "relation": "Partner",
+                "object": "Africa Union Commission"
+            }
+        ]
+    }
+]

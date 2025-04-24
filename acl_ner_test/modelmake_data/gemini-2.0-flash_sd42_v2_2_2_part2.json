@@ -1,0 +1,1132 @@
+[
+    {
+        "id": "Language_9",
+        "domain": "Language",
+        "title": "Unicode_font",
+        "doc": "A Unicode font is a computer font that maps glyphs to code points defined in the Unicode Standard. The vast majority of modern computer fonts use Unicode mappings, even those fonts which only include glyphs for a single writing system, or even only support the basic Latin alphabet. Fonts which support a wide range of Unicode scripts and Unicode symbols are sometimes referred to as \"pan-Unicode fonts\", although as the maximum number of glyphs that can be defined in a TrueType font is restricted to 65,535, it is not possible for a single font to provide individual glyphs for all defined Unicode characters (154,998 characters, with Unicode 16.0). This article lists some widely used Unicode fonts (shipped with an operating system or produced by a well-known commercial font company) that support a comparatively large number and broad range of Unicode characters.\nThe Unicode  standard does not specify or create any font (typeface), a collection of graphical shapes called glyphs, itself. Rather, it defines the abstract characters as a specific number (known as a code point) and also defines the required changes of shape depending on the context the glyph is used in (e.g., combining characters, precomposed characters and letter-diacritic combinations). The choice of font, which governs how the abstract characters in the Universal Coded Character Set (UCS) are converted into a bitmap or vector output that can then be viewed on a screen or printed, is left up to the user. If a font is chosen which does not contain a glyph for a code point used in the document, it typically displays a question mark, a box, or some other substitute character.Computer fonts use various techniques to display characters or glyphs. A bitmap font contains a grid of dots known as pixels forming an image of each glyph in each face and size. Outline fonts (also known as vector fonts) use drawing instructions or mathematical formulæ to describe each glyph. Stroke fonts use a series of specified lines (for the glyph's border) and additional information to define the profile, or size and shape of the line in a specific face and size, which together describe the appearance of the glyph.\nFonts also include embedded special orthographic rules to output certain combinations of letterforms (an alternative symbols for the same letter) be combined into special ligature forms (mixed characters). Operating systems, web browsers (user agent), and other software that extensively use typography, use a font to display text on the screen or print media, and can be programmed to use those embedded rules. Alternatively, they may use external script-shaping technologies (rendering technology or “smart font” engine), and they can also be programmed to use either a large Unicode font, or use multiple different fonts for different characters or languages.\nNo single \"Unicode font\" includes all the characters defined in the present revision of ISO 10646 (Unicode) standard, as more and more languages and characters\nare continually added to it, and common font formats cannot contain more than 65,535 glyphs (about half the number of characters encoded in Unicode). As a result, font developers and foundries incorporate new characters in newer versions or revisions of a font, or in separate auxiliary fonts intended specifically for particular languages.\nUCS has over 1.1 million code points, but only the first 65,536 (the Plane 0: Basic Multilingual Plane, or BMP) had entered into common use before 2000.\n",
+        "label_set": [
+            "located in or next to body of water",
+            "main subject",
+            "applies to jurisdiction",
+            "separated from",
+            "educated at",
+            "parent organization",
+            "place of death",
+            "discoverer or inventor",
+            "follows",
+            "indigenous to",
+            "part of",
+            "influenced by",
+            "distributed by",
+            "located in the administrative territorial entity",
+            "official language",
+            "religion or worldview",
+            "has characteristic",
+            "capital of",
+            "doctoral advisor",
+            "has use",
+            "language of work or name",
+            "subclass of",
+            "set in environment",
+            "instance of",
+            "opposite of",
+            "followed by",
+            "used by",
+            "is the study of",
+            "software engine",
+            "has edition or translation",
+            "country",
+            "employer",
+            "shares border with",
+            "dialect of",
+            "country of origin",
+            "diplomatic relation",
+            "partially coincident with",
+            "facet of",
+            "country of citizenship",
+            "different from",
+            "language used",
+            "genre",
+            "writing system",
+            "place of birth",
+            "based on",
+            "languages spoken, written or signed",
+            "has part(s)"
+        ],
+        "entity_label_set": [
+            "christian prayer",
+            "interdisciplinary science",
+            "radio genre",
+            "song type",
+            "proto-language",
+            "field of study",
+            "specification edition",
+            "nationality or religious or political group",
+            "industry",
+            "type of psychotherapy",
+            "occupation",
+            "geo-political entity",
+            "abugida",
+            "phenomenon",
+            "branch of science",
+            "thought experiment",
+            "painting",
+            "event",
+            "misc",
+            "writing system",
+            "prime number",
+            "opera genre",
+            "natural number",
+            "quantity",
+            "character encoding",
+            "taxon",
+            "academic discipline",
+            "natural writing system",
+            "unicode plane",
+            "question-and-answer site",
+            "cardinal number",
+            "ethnic group",
+            "organization",
+            "location",
+            "product",
+            "software category",
+            "religious text",
+            "language",
+            "law",
+            "money",
+            "profession",
+            "bachelor's degree",
+            "facility",
+            "treaty",
+            "scholarly article",
+            "protein family",
+            "date",
+            "literary form",
+            "work of art",
+            "time",
+            "language family",
+            "person",
+            "century"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\n                \"Unicode\"\n            ],\n            \"type\": \"character encoding\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\n                \"computer font\"\n            ],\n            \"type\": \"product\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\n                \"Unicode Standard\"\n            ],\n            \"type\": \"law\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\n                \"Latin alphabet\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\n                \"TrueType font\"\n            ],\n            \"type\": \"product\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\n                \"Unicode 16.0\"\n            ],\n            \"type\": \"specification edition\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\n                \"operating system\"\n            ],\n            \"type\": \"product\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\n                \"Unicode\"\n            ],\n            \"type\": \"character encoding\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\n                \"Universal Coded Character Set (UCS)\"\n            ],\n            \"type\": \"law\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\n                \"bitmap font\"\n            ],\n            \"type\": \"product\"\n        },\n        {\n            \"id\": 10,\n            \"mentions\": [\n                \"pixels\"\n            ],\n            \"type\": \"quantity\"\n        },\n        {\n            \"id\": 11,\n            \"mentions\": [\n                \"Outline fonts\"\n            ],\n            \"type\": \"product\"\n        },\n        {\n            \"id\": 12,\n            \"mentions\": [\n                \"vector fonts\"\n            ],\n            \"type\": \"product\"\n        },\n        {\n            \"id\": 13,\n            \"mentions\": [\n                \"Stroke fonts\"\n            ],\n            \"type\": \"product\"\n        },\n        {\n            \"id\": 14,\n            \"mentions\": [\n                \"Operating systems\"\n            ],\n            \"type\": \"product\"\n        },\n        {\n            \"id\": 15,\n            \"mentions\": [\n                \"web browsers\"\n            ],\n            \"type\": \"product\"\n        },\n        {\n            \"id\": 16,\n            \"mentions\": [\n                \"typography\"\n            ],\n            \"type\": \"field of study\"\n        },\n        {\n            \"id\": 17,\n            \"mentions\": [\n                \"Unicode\"\n            ],\n            \"type\": \"character encoding\"\n        },\n        {\n            \"id\": 18,\n            \"mentions\": [\n                \"ISO 10646 (Unicode)\"\n            ],\n            \"type\": \"law\"\n        },\n        {\n            \"id\": 19,\n            \"mentions\": [\n                \"languages\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 20,\n            \"mentions\": [\n                \"UCS\"\n            ],\n            \"type\": \"law\"\n        },\n        {\n            \"id\": 21,\n            \"mentions\": [\n                \"Plane 0: Basic Multilingual Plane, or BMP\"\n            ],\n            \"type\": \"unicode plane\"\n        },\n        {\n            \"id\": 22,\n            \"mentions\": [\n                \"2000\"\n            ],\n            \"type\": \"date\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"Unicode font\",\n            \"relation\": \"instance of\",\n            \"tail\": \"computer font\"\n        },\n        {\n            \"head\": \"computer font\",\n            \"relation\": \"has characteristic\",\n            \"tail\": \"glyphs to code points defined in the Unicode Standard\"\n        },\n        {\n            \"head\": \"Latin alphabet\",\n            \"relation\": \"part of\",\n            \"tail\": \"Unicode\"\n        },\n        {\n            \"head\": \"TrueType font\",\n            \"relation\": \"has characteristic\",\n            \"tail\": \"maximum number of glyphs that can be defined is restricted to 65,535\"\n        },\n        {\n            \"head\": \"Unicode 16.0\",\n            \"relation\": \"has characteristic\",\n            \"tail\": \"154,998 characters\"\n        },\n        {\n            \"head\": \"Unicode Standard\",\n            \"relation\": \"has characteristic\",\n            \"tail\": \"does not specify or create any font (typeface)\"\n        },\n        {\n            \"head\": \"Universal Coded Character Set (UCS)\",\n            \"relation\": \"has characteristic\",\n            \"tail\": \"converted into a bitmap or vector output that can then be viewed on a screen or printed\"\n        },\n        {\n            \"head\": \"bitmap font\",\n            \"relation\": \"has characteristic\",\n            \"tail\": \"contains a grid of dots known as pixels forming an image of each glyph in each face and size\"\n        },\n        {\n            \"head\": \"Outline fonts\",\n            \"relation\": \"different from\",\n            \"tail\": \"bitmap font\"\n        },\n        {\n            \"head\": \"Outline fonts\",\n            \"relation\": \"instance of\",\n            \"tail\": \"vector fonts\"\n        },\n        {\n            \"head\": \"Stroke fonts\",\n            \"relation\": \"has characteristic\",\n            \"tail\": \"use a series of specified lines\"\n        },\n        {\n            \"head\": \"Operating systems\",\n            \"relation\": \"used by\",\n            \"tail\": \"typography\"\n        },\n        {\n            \"head\": \"web browsers\",\n            \"relation\": \"used by\",\n            \"tail\": \"typography\"\n        },\n        {\n            \"head\": \"ISO 10646 (Unicode)\",\n            \"relation\": \"has characteristic\",\n            \"tail\": \"more and more languages and characters are continually added to it\"\n        },\n        {\n            \"head\": \"UCS\",\n            \"relation\": \"has characteristic\",\n            \"tail\": \"over 1.1 million code points\"\n        },\n        {\n            \"head\": \"Plane 0: Basic Multilingual Plane, or BMP\",\n            \"relation\": \"part of\",\n            \"tail\": \"UCS\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Unicode"
+                ],
+                "type": "character encoding"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "computer font"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Unicode Standard"
+                ],
+                "type": "law"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "Latin alphabet"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "TrueType font"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "Unicode 16.0"
+                ],
+                "type": "specification edition"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "operating system"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Unicode"
+                ],
+                "type": "character encoding"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "Universal Coded Character Set (UCS)"
+                ],
+                "type": "law"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "bitmap font"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "pixels"
+                ],
+                "type": "quantity"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Outline fonts"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "vector fonts"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "Stroke fonts"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Operating systems"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "web browsers"
+                ],
+                "type": "product"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "typography"
+                ],
+                "type": "field of study"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "Unicode"
+                ],
+                "type": "character encoding"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "ISO 10646 (Unicode)"
+                ],
+                "type": "law"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "languages"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "UCS"
+                ],
+                "type": "law"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "Plane 0: Basic Multilingual Plane, or BMP"
+                ],
+                "type": "unicode plane"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "2000"
+                ],
+                "type": "date"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Unicode font",
+                "relation": "instance of",
+                "tail": "computer font"
+            },
+            {
+                "head": "computer font",
+                "relation": "has characteristic",
+                "tail": "glyphs to code points defined in the Unicode Standard"
+            },
+            {
+                "head": "Latin alphabet",
+                "relation": "part of",
+                "tail": "Unicode"
+            },
+            {
+                "head": "TrueType font",
+                "relation": "has characteristic",
+                "tail": "maximum number of glyphs that can be defined is restricted to 65,535"
+            },
+            {
+                "head": "Unicode 16.0",
+                "relation": "has characteristic",
+                "tail": "154,998 characters"
+            },
+            {
+                "head": "Unicode Standard",
+                "relation": "has characteristic",
+                "tail": "does not specify or create any font (typeface)"
+            },
+            {
+                "head": "Universal Coded Character Set (UCS)",
+                "relation": "has characteristic",
+                "tail": "converted into a bitmap or vector output that can then be viewed on a screen or printed"
+            },
+            {
+                "head": "bitmap font",
+                "relation": "has characteristic",
+                "tail": "contains a grid of dots known as pixels forming an image of each glyph in each face and size"
+            },
+            {
+                "head": "Outline fonts",
+                "relation": "different from",
+                "tail": "bitmap font"
+            },
+            {
+                "head": "Outline fonts",
+                "relation": "instance of",
+                "tail": "vector fonts"
+            },
+            {
+                "head": "Stroke fonts",
+                "relation": "has characteristic",
+                "tail": "use a series of specified lines"
+            },
+            {
+                "head": "Operating systems",
+                "relation": "used by",
+                "tail": "typography"
+            },
+            {
+                "head": "web browsers",
+                "relation": "used by",
+                "tail": "typography"
+            },
+            {
+                "head": "ISO 10646 (Unicode)",
+                "relation": "has characteristic",
+                "tail": "more and more languages and characters are continually added to it"
+            },
+            {
+                "head": "UCS",
+                "relation": "has characteristic",
+                "tail": "over 1.1 million code points"
+            },
+            {
+                "head": "Plane 0: Basic Multilingual Plane, or BMP",
+                "relation": "part of",
+                "tail": "UCS"
+            }
+        ]
+    },
+    {
+        "id": "Language_4",
+        "domain": "Language",
+        "title": "Comparative_Semitics",
+        "doc": "Comparative Semitics is a field of comparative linguistics and philology concerning the Semitic languages. While existing as a field of study in and of itself, comparative studies in Semitic languages are often taught as part of individual language curricula, or as part of theological language studies.\nThe early targums, or translations of the Hebrew Torah into Aramaic, represent what may be the earliest example of comparative philology between Semitic languages. The Targum Onkelos, possibly dating from the 1st century C.E, consists of nearly word by word translation of the pentateuch from Hebrew to Aramaic. These parallel translations were commonly read together during the Talmudic period, and continue to be read and taught to this day in the Yemenite Jewish tradition.The Masoretes were Jewish scholars in the 6th to 10th centuries C.E. in Palestine and Babylonia who began to standardize Biblical Hebrew. These scholars introduced a diacritical system for pronunciation called niqqud, and began to describe the grammar of the Hebrew language. It was these developments in grammatical study during the masoretic period that enabled later comparative studies by Hebrew literate Jews in the Arab world.Later on, during the Islamic golden age, many Hebrew scholars living in the Arab world noted similarities between Arabic, Aramaic and Hebrew. One of the earliest to note these comparisons was Judah ibn Quraysh from Tiaret in the 9th century C.E.  Ibn Quraysh was also the first known scholar to draw a connection between the Semitic languages and the more distantly related Amazigh or Berber Languages.\nRabbi Saadia Gaon lived under the Abbasid Caliphate from the 9th to 10th centuries C.E., and is held to be one of the first Hebrew linguists. He is considered to be the father of Judeo-Arabic literature, and noted many comparisons between Hebrew, Aramaic and Arabic. Although he never dedicated a work specifically to the field of language comparison, Saadia Gaon published the first comprehensive Arabic interpretation of the Torah, the Tafsir Rasag. \nThe most significant evolution in early comparative Semitics was the identification of the structure and function of the semitic tri-literal root system by Judah ben David Hayyuj, a Moroccan Jew who lived in Cordoba in the 10th century. Influenced by Huyyuj, Rabbi Jonah Ibn Janah wrote the most influential contemporary grammatical text on Hebrew, the Kitab al-Anqih (Arabic: \"Book of Minute Research\"), or Sefer HaDikduk (Hebrew: \"Book of Grammar\"). This book included a table of Semitic roots, Sefer haShorashim (Hebrew: \"Book of Roots\").  Samuel Abraham Poznanski, a notable Hebrew linguist and ardent Zionist in the early 20th century, considered Jonah Ibn Janah to be the “forerunner of modern comparative linguistics.”\nHebrew, Aramaic, and Arabic are all holy languages, used to write foundational texts in Judaism, Christianity, and Islam. The study of some or all of these languages is a part of many Christian and Jewish theological curricula in universities, seminaries, and yeshivas.Academic study of the particular Semitic languages are often paired with comparative studies to understand the context and form of Semitic languages.Computational linguistics and bayesian phylogenetics techniques were used to analyze lexical data from 25 semitic languages in the Middle East and the Horn of Africa to test the Proto-Semitic language hypotheses. These studies determined that the root of the semitic languages tested likely originated in the near east 4300:7750 years before present.Palestinian spoken Arabic was shown to retain certain verb forms and words from Classical Hebrew, Mishnaic Hebrew, and Jewish Palestinian Aramaic.\n",
+        "label_set": [
+            "located in or next to body of water",
+            "main subject",
+            "applies to jurisdiction",
+            "separated from",
+            "educated at",
+            "parent organization",
+            "place of death",
+            "discoverer or inventor",
+            "follows",
+            "indigenous to",
+            "part of",
+            "influenced by",
+            "distributed by",
+            "located in the administrative territorial entity",
+            "official language",
+            "religion or worldview",
+            "has characteristic",
+            "capital of",
+            "doctoral advisor",
+            "has use",
+            "language of work or name",
+            "subclass of",
+            "set in environment",
+            "instance of",
+            "opposite of",
+            "followed by",
+            "used by",
+            "is the study of",
+            "software engine",
+            "has edition or translation",
+            "country",
+            "employer",
+            "shares border with",
+            "dialect of",
+            "country of origin",
+            "diplomatic relation",
+            "partially coincident with",
+            "facet of",
+            "country of citizenship",
+            "different from",
+            "language used",
+            "genre",
+            "writing system",
+            "place of birth",
+            "based on",
+            "languages spoken, written or signed",
+            "has part(s)"
+        ],
+        "entity_label_set": [
+            "christian prayer",
+            "interdisciplinary science",
+            "radio genre",
+            "song type",
+            "proto-language",
+            "field of study",
+            "specification edition",
+            "nationality or religious or political group",
+            "industry",
+            "type of psychotherapy",
+            "occupation",
+            "geo-political entity",
+            "abugida",
+            "phenomenon",
+            "branch of science",
+            "thought experiment",
+            "painting",
+            "event",
+            "misc",
+            "writing system",
+            "prime number",
+            "opera genre",
+            "natural number",
+            "quantity",
+            "character encoding",
+            "taxon",
+            "academic discipline",
+            "natural writing system",
+            "unicode plane",
+            "question-and-answer site",
+            "cardinal number",
+            "ethnic group",
+            "organization",
+            "location",
+            "product",
+            "software category",
+            "religious text",
+            "language",
+            "law",
+            "money",
+            "profession",
+            "bachelor's degree",
+            "facility",
+            "treaty",
+            "scholarly article",
+            "protein family",
+            "date",
+            "literary form",
+            "work of art",
+            "time",
+            "language family",
+            "person",
+            "century"
+        ],
+        "res": "```json\n{\n    \"entities\": [\n        {\n            \"id\": 0,\n            \"mentions\": [\n                \"Comparative Semitics\"\n            ],\n            \"type\": \"field of study\"\n        },\n        {\n            \"id\": 1,\n            \"mentions\": [\n                \"Semitic languages\"\n            ],\n            \"type\": \"language family\"\n        },\n        {\n            \"id\": 2,\n            \"mentions\": [\n                \"Semitic languages\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 3,\n            \"mentions\": [\n                \"theological language studies\"\n            ],\n            \"type\": \"field of study\"\n        },\n        {\n            \"id\": 4,\n            \"mentions\": [\n                \"early targums\"\n            ],\n            \"type\": \"religious text\"\n        },\n        {\n            \"id\": 5,\n            \"mentions\": [\n                \"translations of the Hebrew Torah\"\n            ],\n            \"type\": \"misc\"\n        },\n        {\n            \"id\": 6,\n            \"mentions\": [\n                \"Aramaic\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 7,\n            \"mentions\": [\n                \"Targum Onkelos\"\n            ],\n            \"type\": \"religious text\"\n        },\n        {\n            \"id\": 8,\n            \"mentions\": [\n                \"1st century C.E\"\n            ],\n            \"type\": \"century\"\n        },\n        {\n            \"id\": 9,\n            \"mentions\": [\n                \"pentateuch\"\n            ],\n            \"type\": \"religious text\"\n        },\n        {\n            \"id\": 10,\n            \"mentions\": [\n                \"Hebrew\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 11,\n            \"mentions\": [\n                \"Talmudic period\"\n            ],\n            \"type\": \"time\"\n        },\n        {\n            \"id\": 12,\n            \"mentions\": [\n                \"Yemenite Jewish tradition\"\n            ],\n            \"type\": \"ethnic group\"\n        },\n        {\n            \"id\": 13,\n            \"mentions\": [\n                \"The Masoretes\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 14,\n            \"mentions\": [\n                \"Jewish\"\n            ],\n            \"type\": \"nationality or religious or political group\"\n        },\n        {\n            \"id\": 15,\n            \"mentions\": [\n                \"6th to 10th centuries C.E.\"\n            ],\n            \"type\": \"time\"\n        },\n        {\n            \"id\": 16,\n            \"mentions\": [\n                \"Palestine\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 17,\n            \"mentions\": [\n                \"Babylonia\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 18,\n            \"mentions\": [\n                \"Biblical Hebrew\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 19,\n            \"mentions\": [\n                \"Hebrew language\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 20,\n            \"mentions\": [\n                \"Arab world\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 21,\n            \"mentions\": [\n                \"Islamic golden age\"\n            ],\n            \"type\": \"time\"\n        },\n        {\n            \"id\": 22,\n            \"mentions\": [\n                \"Hebrew scholars\"\n            ],\n            \"type\": \"occupation\"\n        },\n        {\n            \"id\": 23,\n            \"mentions\": [\n                \"Arabic\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 24,\n            \"mentions\": [\n                \"Aramaic\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 25,\n            \"mentions\": [\n                \"Hebrew\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 26,\n            \"mentions\": [\n                \"Judah ibn Quraysh\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 27,\n            \"mentions\": [\n                \"Tiaret\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 28,\n            \"mentions\": [\n                \"9th century C.E.\"\n            ],\n            \"type\": \"century\"\n        },\n         {\n            \"id\": 29,\n            \"mentions\": [\n                \"Amazigh or Berber Languages\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 30,\n            \"mentions\": [\n                \"Rabbi Saadia Gaon\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 31,\n            \"mentions\": [\n                \"Abbasid Caliphate\"\n            ],\n            \"type\": \"geo-political entity\"\n        },\n         {\n            \"id\": 32,\n            \"mentions\": [\n                \"9th to 10th centuries C.E.\"\n            ],\n            \"type\": \"time\"\n        },\n        {\n            \"id\": 33,\n            \"mentions\": [\n                \"Hebrew linguists\"\n            ],\n            \"type\": \"occupation\"\n        },\n        {\n            \"id\": 34,\n            \"mentions\": [\n                \"Judeo-Arabic literature\"\n            ],\n            \"type\": \"literary form\"\n        },\n        {\n            \"id\": 35,\n            \"mentions\": [\n                \"Hebrew\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 36,\n            \"mentions\": [\n                \"Aramaic\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 37,\n            \"mentions\": [\n                \"Arabic\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 38,\n            \"mentions\": [\n                \"Arabic interpretation of the Torah\"\n            ],\n            \"type\": \"religious text\"\n        },\n        {\n            \"id\": 39,\n            \"mentions\": [\n                \"the Tafsir Rasag\"\n            ],\n            \"type\": \"work of art\"\n        },\n        {\n            \"id\": 40,\n            \"mentions\": [\n                \"Semitic tri-literal root system\"\n            ],\n            \"type\": \"misc\"\n        },\n        {\n            \"id\": 41,\n            \"mentions\": [\n                \"Judah ben David Hayyuj\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 42,\n            \"mentions\": [\n                \"Moroccan Jew\"\n            ],\n            \"type\": \"ethnic group\"\n        },\n        {\n            \"id\": 43,\n            \"mentions\": [\n                \"Cordoba\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 44,\n            \"mentions\": [\n                \"Rabbi Jonah Ibn Janah\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 45,\n            \"mentions\": [\n                \"Hebrew\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 46,\n            \"mentions\": [\n                \"Kitab al-Anqih\"\n            ],\n            \"type\": \"work of art\"\n        },\n        {\n            \"id\": 47,\n            \"mentions\": [\n                \"Arabic\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 48,\n            \"mentions\": [\n                \"Sefer HaDikduk\"\n            ],\n            \"type\": \"work of art\"\n        },\n        {\n            \"id\": 49,\n            \"mentions\": [\n                \"Hebrew\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 50,\n            \"mentions\": [\n                \"Sefer haShorashim\"\n            ],\n            \"type\": \"work of art\"\n        },\n        {\n            \"id\": 51,\n            \"mentions\": [\n                \"Hebrew\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 52,\n            \"mentions\": [\n                \"Samuel Abraham Poznanski\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 53,\n            \"mentions\": [\n                \"Hebrew linguist\"\n            ],\n            \"type\": \"occupation\"\n        },\n        {\n            \"id\": 54,\n            \"mentions\": [\n                \"Zionist\"\n            ],\n            \"type\": \"nationality or religious or political group\"\n        },\n        {\n            \"id\": 55,\n            \"mentions\": [\n                \"20th century\"\n            ],\n            \"type\": \"century\"\n        },\n        {\n            \"id\": 56,\n            \"mentions\": [\n                \"Jonah Ibn Janah\"\n            ],\n            \"type\": \"person\"\n        },\n        {\n            \"id\": 57,\n            \"mentions\": [\n                \"Hebrew\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 58,\n            \"mentions\": [\n                \"Aramaic\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 59,\n            \"mentions\": [\n                \"Arabic\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 60,\n            \"mentions\": [\n                \"Judaism\"\n            ],\n            \"type\": \"religion or worldview\"\n        },\n        {\n            \"id\": 61,\n            \"mentions\": [\n                \"Christianity\"\n            ],\n            \"type\": \"religion or worldview\"\n        },\n        {\n            \"id\": 62,\n            \"mentions\": [\n                \"Islam\"\n            ],\n            \"type\": \"religion or worldview\"\n        },\n         {\n            \"id\": 63,\n            \"mentions\": [\n                \"Christian\"\n            ],\n            \"type\": \"nationality or religious or political group\"\n        },\n         {\n            \"id\": 64,\n            \"mentions\": [\n                \"Jewish\"\n            ],\n            \"type\": \"nationality or religious or political group\"\n        },\n        {\n            \"id\": 65,\n            \"mentions\": [\n                \"Semitic languages\"\n            ],\n            \"type\": \"language\"\n        },\n         {\n            \"id\": 66,\n            \"mentions\": [\n                \"Computational linguistics\"\n            ],\n            \"type\": \"field of study\"\n        },\n         {\n            \"id\": 67,\n            \"mentions\": [\n                \"bayesian phylogenetics\"\n            ],\n            \"type\": \"branch of science\"\n        },\n        {\n            \"id\": 68,\n            \"mentions\": [\n                \"25 semitic languages\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 69,\n            \"mentions\": [\n                \"Middle East\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 70,\n            \"mentions\": [\n                \"Horn of Africa\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 71,\n            \"mentions\": [\n                \"Proto-Semitic language\"\n            ],\n            \"type\": \"proto-language\"\n        },\n         {\n            \"id\": 72,\n            \"mentions\": [\n                \"near east\"\n            ],\n            \"type\": \"location\"\n        },\n        {\n            \"id\": 73,\n            \"mentions\": [\n                \"Palestinian spoken Arabic\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 74,\n            \"mentions\": [\n                \"Classical Hebrew\"\n            ],\n            \"type\": \"language\"\n        },\n         {\n            \"id\": 75,\n            \"mentions\": [\n                \"Mishnaic Hebrew\"\n            ],\n            \"type\": \"language\"\n        },\n        {\n            \"id\": 76,\n            \"mentions\": [\n                \"Jewish Palestinian Aramaic\"\n            ],\n            \"type\": \"language\"\n        }\n    ],\n    \"triples\": [\n        {\n            \"head\": \"Comparative Semitics\",\n            \"relation\": \"is the study of\",\n            \"tail\": \"Semitic languages\"\n        },\n        {\n            \"head\": \"early targums\",\n            \"relation\": \"has edition or translation\",\n            \"tail\": \"translations of the Hebrew Torah\"\n        },\n        {\n            \"head\": \"translations of the Hebrew Torah\",\n            \"relation\": \"language used\",\n            \"tail\": \"Aramaic\"\n        },\n         {\n            \"head\": \"Targum Onkelos\",\n            \"relation\": \"has edition or translation\",\n            \"tail\": \"pentateuch\"\n        },\n        {\n            \"head\": \"pentateuch\",\n            \"relation\": \"language used\",\n            \"tail\": \"Hebrew\"\n        },\n         {\n            \"head\": \"Biblical Hebrew\",\n            \"relation\": \"language used\",\n            \"tail\": \"diacritical system for pronunciation called niqqud\"\n        },\n        {\n            \"head\": \"many Hebrew scholars\",\n            \"relation\": \"language used\",\n            \"tail\": \"Arabic\"\n        },\n        {\n            \"head\": \"many Hebrew scholars\",\n            \"relation\": \"language used\",\n            \"tail\": \"Aramaic\"\n        },\n        {\n            \"head\": \"many Hebrew scholars\",\n            \"relation\": \"language used\",\n            \"tail\": \"Hebrew\"\n        },\n        {\n            \"head\": \"Saadia Gaon\",\n            \"relation\": \"language used\",\n            \"tail\": \"Hebrew\"\n        },\n        {\n            \"head\": \"Saadia Gaon\",\n            \"relation\": \"language used\",\n            \"tail\": \"Aramaic\"\n        },\n         {\n            \"head\": \"Saadia Gaon\",\n            \"relation\": \"language used\",\n            \"tail\": \"Arabic\"\n        },\n        {\n            \"head\": \"the Tafsir Rasag\",\n            \"relation\": \"has edition or translation\",\n            \"tail\": \"Arabic interpretation of the Torah\"\n        },\n         {\n            \"head\": \"Rabbi Jonah Ibn Janah\",\n            \"relation\": \"language of work or name\",\n            \"tail\": \"Hebrew\"\n        },\n        {\n            \"head\": \"Kitab al-Anqih\",\n            \"relation\": \"language of work or name\",\n            \"tail\": \"Arabic\"\n        },\n        {\n            \"head\": \"Sefer HaDikduk\",\n            \"relation\": \"language of work or name\",\n            \"tail\": \"Hebrew\"\n        },\n         {\n            \"head\": \"Sefer haShorashim\",\n            \"relation\": \"language of work or name\",\n            \"tail\": \"Hebrew\"\n        },\n        {\n            \"head\": \"Judaism\",\n            \"relation\": \"language used\",\n            \"tail\": \"Hebrew\"\n        },\n        {\n            \"head\": \"Christianity\",\n            \"relation\": \"language used\",\n            \"tail\": \"Hebrew\"\n        },\n        {\n            \"head\": \"Islam\",\n            \"relation\": \"language used\",\n            \"tail\": \"Hebrew\"\n        },\n         {\n            \"head\": \"Semitic languages\",\n            \"relation\": \"language used\",\n            \"tail\": \"Hebrew\"\n        },\n        {\n            \"head\": \"Palestinian spoken Arabic\",\n            \"relation\": \"dialect of\",\n            \"tail\": \"Classical Hebrew\"\n        },\n         {\n            \"head\": \"Palestinian spoken Arabic\",\n            \"relation\": \"dialect of\",\n            \"tail\": \"Mishnaic Hebrew\"\n        },\n        {\n            \"head\": \"Palestinian spoken Arabic\",\n            \"relation\": \"dialect of\",\n            \"tail\": \"Jewish Palestinian Aramaic\"\n        }\n    ]\n}\n```",
+        "entities": [
+            {
+                "id": 0,
+                "mentions": [
+                    "Comparative Semitics"
+                ],
+                "type": "field of study"
+            },
+            {
+                "id": 1,
+                "mentions": [
+                    "Semitic languages"
+                ],
+                "type": "language family"
+            },
+            {
+                "id": 2,
+                "mentions": [
+                    "Semitic languages"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 3,
+                "mentions": [
+                    "theological language studies"
+                ],
+                "type": "field of study"
+            },
+            {
+                "id": 4,
+                "mentions": [
+                    "early targums"
+                ],
+                "type": "religious text"
+            },
+            {
+                "id": 5,
+                "mentions": [
+                    "translations of the Hebrew Torah"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 6,
+                "mentions": [
+                    "Aramaic"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 7,
+                "mentions": [
+                    "Targum Onkelos"
+                ],
+                "type": "religious text"
+            },
+            {
+                "id": 8,
+                "mentions": [
+                    "1st century C.E"
+                ],
+                "type": "century"
+            },
+            {
+                "id": 9,
+                "mentions": [
+                    "pentateuch"
+                ],
+                "type": "religious text"
+            },
+            {
+                "id": 10,
+                "mentions": [
+                    "Hebrew"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 11,
+                "mentions": [
+                    "Talmudic period"
+                ],
+                "type": "time"
+            },
+            {
+                "id": 12,
+                "mentions": [
+                    "Yemenite Jewish tradition"
+                ],
+                "type": "ethnic group"
+            },
+            {
+                "id": 13,
+                "mentions": [
+                    "The Masoretes"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 14,
+                "mentions": [
+                    "Jewish"
+                ],
+                "type": "nationality or religious or political group"
+            },
+            {
+                "id": 15,
+                "mentions": [
+                    "6th to 10th centuries C.E."
+                ],
+                "type": "time"
+            },
+            {
+                "id": 16,
+                "mentions": [
+                    "Palestine"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 17,
+                "mentions": [
+                    "Babylonia"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 18,
+                "mentions": [
+                    "Biblical Hebrew"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 19,
+                "mentions": [
+                    "Hebrew language"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 20,
+                "mentions": [
+                    "Arab world"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 21,
+                "mentions": [
+                    "Islamic golden age"
+                ],
+                "type": "time"
+            },
+            {
+                "id": 22,
+                "mentions": [
+                    "Hebrew scholars"
+                ],
+                "type": "occupation"
+            },
+            {
+                "id": 23,
+                "mentions": [
+                    "Arabic"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 24,
+                "mentions": [
+                    "Aramaic"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 25,
+                "mentions": [
+                    "Hebrew"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 26,
+                "mentions": [
+                    "Judah ibn Quraysh"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 27,
+                "mentions": [
+                    "Tiaret"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 28,
+                "mentions": [
+                    "9th century C.E."
+                ],
+                "type": "century"
+            },
+            {
+                "id": 29,
+                "mentions": [
+                    "Amazigh or Berber Languages"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 30,
+                "mentions": [
+                    "Rabbi Saadia Gaon"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 31,
+                "mentions": [
+                    "Abbasid Caliphate"
+                ],
+                "type": "geo-political entity"
+            },
+            {
+                "id": 32,
+                "mentions": [
+                    "9th to 10th centuries C.E."
+                ],
+                "type": "time"
+            },
+            {
+                "id": 33,
+                "mentions": [
+                    "Hebrew linguists"
+                ],
+                "type": "occupation"
+            },
+            {
+                "id": 34,
+                "mentions": [
+                    "Judeo-Arabic literature"
+                ],
+                "type": "literary form"
+            },
+            {
+                "id": 35,
+                "mentions": [
+                    "Hebrew"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 36,
+                "mentions": [
+                    "Aramaic"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 37,
+                "mentions": [
+                    "Arabic"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 38,
+                "mentions": [
+                    "Arabic interpretation of the Torah"
+                ],
+                "type": "religious text"
+            },
+            {
+                "id": 39,
+                "mentions": [
+                    "the Tafsir Rasag"
+                ],
+                "type": "work of art"
+            },
+            {
+                "id": 40,
+                "mentions": [
+                    "Semitic tri-literal root system"
+                ],
+                "type": "misc"
+            },
+            {
+                "id": 41,
+                "mentions": [
+                    "Judah ben David Hayyuj"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 42,
+                "mentions": [
+                    "Moroccan Jew"
+                ],
+                "type": "ethnic group"
+            },
+            {
+                "id": 43,
+                "mentions": [
+                    "Cordoba"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 44,
+                "mentions": [
+                    "Rabbi Jonah Ibn Janah"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 45,
+                "mentions": [
+                    "Hebrew"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 46,
+                "mentions": [
+                    "Kitab al-Anqih"
+                ],
+                "type": "work of art"
+            },
+            {
+                "id": 47,
+                "mentions": [
+                    "Arabic"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 48,
+                "mentions": [
+                    "Sefer HaDikduk"
+                ],
+                "type": "work of art"
+            },
+            {
+                "id": 49,
+                "mentions": [
+                    "Hebrew"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 50,
+                "mentions": [
+                    "Sefer haShorashim"
+                ],
+                "type": "work of art"
+            },
+            {
+                "id": 51,
+                "mentions": [
+                    "Hebrew"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 52,
+                "mentions": [
+                    "Samuel Abraham Poznanski"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 53,
+                "mentions": [
+                    "Hebrew linguist"
+                ],
+                "type": "occupation"
+            },
+            {
+                "id": 54,
+                "mentions": [
+                    "Zionist"
+                ],
+                "type": "nationality or religious or political group"
+            },
+            {
+                "id": 55,
+                "mentions": [
+                    "20th century"
+                ],
+                "type": "century"
+            },
+            {
+                "id": 56,
+                "mentions": [
+                    "Jonah Ibn Janah"
+                ],
+                "type": "person"
+            },
+            {
+                "id": 57,
+                "mentions": [
+                    "Hebrew"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 58,
+                "mentions": [
+                    "Aramaic"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 59,
+                "mentions": [
+                    "Arabic"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 60,
+                "mentions": [
+                    "Judaism"
+                ],
+                "type": "religion or worldview"
+            },
+            {
+                "id": 61,
+                "mentions": [
+                    "Christianity"
+                ],
+                "type": "religion or worldview"
+            },
+            {
+                "id": 62,
+                "mentions": [
+                    "Islam"
+                ],
+                "type": "religion or worldview"
+            },
+            {
+                "id": 63,
+                "mentions": [
+                    "Christian"
+                ],
+                "type": "nationality or religious or political group"
+            },
+            {
+                "id": 64,
+                "mentions": [
+                    "Jewish"
+                ],
+                "type": "nationality or religious or political group"
+            },
+            {
+                "id": 65,
+                "mentions": [
+                    "Semitic languages"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 66,
+                "mentions": [
+                    "Computational linguistics"
+                ],
+                "type": "field of study"
+            },
+            {
+                "id": 67,
+                "mentions": [
+                    "bayesian phylogenetics"
+                ],
+                "type": "branch of science"
+            },
+            {
+                "id": 68,
+                "mentions": [
+                    "25 semitic languages"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 69,
+                "mentions": [
+                    "Middle East"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 70,
+                "mentions": [
+                    "Horn of Africa"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 71,
+                "mentions": [
+                    "Proto-Semitic language"
+                ],
+                "type": "proto-language"
+            },
+            {
+                "id": 72,
+                "mentions": [
+                    "near east"
+                ],
+                "type": "location"
+            },
+            {
+                "id": 73,
+                "mentions": [
+                    "Palestinian spoken Arabic"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 74,
+                "mentions": [
+                    "Classical Hebrew"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 75,
+                "mentions": [
+                    "Mishnaic Hebrew"
+                ],
+                "type": "language"
+            },
+            {
+                "id": 76,
+                "mentions": [
+                    "Jewish Palestinian Aramaic"
+                ],
+                "type": "language"
+            }
+        ],
+        "triples": [
+            {
+                "head": "Comparative Semitics",
+                "relation": "is the study of",
+                "tail": "Semitic languages"
+            },
+            {
+                "head": "early targums",
+                "relation": "has edition or translation",
+                "tail": "translations of the Hebrew Torah"
+            },
+            {
+                "head": "translations of the Hebrew Torah",
+                "relation": "language used",
+                "tail": "Aramaic"
+            },
+            {
+                "head": "Targum Onkelos",
+                "relation": "has edition or translation",
+                "tail": "pentateuch"
+            },
+            {
+                "head": "pentateuch",
+                "relation": "language used",
+                "tail": "Hebrew"
+            },
+            {
+                "head": "Biblical Hebrew",
+                "relation": "language used",
+                "tail": "diacritical system for pronunciation called niqqud"
+            },
+            {
+                "head": "many Hebrew scholars",
+                "relation": "language used",
+                "tail": "Arabic"
+            },
+            {
+                "head": "many Hebrew scholars",
+                "relation": "language used",
+                "tail": "Aramaic"
+            },
+            {
+                "head": "many Hebrew scholars",
+                "relation": "language used",
+                "tail": "Hebrew"
+            },
+            {
+                "head": "Saadia Gaon",
+                "relation": "language used",
+                "tail": "Hebrew"
+            },
+            {
+                "head": "Saadia Gaon",
+                "relation": "language used",
+                "tail": "Aramaic"
+            },
+            {
+                "head": "Saadia Gaon",
+                "relation": "language used",
+                "tail": "Arabic"
+            },
+            {
+                "head": "the Tafsir Rasag",
+                "relation": "has edition or translation",
+                "tail": "Arabic interpretation of the Torah"
+            },
+            {
+                "head": "Rabbi Jonah Ibn Janah",
+                "relation": "language of work or name",
+                "tail": "Hebrew"
+            },
+            {
+                "head": "Kitab al-Anqih",
+                "relation": "language of work or name",
+                "tail": "Arabic"
+            },
+            {
+                "head": "Sefer HaDikduk",
+                "relation": "language of work or name",
+                "tail": "Hebrew"
+            },
+            {
+                "head": "Sefer haShorashim",
+                "relation": "language of work or name",
+                "tail": "Hebrew"
+            },
+            {
+                "head": "Judaism",
+                "relation": "language used",
+                "tail": "Hebrew"
+            },
+            {
+                "head": "Christianity",
+                "relation": "language used",
+                "tail": "Hebrew"
+            },
+            {
+                "head": "Islam",
+                "relation": "language used",
+                "tail": "Hebrew"
+            },
+            {
+                "head": "Semitic languages",
+                "relation": "language used",
+                "tail": "Hebrew"
+            },
+            {
+                "head": "Palestinian spoken Arabic",
+                "relation": "dialect of",
+                "tail": "Classical Hebrew"
+            },
+            {
+                "head": "Palestinian spoken Arabic",
+                "relation": "dialect of",
+                "tail": "Mishnaic Hebrew"
+            },
+            {
+                "head": "Palestinian spoken Arabic",
+                "relation": "dialect of",
+                "tail": "Jewish Palestinian Aramaic"
+            }
+        ]
+    }
+]
