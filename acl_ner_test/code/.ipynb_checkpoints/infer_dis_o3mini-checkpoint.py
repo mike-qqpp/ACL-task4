@@ -170,7 +170,6 @@ def call_stream_with_messages(data_):
     ##我不需要你给我分析的过程和赘述，仅仅并且务必只需要你给我输出我指定的json格式结果就行！！
     ##输出格式为{{'entities':'xxx','triples':'xxx'}} ##一定要保证json是正确的格式，通过print函数不会输出报错！！
     ##输出中的entities代表的ner实体，triples是三元组
-    ###我希望你能够尽可能多的去挖掘出来NER实体和三元组，这样我会给你一个大大的惊喜！！！
     ##我的输入是：
     "domain": {data_['domain']}
     "doc": {data_['document']}
